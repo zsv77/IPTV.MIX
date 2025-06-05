@@ -17,7 +17,7 @@ http://iptv.netcome.ru:8000/play/a014/index.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/711.png" tvg-name="Россия 1",Россия 1 (zabava)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ",НТВ
-http://3b19d615.ucomist.net/iptv/LNUZFZ7YFN4ACA/501/index.m3u8
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ",НТВ (нетком-тв)
 http://iptv.netcome.ru:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ",НТВ (zabava)
