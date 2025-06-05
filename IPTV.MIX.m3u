@@ -6,7 +6,7 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 http://iptv.netcome.ru:8000/play/a009/index.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/146.png" tvg-name="Первый канал",Первый канал (zabava)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ" ,Первый канал Евразия
+#EXTINF:-1 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/2571.png" tvg-name="Первый канал Евразия",Первый канал Евразия
 http://sc.id-tv.kz/1KanalEvraziya_36_37.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/711.png" tvg-name="Россия 1 HD" ,Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
@@ -16,6 +16,8 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/russia1-hd/1080p.m3u8
 http://iptv.netcome.ru:8000/play/a014/index.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/711.png" tvg-name="Россия 1",Россия 1 (zabava)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ",НТВ
+http://3b19d615.ucomist.net/iptv/LNUZFZ7YFN4ACA/501/index.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ",НТВ (нетком-тв)
 http://iptv.netcome.ru:8000/play/a00e/index.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ",НТВ (zabava)
