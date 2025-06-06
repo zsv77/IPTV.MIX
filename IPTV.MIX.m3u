@@ -24,7 +24,7 @@ https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/79.png" tvg-name="СТС",СТС (zabava)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1322.png" tvg-name="СТС Love",СТС Love
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1322.png" tvg-name="СТС Love (+2)",СТС Love (+2)
 http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/18.png" tvg-name="РЕН ТВ",РЕН ТВ (zabava)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
