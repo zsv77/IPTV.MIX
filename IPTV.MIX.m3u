@@ -116,6 +116,560 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 https://tv.2kita.com/stream/index.m3u8
 
 
+#EXTINF:-1 group-title="Ялта (VPN)",Первый канал HD 
+http://178.212.71.253:8000/play/62/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Первый канал
+http://178.212.71.253:8000/play/1/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",ТНТ4
+http://178.212.71.253:8000/play/106/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",ТНТ
+http://178.212.71.253:8000/play/19/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",РЕН ТВ
+http://178.212.71.253:8000/play/11/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Россия 1
+http://178.212.71.253:8000/play/2/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Матч!
+http://178.212.71.253:8000/play/3/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",НТВ
+http://178.212.71.253:8000/play/4/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",НТВ HD 
+http://178.212.71.253:8000/play/33/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Россия К
+http://178.212.71.253:8000/play/6/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Россия 24
+http://178.212.71.253:8000/play/7/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Точка РФ
+http://178.212.71.253:8000/play/61/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",RTG TV
+http://178.212.71.253:8000/play/71/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Живая природа
+http://178.212.71.253:8000/play/79/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",История
+http://178.212.71.253:8000/play/87/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Охота и Рыбалка
+http://178.212.71.253:8000/play/93/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Живая Планета
+http://178.212.71.253:8000/play/114/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Моя Планета
+http://178.212.71.253:8000/play/117/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Наука
+http://178.212.71.253:8000/play/88/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Большая азия
+http://178.212.71.253:8000/play/83/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Техно 24
+http://178.212.71.253:8000/play/63/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",5 Канал
+http://178.212.71.253:8000/play/5/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",ОТР
+http://178.212.71.253:8000/play/9/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",ТВЦ
+http://178.212.71.253:8000/play/10/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Спас
+http://178.212.71.253:8000/play/12/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",СТС
+http://178.212.71.253:8000/play/13/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Домашний
+http://178.212.71.253:8000/play/14/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",ТВ3
+http://178.212.71.253:8000/play/15/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Пятница
+http://178.212.71.253:8000/play/16/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Звезда
+http://178.212.71.253:8000/play/17/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Мир
+http://178.212.71.253:8000/play/18/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Первый Крымский
+http://178.212.71.253:8000/play/22/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Мир 24
+http://178.212.71.253:8000/play/23/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Милет
+http://178.212.71.253:8000/play/24/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Первый Крымский HD
+http://178.212.71.253:8000/play/25/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)", Крым 24 HD
+http://178.212.71.253:8000/play/26/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Ялта ТВ
+http://178.212.71.253:8000/play/27/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Москва 24
+http://178.212.71.253:8000/play/28/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",ИКС
+http://178.212.71.253:8000/play/29/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Mezzo
+http://178.212.71.253:8000/play/31/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Витрина
+http://178.212.71.253:8000/play/32/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Ювелирочка
+http://178.212.71.253:8000/play/35/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",РБК
+http://178.212.71.253:8000/play/36/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",ТРО
+http://178.212.71.253:8000/play/37/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Телеканал 360
+http://178.212.71.253:8000/play/39/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Cinema
+http://178.212.71.253:8000/play/40/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",ЦТВ
+http://178.212.71.253:8000/play/41/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Русский Роман
+http://178.212.71.253:8000/play/42/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",МузСоюз
+http://178.212.71.253:8000/play/43/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Сарафан
+http://178.212.71.253:8000/play/44/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Русский Детектив
+http://178.212.71.253:8000/play/45/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Русский Иллюзион
+http://178.212.71.253:8000/play/49/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Любимое кино
+http://178.212.71.253:8000/play/50/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Москва Доверие
+http://178.212.71.253:8000/play/53/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Индия
+http://178.212.71.253:8000/play/59/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Киносерия
+http://178.212.71.253:8000/play/64/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Киносат
+http://178.212.71.253:8000/play/66/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",365 дней
+http://178.212.71.253:8000/play/67/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Доктор
+http://178.212.71.253:8000/play/68/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Авто плюс
+http://178.212.71.253:8000/play/69/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Телеканал 360
+http://178.212.71.253:8000/play/72/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Наша Тема
+http://178.212.71.253:8000/play/73/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Суббота
+http://178.212.71.253:8000/play/75/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Кино ТВ
+http://178.212.71.253:8000/play/78/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Союз
+http://178.212.71.253:8000/play/80/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Мир 24 HD
+http://178.212.71.253:8000/play/82/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Вместе-РФ
+http://178.212.71.253:8000/play/84/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Беларусь 24
+http://178.212.71.253:8000/play/89/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Ретро
+http://178.212.71.253:8000/play/90/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Усадьба
+http://178.212.71.253:8000/play/91/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Драйв
+http://178.212.71.253:8000/play/92/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Здоровое ТВ
+http://178.212.71.253:8000/play/94/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Домашние животные
+http://178.212.71.253:8000/play/95/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Психология 21
+http://178.212.71.253:8000/play/96/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Вопросы и ответы
+http://178.212.71.253:8000/play/97/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Дом Кино
+http://178.212.71.253:8000/play/99/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",НСТ
+http://178.212.71.253:8000/play/100/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)", CTC love
+http://178.212.71.253:8000/play/104/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)", Ю
+http://178.212.71.253:8000/play/105/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Конный Мир
+http://178.212.71.253:8000/play/108/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Соловьев Live
+http://178.212.71.253:8000/play/111/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",2x2
+http://178.212.71.253:8000/play/113/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Русский Бестселер
+http://178.212.71.253:8000/play/115/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",КВН ТВ
+http://178.212.71.253:8000/play/119/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",7TV
+http://178.212.71.253:8000/play/120/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",8 канал
+http://178.212.71.253:8000/play/121/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Мосфильм. Золотая коллекция
+http://178.212.71.253:8000/play/124/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Мужское Кино
+http://178.212.71.253:8000/play/126/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Киносемья
+http://178.212.71.253:8000/play/127/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Киносвидание
+http://178.212.71.253:8000/play/122/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Киномикс
+http://178.212.71.253:8000/play/70/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Кинохит
+http://178.212.71.253:8000/play/123/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Наше Новое Кино
+http://178.212.71.253:8000/play/128/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Кинопремьера HD
+http://178.212.71.253:8000/play/125/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Кинокомедия
+http://178.212.71.253:8000/play/85/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Родное Кино
+http://178.212.71.253:8000/play/136/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Победа
+http://178.212.71.253:8000/play/129/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Звезда+
+http://178.212.71.253:8000/play/130/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Ностальгия
+http://178.212.71.253:8000/play/131/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Кто Есть Кто
+http://178.212.71.253:8000/play/132/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Киноужас
+http://178.212.71.253:8000/play/133/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",7ТВ
+http://178.212.71.253:8000/play/381/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Известия
+http://178.212.71.253:8000/play/138/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Че
+http://178.212.71.253:8000/play/139/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Продвижение
+http://178.212.71.253:8000/play/140/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Жара
+http://178.212.71.253:8000/play/141/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",1HD
+http://178.212.71.253:8000/play/60/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",МузТВ
+http://178.212.71.253:8000/play/20/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Music Box Russia
+http://178.212.71.253:8000/play/65/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Шансон ТВ
+http://178.212.71.253:8000/play/76/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Bridge HD
+http://178.212.71.253:8000/play/98/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Bridge TV
+http://178.212.71.253:8000/play/110/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Bridge TV Rock
+http://178.212.71.253:8000/play/101/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",BridgeTV Hit
+http://178.212.71.253:8000/play/134/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Bridge TV classic
+http://178.212.71.253:8000/play/135/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Bridge TV Шлягер
+http://178.212.71.253:8000/play/142/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",ТНТ Music
+http://178.212.71.253:8000/play/137/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",RU.TV
+http://178.212.71.253:8000/play/38/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Cолнце
+http://178.212.71.253:8000/play/103/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Мама
+http://178.212.71.253:8000/play/86/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",СТС Kids
+http://178.212.71.253:8000/play/112/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Ani
+http://178.212.71.253:8000/play/74/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Детский Мир
+http://178.212.71.253:8000/play/52/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Радость Моя
+http://178.212.71.253:8000/play/46/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Карусель
+http://178.212.71.253:8000/play/8/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Бобёр
+http://178.212.71.253:8000/play/77/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Мульт
+http://178.212.71.253:8000/play/47/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Мультимузыка
+http://178.212.71.253:8000/play/116/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Eurosport 1
+http://178.212.71.253:8000/play/143/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Матч ТВ HD
+http://178.212.71.253:8000/play/34/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Матч! Страна
+http://178.212.71.253:8000/play/51/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Матч! Арена
+http://178.212.71.253:8000/play/54/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Матч! Боец
+http://178.212.71.253:8000/play/55/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Матч! Игра
+http://178.212.71.253:8000/play/56/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Матч Премьер
+http://178.212.71.253:8000/play/57/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Матч! Футбол 1
+http://178.212.71.253:8000/play/58/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Русский Экстрим
+http://178.212.71.253:8000/play/118/index.m3u8
+#EXTINF:-1 group-title="Ялта (VPN)",Старт
+http://178.212.71.253:8000/play/81/index.m3u8
+
+
+#EXTINF:-1 group-title="DELTA (VPN)",НТВ Хит
+http://192.162.64.99:5100/play/a02l/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",НТВ Сериал
+http://192.162.64.99:5100/play/a02o/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",НТВ Право
+http://192.162.64.99:5100/play/a02p/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",НТВ Стиль
+http://192.162.64.99:5100/play/a02q/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Дикий
+http://192.162.64.99:5000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Ocean TV
+http://192.162.64.99:5200/play/a047/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Viasat Explore
+http://192.162.64.99:5000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Viasat Nature
+http://192.162.64.99:5000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Viasat History
+http://192.162.64.99:5000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",viju+ Planet HD
+http://192.162.64.99:5000/play/a03l/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Авто 24
+http://192.162.64.99:5000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Большая Азия
+http://192.162.64.99:5000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",История
+http://192.162.64.99:5000/play/a026/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Наука 2.0
+http://192.162.64.99:5000/play/a027/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Техно 24
+http://192.162.64.99:5000/play/a028/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Точка отрыва
+http://192.162.64.99:5000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Живая планета
+http://192.162.64.99:5000/play/a033/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Моя планета
+http://192.162.64.99:5000/play/a029/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Terra
+http://192.162.64.99:5000/play/a037/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Охота и рыбалка
+http://192.162.64.99:5000/play/a038/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Дикая рыбалка HD
+http://192.162.64.99:5000/play/a039/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Дикая охота HD
+http://192.162.64.99:5000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Диалоги о рыбалке
+http://192.162.64.99:5000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Доктор
+http://192.162.64.99:5000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Совершенно секретно
+http://192.162.64.99:5000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Первый Вегетарианский
+http://192.162.64.99:5000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Кто Куда
+http://192.162.64.99:5000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Звезда плюс
+http://192.162.64.99:5000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Загородная жизнь
+http://192.162.64.99:5000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Сарафан
+http://192.162.64.99:5000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Глазами туриста
+http://192.162.64.99:5200/play/a01a/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Тайны галактики
+http://192.162.64.99:5200/play/a035/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Тайна
+http://192.162.64.99:5200/play/a041/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",КЛЮЧ
+http://192.162.64.99:5000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Дом Кино
+http://192.162.64.99:5100/play/a01y/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Родное кино
+http://192.162.64.99:5100/play/a01z/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Русский бестселлер
+http://192.162.64.99:5100/play/a020/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Русский детектив
+http://192.162.64.99:5100/play/a021/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Русский Роман
+http://192.162.64.99:5100/play/a022/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Viju TV1000 Новелла HD
+http://192.162.64.99:5100/play/a03b/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",TV1000 русское кино
+http://192.162.64.99:5100/play/a023/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",TV1000 romantica
+http://192.162.64.99:5200/play/a044/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",TV1000
+http://192.162.64.99:5100/play/a024/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",TV1000 Action
+http://192.162.64.99:5100/play/a025/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Сапфир
+http://192.162.64.99:5100/play/a028/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",КИНЕКО
+http://192.162.64.99:5100/play/a02g/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Киномикс HD
+http://192.162.64.99:5100/play/a001/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Киносемья HD
+http://192.162.64.99:5100/play/a026/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Кинохит HD
+http://192.162.64.99:5100/play/a027/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Киносвидание
+http://192.162.64.99:5100/play/a029/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Кинопремьера HD
+http://192.162.64.99:5100/play/a02a/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Мужское кино
+http://192.162.64.99:5100/play/a03h/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Наше Новое Кино
+http://192.162.64.99:5100/play/a02z/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Индийское кино
+http://192.162.64.99:5100/play/a02m/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Индия
+http://192.162.64.99:5100/play/a03g/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Иллюзион+
+http://192.162.64.99:5100/play/a02j/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Hollywood
+http://192.162.64.99:5100/play/a02i/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Кино ТВ HD
+http://192.162.64.99:5100/play/a02b/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",НСТ
+http://192.162.64.99:5100/play/a02c/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Киноман
+http://192.162.64.99:5100/play/a02d/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Комедия
+http://192.162.64.99:5100/play/a02k/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Мосфильм. Золотая коллекция
+http://192.162.64.99:5100/play/a02e/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Русский Иллюзион
+http://192.162.64.99:5100/play/a02r/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Еврокино
+http://192.162.64.99:5100/play/a02s/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Plan B HD
+http://192.162.64.99:5100/play/a02t/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Star Family
+http://192.162.64.99:5100/play/a02u/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Star Cinema
+http://192.162.64.99:5100/play/a02v/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Любимое кино
+http://192.162.64.99:5100/play/a02w/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",SHOT TV
+http://192.162.64.99:5100/play/a02y/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",.Black
+http://192.162.64.99:5100/play/a036/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",.Red
+http://192.162.64.99:5100/play/a037/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",.Sci-Fi
+http://192.162.64.99:5100/play/a038/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Timeless Dizi Channel
+http://192.162.64.99:5100/play/a00g/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Мир сериала
+http://192.162.64.99:5100/play/a03e/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Amedia 1
+http://192.162.64.99:5100/play/a03d/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Amedia 2
+http://192.162.64.99:5100/play/a014/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",START air
+http://192.162.64.99:5200/play/a02u/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",START World
+http://192.162.64.99:5200/play/a048/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",VIP Premiere HD
+http://192.162.64.99:5200/play/a02f/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",VIP Megahit HD
+http://192.162.64.99:5200/play/a02e/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",VIP Comedy HD
+http://192.162.64.99:5200/play/a02d/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",VIP Serial
+http://192.162.64.99:5200/play/a043/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Cinema
+http://192.162.64.99:5200/play/a029/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",FilmBox
+http://192.162.64.99:5200/play/a03l/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",TV XXI
+http://192.162.64.99:5200/play/a01t/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Kino 24
+http://192.162.64.99:5200/play/a01w/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",ТНВ-Планета
+http://192.162.64.99:5000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",За! ТВ
+http://192.162.64.99:5000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Таврия
+http://192.162.64.99:5000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Крик-ТВ
+http://192.162.64.99:5200/play/a03f/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",ОТВ Екатеринбург
+http://192.162.64.99:5200/play/a02b/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",12 канал
+http://192.162.64.99:5200/play/a021/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Наша тема
+http://192.162.64.99:5000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Gags Network
+http://192.162.64.99:5000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",КВН ТВ
+http://192.162.64.99:5000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Ностальгия
+http://192.162.64.99:5000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Зал суда
+http://192.162.64.99:5000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Zooпарк
+http://192.162.64.99:5000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Успех
+http://192.162.64.99:5000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",E TV
+http://192.162.64.99:5000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",DocuBox
+http://192.162.64.99:5200/play/a017/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",RT DOC HD
+http://192.162.64.99:5200/play/a042/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",ВКУС
+http://192.162.64.99:5200/play/a01r/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",НВВ
+http://192.162.64.99:5200/play/a01f/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",НИК
+http://192.162.64.99:5200/play/a039/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Кухня ТВ
+http://192.162.64.99:5200/play/a023/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Мужской
+http://192.162.64.99:5200/play/a03h/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",МЫ
+http://192.162.64.99:5200/play/a032/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Живи активно HD
+http://192.162.64.99:5300/play/a02k/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",BRIDGE HD
+http://192.162.64.99:5200/play/a01n/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",BRIDGE TV ЭТНО
+http://192.162.64.99:5200/play/a00b/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Da Vinci
+http://192.162.64.99:5100/play/a030/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Ani
+http://192.162.64.99:5100/play/a031/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Tiji
+http://192.162.64.99:5100/play/a03f/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Мама
+http://192.162.64.99:5200/play/a038/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Bolt
+http://192.162.64.99:5100/play/a02x/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Мультимузыка
+http://192.162.64.99:5100/play/a032/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",В гостях у сказки
+http://192.162.64.99:5100/play/a033/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Мультиландия
+http://192.162.64.99:5100/play/a034/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Лёва HD
+http://192.162.64.99:5100/play/a035/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Шаян ТВ
+http://192.162.64.99:5100/play/a03c/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Матч HD
+http://192.162.64.99:5000/play/a036/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Матч! Боец
+http://192.162.64.99:5000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Матч! Игра
+http://192.162.64.99:5000/play/a031/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Матч! Страна
+http://192.162.64.99:5000/play/a032/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Матч! Арена
+http://192.162.64.99:5000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Матч! Футбол 1
+http://192.162.64.99:5000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Матч! Футбол 2
+http://192.162.64.99:5000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Матч! Футбол 3
+http://192.162.64.99:5000/play/a030/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Матч! Премьер
+http://192.162.64.99:5000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Футбол
+http://192.162.64.99:5000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",KHL
+http://192.162.64.99:5200/play/a024/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",KHL Prime HD
+http://192.162.64.99:5200/play/a046/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Fast & FunBox
+http://192.162.64.99:5200/play/a01h/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",FightBox
+http://192.162.64.99:5200/play/a01d/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Extreme Sports
+http://192.162.64.99:5000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Viasat Sport
+http://192.162.64.99:5000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="DELTA (VPN)",Конный мир
+http://192.162.64.99:5000/play/a02i/index.m3u8
 
 
 
@@ -141,13 +695,13 @@ http://192.162.64.99:5100/play/a021/index.m3u8
 http://192.162.64.99:5100/play/a022/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Viju TV1000 Новелла HD
 http://192.162.64.99:5100/play/a03b/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",TV1000 русское кино
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Viju TV1000 Русское кино
 http://192.162.64.99:5100/play/a023/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",TV1000 romantica
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Viju TV1000 Romantica
 http://192.162.64.99:5200/play/a044/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",TV1000
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Viju TV1000
 http://192.162.64.99:5100/play/a024/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",TV1000 Action
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Viju TV1000 Action
 http://192.162.64.99:5100/play/a025/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Сапфир
 http://192.162.64.99:5100/play/a028/index.m3u8
@@ -372,10 +926,12 @@ https://fl1001.bozztv.com/ushba65/index.m3u8
 
 
 
+
+
 #EXTINF:-1 group-title="ДЕТСКИЕ" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/9024.png" tvg-name="КиноМульт",КиноМульт
-http://109.200.130.123:7537/play/a024
+#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",CHD TV. Ну, погоди!
+http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ"  ,Карусель
 http://213.252.199.137:8000/play/ch310_Karusel/index.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ"  tvg-logo="http://epg.one/img2/1332.png" tvg-name="Мульт HD",Мульт HD
@@ -384,8 +940,6 @@ http://stv.mediacdn.ru/live/cdn/mult/tracks-v2a1/mono.ts.m3u8
 http://213.252.199.137:8000/play/ch321_Multfilmy/index.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ"  tvg-logo="http://epg.one/img2/284.png" tvg-name="Мультимузыка",Мультимузыка
 http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",CHD TV
-http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-name="Пингвин" ,Пингвин
 https://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-name="Kids TV",Kids TV
@@ -462,6 +1016,8 @@ https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 
 
 
+
+
 #EXTINF:0 group-title="ЭФИРНЫЕ" ,Лекторий Dостоевский
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ"  tvg-logo="http://epg.one/img2/9015.png" ,Неизвестная россия
@@ -498,6 +1054,7 @@ http://31.148.48.15/Teleputeshestviya/index.m3u8?token=test
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Ключ",Ключ
 http://185.23.80.28:8080/Klyuch/index.m3u8?token=test
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="SD REX",SD REX
+
 
 
 
@@ -540,6 +1097,8 @@ https://ont.dc.beltelecom.by/ont/ont/playlist.m3u8
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:0 group-title="БЛИЖНЕЕ ЗАРУБЕЖЬЕ" tvg-name="ТСВ",ТСВ (Приднестровье)
 http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
+
+
 
 
 
@@ -722,7 +1281,6 @@ http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Кузбасс 1
 https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Легендарный 24",Легендарный 24 (Севастополь)
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Лен ТВ 24
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Липецкое время
