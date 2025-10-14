@@ -1,8 +1,5 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
 
-#EXTINF:0 group-title="ЗАСТАВКИ"  ,Камин
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
-
 #EXTINF:0 group-title="ЭФИРНЫЕ"   tvg-logo="http://epg.one/img2/983.png" tvg-name="Первый канал HD",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/146.png" tvg-name="Первый канал",Первый канал (zabava)
@@ -36,9 +33,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/79.png" tvg-name="СТС",СТС (netcome)
 http://iptv.netcome.ru:8000/play/a00a/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1322.png" tvg-name="СТС Love",СТС Love
-http://178.212.71.253:8002/play/a00r/index.m3u8
-#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/323.png" tvg-name="2x2",2x2
-http://178.212.71.253:8000/play/113/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/323.png" tvg-name="2x2",2x2 (zabava)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/323.png" tvg-name="2x2",2x2 (netcome)
@@ -171,61 +166,6 @@ https://tv.2kita.com/stream/index.m3u8
 
 
 
-
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img/1037.png" tvg-name="КИНО ТВ HD",КИНО ТВ HD (delta)
-http://192.162.64.99:5100/play/a02b/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img/1037.png" tvg-name="КИНО ТВ",КИНО ТВ (netcome)
-http://iptv.netcome.ru:8000/play/a02l/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img/1037.png" tvg-name="КИНО ТВ",КИНО ТВ (delta)
-http://195.158.223.132:8009/Kino_TV
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/1754.png" tvg-name="НТВ Сериал",НТВ Сериал
-http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/1754.png" tvg-name="НТВ Сериал",НТВ Сериал (delta)
-http://192.162.64.99:5100/play/a02o/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-logo="http://epg.one/img2/2041.png" tvg-name="НТВ Хит",НТВ Хит
-http://cdn2.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-logo="http://epg.one/img2/2041.png" tvg-name="НТВ Хит",НТВ Хит (delta)
-http://192.162.64.99:5100/play/a02l/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="НТВ Право",НТВ Право (delta)
-http://192.162.64.99:5100/play/a02p/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-logo="http://epg.one/img2/6258.png" tvg-name="Кино 1 International",Кино 1 International
-http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-logo="http://epg.one/img2/6261.png" ,Детское кино International
-http://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Дом кино", Дом кино (delta)
-http://192.162.64.99:5100/play/a01y/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/834.png" tvg-name="Дом кино", Дом кино (netcome)
-http://iptv.netcome.ru:8000/play/a010/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Родное кино",Родное кино (delta)
-http://192.162.64.99:5100/play/a01z/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Русский бестселлер",Русский бестселлер (delta)
-http://192.162.64.99:5100/play/a020/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Русский детектив",Русский детектив (delta)
-http://192.162.64.99:5100/play/a021/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-id="http://epg.one/img2/401.png" tvg-name="Русский роман",Русский роман (delta)
-http://192.162.64.99:5100/play/a022/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-id="http://epg.one/img2/401.png" tvg-name="Русский роман",Русский роман (netcome)
-http://iptv.netcome.ru:8000/play/a029/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Viju TV1000 Новелла",Viju TV1000 Новелла (delta)
-http://192.162.64.99:5100/play/a03b/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Viju TV1000 Русское",Viju TV1000 Русское (delta)
-http://192.162.64.99:5100/play/a023/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/267.png" tvg-name="Viju TV1000 Русское",Viju TV1000 Русское (netcome)
-http://iptv.netcome.ru:8000/play/a01v/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Viju TV1000 Romantica",Viju TV1000 Romantica (delta)
-http://192.162.64.99:5200/play/a044/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/127.png"  tvg-name="Viju TV1000",Viju TV1000 (delta)
-http://192.162.64.99:5100/play/a024/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/127.png"  tvg-name="Viju TV1000",Viju TV1000 (netcome)
-http://iptv.netcome.ru:8000/play/a01t/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/16031.png" tvg-name="Viju TV1000 Action",Viju TV1000 Action (delta)
-http://192.162.64.99:5100/play/a025/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/16031.png" tvg-name="Viju TV1000 Action",Viju TV1000 Action (netcome)
-http://iptv.netcome.ru:8000/play/a01u/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Сапфир",Сапфир (delta)
-http://192.162.64.99:5100/play/a028/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="КИНЕКО",КИНЕКО (delta)
-http://192.162.64.99:5100/play/a02g/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/821.png" tvg-name="КИНОКОМЕДИЯ",КИНОКОМЕДИЯ (netcome)
 http://iptv.netcome.ru:8000/play/a01a/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/799.png" tvg-name="КИНОСЕРИЯ",КИНОСЕРИЯ (netcome)
@@ -252,60 +192,44 @@ http://iptv.netcome.ru:8000/play/a02b/index.m3u8
 http://192.162.64.99:5100/play/a03h/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="НАШЕ НОВОЕ КИНО",НАШЕ НОВОЕ КИНО (delta)
 http://192.162.64.99:5100/play/a02z/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/12.png" tvg-name="РОДНОЕ КИНО",РОДНОЕ КИНО (delta)
+http://192.162.64.99:5100/play/a01z/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/12.png" tvg-name="РОДНОЕ КИНО",РОДНОЕ КИНО (netcome)
 http://iptv.netcome.ru:8000/play/a01d/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/798.png" tvg-name="ИНДИЙСКОЕ КИНО",ИНДИЙСКОЕ КИНО (delta)
 http://192.162.64.99:5100/play/a02m/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/798.png" tvg-name="ИНДИЙСКОЕ КИНО",ИНДИЙСКОЕ КИНО (netcome)
 http://iptv.netcome.ru:8000/play/a01b/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Индия",Индия (delta)
-http://192.162.64.99:5100/play/a03g/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Иллюзион+",Иллюзион+ (delta)
-http://192.162.64.99:5100/play/a02j/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Hollywood",Hollywood (delta)
-http://192.162.64.99:5100/play/a02i/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/518.png" tvg-name="НСТ",НСТ (delta)
-http://192.162.64.99:5100/play/a02c/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/518.png" tvg-name="НСТ",НСТ (netcome)
-http://iptv.netcome.ru:8000/play/a015/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Киноман",Киноман (delta)
-http://192.162.64.99:5100/play/a02d/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Комедия",Комедия (delta)
-http://192.162.64.99:5100/play/a02k/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/3357.png" tvg-name="Мосфильм. Золотая коллекция",Мосфильм. Золотая коллекция (delta)
-http://192.162.64.99:5100/play/a02e/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/3357.png" tvg-name="Мосфильм. Золотая коллекция",Мосфильм. Золотая коллекция (netcome)
-http://iptv.netcome.ru:8000/play/a00y/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Русский Иллюзион",Русский Иллюзион (delta)
-http://192.162.64.99:5100/play/a02r/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/352.png" tvg-name="Еврокино",Еврокино (delta)
-http://192.162.64.99:5100/play/a02s/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/352.png" tvg-name="Еврокино",Еврокино (netcome)
-http://iptv.netcome.ru:8000/play/a01o/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Plan B HD",Plan B HD (delta)
-http://192.162.64.99:5100/play/a02t/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Star Family",Star Family (delta)
-http://192.162.64.99:5100/play/a02u/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/3328.png" tvg-name="Star Cinema Россия",Star Cinema Россия (delta)
-http://192.162.64.99:5100/play/a02v/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/3328.png" tvg-name="Star Cinema Россия",Star Cinema Россия (netcome)
-http://iptv.netcome.ru:8000/play/a004/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-name="Любимое кино",Любимое кино (delta)
-http://192.162.64.99:5100/play/a02w/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-logo="http://epg.one/img2/431.png" tvg-name="SHOT TV",SHOT TV (delta)
-http://192.162.64.99:5100/play/a02y/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/431.png" tvg-name="SHOT TV",SHOT TV (netcome)
-http://iptv.netcome.ru:8000/play/a00t/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name=".Black",.Black (delta)
-http://192.162.64.99:5100/play/a036/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name=".Red",.Red (delta)
-http://192.162.64.99:5100/play/a037/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name=".Sci-Fi",.Sci-Fi (delta)
-http://192.162.64.99:5100/play/a038/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Timeless Dizi Channel" ,Timeless Dizi Channel (delta)
-http://192.162.64.99:5100/play/a00g/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Мир сериала",Мир сериала (delta)
-http://192.162.64.99:5100/play/a03e/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/1013.png" tvg-name="Viju+ Premiere",Viju+ Premiere (delta)
+http://192.162.64.99:5200/play/a02f/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/1013.png" tvg-name="Viju+ Premiere",Viju+ Premiere (netcome)
+http://iptv.netcome.ru:8000/play/a001/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/1012.png" tvg-name="Viju+ MegaHit",Viju+ MegaHit (delta)
+http://192.162.64.99:5200/play/a02e/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/1012.png" tvg-name="Viju+ MegaHit",Viju+ MegaHit (netcome)
+http://iptv.netcome.ru:8000/play/a028/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-logo="http://epg.one/img2/1011.png" tvg-name="Viju+ Comedy",Viju+ Comedy (delta)
+http://192.162.64.99:5200/play/a02d/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/1011.png" tvg-name="Viju+ Comedy",Viju+ Comedy (netcome)
+http://iptv.netcome.ru:8000/play/a026/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="VIP Serial",Viju+ Serial (delta)
+http://192.162.64.99:5200/play/a043/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Viju TV1000 Новелла",Viju TV1000 Новелла (delta)
+http://192.162.64.99:5100/play/a03b/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Viju TV1000 Русское",Viju TV1000 Русское (delta)
+http://192.162.64.99:5100/play/a023/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/267.png" tvg-name="Viju TV1000 Русское",Viju TV1000 Русское (netcome)
+http://iptv.netcome.ru:8000/play/a01v/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Viju TV1000 Romantica",Viju TV1000 Romantica (delta)
+http://192.162.64.99:5200/play/a044/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/127.png"  tvg-name="Viju TV1000",Viju TV1000 (delta)
+http://192.162.64.99:5100/play/a024/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/127.png"  tvg-name="Viju TV1000",Viju TV1000 (netcome)
+http://iptv.netcome.ru:8000/play/a01t/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/16031.png" tvg-name="Viju TV1000 Action",Viju TV1000 Action (delta)
+http://192.162.64.99:5100/play/a025/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/16031.png" tvg-name="Viju TV1000 Action",Viju TV1000 Action (netcome)
+http://iptv.netcome.ru:8000/play/a01u/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/1371.png" tvg-name="Amedia 1",Amedia 1 (delta)
 http://192.162.64.99:5100/play/a03d/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/1371.png" tvg-name="Amedia 1",Amedia 1 (netcome)
@@ -320,20 +244,90 @@ http://iptv.netcome.ru:8000/play/a022/index.m3u8
 http://192.162.64.99:5200/play/a02u/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="START World",START World
 http://192.162.64.99:5200/play/a048/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/1013.png" tvg-name="ViP Premiere",ViP Premiere (delta)
-http://192.162.64.99:5200/play/a02f/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/1013.png" tvg-name="ViP Premiere",ViP Premiere (netcome)
-http://iptv.netcome.ru:8000/play/a001/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/1012.png" tvg-name="ViP MegaHit",ViP MegaHit (delta)
-http://192.162.64.99:5200/play/a02e/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/1012.png" tvg-name="ViP MegaHit",ViP MegaHit (netcome)
-http://iptv.netcome.ru:8000/play/a028/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-logo="http://epg.one/img2/1011.png" tvg-name="ViP Comedy",ViP Comedy (delta)
-http://192.162.64.99:5200/play/a02d/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/1011.png" tvg-name="ViP Comedy",ViP Comedy (netcome)
-http://iptv.netcome.ru:8000/play/a026/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="VIP Serial",VIP Serial (delta)
-http://192.162.64.99:5200/play/a043/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-name="Любимое кино",Любимое кино (delta)
+http://192.162.64.99:5100/play/a02w/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/3357.png" tvg-name="Мосфильм. Золотая коллекция",Мосфильм. Золотая коллекция (delta)
+http://192.162.64.99:5100/play/a02e/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/3357.png" tvg-name="Мосфильм. Золотая коллекция",Мосфильм. Золотая коллекция (netcome)
+http://iptv.netcome.ru:8000/play/a00y/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/834.png" tvg-name="Дом кино", Дом кино (delta)
+http://192.162.64.99:5100/play/a01y/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/834.png" tvg-name="Дом кино", Дом кино (netcome)
+http://iptv.netcome.ru:8000/play/a010/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-id="http://epg.one/img2/401.png" tvg-name="Русский роман",Русский роман (delta)
+http://192.162.64.99:5100/play/a022/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-id="http://epg.one/img2/401.png" tvg-name="Русский роман",Русский роман (netcome)
+http://iptv.netcome.ru:8000/play/a029/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Русский бестселлер",Русский бестселлер (delta)
+http://192.162.64.99:5100/play/a020/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Русский детектив",Русский детектив (delta)
+http://192.162.64.99:5100/play/a021/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Русский Иллюзион",Русский Иллюзион (delta)
+http://192.162.64.99:5100/play/a02r/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Мир сериала",Мир сериала (delta)
+http://192.162.64.99:5100/play/a03e/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Иллюзион+",Иллюзион+ (delta)
+http://192.162.64.99:5100/play/a02j/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img/1037.png" tvg-name="КИНО ТВ HD",КИНО ТВ HD (delta)
+http://192.162.64.99:5100/play/a02b/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img/1037.png" tvg-name="КИНО ТВ",КИНО ТВ (netcome)
+http://iptv.netcome.ru:8000/play/a02l/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img/1037.png" tvg-name="КИНО ТВ",КИНО ТВ (delta)
+http://195.158.223.132:8009/Kino_TV
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/1754.png" tvg-name="НТВ Сериал",НТВ Сериал
+http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/1754.png" tvg-name="НТВ Сериал",НТВ Сериал (delta)
+http://192.162.64.99:5100/play/a02o/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-logo="http://epg.one/img2/2041.png" tvg-name="НТВ Хит",НТВ Хит
+http://cdn2.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-logo="http://epg.one/img2/2041.png" tvg-name="НТВ Хит",НТВ Хит (delta)
+http://192.162.64.99:5100/play/a02l/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="НТВ Право",НТВ Право (delta)
+http://192.162.64.99:5100/play/a02p/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-logo="http://epg.one/img2/6258.png" tvg-name="Кино 1 International",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-logo="http://epg.one/img2/6261.png" ,Детское кино International
+http://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Сапфир",Сапфир (delta)
+http://192.162.64.99:5100/play/a028/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="КИНЕКО",КИНЕКО (delta)
+http://192.162.64.99:5100/play/a02g/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Индия",Индия (delta)
+http://192.162.64.99:5100/play/a03g/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Hollywood",Hollywood (delta)
+http://192.162.64.99:5100/play/a02i/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/518.png" tvg-name="НСТ",НСТ (delta)
+http://192.162.64.99:5100/play/a02c/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/518.png" tvg-name="НСТ",НСТ (netcome)
+http://iptv.netcome.ru:8000/play/a015/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Киноман",Киноман (delta)
+http://192.162.64.99:5100/play/a02d/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Комедия",Комедия (delta)
+http://192.162.64.99:5100/play/a02k/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/352.png" tvg-name="Еврокино",Еврокино (delta)
+http://192.162.64.99:5100/play/a02s/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/352.png" tvg-name="Еврокино",Еврокино (netcome)
+http://iptv.netcome.ru:8000/play/a01o/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Plan B HD",Plan B HD (delta)
+http://192.162.64.99:5100/play/a02t/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Star Family",Star Family (delta)
+http://192.162.64.99:5100/play/a02u/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/3328.png" tvg-name="Star Cinema Россия",Star Cinema Россия (delta)
+http://192.162.64.99:5100/play/a02v/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/3328.png" tvg-name="Star Cinema Россия",Star Cinema Россия (netcome)
+http://iptv.netcome.ru:8000/play/a004/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-logo="http://epg.one/img2/431.png" tvg-name="SHOT TV",SHOT TV (delta)
+http://192.162.64.99:5100/play/a02y/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/431.png" tvg-name="SHOT TV",SHOT TV (netcome)
+http://iptv.netcome.ru:8000/play/a00t/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name=".Black",.Black (delta)
+http://192.162.64.99:5100/play/a036/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name=".Red",.Red (delta)
+http://192.162.64.99:5100/play/a037/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name=".Sci-Fi",.Sci-Fi (delta)
+http://192.162.64.99:5100/play/a038/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Timeless Dizi Channel" ,Timeless Dizi Channel (delta)
+http://192.162.64.99:5100/play/a00g/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Cinema",Cinema (delta)
 http://192.162.64.99:5200/play/a029/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Cinema",Cinema
@@ -578,20 +572,20 @@ http://iptv.netcome.ru:8000/play/a01k/index.m3u8
 
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-name="ТНТ MUSIC HD" ,ТНТ MUSIC HD
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/151.png" tvg-name="BRIDGE",BRIDGE
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/151.png" tvg-name="BRIDGE",BRIDGE (netcome)
 http://iptv.netcome.ru:8000/play/a007/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-name="BRIDGE",BRIDGE DELUXE (delta)
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-name="BRIDGE HD",BRIDGE DELUXE (delta)
 http://192.162.64.99:5200/play/a01n/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-name="BRIDGE TV ЭТНО",BRIDGE TV ЭТНО (delta)
 http://192.162.64.99:5200/play/a00b/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/2277.png" tvg-name="RU.TV",RU.TV
-http://iptv.netcome.ru:8000/play/a01l/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/681.png" tvg-name="Europa Plus TV",Europa Plus TV
 http://iptv.netcome.ru:8000/play/a019/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/897.png" tvg-name="Муз ТВ" ,Муз ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/897.png" tvg-name="Муз ТВ" ,Муз ТВ (netcome)
 http://iptv.netcome.ru:8000/play/a00j/index.m3u
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/2277.png" tvg-name="RU TV",RU TV (netcome)
+http://iptv.netcome.ru:8000/play/a01l/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/2277.png" tvg-name="RU TV HD",RU TV HD
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-name="DanceHits80" ,DanceHits80
@@ -617,130 +611,131 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 
 
 
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Дикий",Дикий (delta)
-http://192.162.64.99:5000/play/a02k/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Ocean TV",Ocean TV (delta)
-http://192.162.64.99:5200/play/a047/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Viasat Explore",Viasat Explore (delta)
-http://192.162.64.99:5000/play/a02o/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Viasat Nature",Viasat Nature (delta)
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/765.png" tvg-name="Viju Nature",Viju Nature (netcome)
+http://iptv.netcome.ru:8000/play/a01y/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/765.png" tvg-name="Viju Nature",Viju Nature (delta)
 http://192.162.64.99:5000/play/a02p/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Viasat History",Viasat History (delta)
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/521.png" tvg-name="Viju Explore",Viju Explore (netcome)
+http://iptv.netcome.ru:8000/play/a01w/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/521.png" tvg-name="Viju Explore",Viju Explore (delta)
+http://192.162.64.99:5000/play/a02o/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/277.png" tvg-name="Viju History",Viju History (netcome)
+http://iptv.netcome.ru:8000/play/a01x/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/277.png" tvg-name="Viju History",Viju History (delta)
 http://192.162.64.99:5000/play/a02r/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="viju+ Planet HD",viju+ Planet HD (delta)
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/2012.png" tvg-name="Viju+ Planet",Viju+ Planet (netcome)
+http://iptv.netcome.ru:8000/play/a02a/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/2012.png" tvg-name="Viju+ Planet",Viju+ Planet (delta)
 http://192.162.64.99:5000/play/a03l/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Авто 24",Авто 24 (delta)
-http://192.162.64.99:5000/play/a01o/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/7632.png" tvg-name="TERRA",TERRA (netcome)
+http://iptv.netcome.ru:8000/play/a00v/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/7632.png" tvg-name="TERRA",TERRA (delta)
+http://192.162.64.99:5000/play/a037/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://ru.epg.one/img2/16.png" tvg-name="ДОКТОР",ДОКТОР (netcome)
+http://iptv.netcome.ru:8000/play/a00s/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://ru.epg.one/img2/16.png" tvg-name="ДОКТОР",ДОКТОР (delta)
+http://192.162.64.99:5000/play/a03c/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/675.png" tvg-name="Моя планета",Моя планета (netcome)
+http://iptv.netcome.ru:8000/play/a01j/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/675.png" tvg-name="Моя планета",Моя планета (delta)
+http://192.162.64.99:5000/play/a029/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Большая Азия",Большая Азия (delta)
 http://192.162.64.99:5000/play/a02v/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Глазами туриста",Глазами туриста (delta)
+http://192.162.64.99:5200/play/a01a/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Кто Куда",Кто Куда (delta)
+http://192.162.64.99:5000/play/a03f/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Телепутешествия" ,Телепутешествия
+http://31.148.48.15/Teleputeshestviya/index.m3u8?token=test
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="История",История (delta)
 http://192.162.64.99:5000/play/a026/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Наука 2.0",Наука 2.0 (delta)
 http://192.162.64.99:5000/play/a027/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Техно 24",Техно 24 (delta)
 http://192.162.64.99:5000/play/a028/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Точка отрыва",Точка отрыва (delta)
-http://192.162.64.99:5000/play/a03r/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ"tvg-name="Живая планета" ,Живая планета (delta)
-http://192.162.64.99:5000/play/a033/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Дикая рыбалка HD",Дикая рыбалка HD (delta)
-http://192.162.64.99:5000/play/a039/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Дикая охота HD",Дикая охота HD (delta)
-http://192.162.64.99:5000/play/a03a/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Совершенно секретно",Совершенно секретно (delta)
-http://192.162.64.99:5000/play/a03d/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Первый Вегетарианский",Первый Вегетарианский (delta)
-http://192.162.64.99:5000/play/a03e/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Кто Куда",Кто Куда (delta)
-http://192.162.64.99:5000/play/a03f/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Загородная жизнь",Загородная жизнь (delta)
-http://192.162.64.99:5000/play/a03j/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Глазами туриста",Глазами туриста (delta)
-http://192.162.64.99:5200/play/a01a/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Тайны галактики",Тайны галактики (delta)
 http://192.162.64.99:5200/play/a035/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Тайна",Тайна (delta)
 http://192.162.64.99:5200/play/a041/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="КЛЮЧ",КЛЮЧ (delta)
-http://192.162.64.99:5000/play/a03q/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Наша тема",Наша тема (delta)
-http://192.162.64.99:5000/play/a02c/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Zooпарк",Zooпарк (delta)
-http://192.162.64.99:5000/play/a02q/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Успех",Успех (delta)
-http://192.162.64.99:5000/play/a03p/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="E TV",E TV (delta)
-http://192.162.64.99:5000/play/a02w/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Совершенно секретно",Совершенно секретно (delta)
+http://192.162.64.99:5000/play/a03d/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="DocuBox",DocuBox (delta)
 http://192.162.64.99:5200/play/a017/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="RT DOC HD",RT DOC HD (delta)
 http://192.162.64.99:5200/play/a042/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="НВВ",НВВ (delta)
-http://192.162.64.99:5200/play/a01f/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="НИК",НИК (delta)
-http://192.162.64.99:5200/play/a039/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Мужской",Мужской (delta)
-http://192.162.64.99:5200/play/a03h/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Первый Вегетарианский",Первый Вегетарианский (delta)
+http://192.162.64.99:5000/play/a03e/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Загородная жизнь",Загородная жизнь (delta)
+http://192.162.64.99:5000/play/a03j/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="МЫ",МЫ (delta)
 http://192.162.64.99:5200/play/a032/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="ВКУС",ВКУС (delta)
 http://192.162.64.99:5200/play/a01r/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="КЛЮЧ",КЛЮЧ (delta)
+http://192.162.64.99:5000/play/a03q/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Наша тема",Наша тема (delta)
+http://192.162.64.99:5000/play/a02c/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Успех",Успех (delta)
+http://192.162.64.99:5000/play/a03p/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="E TV",E TV (delta)
+http://192.162.64.99:5000/play/a02w/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="НВВ",НВВ (delta)
+http://192.162.64.99:5200/play/a01f/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="НИК",НИК (delta)
+http://192.162.64.99:5200/play/a039/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Живи активно HD",Живи активно HD (delta)
 http://192.162.64.99:5300/play/a02k/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Точка отрыва",Точка отрыва (delta)
+http://192.162.64.99:5000/play/a03r/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/434.png" tvg-name="Усадьба",Усадьба (netcome)
 http://iptv.netcome.ru:8000/play/a020/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Мужской",Мужской (delta)
+http://192.162.64.99:5200/play/a03h/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/153.png" tvg-name="Авто Плюс",Авто Плюс (netcome)
 http://iptv.netcome.ru:8000/play/a01f/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/2627.png" tvg-name="Диалоги о рыбалке HD",Диалоги о рыбалке HD (netcome)
-http://iptv.netcome.ru:8000/play/a008/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Диалоги о рыбалке",Диалоги о рыбалке (delta)
-http://192.162.64.99:5000/play/a03b/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Авто 24",Авто 24 (delta)
+http://192.162.64.99:5000/play/a01o/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/2430.png" tvg-name="Оружие",Оружие (netcome)
 http://iptv.netcome.ru:8000/play/a02e/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/2419.png" tvg-name="Охота и Рыбалка",Охота и Рыбалка (netcome)
 http://iptv.netcome.ru:8000/play/a02f/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ"tvg-name="Охота и рыбалка" ,Охота и рыбалка (delta)
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/2419.png" tvg-name="Охота и Рыбалка",Охота и Рыбалка (delta)
 http://192.162.64.99:5000/play/a038/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/2627.png" tvg-name="Диалоги о рыбалке HD",Диалоги о рыбалке HD (netcome)
+http://iptv.netcome.ru:8000/play/a008/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/2627.png" tvg-name="Диалоги о рыбалке",Диалоги о рыбалке (delta)
+http://192.162.64.99:5000/play/a03b/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Дикая рыбалка HD",Дикая рыбалка HD (delta)
+http://192.162.64.99:5000/play/a039/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Дикая охота HD",Дикая охота HD (delta)
+http://192.162.64.99:5000/play/a03a/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Дикий",Дикий (delta)
+http://192.162.64.99:5000/play/a02k/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Ocean TV",Ocean TV (delta)
+http://192.162.64.99:5200/play/a047/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/520.png" tvg-name="Домашние животные",Домашние животные (netcome)
 http://iptv.netcome.ru:8000/play/a021/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Zooпарк",Zooпарк (delta)
+http://192.162.64.99:5000/play/a02q/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ"tvg-name="Живая планета" ,Живая планета (delta)
+http://192.162.64.99:5000/play/a033/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/2418.png" tvg-name="Galaxy",Galaxy (netcome)
 http://iptv.netcome.ru:8000/play/a01m/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/7632.png" tvg-name="TERRA",TERRA (netcome)
-http://iptv.netcome.ru:8000/play/a00v/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/7632.png" tvg-name="TERRA",TERRA (delta)
-http://192.162.64.99:5000/play/a037/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/765.png" tvg-name="Viju Nature",Viju Nature (netcome)
-http://iptv.netcome.ru:8000/play/a01y/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/521.png" tvg-name="Viju Explore",Viju Explore (netcome)
-http://iptv.netcome.ru:8000/play/a01w/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/277.png" tvg-name="Viju History",Viju History (netcome)
-http://iptv.netcome.ru:8000/play/a01x/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/2012.png" tvg-name="Viju+ Planet",Viju+ Planet (netcome)
-http://iptv.netcome.ru:8000/play/a02a/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://ru.epg.one/img2/16.png" tvg-name="ДОКТОР",ДОКТОР (netcome)
-http://iptv.netcome.ru:8000/play/a00s/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://ru.epg.one/img2/16.png" tvg-name="ДОКТОР",ДОКТОР (delta)
-http://192.162.64.99:5000/play/a03c/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" ,Лекторий Dостоевский
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ"  tvg-logo="http://epg.one/img2/9015.png" ,Неизвестная россия
 http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Моя планета",Моя планета (delta)
-http://192.162.64.99:5000/play/a029/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/675.png" tvg-name="Моя планета",Моя планета (netcome)
-http://iptv.netcome.ru:8000/play/a01j/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Здоровое ТВ",Здоровое ТВ
 http://31.148.48.15:80/Zdorovoe_TV/index.m3u8?token=test
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ"  tvg-logo="http://epg.one/img2/1755.png" tvg-name="НТВ Стиль",НТВ Стиль
 http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ"  tvg-name="НТВ Стиль",НТВ Стиль (delta)
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ"  tvg-logo="http://epg.one/img2/1755.png" tvg-name="НТВ Стиль",НТВ Стиль (delta)
 http://192.162.64.99:5100/play/a02q/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ"  tvg-name="Московский образовательный",Московский образовательный
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Просвещение",Просвещение
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Телепутешествия" ,Телепутешествия
-http://31.148.48.15/Teleputeshestviya/index.m3u8?token=test
+
 
 
 
@@ -1416,3 +1411,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/video_800x450_avc1/variant.m3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/video_800x450_avc1/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ+" tvg-logo="http://epg.one/img2/18.png" ,РЕН ТВ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/video_800x450_avc1/variant.m3u8
+
+
+
+
+#EXTINF:0 group-title="ЗАСТАВКИ"  ,Камин
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
