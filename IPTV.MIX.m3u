@@ -122,6 +122,8 @@ http://iptv.netcome.ru:8000/play/a02n/index.m3u8
 http://iptv.netcome.ru:8000/play/a00z/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/783.png" tvg-name="Ностальгия",Ностальгия (delta)
 http://192.162.64.99:5000/play/a02m/index.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ"  "  tvg-name="Время",Время
+http://217.21.34.160:38005/vremya/index.m3u8
 
 
 
@@ -150,6 +152,8 @@ http://iptv.netcome.ru:8000/play/a00u/index.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:0 group-title="НОВОСТИ"  tvg-logo="http://epg.one/img2/2265.png" tvg-name="360° HD",360° HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:0 group-title="НОВОСТИ"   tvg-name="Крым 24",Крым 24
+https://cdn.1tvcrimea.ru/switcher.m3u8
 #EXTINF:0 group-title="НОВОСТИ"  tvg-logo="http://epg.one/img2/743.png" tvg-name="РБК HD",РБК HD
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:0 group-title="НОВОСТИ"  tvg-logo="http://epg.one/img2/743.png" tvg-name="РБК",РБК (netcome)
@@ -162,6 +166,8 @@ https://osnmedia.servicecdn.ru/streams/17603_88089/720n/index.m3u8
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:0 group-title="НОВОСТИ" ,News Front TV
 https://tv.2kita.com/stream/index.m3u8
+
+
 
 
 
@@ -405,7 +411,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal29_SD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal30_HD
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" tvg-name="Твоё ТВ HD Юмор",Твоё ТВ HD Юмор
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD Юмор",Твоё ТВ HD Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" ,VHS-TV
 https://autopilot.catcast.tv/content/47609/index.m3u8
@@ -571,6 +577,10 @@ http://iptv.netcome.ru:8000/play/a00k/index.m3u8
 http://iptv.netcome.ru:8000/play/a00p/index.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/66.png" tvg-name="Уникум",Уникум (netcome)
 http://iptv.netcome.ru:8000/play/a01k/index.m3u8
+#EXTINF:0 group-title="ДЕТСКИЕ" tvg-name="Детский Мир",Детский Мир
+http://178.212.71.253:8000/play/52/index.m3u8
+#EXTINF:0 group-title="ДЕТСКИЕ" tvg-name="О!",О!
+http://95.66.188.74:80/O/mono.m3u8
 
 
 
@@ -641,6 +651,8 @@ http://192.162.64.99:5000/play/a037/index.m3u8
 http://iptv.netcome.ru:8000/play/a00s/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://ru.epg.one/img2/16.png" tvg-name="ДОКТОР",ДОКТОР (delta)
 http://192.162.64.99:5000/play/a03c/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="RTG TV",RTG TV
+http://46.8.46.14/rutravel/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/675.png" tvg-name="Моя планета",Моя планета (netcome)
 http://iptv.netcome.ru:8000/play/a01j/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/675.png" tvg-name="Моя планета",Моя планета (delta)
@@ -675,6 +687,10 @@ http://192.162.64.99:5000/play/a03e/index.m3u8
 http://192.162.64.99:5000/play/a03j/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="МЫ",МЫ (delta)
 http://192.162.64.99:5200/play/a032/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Бобёр",Бобёр
+http://178.212.71.253:8002/play/a00m/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="ОК",ОК ТВ
+http://v4.proofix.ru/okino-tv/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="ВКУС",ВКУС (delta)
 http://192.162.64.99:5200/play/a01r/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="КЛЮЧ",КЛЮЧ (delta)
@@ -846,7 +862,7 @@ http://v4.proofix.ru:80/8tv-europe/index.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,GLN 24 (Геленджик)
 http://serv25.vintera.tv:8081/gelendzhik/stream_1/playlist.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,NEXT-TV
-http://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
+https://next-tv.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,TMTV
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,TV Губерния
@@ -1261,13 +1277,11 @@ http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 http://192.162.64.99:5000/play/a02t/index.m3u8
 #EXTINF:0 group-title="ПОЕБЕНЬ" tvg-name="Зал суда",Зал суда (delta)
 http://192.162.64.99:5000/play/a02n/index.m3u8
+#EXTINF:0 group-title="ПОЕБЕНЬ" ,Art TV
+http://95.47.156.60:8000/play/a011/index.m3u8
 
 
 
-
-
-#EXTINF:0 group-title="18+" tvg-name="Кино 18+ International",Кино 18+ International
-http://autopilot.catcast.tv/content/40381/index.m3u8
 
 
 
