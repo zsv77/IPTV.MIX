@@ -56,6 +56,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 http://iptv.netcome.ru:8000/play/a01e/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/6418.png" tvg-name="Кухня ТВ",Кухня ТВ (delta)
 http://192.162.64.99:5200/play/a023/index.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-name="КЛЮЧ",КЛЮЧ (delta)
+http://192.162.64.99:5000/play/a03q/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/405.png" tvg-name="Звезда HD",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/405.png" tvg-name="Звезда",Звезда (zabava)
@@ -689,12 +691,10 @@ http://192.162.64.99:5000/play/a03j/index.m3u8
 http://192.162.64.99:5200/play/a032/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Бобёр",Бобёр
 http://178.212.71.253:8002/play/a00m/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="ОК",ОК ТВ
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="OK",ОК ТВ
 http://v4.proofix.ru/okino-tv/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="ВКУС",ВКУС (delta)
 http://192.162.64.99:5200/play/a01r/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="КЛЮЧ",КЛЮЧ (delta)
-http://192.162.64.99:5000/play/a03q/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Наша тема",Наша тема (delta)
 http://192.162.64.99:5000/play/a02c/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Успех",Успех (delta)
