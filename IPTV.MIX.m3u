@@ -856,14 +856,16 @@ http://192.162.64.99:5000/play/a02i/index.m3u8
 
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,10 канал Новокузнецк
 http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_DESYATKA/variant.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",10 канал Саранск
+https://live-10chanel.cdnvideo.ru/10chanel/streamtr_1/playlist.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",11 канал Пенза
+http://85.234.33.63/stream/c11.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,12 канал Омск HD
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,12 канал Омск
 http://192.162.64.99:5200/play/a021/index.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,12 канал Череповец
 http://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,26 регион
-http://live.26region.tv/app2/stream_bypass/playlist.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,31 канал Челябинск
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,4 канал Екатеринбург
@@ -871,11 +873,11 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlis
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,41 Регион
 https://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,43 канал (Туапсе)
-http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
+http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,ВТК Аргус
 http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,49 канал Новосибирск
-http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,6 ТВ
 http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,7 канал Красноярск
@@ -891,9 +893,9 @@ http://v4.proofix.ru:80/8tv-europe/index.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,GLN 24 (Геленджик)
 http://serv25.vintera.tv:8081/gelendzhik/stream_1/playlist.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,NEXT-TV
+http://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,NEXT-TV
 https://next-tv.iptv2022.com/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,TMTV
-http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,TV Губерния
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ"  ,TVоя Тюмень
@@ -960,10 +962,6 @@ https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/v
 http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Восток 24
 https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Восток ТВ
-http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Время Н
-http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,ГИС Самара
 http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Город
@@ -980,9 +978,7 @@ http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/varian
 http://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Девятка ТВ
 https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Десятка
-http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_DESYATKA/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,ДимГрад 24
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,ДимГрад24
 http://live-3.otcnet.ru/dimgrad/index.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Дзержинск ТВ
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
