@@ -46,18 +46,20 @@ http://192.162.64.99:5000/play/a02l/index.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/18.png" tvg-name="РЕН ТВ",РЕН ТВ (netcome)
 http://iptv.netcome.ru:8000/play/a011/index.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/649.png" tvg-name="ТВЦ",ТВЦ (yalta)
+http://178.212.71.253:8000/play/10/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/649.png" tvg-name="ТВЦ",ТВЦ (zabava)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/649.png" tvg-name="ТВЦ",ТВЦ (netcome)
 http://iptv.netcome.ru:8000/play/a003/index.m3u8
-#EXTINF:0 group-title="ЭФИРНЫЕ" ,ОТР
-http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/6418.png" tvg-name="Кухня ТВ",Кухня ТВ (netcome)
 http://iptv.netcome.ru:8000/play/a01e/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/6418.png" tvg-name="Кухня ТВ",Кухня ТВ (delta)
 http://192.162.64.99:5200/play/a023/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-name="КЛЮЧ",КЛЮЧ (delta)
 http://192.162.64.99:5000/play/a03q/index.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-name="Первый Крымский",Первый Крымский (yalta)
+http://178.212.71.253:8000/play/22/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/405.png" tvg-name="Звезда HD",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/405.png" tvg-name="Звезда",Звезда (zabava)
@@ -90,6 +92,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 http://iptv.netcome.ru:8000/play/a013/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/2288.png" tvg-name="Суббота!",Суббота! (zabava)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1000.png" tvg-name="ОТР",ОТР
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/1000.png" tvg-name="ОТР",ОТР (zabava)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/1000.png" tvg-name="ОТР",ОТР (netcome)
@@ -167,14 +171,13 @@ https://osnmedia.servicecdn.ru/streams/17603_88089/480n/index.m3u8
 https://osnmedia.servicecdn.ru/streams/17603_88089/720n/index.m3u8
 #EXTINF:0 group-title="НОВОСТИ" tvg-name="ТАСС" ,ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
-#EXTINF:0 group-title="НОВОСТИ" ,News Front TV
-https://tv.2kita.com/stream/index.m3u8
 
 
 
 
 
-
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="КИНОУЖАС",КИНОУЖАС
+http://178.212.71.253:8000/play/133/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/821.png" tvg-name="КИНОКОМЕДИЯ",КИНОКОМЕДИЯ (netcome)
 http://iptv.netcome.ru:8000/play/a01a/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/799.png" tvg-name="КИНОСЕРИЯ",КИНОСЕРИЯ (netcome)
@@ -341,6 +344,8 @@ http://192.162.64.99:5100/play/a00g/index.m3u8
 http://192.162.64.99:5200/play/a029/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Cinema",Cinema
 http://195.158.223.132:8006/Cinema
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Cinema",Cinema (yalta)
+http://178.212.71.253:8000/play/40/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="FilmBox",FilmBox (delta)
 http://192.162.64.99:5200/play/a03l/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="TV XXI",TV XXI (delta)
@@ -586,6 +591,8 @@ http://192.162.64.99:5100/play/a033/index.m3u8
 http://192.162.64.99:5100/play/a034/index.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-name="Лёва HD",Лёва HD (delta)
 http://192.162.64.99:5100/play/a035/index.m3u8
+#EXTINF:0 group-title="ДЕТСКИЕ" tvg-name="Шаян ТВ",Шаян ТВ 
+https://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-name="Шаян ТВ",Шаян ТВ (delta)
 http://192.162.64.99:5100/play/a03c/index.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-name="Шаян ТВ",Шаян ТВ (netcome)
@@ -652,6 +659,8 @@ http://89.179.247.144/hls/mixm.m3u8
 http://132544.edgevideo.ru/streams/132544_932351/1325441080/index.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",VIVA RUSSIA
 http://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",MEZZO (yalta)
+http://178.212.71.253:8000/play/31/index.m3u8
 
 
 
@@ -726,6 +735,8 @@ http://v4.proofix.ru/okino-tv/index.m3u8
 http://192.162.64.99:5200/play/a01r/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Наша тема",Наша тема (delta)
 http://192.162.64.99:5000/play/a02c/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Наша тема",Наша тема (yalta)
+http://178.212.71.253:8000/play/73/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Успех",Успех (delta)
 http://192.162.64.99:5000/play/a03p/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="E TV",E TV (delta)
@@ -786,6 +797,8 @@ http://192.162.64.99:5100/play/a02q/index.m3u8
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Просвещение",Просвещение
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="365 дней",365 дней (yalta)
+http://178.212.71.253:8000/play/67/index.m3u8
 
 
 
@@ -793,9 +806,6 @@ http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
 
 
 
-
-#EXTINF:0 group-title="СПОРТИВНЫЕ"  tvg-name="Матч! HD",Матч! HD (delta)
-http://192.162.64.99:5000/play/a036/index.m3u8
 #EXTINF:0 group-title="СПОРТИВНЫЕ" tvg-logo="http://epg.one/img2/2044.png" tvg-name="Матч! Футбол 1",Матч! Футбол 1 HD (netcome)
 http://iptv.netcome.ru:8000/play/a01r/index.m3u8
 #EXTINF:0 group-title="СПОРТИВНЫЕ" tvg-logo="http://epg.one/img2/2044.png" tvg-name="Матч! Футбол 1",Матч! Футбол 1 (delta)
@@ -810,6 +820,10 @@ http://iptv.netcome.ru:8000/play/a01p/index.m3u8
 http://192.162.64.99:5000/play/a030/index.m3u8
 #EXTINF:0 group-title="СПОРТИВНЫЕ"  tvg-name="Футбол",Футбол (delta)
 http://192.162.64.99:5000/play/a03h/index.m3u8
+#EXTINF:0 group-title="СПОРТИВНЫЕ"  tvg-name="Матч! HD",Матч! HD (delta)
+http://192.162.64.99:5000/play/a036/index.m3u8
+#EXTINF:0 group-title="СПОРТИВНЫЕ" tvg-logo="http://epg.one/img2/2051.png" tvg-name="Матч!",Матч! (zabava)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:0 group-title="СПОРТИВНЫЕ" tvg-logo="http://epg.one/img2/2051.png" tvg-name="Матч!",Матч! (netcome)
 http://iptv.netcome.ru:8000/play/a02c/index.m3u8
 #EXTINF:0 group-title="СПОРТИВНЫЕ" tvg-logo="http://epg.one/img2/2250.png" tvg-name="Матч! Премьер",Матч! Премьер (netcome)
@@ -1002,9 +1016,6 @@ https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant
 http://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_ISTOKI/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,КТВ-Луч
 http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_KTVLUCH/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Канал 16 Саров
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_KANAL16/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Кабардино-Балкария
 http://rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_NALCH_KBR/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Камчатка 1
@@ -1037,8 +1048,6 @@ https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Липецкое время
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Луганск 24
-https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,МЭТР
 http://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Майкопское Телевидение
@@ -1167,6 +1176,8 @@ https://lifecam.sigma-ktv.ru/eshche/tracks-v1a1/index.m3u8
 http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,СТРК HD
 http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,СТВ
+http://178.212.71.253:8000/play/29/index.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-logo="http://epg.one/img2/6672.png",Сургут 24
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-logo="http://epg.one/img2/7825.png",С1 Сургут
@@ -1195,7 +1206,6 @@ http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_VARIANT_V/variant.m3u8
 http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-logo="http://epg.one/img2/6787.png",ТРК555 Алушта HD
 http://trk555.tv:8888/live
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ",Телерадиокомпания 555 HD
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,ТКР Рязань
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,ТНР24
@@ -1226,6 +1236,8 @@ http://46.48.96.88:81/udp/239.255.2.147:1234
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Тобольское время
 http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TOBOLSKOEVREMYA/variant.m3u8
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Толк
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Тольятти 24
 http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Томское время
@@ -1258,7 +1270,7 @@ http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
 http://stream0.tv41.ru/live.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Экспресс
 http://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Эфир-24 Релакс
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Эфир
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" aspect-ratio=16:9,Эхо ТВ 24
 http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
@@ -1270,6 +1282,8 @@ http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3
 https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Якутия 24
 http://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Ялта ТВ
+http://178.212.71.253:8000/play/27/index.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Ямал-Регион
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8?version=2
 
