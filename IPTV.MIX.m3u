@@ -249,48 +249,7 @@ http://sc.id-tv.kz/JibekJoly.m3u8
 
 
 
-#EXTINF:-1 group-title="КИНОЗАЛЫ",ШЕРЛОК ХОЛМС
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_1
-#EXTINF:-1 group-title="КИНОЗАЛЫ",СЛЕД
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_2
-#EXTINF:-1 group-title="КИНОЗАЛЫ",МЕНТОВСКИЕ ВОЙНЫ
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_3
-#EXTINF:-1 group-title="КИНОЗАЛЫ",СЕМНАДЦАТЬ МГНОВЕНИЙ ВЕСНЫ
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_5
-#EXTINF:-1 group-title="КИНОЗАЛЫ",НЕКРАСИВАЯ ПОДРУЖКА
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_6
-#EXTINF:-1 group-title="КИНОЗАЛЫ",ТРИ БОГАТЫРЯ
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_7
-#EXTINF:-1 group-title="КИНОЗАЛЫ",ЧУЖОЙ РАЙОН
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_8
-#EXTINF:-1 group-title="КИНОЗАЛЫ",АННА-ДЕТЕКТИВЪ
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_9
-#EXTINF:-1 group-title="КИНОЗАЛЫ",СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_10
-#EXTINF:-1 group-title="КИНОЗАЛЫ",СМЕШАРИКИ
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_11
-#EXTINF:-1 group-title="КИНОЗАЛЫ",КОМЕДИИ
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_12
-#EXTINF:-1 group-title="КИНОЗАЛЫ",КИНОЗАЛ ТРИКОЛОР
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_13
-#EXTINF:-1 group-title="КИНОЗАЛЫ",СОВЕТСКИЕ ФИЛЬМЫ
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_23_sd
-#EXTINF:-1 group-title="КИНОЗАЛЫ",РОБОЗУНА
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_21_sd
-#EXTINF:-1 group-title="КИНОЗАЛЫ",ДЕТСКИЕ ПЕСЕНКИ
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinozal_22_sd
-#EXTINF:-1 group-title="КИНОЗАЛЫ",ГЛУХАРЬ
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal25_SD
-#EXTINF:-1 group-title="КИНОЗАЛЫ",ПОСЛЕДНИЙ МЕНТ
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal26_SD
-#EXTINF:-1 group-title="КИНОЗАЛЫ",УЛИЦЫ РАЗБИТЫХ ФОНАРЕЙ
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal27_SD
-#EXTINF:-1 group-title="КИНОЗАЛЫ",6 КАДРОВ
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal28_SD
-#EXTINF:-1 group-title="КИНОЗАЛЫ",ЖЕНСКИЙ ДЕТЕКТИВ
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal29_SD
-#EXTINF:-1 group-title="КИНОЗАЛЫ",МАЖОР
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal30_HD
+
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD Юмор",Твоё ТВ HD Юмор
