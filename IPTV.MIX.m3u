@@ -44,16 +44,12 @@ http://iptv.netcome.ru:8000/play/a027/index.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/18.png" tvg-name="РЕН ТВ",РЕН ТВ (netcome)
 http://iptv.netcome.ru:8000/play/a011/index.m3u8
-#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/649.png" tvg-name="ТВЦ",ТВЦ (yalta)
-http://178.212.71.253:8000/play/10/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/649.png" tvg-name="ТВЦ",ТВЦ (zabava)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/649.png" tvg-name="ТВЦ",ТВЦ (netcome)
 http://iptv.netcome.ru:8000/play/a003/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/6418.png" tvg-name="Кухня ТВ",Кухня ТВ (netcome)
 http://iptv.netcome.ru:8000/play/a01e/index.m3u8
-#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-name="Первый Крымский",Первый Крымский (yalta)
-http://178.212.71.253:8000/play/22/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/405.png" tvg-name="Звезда HD",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/405.png" tvg-name="Звезда",Звезда (zabava)
@@ -226,8 +222,6 @@ http://iptv.netcome.ru:8000/play/a004/index.m3u8
 http://iptv.netcome.ru:8000/play/a00t/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Cinema",Cinema
 http://195.158.223.132:8006/Cinema
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Cinema",Cinema (yalta)
-http://178.212.71.253:8000/play/40/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Смотрим Честный детектив HD",Смотрим Честный детектив HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Про100ТВ",Про100ТВ
@@ -466,8 +460,7 @@ http://89.179.247.144/hls/mixm.m3u8
 http://132544.edgevideo.ru/streams/132544_932351/1325441080/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ",VIVA RUSSIA
 http://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ",MEZZO (yalta)
-http://178.212.71.253:8000/play/31/index.m3u8
+
 
 
 
@@ -496,8 +489,6 @@ http://31.148.48.15/Teleputeshestviya/index.m3u8?token=test
 http://178.212.71.253:8002/play/a00m/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="OK",ОК ТВ
 http://v4.proofix.ru/okino-tv/index.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Наша тема",Наша тема (yalta)
-http://178.212.71.253:8000/play/73/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/434.png" tvg-name="Усадьба",Усадьба (netcome)
 http://iptv.netcome.ru:8000/play/a020/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/153.png" tvg-name="Авто Плюс",Авто Плюс (netcome)
@@ -524,8 +515,7 @@ http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Просвещение",Просвещение
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="365 дней",365 дней (yalta)
-http://178.212.71.253:8000/play/67/index.m3u8
+
 
 
 
