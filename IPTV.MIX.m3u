@@ -2,24 +2,32 @@
 
 #EXTINF:0 group-title="ЭФИРНЫЕ"   tvg-logo="http://epg.one/img2/983.png" tvg-name="Первый канал HD",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/146.png" tvg-name="Первый канал",Первый канал (Смоленск)
+https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/146.png" tvg-name="Первый канал",Первый канал (zabava)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/146.png" tvg-name="Первый канал",Первый канал (netcome)
 http://iptv.netcome.ru:8000/play/a009/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/711.png" tvg-name="Россия 1 HD" ,Россия 1 HD Смоленск
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/russia1-hd/1080p.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/711.png" tvg-name="Россия 1",Россия 1 (Смоленск)
+https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R04_OTT_CT_SMOL_ROSSIA1/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/711.png" tvg-name="Россия 1 HD" ,Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/711.png" tvg-name="Россия 1",Россия 1 (zabava)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/711.png" tvg-name="Россия 1",Россия 1 (netcome)
 http://iptv.netcome.ru:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ",НТВ (Смоленск)
+https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ",НТВ
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ",НТВ (zabava)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ",НТВ (netcome)
 http://iptv.netcome.ru:8000/play/a00e/index.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ",ТНТ (Смоленск)
+https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ",ТНТ (zabava)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ",ТНТ (netcome)
@@ -28,6 +36,8 @@ http://iptv.netcome.ru:8000/play/a00f/index.m3u8
 http://iptv.netcome.ru:8000/play/a00w/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1649.png" tvg-name="ТНТ4",ТНТ4 (zabava)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/79.png" tvg-name="СТС",СТС (Смоленск)
+https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/79.png" tvg-name="СТС",СТС (zabava)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/79.png" tvg-name="СТС",СТС (netcome)
@@ -40,10 +50,14 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 http://iptv.netcome.ru:8000/play/a005/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1700.png" tvg-name="КВН ТВ",КВН ТВ (netcome)
 http://iptv.netcome.ru:8000/play/a027/index.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/18.png" tvg-name="РЕН ТВ",РЕН ТВ (Смоленск)
+https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/18.png" tvg-name="РЕН ТВ",РЕН ТВ (zabava)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/18.png" tvg-name="РЕН ТВ",РЕН ТВ (netcome)
 http://iptv.netcome.ru:8000/play/a011/index.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/649.png" tvg-name="ТВЦ",ТВЦ (Смоленск)
+https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/649.png" tvg-name="ТВЦ",ТВЦ (zabava)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/649.png" tvg-name="ТВЦ",ТВЦ (netcome)
@@ -52,28 +66,42 @@ http://iptv.netcome.ru:8000/play/a003/index.m3u8
 http://iptv.netcome.ru:8000/play/a01e/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/405.png" tvg-name="Звезда HD",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/405.png" tvg-name="Звезда",Звезда (Смоленск)
+https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/405.png" tvg-name="Звезда",Звезда (zabava)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/405.png" tvg-name="Звезда",Звезда (netcome)
 http://iptv.netcome.ru:8000/play/a00i/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/4661.png" tvg-name="Звезда Плюс HD",Звезда Плюс HD (netcome)
 http://iptv.netcome.ru:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/427.png" tvg-name="Пятый Канал",Пятый Канал (Смоленск)
+https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/427.png" tvg-name="Пятый Канал",Пятый Канал (zabava)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/427.png" tvg-name="Пятый Канал",Пятый Канал (netcome)
 http://iptv.netcome.ru:8000/play/a012/index.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1598.png" tvg-name="Че!",Че! (Смоленск)
+https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1598.png" tvg-name="Че!",Че! (zabava)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1598.png" tvg-name="Че!",Че! (netcome)
 http://iptv.netcome.ru:8000/play/a00c/index.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/698.png" tvg-name="ТВ3",ТВ3 (Смоленск)
+https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/698.png" tvg-name="ТВ3",ТВ3 (netcome)
 http://iptv.netcome.ru:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/304.png" tvg-name="Домашний" ,Домашний (Смоленск)
+https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/304.png" tvg-name="Домашний",Домашний (zabava)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/304.png" tvg-name="Домашний",Домашний (netcome)
 http://iptv.netcome.ru:8000/play/a00d/index.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/898.png" tvg-name="Ю ТВ",Ю ТВ (Смоленск)
+https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/898.png" tvg-name="Ю ТВ",Ю ТВ (zabava)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/1003.png" tvg-name="Пятница!",Пятница! (Смоленск)
+https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/1003.png" tvg-name="Пятница!",Пятница! (zabava)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/1003.png" tvg-name="Пятница!",Пятница! (netcome)
@@ -92,6 +120,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/726.png" tvg-name="МИР",МИР (netcome)
 http://iptv.netcome.ru:8000/play/a02i/index.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/187.png" tvg-name="РОССИЯ Культура",Культура (Смоленск)
+https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/187.png" tvg-name="РОССИЯ Культура",Культура
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/187.png" tvg-name="РОССИЯ Культура",Культура (zabava)
@@ -100,6 +130,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 http://iptv.netcome.ru:8000/play/a016/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/2308.png" tvg-name="Москва Доверие",Москва Доверие
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="https://lyl.su/hSzd" tvg-name="Регион 67",Регион 67 (Смоленск)
+https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="https://lyl.su/hSzd" tvg-name="Регион 67",Регион 67 (Смоленск)
 http://212.3.155.126:8181/udp/233.67.67.177:5510
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1753.png"  tvg-name="НТВ Право",НТВ Право
@@ -123,6 +155,8 @@ http://178.212.71.253:8000/play/41/index.m3u8
 
 #EXTINF:0 group-title="НОВОСТИ"  tvg-logo="http://epg.one/img2/1683.png" tvg-name="Россия 24",Россия 24 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+#EXTINF:0 group-title="НОВОСТИ"  tvg-logo="http://epg.one/img2/1683.png" tvg-name="Россия 24",Россия 24 (Смоленск)
+https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_SMOL_ROSSIA24/variant.m3u8
 #EXTINF:0 group-title="НОВОСТИ"  tvg-logo="http://epg.one/img2/1683.png" tvg-name="Россия 24",Россия 24 (Смоленск)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/russia24-sd/index.m3u8
 #EXTINF:0 group-title="НОВОСТИ"  tvg-logo="http://epg.one/img2/1683.png" tvg-name="Россия 24",Россия 24 (zabava)
@@ -380,6 +414,8 @@ https://fl1001.bozztv.com/ushba65/index.m3u8
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",CHD TV. Ну, погоди!
 http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ"  tvg-logo="http://epg.one/img2/740.png" tvg-name="Карусель",Карусель (Смоленск)
+https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/740.png" tvg-name="Карусель",Карусель (netcome)
 http://iptv.netcome.ru:8000/play/a00x/index.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ"  tvg-logo="http://epg.one/img2/1332.png" tvg-name="Мульт HD",Мульт HD
@@ -529,6 +565,8 @@ http://iptv.netcome.ru:8000/play/a01r/index.m3u8
 http://iptv.netcome.ru:8000/play/a01q/index.m3u8
 #EXTINF:0 group-title="СПОРТИВНЫЕ" tvg-logo="http://epg.one/img2/2005.png" tvg-name="Матч! Футбол 3",Матч! Футбол 3 HD (netcome)
 http://iptv.netcome.ru:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ"  tvg-logo="http://epg.one/img2/2051.png" tvg-name="Матч!",Матч! (Смоленск)
+https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
 #EXTINF:0 group-title="СПОРТИВНЫЕ" tvg-logo="http://epg.one/img2/2051.png" tvg-name="Матч!",Матч! (zabava)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:0 group-title="СПОРТИВНЫЕ" tvg-logo="http://epg.one/img2/2051.png" tvg-name="Матч!",Матч! (netcome)
