@@ -428,6 +428,8 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8
 http://iptv.netcome.ru:8000/play/a01s/index.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/2757.png" tvg-name="Мультиландия",Мультиландия (netcome)
 http://iptv.netcome.ru:8000/play/a00r/index.m3u8
+#EXTINF:0 group-title="ДЕТСКИЕ" tvg-name="Солнце" ,Солнце (zabava)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-name="Солнце" ,Солнце
 http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-name="Пингвин" ,Пингвин
@@ -589,82 +591,79 @@ http://iptv.netcome.ru:8000/play/a023/index.m3u8
 
 
 
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,10 канал Новокузнецк
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="10 канал Новокузнецк",10 канал (Новокузнецк)
 http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_DESYATKA/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ",10 канал Саранск
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="10 канал Саранск",10 канал (Саранск)
 https://live-10chanel.cdnvideo.ru/10chanel/streamtr_1/playlist.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ",11 канал Пенза
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="11 канал Пенза",11 канал (Пенза)
 http://85.234.33.63/stream/c11.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,12 канал Омск HD
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="12 канал Омск HD",12 канал (Омск)
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,12 канал Омск
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,12 канал Череповец
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="12 канал Череповец",12 канал (Череповец)
 http://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,31 канал Челябинск
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="31 канал Челябинск",31 канал (Челябинск)
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,4 канал Екатеринбург
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="4 канал Екатеринбург",4 канал (Екатеринбург)
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,41 Регион
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="41 Регион",41 Регион (Петропавловск-Камчатский)
 https://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,43 канал (Туапсе)
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,ВТК Аргус
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="ВТК Аргус",41 ВТК АРГУС (Воронеж)
 http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,49 канал Новосибирск
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="49 канал Новосибирск",49 канал (Новосибирск)
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,6 ТВ
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="6 ТВ",6 ТВ (Комсомольск-на-Амуре)
 http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,7 канал Красноярск
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="7 канал Красноярск",7 канал (Красноярск)
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,8 канал Владивосток
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="8 канал Владивосток",8 канал (Владивосток)
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,8 канал Красноярский край
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="8 канал Красноярский край",8 канал (Красноярск)
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,8 канал Новосибирск
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="8 канал Новосибирск",8 канал (Новосибирск)
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,8 Канал International
-http://v4.proofix.ru:80/8tv-europe/index.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,GLN 24 (Геленджик)
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="GLN 24 (Геленджик)",GLN 24 (Геленджик)
 http://serv25.vintera.tv:8081/gelendzhik/stream_1/playlist.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,NEXT-TV
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="NEXT-TV",NEXT-TV (Республика Башкортостан)
 http://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,NEXT-TV
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="NEXT-TV",NEXT-TV (Республика Башкортостан)
 https://next-tv.iptv2022.com/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,TV Губерния
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="TV Губерния",TV Губерния (Воронеж)
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ"  ,TVоя Тюмень
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="TVоя Тюмень" ,TVоя Тюмень (Тюмень)
 http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TVOYATUMEN/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Ugra Travel
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Ugra Travel",Ugra Travel (Ханты-Мансийский АО)
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,URAL1
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="URAL1",URAL1 (Челябинск)
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_URAL1/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,АСТВ Южно-Сахалинск
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="АСТВ Южно-Сахалинск",АСТВ (Южно-Сахалинск)
 http://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_ACTV/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,АТВ-Медиа
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="АТВ-Медиа",АТВ-Медиа (Улан-Удэ)
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,АТВ-Ставрополь
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="АТВ-Ставрополь",АТВ (Ставрополь)
 http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_ATV/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Аист (Иркутск)
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Аист (Иркутск)",Аист (Иркутск)
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,АКТИС
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="АКТИС",АКТИС (Ангарск)
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AKTIS/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Алмазный край
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Алмазный край",Алмазный край (Якутск)
 https://stream.almaz-media.tv:8080/hls/576.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Амурское областное телевидение
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Амурское областное телевидение",Амурское областное телевидение (Благовещенск)
 https://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Ариг Ус 24 HD
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Ариг Ус 24",Ариг Ус 24 (Улан-Удэ)
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Арктик-TV
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Арктик-TV",Арктик-TV (Мурманск)
 http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Арктика 24 HD
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Арктика 24",Арктика 24 (Архангельск)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Архыз 24
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Архыз 24",Архыз 24 (Черкесск)
 http://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ241/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Астрахань 24
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Астрахань 24",Астрахань 24 (Астрахань)
 https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Арис 24
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Арис 24",Арис 24 (Кумертау)
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Афонтово
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Афонтово",Афонтово (Красноярск)
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_AFONTOVO/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Барс
 https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
@@ -1031,7 +1030,8 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:0 group-title="ПОЕБЕНЬ" ,Art TV
 http://95.47.156.60:8000/play/a011/index.m3u8
-
+#EXTINF:0 group-title="ПОЕБЕНЬ" ,8 Канал International
+http://v4.proofix.ru:80/8tv-europe/index.m3u8
 
 
 
