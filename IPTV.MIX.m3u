@@ -614,7 +614,7 @@ http://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_25REGION/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="31 канал Челябинск",31 канал (Челябинск)
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="360 - Киселёвск ТВ",360 Киселёвск ТВ (Киселёвск)
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Киселёвск ТВ",Киселёвск ТВ (Киселёвск)
 https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R03_KISEL_TV/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="4 канал Екатеринбург",4 канал (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_4KANAL/variant.m3u8
@@ -708,7 +708,7 @@ https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_BRYANSK24/variant.m3u8
 https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="БСТ",БСТ (Челябинск)
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="БСТ 24",БСТ 24 (Братск)
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="БСТ24",БСТ 24 (Братск)
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_BR/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Ветта 24",Ветта 24 (Пермь)
 http://serv24.vintera.tv:8081/vetta/vetta_office/chunks.m3u8
@@ -778,7 +778,7 @@ https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant
 https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Импульс Севера",Импульс Севера (Новый Уренгой)
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Инсит",Инсит (Копейск)
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Инсит Копейск",Инсит (Копейск)
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_INSITTV_KOPSK/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Инфо 24 (Шадринск)",Инфо 24 (Шадринск)
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
@@ -852,7 +852,7 @@ https://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="49 канал Новосибирск",НСК 49 (Новосибирск)
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="НЖК",НЖК(Мурманск)
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="НЖК",НЖК (Мурманск)
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_NZHK/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="НТК",НТК (Зеленогорск)
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_NTK_ZEL/variant.m3u8
@@ -876,7 +876,7 @@ http://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" aspect-ratio=16:9 tvg-name="Новое телевидение Сарова",Новое телевидение Сарова (Саров)
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_NN_NTS/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Новый век",Новый век (Тамбов)
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Новый век Тамбов",Новый век (Тамбов)
 http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Новороссийск",Новороссийск ТВ"(Новороссийск)
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_NOVOROSSIYSK/variant.m3u8
@@ -984,7 +984,7 @@ http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STVHD/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="СТВ-Бузулук",СТВ-Бузулук (Бузулук)
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R04_STV/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="СТВ 24" СТВ 24 (Северодвинск)
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="СТВ 24" ,СТВ 24 (Северодвинск)
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_STV24/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-logo="http://epg.one/img2/6672.png" tvg-name="Сургут 24",Сургут 24 (Сургут)
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
