@@ -180,13 +180,11 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0 group-title="НОВОСТИ"  tvg-logo="http://epg.one/img2/2078.png" tvg-name="Мир 24",Мир 24 (netcome)
 http://iptv.netcome.ru:8000/play/a00u/index.m3u8
 #EXTINF:0 group-title="НОВОСТИ"  tvg-logo="http://epg.one/img2/4458.png" tvg-name="360° Новости",360° Новости
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:0 group-title="НОВОСТИ"  tvg-logo="http://epg.one/img2/2265.png" tvg-name="360° HD",360° HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:0 group-title="НОВОСТИ"  tvg-logo="http://epg.one/img2/2265.png" tvg-name="360° HD",360° HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:0 group-title="НОВОСТИ" tvg-name="Канал 78",Канал 78
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8
-#EXTINF:0 group-title="НОВОСТИ"   tvg-name="Крым 24",Крым 24
-https://cdn.1tvcrimea.ru/switcher.m3u8
 #EXTINF:0 group-title="НОВОСТИ"  tvg-logo="http://epg.one/img2/743.png" tvg-name="РБК HD",РБК HD
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:0 group-title="НОВОСТИ"  tvg-logo="http://epg.one/img2/743.png" tvg-name="РБК",РБК (netcome)
@@ -956,8 +954,10 @@ https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R04_STV/variant.m3u8
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_STV24/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-logo="http://epg.one/img2/6672.png" tvg-name="Сургут 24",Сургут 24 (Сургут)
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-logo="http://epg.one/img2/7825.png" tvg-name="С1 Сургут",С1 (Сургут)
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ"  tvg-name="С1 Сургут",С1 (Сургут)
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ"  tvg-name="С1 Сургут",С1 HD (Сургут)
+http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8?version=2
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Татарстан 24",Татарстан 24 (Казань)
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="ТВ21+",ТВ21+ (Мурманск)
@@ -978,6 +978,8 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BOGDNCHTV/variant.m3u8
 https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_TVSARANSK/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Телекон 24",Телекон 24 (Нижний Тагил)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TELEKON24_URAL_EKT/variant.m3u8
+#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="ТРК-555",ТРК-555 (Алушта)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TRK555HD/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="ТРК Юганск",ТРК Юганск (Юганск)
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_YUGANSK/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="ТКР Рязань",ТКР (Рязань)
@@ -1018,12 +1020,8 @@ http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Удмуртия",Удмуртия (Ижевск)
 http://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Урал 24",Урал 24 (Челябинск)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-hd/index.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Учалы ТВ",Учалы ТВ (Учалы)
 http://s45177.cdn.ngenix.net/hls/CH_R02_UCHALYTV/variant.m3u8
-#EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Хабаровск",Хабаровск ТВ (Хабаровск)
-http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_HABAROVSK/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" ,Хамдан-Калмыкия 24 (Элиста)
 http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
 #EXTINF:0 group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Чаваш ЕН",Чаваш ЕН (Чебоксары)
