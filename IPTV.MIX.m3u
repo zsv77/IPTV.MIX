@@ -154,6 +154,8 @@ http://iptv.netcome.ru:8000/play/a00z/index.m3u8
 http://217.21.34.160:38005/vremya/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/2400.png" tvg-name="Центральное ТВ",Центральное ТВ
 http://178.212.71.253:8000/play/41/index.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/2472.png" tvg-name="Первый Крымский",Первый Крымский
+https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 
 
 
@@ -185,6 +187,8 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/trac
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:0 group-title="НОВОСТИ" tvg-logo="http://epg.one/img2/7616.png" tvg-name="Канал 78",Канал 78
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8
+#EXTINF:0 group-title="НОВОСТИ"  tvg-logo="http://epg.one/img2/2474.png" tvg-name="Крым 24",Крым 24
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:0 group-title="НОВОСТИ"  tvg-logo="http://epg.one/img2/743.png" tvg-name="РБК HD",РБК HD
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:0 group-title="НОВОСТИ"  tvg-logo="http://epg.one/img2/743.png" tvg-name="РБК",РБК (netcome)
