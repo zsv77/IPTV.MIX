@@ -1,0 +1,97 @@
+#EXTM3U
+
+#EXTINF:0  ,Камин
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
+
+
+#EXTINF:-1 ,КВН ТВ
+http://46.8.46.14/kvn/index.m3u8
+#EXTINF:-1 ,КВН ТВ
+http://91.194.191.241:8081/chid472/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,КВН ТВ
+http://lb.wisp.cat/lb0/KVN/mpegts?token=nPfO4rRaax
+#EXTINF:-1 ,КВН ТВ
+http://91.207.115.228:5000/c76
+#EXTINF:-1 ,КВН ТВ
+http://93.170.254.17/KVN/index.m3u8
+#EXTINF:-1 ,КВН ТВ
+http://178.212.71.253:8000/play/119/index.m3u8
+#EXTINF:0 ,Твоё ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:0 ,Твоё ТВ HD Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:0 ,IPTVPLAY УЖАСТИК
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0 ,КИНОУЖАС
+http://91.194.191.241:8081/chid461/tracks-v1a1/mono.m3u8
+#EXTINF:0 ,КИНОУЖАС
+http://tvip.btk.teleos.ru:8081/chid461/tracks-v1a1/mono.m3u8
+#EXTINF:0 ,КИНОУЖАС
+http://91.207.115.228:5000/c43
+#EXTINF:0 ,КИНОУЖАС
+http://195.191.208.11:8087/udp/238.2.49.3:1234
+#EXTINF:0 ,КИНОУЖАС
+http://tv.ttk.mx:9193
+#EXTINF:0 ,Шокирующее HD
+http://195.191.208.11:8087/udp/238.2.48.137:1234
+#EXTINF:0 ,TRASH
+http://195.191.208.11:8087/udp/224.0.191.29:1234
+#EXTINF:0 ,TRASH
+http://lb.wisp.cat/lb0/Trash_HD/mpegts?token=nPfO4rRaax
+#EXTINF:0 ,Страшное HD
+http://lb.wisp.cat/lb0/strashnoehd/mpegts?token=nPfO4rRaax
+#EXTINF:0 ,НСТ
+http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
+#EXTINF:0 ,НСТ
+http://vod.tuva.ru/nst/index.m3u8
+#EXTINF:0 ,НСТ
+http://lb.wisp.cat/lb0/NST/mpegts?token=nPfO4rRaax
+#EXTINF:0 ,НСТ
+http://87.76.32.36:8001/nstv
+#EXTINF:0 ,НСТ
+http://46.8.46.14/nst/index.m3u8
+#EXTINF:0 ,НСТ
+http://91.207.115.228:5000/c169
+#EXTINF:0 ,НСТ
+http://193.25.8.59:8000/nst
+#EXTINF:0 ,НСТ
+http://91.194.191.241:8081/chid118/tracks-v1a1/mono.m3u8
+#EXTINF:0 ,НСТ
+http://tv.ttk.mx:9057
+#EXTINF:0 ,IPTVPLAY ФАНТАСТИКА
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0 ,CineMan Thriller
+http://50.7.28.226/8954/index.m3u8
+
+
+#EXTINF:0 ,VHS-ка
+http://95.66.188.74/VHS/index.m3u8
+#EXTINF:0 ,CineMan VHS
+http://50.7.28.226/8807/index.m3u8
+#EXTINF:0 ,Magic VHS
+http://lb.wisp.cat/lb0/Magic_VHS/mpegts?token=nPfO4rRaax
+#EXTINF:0 ,BCU VHS HD
+http://lb.wisp.cat/lb0/BCUVHSHD/mpegts?token=nPfO4rRaax
+
+
+#EXTINF:0 ,2x2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:0 ,Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:0 ,Ну, погоди!
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:0 ,CineMan Симпсоны
+http://50.7.28.226/8833/index.m3u8
+#EXTINF:0 ,МУЛЬТИКИ И СКАЗКИ
+https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
+#EXTINF:0 ,IPTVPLAY МультСказки
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+
+
+
+#EXTINF:0 ,CHD-TV RU Rock HD
+http://194.26.229.213/chdtv_ru_rock/index.m3u8
+#EXTINF:0 ,CHD-TV Rock
+http://194.26.229.213/chdtv_rock/index.m3u8
+#EXTINF:0 ,DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
