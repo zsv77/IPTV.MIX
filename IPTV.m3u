@@ -1,90 +1,213 @@
 #EXTM3U
 
-#EXTINF:0  ,Камин
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
-
-
-#EXTINF:-1 ,КВН ТВ
-http://46.8.46.14/kvn/index.m3u8
-#EXTINF:-1 ,КВН ТВ
-http://91.194.191.241:8081/chid472/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,КВН ТВ
-http://lb.wisp.cat/lb0/KVN/mpegts?token=nPfO4rRaax
-#EXTINF:-1 ,КВН ТВ
-http://91.207.115.228:5000/c76
-#EXTINF:-1 ,КВН ТВ
-http://93.170.254.17/KVN/index.m3u8
-#EXTINF:-1 ,КВН ТВ
-http://178.212.71.253:8000/play/119/index.m3u8
+#EXTINF:0 ,Moviee Toper
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/214749.m3u8
+#EXTINF:0 ,Kino Jam
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/210182.m3u8
+#EXTINF:0 ,КиноФраншизы 24/7
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/218193.m3u8
+#EXTINF:0 ,VHS кино
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/218531.m3u8
+#EXTINF:0 ,Фильмы 24/7
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/218251.m3u8
+#EXTINF:0 ,GRAND IPTV TV
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/215088.m3u8
+#EXTINF:0 ,Малдер Всё тв
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/153640.m3u8
+#EXTINF:0 ,alpha Cinema 
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/205072.m3u8
+#EXTINF:0 ,alpha Onenite 
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/205116.m3u8
+#EXTINF:0 ,alpha Funny 
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/206963.m3u8
+#EXTINF:0 ,1FILMAX
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/204708.m3u8
+#EXTINF:0 ,2FILMAX
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/204717.m3u8
+#EXTINF:0 ,Фантом
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/204722.m3u8
+#EXTINF:0 ,Akudji
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/5346.m3u8
+#EXTINF:0 ,FAN HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/157239.m3u8
+#EXTINF:0 ,Selecao TV
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/163253.m3u8
+#EXTINF:0 ,Selecao TV2
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/manifest/157269_master.m3u8
+#EXTINF:0 ,Millenniym UHD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/206461.m3u8
+#EXTINF:0 ,bober12
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/manifest/196745_master.m3u8
+#EXTINF:0 ,Fantoms
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/204722.m3u8
+#EXTINF:0 ,P Boy Podpischik
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/manifest/40391_master.m3u8
+#EXTINF:0 ,Восход ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/manifest/202997_master.m3u8
+#EXTINF:0 ,Первый автомобильный
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/206355.m3u8
 #EXTINF:0 ,Твоё ТВ HD
+#EXTVLCOPT:http-user-agent=SmartTV
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0 ,Твоё ТВ HD Юмор
+#EXTVLCOPT:http-user-agent=SmartTV
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:0 ,IPTVPLAY УЖАСТИК
-http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 ,КИНОУЖАС
-http://91.194.191.241:8081/chid461/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,КИНОУЖАС
-http://tvip.btk.teleos.ru:8081/chid461/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,КИНОУЖАС
-http://91.207.115.228:5000/c43
-#EXTINF:0 ,КИНОУЖАС
-http://195.191.208.11:8087/udp/238.2.49.3:1234
-#EXTINF:0 ,КИНОУЖАС
-http://tv.ttk.mx:9193
+
+
+
+#EXTINF:-1 ,КВН ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://46.8.46.14/kvn/index.m3u8
+#EXTINF:-1 ,КВН ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://91.194.191.241:8081/chid472/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,КВН ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://lb.wisp.cat/lb0/KVN/mpegts?token=nPfO4rRaax
+#EXTINF:-1 ,КВН ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://91.207.115.228:5000/c76
+#EXTINF:-1 ,КВН ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://93.170.254.17/KVN/index.m3u8
+#EXTINF:-1 ,КВН ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://178.212.71.253:8000/play/119/index.m3u8
+
+
+#EXTINF:0 ,Кошмар HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:0 ,Шокирующее HD
+#EXTVLCOPT:http-user-agent=SmartTV
 http://195.191.208.11:8087/udp/238.2.48.137:1234
 #EXTINF:0 ,TRASH
+#EXTVLCOPT:http-user-agent=SmartTV
 http://195.191.208.11:8087/udp/224.0.191.29:1234
 #EXTINF:0 ,TRASH
+#EXTVLCOPT:http-user-agent=SmartTV
 http://lb.wisp.cat/lb0/Trash_HD/mpegts?token=nPfO4rRaax
 #EXTINF:0 ,Страшное HD
+#EXTVLCOPT:http-user-agent=SmartTV
 http://lb.wisp.cat/lb0/strashnoehd/mpegts?token=nPfO4rRaax
+#EXTINF:0 ,КИНОУЖАС
+#EXTVLCOPT:http-user-agent=SmartTV
+http://91.194.191.241:8081/chid461/tracks-v1a1/mono.m3u8
+#EXTINF:0 ,КИНОУЖАС
+#EXTVLCOPT:http-user-agent=SmartTV
+http://tvip.btk.teleos.ru:8081/chid461/tracks-v1a1/mono.m3u8
+#EXTINF:0 ,КИНОУЖАС
+#EXTVLCOPT:http-user-agent=SmartTV
+http://91.207.115.228:5000/c43
+#EXTINF:0 ,КИНОУЖАС
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.191.208.11:8087/udp/238.2.49.3:1234
+#EXTINF:0 ,КИНОУЖАС
+#EXTVLCOPT:http-user-agent=SmartTV
+http://tv.ttk.mx:9193
+#EXTINF:0 ,IPTVPLAY УЖАСТИК
+#EXTVLCOPT:http-user-agent=SmartTV
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0  ,НСТ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/217855.m3u8
 #EXTINF:0 ,НСТ
+#EXTVLCOPT:http-user-agent=SmartTV
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:0 ,НСТ
+#EXTVLCOPT:http-user-agent=SmartTV
 http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:0 ,НСТ
+#EXTVLCOPT:http-user-agent=SmartTV
 http://lb.wisp.cat/lb0/NST/mpegts?token=nPfO4rRaax
 #EXTINF:0 ,НСТ
+#EXTVLCOPT:http-user-agent=SmartTV
 http://87.76.32.36:8001/nstv
 #EXTINF:0 ,НСТ
+#EXTVLCOPT:http-user-agent=SmartTV
 http://46.8.46.14/nst/index.m3u8
 #EXTINF:0 ,НСТ
+#EXTVLCOPT:http-user-agent=SmartTV
 http://91.207.115.228:5000/c169
 #EXTINF:0 ,НСТ
+#EXTVLCOPT:http-user-agent=SmartTV
 http://193.25.8.59:8000/nst
 #EXTINF:0 ,НСТ
+#EXTVLCOPT:http-user-agent=SmartTV
 http://91.194.191.241:8081/chid118/tracks-v1a1/mono.m3u8
 #EXTINF:0 ,НСТ
+#EXTVLCOPT:http-user-agent=SmartTV
 http://tv.ttk.mx:9057
 #EXTINF:0 ,IPTVPLAY ФАНТАСТИКА
+#EXTVLCOPT:http-user-agent=SmartTV
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0 ,CineMan Thriller
+#EXTVLCOPT:http-user-agent=SmartTV
 http://50.7.28.226/8954/index.m3u8
 
 
+
+#EXTINF:0 ,Видеокасета VHS
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/176975.m3u8
 #EXTINF:0 ,VHS-ка
+#EXTVLCOPT:http-user-agent=SmartTV
 http://95.66.188.74/VHS/index.m3u8
 #EXTINF:0 ,CineMan VHS
+#EXTVLCOPT:http-user-agent=SmartTV
 http://50.7.28.226/8807/index.m3u8
 #EXTINF:0 ,Magic VHS
+#EXTVLCOPT:http-user-agent=SmartTV
 http://lb.wisp.cat/lb0/Magic_VHS/mpegts?token=nPfO4rRaax
 #EXTINF:0 ,BCU VHS HD
+#EXTVLCOPT:http-user-agent=SmartTV
 http://lb.wisp.cat/lb0/BCUVHSHD/mpegts?token=nPfO4rRaax
 
 
+
 #EXTINF:0 ,2x2
+#EXTVLCOPT:http-user-agent=SmartTV
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:0 ,Futurama
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/199417.m3u8
 #EXTINF:0 ,Чип и Дейл
+#EXTVLCOPT:http-user-agent=SmartTV
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:0 ,Ну, погоди!
+#EXTVLCOPT:http-user-agent=SmartTV
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:0 ,CineMan Симпсоны
+#EXTVLCOPT:http-user-agent=SmartTV
 http://50.7.28.226/8833/index.m3u8
 #EXTINF:0 ,МУЛЬТИКИ И СКАЗКИ
+#EXTVLCOPT:http-user-agent=SmartTV
 https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
 #EXTINF:0 ,IPTVPLAY МультСказки
+#EXTVLCOPT:http-user-agent=SmartTV
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
@@ -93,5 +216,12 @@ http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:0 ,CHD-TV Rock
 http://194.26.229.213/chdtv_rock/index.m3u8
-#EXTINF:0 ,DanceHits80
-http://dancehits80.denvs.ru:8080/index.m3u8
+
+
+
+#EXTINF:0  ,Камин
+#EXTVLCOPT:http-user-agent=SmartTV
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
+#EXTINF:-1 group-title="Good Game Not 24/7",Звуки дождя
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/198378.m3u8
