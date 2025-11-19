@@ -15,9 +15,6 @@ http://195.9.195.3:8080/hls/218531.m3u8
 #EXTINF:0 ,Фильмы 24/7
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/218251.m3u8
-#EXTINF:0 ,GRAND IPTV TV
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/215088.m3u8
 #EXTINF:0 ,Малдер Всё тв
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/153640.m3u8
@@ -84,6 +81,11 @@ http://93.170.254.17/KVN/index.m3u8
 
 
 
+
+
+#EXTINF:0 ,Шокирующее HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.191.208.11:8087/udp/238.2.48.137:1234
 #EXTINF:0 ,Кошмар HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/204709.m3u8
@@ -120,6 +122,10 @@ http://50.7.28.226/8954/index.m3u8
 
 
 
+
+#EXTINF:0 ,VHS Кино
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/218531.m3u8
 #EXTINF:0 ,Видеокасета VHS
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/176975.m3u8
@@ -159,9 +165,19 @@ http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
 
+
+#EXTINF:0 ,DanceHits 80'
+#EXTVLCOPT:http-user-agent=SmartTV
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:0 ,BRIDGE ROCK
+#EXTVLCOPT:http-user-agent=SmartTV
+http://50.7.28.226/9229/index.m3u8
+
+
+
 #EXTINF:0  ,Камин
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
-#EXTINF:-1 group-title="Good Game Not 24/7",Звуки дождя
+#EXTINF:-1 ,Звуки дождя
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/198378.m3u8
