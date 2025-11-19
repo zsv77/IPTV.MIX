@@ -135,12 +135,7 @@ http://95.66.188.74/VHS/index.m3u8
 #EXTINF:0 ,CineMan VHS
 #EXTVLCOPT:http-user-agent=SmartTV
 http://50.7.28.226/8807/index.m3u8
-#EXTINF:0 ,Magic VHS
-#EXTVLCOPT:http-user-agent=SmartTV
-http://lb.wisp.cat/lb0/Magic_VHS/mpegts?token=nPfO4rRaax
-#EXTINF:0 ,BCU VHS HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://lb.wisp.cat/lb0/BCUVHSHD/mpegts?token=nPfO4rRaax
+
 
 
 
@@ -150,12 +145,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:0 ,Futurama
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/199417.m3u8
-#EXTINF:0 ,Чип и Дейл
-#EXTVLCOPT:http-user-agent=SmartTV
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:0 ,Ну, погоди!
-#EXTVLCOPT:http-user-agent=SmartTV
-http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:0 ,CineMan Симпсоны
 #EXTVLCOPT:http-user-agent=SmartTV
 http://50.7.28.226/8833/index.m3u8
