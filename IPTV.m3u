@@ -9,9 +9,6 @@ http://195.9.195.3:8080/hls/210182.m3u8
 #EXTINF:0 ,КиноФраншизы 24/7
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/218193.m3u8
-#EXTINF:0 ,VHS кино
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/218531.m3u8
 #EXTINF:0 ,Фильмы 24/7
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/218251.m3u8
@@ -41,7 +38,7 @@ http://195.9.195.3:8080/hls/204722.m3u8
 http://195.9.195.3:8080/hls/5346.m3u8
 #EXTINF:0 ,FAN HD
 #EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/157239.m3u8
+http://50.7.28.226/8386/index.m3u8
 #EXTINF:0 ,Selecao TV
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/163253.m3u8
