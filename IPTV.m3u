@@ -15,6 +15,9 @@ http://195.9.195.3:8080/hls/218251.m3u8
 #EXTINF:0 ,Малдер Всё тв
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/153640.m3u8
+#EXTINF:0 ,Малдер Мегахит
+#EXTVLCOPT:http-user-agent=SmartTV
+https://autopilot.catcast.tv/content/47689/index.m3u8
 #EXTINF:0 ,alpha Cinema 
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/205072.m3u8
@@ -63,6 +66,41 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0 ,Твоё ТВ HD Юмор
 #EXTVLCOPT:http-user-agent=SmartTV
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:0 ,Zubrilom Franchise
+#EXTVLCOPT:http-user-agent=SmartTV
+http://hls.goodgame.ru:8080/hls/218251.m3u8
+#EXTINF:0 ,Kino Mix
+#EXTVLCOPT:http-user-agent=SmartTV
+http://hls.goodgame.ru:8080/hls/216612.m3u8
+#EXTINF:0 ,LAV-KINO
+#EXTVLCOPT:http-user-agent=SmartTV
+https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:0 ,ТРИКОЛОР КОМЕДИИ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://4je2oiwp.klaipedalt.org/iptv/5NR6V3CDUZNTZL/18137/index.m3u8
+#EXTINF:0 ,Сити Эдем - КиноДетектив
+#EXTVLCOPT:http-user-agent=SmartTV
+https://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:0 ,Сити Эдем - КиноДрама
+#EXTVLCOPT:http-user-agent=SmartTV
+https://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:0 ,Сити Эдем - КиноКлассика
+#EXTVLCOPT:http-user-agent=SmartTV
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:0 ,Сити Эдем - КиноКомедия
+#EXTVLCOPT:http-user-agent=SmartTV
+https://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:0 ,Сити Эдем - КиноМистика
+#EXTVLCOPT:http-user-agent=SmartTV
+https://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:0 ,Сити Эдем - КиноФантастика
+#EXTVLCOPT:http-user-agent=SmartTV
+https://cityeden.catcast.tv/content/45268/index.m3u8
+#EXTINF:0 ,Сити Эдем - КиноЭкшен
+#EXTVLCOPT:http-user-agent=SmartTV
+https://cityeden.catcast.tv/content/41333/index.m3u8
+
+
 
 
 
@@ -100,6 +138,18 @@ http://91.207.115.228:5000/c43
 #EXTINF:0 ,IPTVPLAY УЖАСТИК
 #EXTVLCOPT:http-user-agent=SmartTV
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0 ,IPTVPLAY ВЕДЬМАК
+#EXTVLCOPT:http-user-agent=SmartTV
+http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0 ,IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+#EXTVLCOPT:http-user-agent=SmartTV
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0 ,IPTVPLAY ФАНТАСТИКА
+#EXTVLCOPT:http-user-agent=SmartTV
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0 ,IPTVPLAY В.О.В
+#EXTVLCOPT:http-user-agent=SmartTV
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0  ,НСТ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/217855.m3u8
@@ -112,9 +162,6 @@ http://46.8.46.14/nst/index.m3u8
 #EXTINF:0 ,НСТ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://91.207.115.228:5000/c169
-#EXTINF:0 ,IPTVPLAY ФАНТАСТИКА
-#EXTVLCOPT:http-user-agent=SmartTV
-http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0 ,CineMan Thriller
 #EXTVLCOPT:http-user-agent=SmartTV
 http://50.7.28.226/8954/index.m3u8
@@ -254,7 +301,9 @@ http://50.7.28.226/8833/index.m3u8
 #EXTINF:0 ,IPTVPLAY МультСказки
 #EXTVLCOPT:http-user-agent=SmartTV
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-
+#EXTINF:0 ,Ретро Мульт
+#EXTVLCOPT:http-user-agent=SmartTV
+http://hls.goodgame.ru:8080/hls/213086.m3u8
 
 
 
@@ -272,9 +321,16 @@ http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:0 ,BRIDGE ROCK
 #EXTVLCOPT:http-user-agent=SmartTV
 http://50.7.28.226/9229/index.m3u8
-#EXTINF:0 ,BRIDGE CLASSIC
+#EXTINF:0 ,4ever Music
 #EXTVLCOPT:http-user-agent=SmartTV
-https://livetv-app.mylifeisgood.net.ru/channels/bridgeclassictvya.m3u8
+http://2.57.217.85:8000/play/a08h/index.m3u8
+#EXTINF:0 ,Phoenix TV
+#EXTVLCOPT:http-user-agent=SmartTV
+https://karapuztv.catcast.tv/content/33418/index.m3u8
+#EXTINF:0 ,15+ MUSIC
+#EXTVLCOPT:http-user-agent=SmartTV
+http://hls.goodgame.ru:8080/hls/208391.m3u8
+
 
 
 
