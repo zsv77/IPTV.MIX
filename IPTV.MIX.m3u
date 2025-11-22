@@ -424,6 +424,8 @@ https://fl1001.bozztv.com/ushba65/index.m3u8
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",CHD TV. Ну, погоди!
 http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:0 group-title="ДЕТСКИЕ",Futurama
+http://195.9.195.3:8080/hls/199417.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ"  tvg-logo="http://epg.one/img2/740.png" tvg-name="Карусель",Карусель (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/740.png" tvg-name="Карусель",Карусель (netcome)
@@ -468,6 +470,14 @@ http://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
 
 
 
+
+
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ",4ever Music
+http://2.57.217.85:8000/play/a08h/index.m3u8
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ",Phoenix TV
+https://karapuztv.catcast.tv/content/33418/index.m3u8
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ",15+ MUSIC
+http://hls.goodgame.ru:8080/hls/208391.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-name="ТНТ MUSIC HD" ,ТНТ MUSIC HD
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/151.png" tvg-name="BRIDGE",BRIDGE (netcome)
@@ -494,6 +504,8 @@ http://132544.edgevideo.ru/streams/132544_931325/1325441080/index.m3u8
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ"  tvg-logo="http://epg.one/img2/5597.png" tvg-name="Trace Urban HD",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ",THE VOICE
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ"  tvg-logo="http://i115.fastpic.org/big/2021/0924/0d/694a7fbcc8c0e95f020b81749c45770d.png",Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-name="Страна FM" ,Страна FM
