@@ -39,9 +39,6 @@ http://195.9.195.3:8080/hls/204722.m3u8
 #EXTINF:0 ,Akudji
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/5346.m3u8
-#EXTINF:0 ,FAN HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://50.7.28.226/8386/index.m3u8
 #EXTINF:0 ,Selecao TV
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/163253.m3u8
@@ -117,9 +114,7 @@ http://93.170.254.17/KVN/index.m3u8
 
 
 
-#EXTINF:0 ,Страшное HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://50.7.28.226/8198/index.m3u8
+
 #EXTINF:0 ,Шокирующее HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.191.208.11:8087/udp/238.2.48.137:1234
@@ -162,114 +157,14 @@ http://46.8.46.14/nst/index.m3u8
 #EXTINF:0 ,НСТ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://91.207.115.228:5000/c169
-#EXTINF:0 ,CineMan Thriller
+#EXTINF:0 ,Flix Snip
 #EXTVLCOPT:http-user-agent=SmartTV
-http://50.7.28.226/8954/index.m3u8
-#EXTINF:0 ,TV 1000 Action HD
+http://194.32.242.245/flixsnip/index.m3u8
+#EXTINF:0 ,Cinema
 #EXTVLCOPT:http-user-agent=SmartTV
-http://50.7.28.226/8049/index.m3u8
-#EXTINF:0 ,КИНО КУЛЬТ
-#EXTVLCOPT:http-user-agent=SmartTV
-http://50.7.28.226/9469/index.m3u8
-#EXTINF:-1 ,СОВЕТСКАЯ КИНОКЛАСИКА
-#EXTVLCOPT:http-user-agent=SmartTV
-http://50.7.28.226/9461/index.m3u8
-#EXTINF:-1 ,ПРЕМИАЛЬНОЕ HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://50.7.28.226/8028/index.m3u8
-#EXTINF:-1 ,ОСТРОСЮЖЕТНОЕ HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://50.7.28.226/8184/index.m3u8
-#EXTINF:-1 , Fan HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://50.7.28.226/8386/index.m3u8
-#EXTINF:-1 ,COMEDY CENTRAL
-#EXTVLCOPT:http-user-agent=SmartTV
-http://50.7.28.226/8171/index.m3u8
-#EXTINF:-1 , Box Spy HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://50.7.28.226/8354/index.m3u8
-#EXTINF:-1 , Box Travel HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://50.7.28.226/8416/index.m3u8
-#EXTINF:-1 , Box Zombie HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://50.7.28.226/8418/index.m3u8
-#EXTINF:-1 , Box Stories HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://50.7.28.226/8429/index.m3u8
-#EXTINF:-1 , Box Gangster HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://50.7.28.226/8985/index.m3u8
-#EXTINF:-1 , Box Serial HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://50.7.28.226/8988/index.m3u8
-#EXTINF:-1 ,БЛОКБАСТЕР
-http://50.7.28.226/8939/index.m3u8
-#EXTINF:-1 , GOLD Line PSYCHO
-http://50.7.28.226/8483/index.m3u8
-#EXTINF:-1 , GOLD Line EXIST
-http://50.7.28.226/8489/index.m3u8
-#EXTINF:-1 , viju+ PREMIERE
-http://50.7.28.226/8119/index.m3u8
-#EXTINF:-1 , CineMan
-http://50.7.28.226/9121/index.m3u8
-#EXTINF:-1 , CineMan 1
-http://50.7.28.226/8821/index.m3u8
-#EXTINF:-1 , CineMan 2
-http://50.7.28.226/8824/index.m3u8
-#EXTINF:-1 , CineMan 3
-http://50.7.28.226/8825/index.m3u8
-#EXTINF:-1 , CineMan 4
-http://50.7.28.226/8826/index.m3u8
-#EXTINF:-1 , CineMan 5
-http://50.7.28.226/8951/index.m3u8
-#EXTINF:-1 , CineMan 6
-http://50.7.28.226/8952/index.m3u8
-#EXTINF:-1 , CineMan 7
-http://50.7.28.226/8955/index.m3u8
-#EXTINF:-1 , CineMan 8
-http://50.7.28.226/8957/index.m3u8
-#EXTINF:-1 , CineMan 9
-http://50.7.28.226/8959/index.m3u8
-#EXTINF:-1 , CineMan 10
-http://50.7.28.226/8960/index.m3u8
-#EXTINF:-1 , CineMan Симпсоны 
-http://50.7.28.226/8833/index.m3u8
-#EXTINF:-1 , Cinema 
-http://50.7.28.226/8949/index.m3u8
-#EXTINF:-1 , CineMan Thriller
-http://50.7.28.226/8954/index.m3u8
-#EXTINF:-1 , CineMan MiniSeries
-http://50.7.28.226/8961/index.m3u8
-#EXTINF:-1 , CineMan 8812
-http://50.7.28.226/8812/index.m3u8
-#EXTINF:-1 , MM Honey
-http://50.7.28.226/8895/index.m3u8
-#EXTINF:-1 , MM Драма HD
-http://50.7.28.226/8634/index.m3u8
-#EXTINF:-1 , MM Макромир
-http://50.7.28.226/8636/index.m3u8
-#EXTINF:-1 , MM Newfilm 3
-http://50.7.28.226/8743/index.m3u8
-#EXTINF:-1 , MM БОЕКВИК КЛАССИК
-http://50.7.28.226/8411/index.m3u8
-#EXTINF:-1 , MM Relax
-http://50.7.28.226/8793/index.m3u8
-#EXTINF:-1 , MM UFO
-http://50.7.28.226/8410/index.m3u8
-#EXTINF:-1 , MM Celebrity HD
-http://50.7.28.226/8991/index.m3u8
-#EXTINF:-1 , MM СКОРОСТЬ HD
-http://50.7.28.226/8916/index.m3u8
-#EXTINF:-1 , MM СЕМЕЙНЫЙ
-http://50.7.28.226/8442/index.m3u8
-#EXTINF:-1 , MM СЕМЕЙНЫЙ 2
-http://50.7.28.226/8449/index.m3u8
-#EXTINF:-1 , MM СУПЕРГЕРОИ
-http://50.7.28.226/8710/index.m3u8
-#EXTINF:-1 , MM WALT DISNEY
-http://50.7.28.226/8914/index.m3u8
+http://195.158.223.132:8006/Cinema
+
+
 
 
 
@@ -282,9 +177,7 @@ http://195.9.195.3:8080/hls/176975.m3u8
 #EXTINF:0 ,VHS-ка
 #EXTVLCOPT:http-user-agent=SmartTV
 http://95.66.188.74/VHS/index.m3u8
-#EXTINF:0 ,CineMan VHS
-#EXTVLCOPT:http-user-agent=SmartTV
-http://50.7.28.226/8807/index.m3u8
+
 
 
 
@@ -295,9 +188,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:0 ,Futurama
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/199417.m3u8
-#EXTINF:0 ,CineMan Симпсоны
-#EXTVLCOPT:http-user-agent=SmartTV
-http://50.7.28.226/8833/index.m3u8
 #EXTINF:0 ,IPTVPLAY МультСказки
 #EXTVLCOPT:http-user-agent=SmartTV
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -307,20 +197,11 @@ http://hls.goodgame.ru:8080/hls/213086.m3u8
 
 
 
-#EXTINF:0 ,Flix Snip
-#EXTVLCOPT:http-user-agent=SmartTV
-http://194.32.242.245/flixsnip/index.m3u8
-#EXTINF:0 ,Cinema
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.158.223.132:8006/Cinema
 
 
 #EXTINF:0 ,DanceHits 80'
 #EXTVLCOPT:http-user-agent=SmartTV
 http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:0 ,BRIDGE ROCK
-#EXTVLCOPT:http-user-agent=SmartTV
-http://50.7.28.226/9229/index.m3u8
 #EXTINF:0 ,4ever Music
 #EXTVLCOPT:http-user-agent=SmartTV
 http://2.57.217.85:8000/play/a08h/index.m3u8
@@ -330,7 +211,8 @@ https://karapuztv.catcast.tv/content/33418/index.m3u8
 #EXTINF:0 ,15+ MUSIC
 #EXTVLCOPT:http-user-agent=SmartTV
 http://hls.goodgame.ru:8080/hls/208391.m3u8
-
+#EXTINF:0 ,ROCK MUSIC
+https://rpn3.bozztv.com/dvrfl07/ushba-m2/tracks-v1a1/mono.m3u8
 
 
 
