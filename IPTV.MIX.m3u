@@ -464,8 +464,7 @@ http://iptv.netcome.ru:8000/play/a01k/index.m3u8
 http://178.212.71.253:8000/play/52/index.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-name="О!",О!
 http://95.66.188.74:80/O/mono.m3u8
-#EXTINF:0 group-title="ДЕТСКИЕ",TDM TV - Мультики
-http://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
+
 
 
 
@@ -492,14 +491,11 @@ http://iptv.netcome.ru:8000/play/a00j/index.m3u
 http://iptv.netcome.ru:8000/play/a01l/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/2277.png" tvg-name="RU TV HD",RU TV HD
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ",TDM TV
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Первый музыкальный
 http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Первый музыкальный HD
 http://hz1.teleport.cc/HLS/HD.m3u8
 http://132544.edgevideo.ru/streams/132544_931193/132544720/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ",TDM TV - Retro
-http://132544.edgevideo.ru/streams/132544_931325/1325441080/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-name="DanceHits80" ,DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ"  tvg-logo="http://epg.one/img2/5597.png" tvg-name="Trace Urban HD",Trace Urban HD
@@ -524,10 +520,7 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 https://tv.a21network.ru/stream/40650/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ",MIXM TV
 http://89.179.247.144/hls/mixm.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ",TMF RUS
-http://132544.edgevideo.ru/streams/132544_932351/1325441080/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ",VIVA RUSSIA
-http://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
+
 
 
 
