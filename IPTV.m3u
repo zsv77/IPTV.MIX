@@ -100,21 +100,6 @@ https://cityeden.catcast.tv/content/41333/index.m3u8
 
 
 
-
-#EXTINF:-1 ,КВН ТВ
-#EXTVLCOPT:http-user-agent=SmartTV
-http://46.8.46.14/kvn/index.m3u8
-#EXTINF:-1 ,КВН ТВ
-#EXTVLCOPT:http-user-agent=SmartTV
-http://91.194.191.241:8081/chid472/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,КВН ТВ
-#EXTVLCOPT:http-user-agent=SmartTV
-http://93.170.254.17/KVN/index.m3u8
-
-
-
-
-
 #EXTINF:0 ,Шокирующее HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.191.208.11:8087/udp/238.2.48.137:1234
@@ -136,15 +121,9 @@ http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0 ,IPTVPLAY ВЕДЬМАК
 #EXTVLCOPT:http-user-agent=SmartTV
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 ,IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
-#EXTVLCOPT:http-user-agent=SmartTV
-http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0 ,IPTVPLAY ФАНТАСТИКА
 #EXTVLCOPT:http-user-agent=SmartTV
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 ,IPTVPLAY В.О.В
-#EXTVLCOPT:http-user-agent=SmartTV
-http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0  ,НСТ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/217855.m3u8
@@ -160,23 +139,126 @@ http://91.207.115.228:5000/c169
 #EXTINF:0 ,Flix Snip
 #EXTVLCOPT:http-user-agent=SmartTV
 http://194.32.242.245/flixsnip/index.m3u8
-#EXTINF:0 ,Cinema
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.158.223.132:8006/Cinema
+#EXTINF:-1 ,Fox
+http://94.232.127.28:8080/fox/index.m3u8
+#EXTINF:-1 ,Fox Life
+http://94.232.127.28:8080/foxlife/index.m3u8
+#EXTINF:-1 ,Кинохит
+http://94.232.127.28:8080/kinohit/index.m3u8
+#EXTINF:-1 ,Кинокомедия
+http://94.232.127.28:8080/kinokomedia/index.m3u8
+#EXTINF:-1 ,Киносемья
+http://94.232.127.28:8080/kinosemja/index.m3u8
+#EXTINF:-1 ,Киносерия
+http://94.232.127.28:8080/kinoserija/index.m3u8
+#EXTINF:-1 ,Duo 3 HD LT
+http://94.232.127.28:8080/sony/index.m3u8
+#EXTINF:-1 ,Duo 6 HD LT
+http://94.232.127.28:8080/sony-turbo/index.m3u8
+#EXTINF:-1 ,.Sci-fi
+http://94.232.127.28:8080/sony-scifi/index.m3u8
+#EXTINF:-1 ,Viasat Kino
+http://94.232.127.28:8080/tv1000/index.m3u8
+#EXTINF:-1 ,Viasat Kino Action
+http://94.232.127.28:8080/tv1000action/index.m3u8
+#EXTINF:-1 ,Viasat Kino World
+http://94.232.127.28:8080/tv1000ru/index.m3u8
+#EXTINF:-1 ,Дорама
+http://193.27.209.122/dorama/index.m3u8
+#EXTINF:-1 ,Amedia Premium
+http://217.21.34.160:38007/amediapremium/index.m3u8
+#EXTINF:-1 ,Amedia Hit
+http://158.101.222.193:88/georgia_play.php?id=amediahit
+#EXTINF:-1 ,Amedia 1
+http://158.101.222.193:88/georgia_play.php?id=amedia
+#EXTINF:-1 ,Amedia 2
+http://158.101.222.193:88/georgia_play.php?id=amedia2
+#EXTINF:-1 ,Comedy Central
+http://46.8.46.14/paramountcomedy/index.m3u8
+#EXTINF:-1 ,Hollywood 
+http://46.8.46.14/amc/index.m3u8
+#EXTINF:-1 ,FAN
+http://46.8.46.14/FAN/index.m3u8
+#EXTINF:-1 ,CINEMA
+http://46.8.46.14/cinema/index.m3u8
+#EXTINF:-1, Super Baltic HD
+http://84.245.224.71/SuperBaltic/mono.m3u8
+#EXTINF:-1, Super+ Baltic HD
+http://84.245.224.71/SuperPlus/mono.m3u8
+#EXTINF:-1, Star Cinema HD
+http://84.245.224.71/StarCinemaHD/mono.m3u8
+#EXTINF:-1, Star Family HD
+http://84.245.224.71/StarFamilyHD/mono.m3u8
+#EXTINF:-1, Кино ТВ
+http://185.46.16.239:8000/Kino_TV
+#EXTINF:-1, Кино ТВ
+http://46.8.46.14/kinotv/index.m3u8
+#EXTINF:-1, TВ 21
+http://46.8.46.14/TV21/index.m3u8
+#EXTINF:-1, TВ 21М
+http://217.21.34.160:38007/tv-xxi/index.m3u8
+#EXTINF:-1, ЕВРОКИНО
+http://46.8.46.14/eurokino/index.m3u8
+#EXTINF:-1, SHOT TV
+http://195.64.140.147:10062/62
+#EXTINF:-1, ИЛЛЮЗИОН+
+http://217.21.34.160:38003/illuzionplus/index.m3u8
+#EXTINF:-1, Т24
+http://217.21.34.160:38007/tehno24/index.m3u8
+#EXTINF:-1, viju TV1000
+http://46.8.46.14/tv1000/index.m3u8
+#EXTINF:-1, viju TV1000 Action
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+#EXTINF:-1, Go3 Films
+http://94.232.127.28:8080/tv1000premium/index.m3u8
+#EXTINF:-1, Viasat Kino World
+http://94.232.127.28:8080/tv1000ru/index.m3u8
+#EXTINF:-1, viju+ Comedy
+http://46.8.46.14/vipcomedy/index.m3u8
+#EXTINF:-1, viju+ Megahit
+http://46.8.46.14/vipmegahit/index.m3u8
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:-1,КИНОСВИДАНИЕ
+http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
+#EXTINF:-1,КИНОСЕРИЯ
+http://46.8.46.14/kinoseria/index.m3u8
+#EXTINF:-1,КИНОСЕМЬЯ
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
+#EXTINF:-1,КИНОМИКС
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+#EXTINF:-1,КИНОХИТ
+http://158.101.222.193:88/georgia_play.php?id=kinohit
 
 
 
 
 
-#EXTINF:0 ,VHS Кино
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/218531.m3u8
 #EXTINF:0 ,Видеокасета VHS
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/176975.m3u8
 #EXTINF:0 ,VHS-ка
 #EXTVLCOPT:http-user-agent=SmartTV
 http://95.66.188.74/VHS/index.m3u8
+
+
+
+
+#EXTINF:-1 ,КВН ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://46.8.46.14/kvn/index.m3u8
+#EXTINF:-1 ,КВН ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://91.194.191.241:8081/chid472/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,КВН ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://93.170.254.17/KVN/index.m3u8
+#EXTINF:-1 ,Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 ,Звезда
+https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 
 
 
@@ -198,7 +280,6 @@ http://hls.goodgame.ru:8080/hls/213086.m3u8
 
 
 
-
 #EXTINF:0 ,DanceHits 80'
 #EXTVLCOPT:http-user-agent=SmartTV
 http://dancehits80.denvs.ru:8080/index.m3u8
@@ -213,6 +294,7 @@ https://karapuztv.catcast.tv/content/33418/index.m3u8
 http://hls.goodgame.ru:8080/hls/208391.m3u8
 #EXTINF:0 ,ROCK MUSIC
 https://rpn3.bozztv.com/dvrfl07/ushba-m2/tracks-v1a1/mono.m3u8
+
 
 
 
