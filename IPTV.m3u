@@ -9,38 +9,18 @@ https://kb.catcast.tv/content/49702/index.m3u8
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 ,Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 ,Киножелезо
-https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=Tb1wdjeuR8t-vMjA5UOlzw&e=1763582237&scheme=https
-#EXTINF:-1 ,Кинолаффка
-https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=S-GkSwbxbiUQUtJW2nSv_g&e=1763582237&scheme=https
-#EXTINF:-1 ,Mr.Bean Cartoon
-https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=zeh6fnTqxdCQQ-Lwzd9WRA&e=1763582238&scheme=https
-#EXTINF:-1 ,NOW: Rock
-https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=H8qlfoNwtrrujQ7WGXbz1w&e=1763582271&scheme=https
-#EXTINF:-1 ,Record Супердискотека 90х
-https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=MIhT-eBSFw2NuAFgU9PPeg&e=1763582274&scheme=https
-#EXTINF:-1 ,Bridge TV Classic
-http://arbiter.bolshoe.tv/?path=abr3/bridge_classic/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyNSA3OjU2OjU4IFBNJmhhc2hfdmFsdWU9akhGenRwNHF0aTVCRVJEQzV0TUdPUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1 ,Bridge TV Classic
 http://91.194.191.241:8081/chid466/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Bridge TV Rock
-http://arbiter.bolshoe.tv/?path=abr3/bridge_fresh/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyNSA3OjU2OjU4IFBNJmhhc2hfdmFsdWU9akhGenRwNHF0aTVCRVJEQzV0TUdPUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
-#EXTINF:-1 ,Bridge TV Rock
 http://91.194.191.241:8081/chid475/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Советские мультфильмы
-http://api.peers.tv/timeshift/sovetskiemult/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjM1ODIyMTcsImlhdCI6MTc2MzQ5NTgxNywiY2lkIjo2LCJ1aWQiOjk2NjAwMTc2NiwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI2MzYsImFkdWx0IjpmYWxzZX0.1Qbf0_Ra3crFR86r6n2F1AwQbSNhbqYfltafcLfAR7k&offset=10
 #EXTINF:-1 ,Советская Киноклассика
 http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,День Победы
 http://91.194.191.241:8081/chid168/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , Комедийное HD
-http://188.190.222.53/Kinopokaz_HD2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 , Премиальное HD
 http://188.190.222.53/Kino_Premium_HD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 , Остросюжетное HD
 http://188.190.222.53/Ostrosugetnoe_HD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 , VIP Comedy HD
-http://188.190.222.53/ComedyHD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 , VIP Megahit HD
 http://188.190.222.53/MegahitHD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 , VIP Premiere HD
