@@ -108,6 +108,21 @@ http://217.21.34.160:38005/vremya/index.m3u8
 http://178.212.71.253:8000/play/41/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/2472.png" tvg-name="Первый Крымский",Первый Крымский
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1700.png",КВН ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://46.8.46.14/kvn/index.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1700.png",КВН ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://91.194.191.241:8081/chid472/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1700.png",КВН ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+http://93.170.254.17/KVN/index.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ",Победа
+http://46.8.46.14/Pobeda/index.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ",Победа
+http://91.194.191.241:8081/chid434/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ",Победа
+http://91.207.115.228:5000/c184
 
 
 
