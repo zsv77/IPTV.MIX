@@ -23,7 +23,7 @@ http://195.9.195.3:8080/hls/153640.m3u8
 https://autopilot.catcast.tv/content/47689/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",alpha Cinema 
 http://195.9.195.3:8080/hls/205072.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",alpha Onenite 
+#EXTINF:0 group-title="КИНОЗАЛЫ",alpha Moretime
 http://195.9.195.3:8080/hls/205116.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",alpha Funny 
 http://195.9.195.3:8080/hls/206963.m3u8
@@ -49,12 +49,18 @@ http://195.9.195.3:8080/manifest/40391_master.m3u8
 http://195.9.195.3:8080/manifest/202997_master.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Zubrilom Franchise
 http://hls.goodgame.ru:8080/hls/218251.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Zubrilom Film 2
+http://hls.goodgame.ru:8080/hls/218251.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛЫ", CyberTV 1
+http://hls.goodgame.ru:8080/hls/214454.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛЫ", CyberTV 2
+http://hls.goodgame.ru:8080/hls/214433.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛЫ", CyberTV 3
+http://hls.goodgame.ru:8080/hls/214421.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Kino Mix
 http://hls.goodgame.ru:8080/hls/216612.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",ТРИКОЛОР КОМЕДИИ
-http://4je2oiwp.klaipedalt.org/iptv/5NR6V3CDUZNTZL/18137/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноДетектив
 https://cityeden.catcast.tv/content/41327/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноДрама
@@ -69,6 +75,19 @@ https://cityeden.catcast.tv/content/40783/index.m3u8
 https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноЭкшен
 https://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",IPTVPLAY ВЕДЬМАК
+http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0 group-title="КИНОЗАЛЫ",IPTVPLAY ФАНТАСТИКА
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0 group-title="КИНОЗАЛЫ",IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0 group-title="КИНОЗАЛЫ",IPTVPLAY В.О.В
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0 group-title="КИНОЗАЛЫ",IPTVPLAY ПАМЯТЬ
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0 group-title="КИНОЗАЛЫ",IPTVPLAY УЖАСТИК
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+
 
 
 
@@ -79,12 +98,6 @@ http://195.191.208.11:8087/udp/238.2.48.137:1234
 http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="КИНОУЖАС",КИНОУЖАС
 http://195.191.208.11:8087/udp/238.2.49.3:1234
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ",IPTVPLAY УЖАСТИК
-http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ",IPTVPLAY ВЕДЬМАК
-http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ",IPTVPLAY ФАНТАСТИКА
-http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ",НСТ
 http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ",НСТ
@@ -217,6 +230,23 @@ https://rpn3.bozztv.com/dvrfl07/ushba-m2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Hot Rock TV
 https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
 
+
+
+
+#EXTINF:-1 group-title="КРЫМ" ,Крым 24 HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM24HD/variant.m3u8
+#EXTINF:-1 group-title="КРЫМ" ,СТВ 24
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STV24HD/variant.m3u8
+#EXTINF:-1 group-title="КРЫМ" ,НТС
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTSHD/variant.m3u8
+#EXTINF:-1 group-title="КРЫМ" ,СТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STVHD/variant.m3u8
+#EXTINF:-1 group-title="КРЫМ" ,Евпатория 24
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EVPATORIATVHD/variant.m3u8
+#EXTINF:-1 group-title="КРЫМ" ,ТРК-555 HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TRK555HD/variant.m3u8
+#EXTINF:-1 group-title="КРЫМ" ,Первый Крымский
+https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 
 
 
