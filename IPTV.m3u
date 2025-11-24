@@ -164,8 +164,6 @@ http://46.8.46.14/tv1000/index.m3u8
 http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Go3 Films
 http://94.232.127.28:8080/tv1000premium/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Viasat Kino World
-http://94.232.127.28:8080/tv1000ru/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju+ Comedy
 http://46.8.46.14/vipcomedy/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju+ Megahit
@@ -229,9 +227,9 @@ https://rpn3.bozztv.com/dvrfl07/ushba-m2/tracks-v1a1/mono.m3u8
 https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,BRIDGE CLASSIC
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId",CATCAST MUSIC
+#EXTINF:-1 ,CATCAST MUSIC
 https://autopilot.catcast.tv/content/33418/index.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId",NM TELEVISION
+#EXTINF:-1 ,NM TELEVISION
 https://autopilot.catcast.tv/content/40650/index.m3u8
 
 
@@ -252,6 +250,11 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_EVPATORIATVHD/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TRK555HD/variant.m3u8
 #EXTINF:-1 group-title="КРЫМ" ,Первый Крымский
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:0 group-title="КРЫМ" ,Симферополь 24
+https://simf.1tvcrimea.ru/simferopol24.m3u8
+#EXTINF:0 group-title="КРЫМ" ,Родной канал
+https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
+
 
 
 
