@@ -1,289 +1,204 @@
 #EXTM3U
 
 
-
-
-
-
-
-
-#EXTINF:0 ,Moviee Toper
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/214749.m3u8
-#EXTINF:0 ,Kino Jam
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/210182.m3u8
-#EXTINF:0 ,КиноФраншизы 24/7
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/218193.m3u8
-#EXTINF:0 ,Фильмы 24/7
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/218251.m3u8
-#EXTINF:0 ,Малдер Всё тв
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/153640.m3u8
-#EXTINF:0 ,Малдер Мегахит
-#EXTVLCOPT:http-user-agent=SmartTV
-https://autopilot.catcast.tv/content/47689/index.m3u8
-#EXTINF:0 ,alpha Cinema 
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/205072.m3u8
-#EXTINF:0 ,alpha Onenite 
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/205116.m3u8
-#EXTINF:0 ,alpha Funny 
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/206963.m3u8
-#EXTINF:0 ,1FILMAX
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/204708.m3u8
-#EXTINF:0 ,2FILMAX
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:0 ,Фантом
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/204722.m3u8
-#EXTINF:0 ,Akudji
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/5346.m3u8
-#EXTINF:0 ,Selecao TV
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/163253.m3u8
-#EXTINF:0 ,Selecao TV2
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/manifest/157269_master.m3u8
-#EXTINF:0 ,Millenniym UHD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/206461.m3u8
-#EXTINF:0 ,Fantoms
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/204722.m3u8
-#EXTINF:0 ,P Boy Podpischik
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/manifest/40391_master.m3u8
-#EXTINF:0 ,Восход ТВ
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/manifest/202997_master.m3u8
-#EXTINF:0 ,Твоё ТВ HD
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:0 ,Твоё ТВ HD Юмор
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD Юмор",Твоё ТВ HD Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:0 ,Zubrilom Franchise
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:0 group-title="КИНОЗАЛЫ",Видеокасета VHS
+http://195.9.195.3:8080/hls/176975.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",VHS-ка
+http://95.66.188.74/VHS/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Moviee Toper
+http://195.9.195.3:8080/hls/214749.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Kino Jam
+http://195.9.195.3:8080/hls/210182.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",КиноФраншизы 24/7
+http://195.9.195.3:8080/hls/218193.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Фильмы 24/7
+http://195.9.195.3:8080/hls/218251.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Малдер Всё тв
+http://195.9.195.3:8080/hls/153640.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Малдер Мегахит
+https://autopilot.catcast.tv/content/47689/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",alpha Cinema 
+http://195.9.195.3:8080/hls/205072.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",alpha Onenite 
+http://195.9.195.3:8080/hls/205116.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",alpha Funny 
+http://195.9.195.3:8080/hls/206963.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",1FILMAX
+http://195.9.195.3:8080/hls/204708.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",2FILMAX
+http://195.9.195.3:8080/hls/204717.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Фантом
+http://195.9.195.3:8080/hls/204722.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Akudji
+http://195.9.195.3:8080/hls/5346.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Selecao TV
+http://195.9.195.3:8080/hls/163253.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Selecao TV2
+http://195.9.195.3:8080/manifest/157269_master.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Millenniym UHD
+http://195.9.195.3:8080/hls/206461.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Fantoms
+http://195.9.195.3:8080/hls/204722.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",P Boy Podpischik
+http://195.9.195.3:8080/manifest/40391_master.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Восход ТВ
+http://195.9.195.3:8080/manifest/202997_master.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Zubrilom Franchise
 http://hls.goodgame.ru:8080/hls/218251.m3u8
-#EXTINF:0 ,Kino Mix
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:0 group-title="КИНОЗАЛЫ",Kino Mix
 http://hls.goodgame.ru:8080/hls/216612.m3u8
-#EXTINF:0 ,LAV-KINO
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:0 group-title="КИНОЗАЛЫ",LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,ТРИКОЛОР КОМЕДИИ
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:0 group-title="КИНОЗАЛЫ",ТРИКОЛОР КОМЕДИИ
 http://4je2oiwp.klaipedalt.org/iptv/5NR6V3CDUZNTZL/18137/index.m3u8
-#EXTINF:0 ,Сити Эдем - КиноДетектив
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноДетектив
 https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:0 ,Сити Эдем - КиноДрама
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноДрама
 https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:0 ,Сити Эдем - КиноКлассика
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноКлассика
 https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:0 ,Сити Эдем - КиноКомедия
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноКомедия
 https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:0 ,Сити Эдем - КиноМистика
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноМистика
 https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:0 ,Сити Эдем - КиноФантастика
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноФантастика
 https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:0 ,Сити Эдем - КиноЭкшен
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноЭкшен
 https://cityeden.catcast.tv/content/41333/index.m3u8
+
+
+
+
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Шокирующее HD
+http://195.191.208.11:8087/udp/238.2.48.137:1234
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Кошмар HD
+http://195.9.195.3:8080/hls/204709.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="КИНОУЖАС",КИНОУЖАС
+http://195.191.208.11:8087/udp/238.2.49.3:1234
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ",IPTVPLAY УЖАСТИК
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ",IPTVPLAY ВЕДЬМАК
+http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ",IPTVPLAY ФАНТАСТИКА
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ",НСТ
+http://vod.tuva.ru/nst/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ",НСТ
+http://46.8.46.14/nst/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Fox
+http://94.232.127.28:8080/fox/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Fox Life
+http://94.232.127.28:8080/foxlife/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОХИТ
+http://94.232.127.28:8080/kinohit/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОКОМЕДИЯ
+http://94.232.127.28:8080/kinokomedia/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОСЕМЬЯ
+http://94.232.127.28:8080/kinosemja/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОСЕРИЯ
+http://94.232.127.28:8080/kinoserija/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Duo 3 HD LT
+http://94.232.127.28:8080/sony/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Duo 6 HD LT
+http://94.232.127.28:8080/sony-turbo/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",.Sci-fi
+http://94.232.127.28:8080/sony-scifi/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Viasat Kino
+http://94.232.127.28:8080/tv1000/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Viasat Kino Action
+http://94.232.127.28:8080/tv1000action/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Viasat Kino World
+http://94.232.127.28:8080/tv1000ru/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Дорама
+http://193.27.209.122/dorama/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Amedia Premium
+http://217.21.34.160:38007/amediapremium/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Comedy Central
+http://46.8.46.14/paramountcomedy/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Hollywood 
+http://46.8.46.14/amc/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",FAN
+http://46.8.46.14/FAN/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",CINEMA
+http://46.8.46.14/cinema/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Super Baltic HD
+http://84.245.224.71/SuperBaltic/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Super+ Baltic HD
+http://84.245.224.71/SuperPlus/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Star Cinema HD
+http://84.245.224.71/StarCinemaHD/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Star Family HD
+http://84.245.224.71/StarFamilyHD/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Кино ТВ
+http://46.8.46.14/kinotv/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",TВ 21
+http://46.8.46.14/TV21/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",TВ 21М
+http://217.21.34.160:38007/tv-xxi/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",ЕВРОКИНО
+http://46.8.46.14/eurokino/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Flix Snip
+http://194.32.242.245/flixsnip/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",ИЛЛЮЗИОН+
+http://217.21.34.160:38003/illuzionplus/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Т24
+http://217.21.34.160:38007/tehno24/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju TV1000
+http://46.8.46.14/tv1000/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju TV1000 Action
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Go3 Films
+http://94.232.127.28:8080/tv1000premium/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Viasat Kino World
+http://94.232.127.28:8080/tv1000ru/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju+ Comedy
+http://46.8.46.14/vipcomedy/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju+ Megahit
+http://46.8.46.14/vipmegahit/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", viju+ Megahit
+http://194.32.242.245/vipmegahit/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",VIP Megahit
+http://188.190.222.53/MegahitHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", viju+ PREMIERE
+http://194.32.242.245/vippremiere/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", viju+ PREMIERE
+http://188.190.222.53/PremiereHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Премиальное HD
+http://188.190.222.53/Kino_Premium_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Остросюжетное HD
+http://188.190.222.53/Ostrosugetnoe_HD/tracks-v1a1/mono.ts.m3u8
+
 
 
 
 #EXTINF:-1 ,ТВ3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:0 ,Шокирующее HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.191.208.11:8087/udp/238.2.48.137:1234
-#EXTINF:0 ,Кошмар HD
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/204709.m3u8
-#EXTINF:0 ,КИНОУЖАС
-#EXTVLCOPT:http-user-agent=SmartTV
-http://91.194.191.241:8081/chid461/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,КИНОУЖАС
-#EXTVLCOPT:http-user-agent=SmartTV
-http://tvip.btk.teleos.ru:8081/chid461/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,КИНОУЖАС
-#EXTVLCOPT:http-user-agent=SmartTV
-http://91.207.115.228:5000/c43
-#EXTINF:0 ,IPTVPLAY УЖАСТИК
-#EXTVLCOPT:http-user-agent=SmartTV
-http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 ,IPTVPLAY ВЕДЬМАК
-#EXTVLCOPT:http-user-agent=SmartTV
-http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 ,IPTVPLAY ФАНТАСТИКА
-#EXTVLCOPT:http-user-agent=SmartTV
-http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0  ,НСТ
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/217855.m3u8
-#EXTINF:0 ,НСТ
-#EXTVLCOPT:http-user-agent=SmartTV
-http://vod.tuva.ru/nst/index.m3u8
-#EXTINF:0 ,НСТ
-#EXTVLCOPT:http-user-agent=SmartTV
-http://46.8.46.14/nst/index.m3u8
-#EXTINF:0 ,НСТ
-#EXTVLCOPT:http-user-agent=SmartTV
-http://91.207.115.228:5000/c169
-#EXTINF:0 ,Flix Snip
-#EXTVLCOPT:http-user-agent=SmartTV
-http://194.32.242.245/flixsnip/index.m3u8
-#EXTINF:-1 ,Fox
-http://94.232.127.28:8080/fox/index.m3u8
-#EXTINF:-1 ,Fox Life
-http://94.232.127.28:8080/foxlife/index.m3u8
-#EXTINF:-1 ,Кинохит
-http://94.232.127.28:8080/kinohit/index.m3u8
-#EXTINF:-1 ,Кинокомедия
-http://94.232.127.28:8080/kinokomedia/index.m3u8
-#EXTINF:-1 ,Киносемья
-http://94.232.127.28:8080/kinosemja/index.m3u8
-#EXTINF:-1 ,Киносерия
-http://94.232.127.28:8080/kinoserija/index.m3u8
-#EXTINF:-1 ,Duo 3 HD LT
-http://94.232.127.28:8080/sony/index.m3u8
-#EXTINF:-1 ,Duo 6 HD LT
-http://94.232.127.28:8080/sony-turbo/index.m3u8
-#EXTINF:-1 ,.Sci-fi
-http://94.232.127.28:8080/sony-scifi/index.m3u8
-#EXTINF:-1 ,Viasat Kino
-http://94.232.127.28:8080/tv1000/index.m3u8
-#EXTINF:-1 ,Viasat Kino Action
-http://94.232.127.28:8080/tv1000action/index.m3u8
-#EXTINF:-1 ,Viasat Kino World
-http://94.232.127.28:8080/tv1000ru/index.m3u8
-#EXTINF:-1 ,Дорама
-http://193.27.209.122/dorama/index.m3u8
-#EXTINF:-1 ,Amedia Premium
-http://217.21.34.160:38007/amediapremium/index.m3u8
-#EXTINF:-1 ,Comedy Central
-http://46.8.46.14/paramountcomedy/index.m3u8
-#EXTINF:-1 ,Hollywood 
-http://46.8.46.14/amc/index.m3u8
-#EXTINF:-1 ,FAN
-http://46.8.46.14/FAN/index.m3u8
-#EXTINF:-1 ,CINEMA
-http://46.8.46.14/cinema/index.m3u8
-#EXTINF:-1, Super Baltic HD
-http://84.245.224.71/SuperBaltic/mono.m3u8
-#EXTINF:-1, Super+ Baltic HD
-http://84.245.224.71/SuperPlus/mono.m3u8
-#EXTINF:-1, Star Cinema HD
-http://84.245.224.71/StarCinemaHD/mono.m3u8
-#EXTINF:-1, Star Family HD
-http://84.245.224.71/StarFamilyHD/mono.m3u8
-#EXTINF:-1, Кино ТВ
-http://185.46.16.239:8000/Kino_TV
-#EXTINF:-1, Кино ТВ
-http://46.8.46.14/kinotv/index.m3u8
-#EXTINF:-1, TВ 21
-http://46.8.46.14/TV21/index.m3u8
-#EXTINF:-1, TВ 21М
-http://217.21.34.160:38007/tv-xxi/index.m3u8
-#EXTINF:-1, ЕВРОКИНО
-http://46.8.46.14/eurokino/index.m3u8
-#EXTINF:-1, SHOT TV
-http://195.64.140.147:10062/62
-#EXTINF:-1, ИЛЛЮЗИОН+
-http://217.21.34.160:38003/illuzionplus/index.m3u8
-#EXTINF:-1, Т24
-http://217.21.34.160:38007/tehno24/index.m3u8
-#EXTINF:-1, viju TV1000
-http://46.8.46.14/tv1000/index.m3u8
-#EXTINF:-1, viju TV1000 Action
-http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
-#EXTINF:-1, Go3 Films
-http://94.232.127.28:8080/tv1000premium/index.m3u8
-#EXTINF:-1, viju+ Comedy
-http://46.8.46.14/vipcomedy/index.m3u8
-#EXTINF:-1, viju+ Megahit
-http://46.8.46.14/vipmegahit/index.m3u8
-#EXTINF:-1, viju+ Megahit
-http://194.32.242.245/vipmegahit/index.m3u8
-#EXTINF:-1 , viju+ PREMIERE
-http://194.32.242.245/vippremiere/index.m3u8
-#EXTINF:-1 ,Советская Киноклассика
-http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Мосфильм. Золотая коллекция
-http://188.190.222.53/Mosfilm/index.m3u8
-#EXTINF:-1 ,Премиальное HD
-http://188.190.222.53/Kino_Premium_HD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ,Остросюжетное HD
-http://188.190.222.53/Ostrosugetnoe_HD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ,VIP Megahit HD
-http://188.190.222.53/MegahitHD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  ,VIP Premiere HD
-http://188.190.222.53/PremiereHD/tracks-v1a1/mono.ts.m3u8
-
-
-
-
-#EXTINF:0 ,Видеокасета VHS
-#EXTVLCOPT:http-user-agent=SmartTV
-http://195.9.195.3:8080/hls/176975.m3u8
-#EXTINF:0 ,VHS-ка
-#EXTVLCOPT:http-user-agent=SmartTV
-http://95.66.188.74/VHS/index.m3u8
-
-
-
-
 #EXTINF:-1 ,КВН ТВ
-#EXTVLCOPT:http-user-agent=SmartTV
 http://46.8.46.14/kvn/index.m3u8
 #EXTINF:-1 ,КВН ТВ
-#EXTVLCOPT:http-user-agent=SmartTV
-http://91.194.191.241:8081/chid472/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,КВН ТВ
-#EXTVLCOPT:http-user-agent=SmartTV
 http://93.170.254.17/KVN/index.m3u8
 #EXTINF:-1 ,Победа
 http://46.8.46.14/Pobeda/index.m3u8
-#EXTINF:-1 ,Победа
-http://91.194.191.241:8081/chid434/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Победа
 http://91.207.115.228:5000/c184
 #EXTINF:-1 ,Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
-#EXTINF:-1 ,День Победы
-http://91.194.191.241:8081/chid168/tracks-v1a1/mono.m3u8
 
 
 
 
 #EXTINF:0 ,2x2
-#EXTVLCOPT:http-user-agent=SmartTV
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:0 ,Futurama
-#EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/199417.m3u8
 #EXTINF:0 ,IPTVPLAY МультСказки
-#EXTVLCOPT:http-user-agent=SmartTV
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 ,Ретро Мульт
-#EXTVLCOPT:http-user-agent=SmartTV
-http://hls.goodgame.ru:8080/hls/213086.m3u8
 
 
 
@@ -299,16 +214,11 @@ http://2.57.217.85:8000/play/a08h/index.m3u8
 http://hls.goodgame.ru:8080/hls/208391.m3u8
 #EXTINF:0 ,ROCK MUSIC
 https://rpn3.bozztv.com/dvrfl07/ushba-m2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Bridge TV Classic
-http://91.194.191.241:8081/chid466/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Bridge TV Rock
-http://91.194.191.241:8081/chid475/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Hot Rock TV
 https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
-#EXTINF:-1 , MTV 80s
-http://213.169.39.30:5137
-#EXTINF:-1 , MTV 90s
-http://213.169.39.30:5203
+
+
+
 
 
 #EXTINF:0  ,Камин
