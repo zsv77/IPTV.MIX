@@ -17,8 +17,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ",НТВ (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ",НТВ
-https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
-#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ",НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ",ТНТ (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
@@ -47,7 +45,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/405.png" tvg-name="Звезда",Звезда (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/405.png" tvg-name="Звезда",Звезда
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/427.png" tvg-name="Пятый Канал",Пятый Канал (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/427.png" tvg-name="Пятый Канал",Пятый Канал
@@ -92,8 +90,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/2308.png" tvg-name="Москва Доверие",Москва Доверие
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="https://abiturient.smolgu.ru/upload/iblock/a27/pnfncnno9thzecpkc35799tglb88ygdv/logo@2x.png" tvg-name="Регион 67",Регион 67 (Смоленск)
-https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="https://abiturient.smolgu.ru/upload/iblock/a27/pnfncnno9thzecpkc35799tglb88ygdv/logo@2x.png" tvg-name="Регион 67",Регион 67 (Смоленск)
 http://212.3.155.126:8181/udp/233.67.67.177:5510
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/6783.png" tvg-name="ТЕО-ТВ",ТЕО-ТВ
@@ -109,18 +105,11 @@ http://178.212.71.253:8000/play/41/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/2472.png" tvg-name="Первый Крымский",Первый Крымский
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1700.png",КВН ТВ
-#EXTVLCOPT:http-user-agent=SmartTV
 http://46.8.46.14/kvn/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1700.png",КВН ТВ
-#EXTVLCOPT:http-user-agent=SmartTV
-http://91.194.191.241:8081/chid472/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1700.png",КВН ТВ
-#EXTVLCOPT:http-user-agent=SmartTV
 http://93.170.254.17/KVN/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ",Победа
 http://46.8.46.14/Pobeda/index.m3u8
-#EXTINF:0 group-title="ЭФИРНЫЕ",Победа
-http://91.194.191.241:8081/chid434/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ",Победа
 http://91.207.115.228:5000/c184
 
@@ -540,8 +529,14 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 https://tv.a21network.ru/stream/40650/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ",MIXM TV
 http://89.179.247.144/hls/mixm.m3u8
-
-
+#EXTINF:-1 ,BRIDGE CLASSIC
+http://91.194.191.241:8081/chid466/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,BRIDGE ROCK
+http://91.194.191.241:8081/chid475/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Hot Rock TV
+https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
+#EXTINF:0 ,ROCK MUSIC
+https://rpn3.bozztv.com/dvrfl07/ushba-m2/tracks-v1a1/mono.m3u8
 
 
 
