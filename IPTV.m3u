@@ -49,8 +49,6 @@ http://195.9.195.3:8080/manifest/40391_master.m3u8
 http://195.9.195.3:8080/manifest/202997_master.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Zubrilom Franchise
 http://hls.goodgame.ru:8080/hls/218251.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Zubrilom Film 2
-http://hls.goodgame.ru:8080/hls/218251.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛЫ", CyberTV 1
 http://hls.goodgame.ru:8080/hls/214454.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛЫ", CyberTV 2
@@ -229,6 +227,13 @@ http://hls.goodgame.ru:8080/hls/208391.m3u8
 https://rpn3.bozztv.com/dvrfl07/ushba-m2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Hot Rock TV
 https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,BRIDGE CLASSIC
+http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1 tvg-id="simpleTVFakeEpgId",CATCAST MUSIC
+https://autopilot.catcast.tv/content/33418/index.m3u8
+#EXTINF:-1 tvg-id="simpleTVFakeEpgId",NM TELEVISION
+https://autopilot.catcast.tv/content/40650/index.m3u8
+
 
 
 
