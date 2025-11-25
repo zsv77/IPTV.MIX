@@ -168,68 +168,57 @@ http://94.232.127.28:8080/tv1000premium/index.m3u8
 http://46.8.46.14/vipcomedy/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju+ Megahit
 http://46.8.46.14/vipmegahit/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", viju+ Megahit
-http://194.32.242.245/vipmegahit/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",VIP Megahit
-http://188.190.222.53/MegahitHD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", viju+ PREMIERE
-http://194.32.242.245/vippremiere/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", viju+ PREMIERE
-http://188.190.222.53/PremiereHD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Премиальное HD
-http://188.190.222.53/Kino_Premium_HD/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Остросюжетное HD
-http://188.190.222.53/Ostrosugetnoe_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", viju+ Premiere
+http://2.57.217.85:8000/play/a03f/index.m3u8
 
 
 
-
-#EXTINF:-1 ,ТВ3
+#EXTINF:-1 group-title="ЭФИРНЫЕ", ТВ3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 ,КВН ТВ
+#EXTINF:-1 group-title="ЭФИРНЫЕ", КВН ТВ
 http://46.8.46.14/kvn/index.m3u8
-#EXTINF:-1 ,КВН ТВ
+#EXTINF:-1 group-title="ЭФИРНЫЕ", КВН ТВ
 http://93.170.254.17/KVN/index.m3u8
-#EXTINF:-1 ,Победа
+#EXTINF:-1 group-title="ЭФИРНЫЕ", Победа
 http://46.8.46.14/Pobeda/index.m3u8
-#EXTINF:-1 ,Победа
+#EXTINF:-1 group-title="ЭФИРНЫЕ", Победа
 http://91.207.115.228:5000/c184
-#EXTINF:-1 ,Звезда HD
+#EXTINF:-1 group-title="ЭФИРНЫЕ", Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 ,Звезда
+#EXTINF:-1 group-title="ЭФИРНЫЕ", Звезда
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 
 
 
 
-#EXTINF:0 ,2x2
+#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ",2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:0 ,Futurama
+#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ",Futurama
 http://195.9.195.3:8080/hls/199417.m3u8
-#EXTINF:0 ,IPTVPLAY МультСказки
+#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ",IPTVPLAY МультСказки
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
 
 
-#EXTINF:0 ,DanceHits 80'
+#EXTINF:0 group-title="МУЗЫКА",DanceHits 80'
 #EXTVLCOPT:http-user-agent=SmartTV
 http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:0 ,4ever Music
+#EXTINF:0 group-title="МУЗЫКА",4ever Music
 #EXTVLCOPT:http-user-agent=SmartTV
 http://2.57.217.85:8000/play/a08h/index.m3u8
-#EXTINF:0 ,15+ MUSIC
+#EXTINF:0 group-title="МУЗЫКА",15+ MUSIC
 #EXTVLCOPT:http-user-agent=SmartTV
 http://hls.goodgame.ru:8080/hls/208391.m3u8
-#EXTINF:0 ,ROCK MUSIC
+#EXTINF:0 group-title="МУЗЫКА",ROCK MUSIC
 https://rpn3.bozztv.com/dvrfl07/ushba-m2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Hot Rock TV
+#EXTINF:-1 group-title="МУЗЫКА",Hot Rock TV
 https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,BRIDGE CLASSIC
+#EXTINF:-1 group-title="МУЗЫКА",BRIDGE CLASSIC
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
-#EXTINF:-1 ,CATCAST MUSIC
+#EXTINF:-1 group-title="МУЗЫКА",CATCAST MUSIC
 https://autopilot.catcast.tv/content/33418/index.m3u8
-#EXTINF:-1 ,NM TELEVISION
+#EXTINF:-1 group-title="МУЗЫКА",NM TELEVISION
 https://autopilot.catcast.tv/content/40650/index.m3u8
 
 
@@ -259,9 +248,29 @@ https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
 
 
 
-#EXTINF:0  ,Камин
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:0 group-title="RELAX" ,Камин
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
-#EXTINF:-1 ,Звуки дождя
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:0 group-title="RELAX" ,Камин 2
+http://iptv.prosto.tv:7000/ch318/video.m3u8
+#EXTINF:0 group-title="RELAX" ,Ночь
+http://iptv.prosto.tv:7000/ch349/video.m3u8
+#EXTINF:-1 group-title="RELAX" ,Звуки дождя
 http://195.9.195.3:8080/hls/198378.m3u8
+#EXTINF:-1 group-title="RELAX" ,Пляж
+http://iptv.prosto.tv:7000/ch332/video.m3u8
+#EXTINF:-1 group-title="RELAX" ,Огонь
+http://iptv.prosto.tv:7000/ch331/video.m3u8
+#EXTINF:-1 group-title="RELAX" ,Река
+http://iptv.prosto.tv:7000/ch338/video.m3u8
+#EXTINF:-1 group-title="RELAX" ,Аквариум
+http://iptv.prosto.tv:7000/ch325/video.m3u8
+#EXTINF:-1 group-title="RELAX" ,Подводный мир
+http://iptv.prosto.tv:7000/ch305/video.m3u8
+#EXTINF:-1 group-title="RELAX" ,Зима
+http://iptv.prosto.tv:7000/ch327/video.m3u8
+#EXTINF:-1 group-title="RELAX" ,Водопад
+http://iptv.prosto.tv:7000/ch329/video.m3u8
+#EXTINF:-1 group-title="RELAX" ,Лес
+http://iptv.prosto.tv:7000/ch330/video.m3u8
+#EXTINF:-1 group-title="RELAX" ,Флора
+http://iptv.prosto.tv:7000/ch346/video.m3u8
