@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+#EXTINF:0 group-title="КИНОЗАЛЫ",STR TV
+https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD Юмор",Твоё ТВ HD Юмор
@@ -27,9 +29,9 @@ http://195.9.195.3:8080/hls/205072.m3u8
 http://195.9.195.3:8080/hls/205116.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",alpha Funny 
 http://195.9.195.3:8080/hls/206963.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",1FILMAX
+#EXTINF:0 group-title="КИНОЗАЛЫ",1FILMAX Фантастика
 http://195.9.195.3:8080/hls/204708.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",2FILMAX
+#EXTINF:0 group-title="КИНОЗАЛЫ",2FILMAX Комедия
 http://195.9.195.3:8080/hls/204717.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Фантом
 http://195.9.195.3:8080/hls/204722.m3u8
@@ -93,6 +95,11 @@ https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
 https://autopilot.catcast.tv/content/44051/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Movie Classic
 http://195.64.140.147:10061/61
+#EXTINF:0 group-title="КИНОЗАЛЫ",Мистер Бин
+https://fl1003.bozztv.com/ushba45/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Советское кино
+https://fl1003.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -244,6 +251,9 @@ http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ", Советские мультфильмы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/tnD8wTiSR_6Vzv3wZgMHqQ,1764143816/streaming/rusmult/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ",Маша и медведь (ENG)
+https://glb.bozztv.com/glb/ushba78/index.m3u8
+
 
 
 
@@ -269,6 +279,8 @@ https://autopilot.catcast.tv/content/40650/index.m3u8
 #EXTINF:-1 group-title="МУЗЫКА", BRIDGE ROCK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/Eukk5wBa8Wtlw-qLCeTAwg,1764143818/streaming/br_rock/324/1/index.m3u8
+#EXTINF:-1 group-title="МУЗЫКА", О!2
+http://195.26.83.96:7006/play/1/index.m3u8
 
 
 
@@ -298,27 +310,5 @@ https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
 
 #EXTINF:0 group-title="RELAX" ,Камин
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
-#EXTINF:0 group-title="RELAX" ,Камин 2
-http://iptv.prosto.tv:7000/ch318/video.m3u8
-#EXTINF:0 group-title="RELAX" ,Ночь
-http://iptv.prosto.tv:7000/ch349/video.m3u8
 #EXTINF:-1 group-title="RELAX" ,Звуки дождя
 http://195.9.195.3:8080/hls/198378.m3u8
-#EXTINF:-1 group-title="RELAX" ,Пляж
-http://iptv.prosto.tv:7000/ch332/video.m3u8
-#EXTINF:-1 group-title="RELAX" ,Огонь
-http://iptv.prosto.tv:7000/ch331/video.m3u8
-#EXTINF:-1 group-title="RELAX" ,Река
-http://iptv.prosto.tv:7000/ch338/video.m3u8
-#EXTINF:-1 group-title="RELAX" ,Аквариум
-http://iptv.prosto.tv:7000/ch325/video.m3u8
-#EXTINF:-1 group-title="RELAX" ,Подводный мир
-http://iptv.prosto.tv:7000/ch305/video.m3u8
-#EXTINF:-1 group-title="RELAX" ,Зима
-http://iptv.prosto.tv:7000/ch327/video.m3u8
-#EXTINF:-1 group-title="RELAX" ,Водопад
-http://iptv.prosto.tv:7000/ch329/video.m3u8
-#EXTINF:-1 group-title="RELAX" ,Лес
-http://iptv.prosto.tv:7000/ch330/video.m3u8
-#EXTINF:-1 group-title="RELAX" ,Флора
-http://iptv.prosto.tv:7000/ch346/video.m3u8
