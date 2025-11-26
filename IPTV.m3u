@@ -21,6 +21,12 @@ http://hls.goodgame.ru:8080/hls/218251.m3u8
 http://hls.goodgame.ru:8080/hls/175764.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",TvBoom-ViP
 https://kb.catcast.tv/content/49702/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Katastroff
+http://hls.goodgame.ru:8080/hls/208789.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",AV LIVE МУЛЬТФИЛЬМЫ
+http://hls.goodgame.ru:8080/hls/106103.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Абсолют синема
+http://hls.goodgame.ru:8080/hls/122102_prem.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Видеокассета VHS
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Видеокассета VHS
@@ -119,6 +125,8 @@ https://autopilot.catcast.tv/content/44051/index.m3u8
 http://195.64.140.147:10061/61
 #EXTINF:0 group-title="КИНОЗАЛЫ",Мистер Бин
 https://fl1003.bozztv.com/ushba45/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Шоу Бенни Хилла
+https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Советское кино
 https://fl1003.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
 
