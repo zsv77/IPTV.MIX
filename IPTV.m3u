@@ -1,6 +1,28 @@
 #EXTM3U
 
 
+#EXTINF:0 group-title="КИНОЗАЛЫ",TV4 HD
+https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",TV4 SD
+https://dvr3.vokkavideo.xyz/TV4SD/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",HD Comedy
+http://2.57.217.85:8000/play/a074/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",HD Kino
+http://2.57.217.85:8000/play/a05j/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Новый Русский
+https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",HTV HD
+https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Film Best
+http://hls.goodgame.ru:8080/hls/212682.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Zubrilom Film 2
+http://hls.goodgame.ru:8080/hls/218251.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",ВИДЕОСАЛОН VHS
+http://hls.goodgame.ru:8080/hls/175764.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",TvBoom-ViP
+https://kb.catcast.tv/content/49702/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Видеокассета VHS
+https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",STR TV
 https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD",Твоё ТВ HD
@@ -48,7 +70,7 @@ http://195.9.195.3:8080/manifest/40391_master.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Восход ТВ
 http://195.9.195.3:8080/manifest/202997_master.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Zubrilom Franchise
-http://hls.goodgame.ru:8080/hls/218251.m3u8
+http://hls.goodgame.ru:8080/hls/218193.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛЫ", CyberTV 1
 http://hls.goodgame.ru:8080/hls/214454.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛЫ", CyberTV 2
