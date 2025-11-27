@@ -268,6 +268,8 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD Юмор",Твоё ТВ HD Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",DTR Zona 1
+https://kino-stream.online/hls/DTRZON
 #EXTINF:0 group-title="КИНОЗАЛЫ",Фантом
 http://195.9.195.3:8080/hls/204722.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Zubrilom Franchise
@@ -292,6 +294,8 @@ https://dvr3.vokkavideo.xyz/TV4SD/index.m3u8
 http://2.57.217.85:8000/play/a074/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",HD Kino
 http://2.57.217.85:8000/play/a05j/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",HD Kids
+http://2.57.217.85:8000/play/a05q/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Kino Mix
 http://hls.goodgame.ru:8080/hls/216612.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Film Best
@@ -310,6 +314,10 @@ http://hls.goodgame.ru:8080/hls/214433.m3u8
 http://hls.goodgame.ru:8080/hls/214421.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Kino Jam
 http://195.9.195.3:8080/hls/210182.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Scripach TV
+https://live21.bozztv.com/akamaissh101/ssh101/scripachmovie/chunks.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Кинозал
+http://185.57.68.33/237/mpegts
 #EXTINF:0 group-title="КИНОЗАЛЫ",ВИДЕОСАЛОН VHS
 http://hls.goodgame.ru:8080/hls/175764.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",VHS-ка
@@ -346,6 +354,12 @@ http://195.9.195.3:8080/manifest/40391_master.m3u8
 http://195.9.195.3:8080/manifest/202997_master.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Британский юмор
+http://hls.goodgame.ru:8080/hls/218490.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",УЖАСЫ ФАНТАСТИКА 80-90-00
+http://hls.goodgame.ru:8080/hls/211351.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",KPOT666NETOT
+http://hls.goodgame.ru:8080/hls/207482.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноДетектив
 https://cityeden.catcast.tv/content/41327/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноДрама
@@ -400,6 +414,10 @@ https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/mono.ts.m3u8
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" ,НТВ Шеф
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" ,НТВ Балабол
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" ,НТВ Пять минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" ,Retrovision
 https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" ,Retrovision Motor
