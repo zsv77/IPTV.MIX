@@ -11,7 +11,7 @@ http://195.9.195.3:8080/hls/204722.m3u8
 http://hls.goodgame.ru:8080/hls/218193.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Zubrilom Film 2
 http://hls.goodgame.ru:8080/hls/218251.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",STR TV
+#EXTINF:0 group-title="КИНОЗАЛЫ",STR TV (ushba.tv)
 https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Selecao TV
 http://195.9.195.3:8080/hls/163253.m3u8
@@ -77,14 +77,12 @@ http://hls.goodgame.ru:8080/hls/122102_prem.m3u8
 http://195.9.195.3:8080/manifest/40391_master.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Восход ТВ
 http://195.9.195.3:8080/manifest/202997_master.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",LAV-KINO
+#EXTINF:0 group-title="КИНОЗАЛЫ",LAV-KINO (ushba.tv)
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Британский юмор
 http://hls.goodgame.ru:8080/hls/218490.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",УЖАСЫ ФАНТАСТИКА 80-90-00
 http://hls.goodgame.ru:8080/hls/211351.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",KPOT666NETOT
-http://hls.goodgame.ru:8080/hls/207482.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",DTR Zona 1
 https://kino-stream.online/hls/DTRZON
 #EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноДетектив
@@ -113,19 +111,19 @@ http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0 group-title="КИНОЗАЛЫ",IPTVPLAY УЖАСТИК
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="КИНОЗАЛЫ",ЕРАЛАШ
+#EXTINF:0 group-title="КИНОЗАЛЫ",ЕРАЛАШ (ushba.tv)
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",КИНОЗАЛ
+#EXTINF:0 group-title="КИНОЗАЛЫ",КИНОЗАЛ (ushba.tv)
 https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Советское кино
+#EXTINF:0 group-title="КИНОЗАЛЫ",Советское кино (ushba.tv)
 https://fl1003.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Мистер Бин
+#EXTINF:0 group-title="КИНОЗАЛЫ",Мистер Бин (ushba.tv)
 https://fl1003.bozztv.com/ushba45/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Шоу Бенни Хилла
+#EXTINF:0 group-title="КИНОЗАЛЫ",Шоу Бенни Хилла (ushba.tv)
 https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Приколы-1
+#EXTINF:0 group-title="КИНОЗАЛЫ",Приколы-1 (ushba.tv)
 https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Приколы-2
+#EXTINF:0 group-title="КИНОЗАЛЫ",Приколы-2 (ushba.tv)
 https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
 
 
@@ -257,38 +255,38 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 http://195.9.195.3:8080/hls/199417.m3u8
 #EXTINF:0 group-title="МУЛЬТФИЛЬМЫ",IPTVPLAY МультСказки
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ",Маша и медведь (ENG)
+#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ",Маша и медведь (ushba.tv)
+https://live21.bozztv.com/giatvplayout7/ushba79/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ",Маша и медведь ENG (ushba.tv)
 https://glb.bozztv.com/glb/ushba78/index.m3u8
 
 
 
 
 
-#EXTINF:0 group-title="МУЗЫКА",Rock TV BR
+
+#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://gog.su/qKXJ",Rock TV BR
 https://video03.logicahost.com.br/tvrockhd/tvrockhd/chunklist_w1624224756.m3u8
-#EXTINF:0 group-title="МУЗЫКА",ROCK TV
+#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://gog.su/qKXJ",ROCK TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
-#EXTINF:0 group-title="МУЗЫКА",ROCK TV
+#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://gog.su/qKXJ",ROCK TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-#EXTINF:0 group-title="МУЗЫКА",ROCKDAY TV
+#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://gog.su/qKXJ",ROCKDAY TV
 http://hls.goodgame.ru:8080/hls/198928.m3u8
+#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://gog.su/qKXJ",ROCK MUSIC (ushba.tv)
+https://rpn3.bozztv.com/dvrfl07/ushba-m2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="МУЗЫКА" tvg-logo="https://gog.su/qKXJ",Hot Rock TV
+https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="МУЗЫКА",DanceHits 80'
-#EXTVLCOPT:http-user-agent=SmartTV
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:0 group-title="МУЗЫКА",4ever Music
-#EXTVLCOPT:http-user-agent=SmartTV
 http://2.57.217.85:8000/play/a08h/index.m3u8
 #EXTINF:0 group-title="МУЗЫКА",15+ MUSIC
-#EXTVLCOPT:http-user-agent=SmartTV
 http://hls.goodgame.ru:8080/hls/208391.m3u8
-#EXTINF:0 group-title="МУЗЫКА",ROCK MUSIC
-https://rpn3.bozztv.com/dvrfl07/ushba-m2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="МУЗЫКА",Hot Rock TV
-https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="МУЗЫКА",BRIDGE CLASSIC
-http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",NM TELEVISION
 https://autopilot.catcast.tv/content/40650/index.m3u8
+#EXTINF:-1 group-title="МУЗЫКА",BRIDGE CLASSIC
+http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 
 
 
