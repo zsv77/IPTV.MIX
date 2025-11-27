@@ -297,6 +297,17 @@ https://glb.bozztv.com/glb/ushba78/index.m3u8
 
 
 
+
+#EXTINF:0 group-title="МУЗЫКА",Rock TV BR
+https://video03.logicahost.com.br/tvrockhd/tvrockhd/chunklist_w1624224756.m3u8
+#EXTINF:0 group-title="МУЗЫКА",ROCK TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+#EXTINF:0 group-title="МУЗЫКА",ROCK TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:0 group-title="МУЗЫКА",Rock TV IT
+https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8
+#EXTINF:0 group-title="МУЗЫКА",ROCKDAY TV
+http://hls.goodgame.ru:8080/hls/198928.m3u8
 #EXTINF:0 group-title="МУЗЫКА",DanceHits 80'
 #EXTVLCOPT:http-user-agent=SmartTV
 http://dancehits80.denvs.ru:8080/index.m3u8
