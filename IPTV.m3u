@@ -265,17 +265,17 @@ https://glb.bozztv.com/glb/ushba78/index.m3u8
 
 
 
-#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://gog.su/qKXJ",Rock TV BR
+#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://cdn-icons-png.flaticon.com/512/487/487169.png",Rock TV BR
 https://video03.logicahost.com.br/tvrockhd/tvrockhd/chunklist_w1624224756.m3u8
-#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://gog.su/qKXJ",ROCK TV
+#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://cdn-icons-png.flaticon.com/512/487/487169.png",ROCK TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
-#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://gog.su/qKXJ",ROCK TV
+#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://cdn-icons-png.flaticon.com/512/487/487169.png",ROCK TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://gog.su/qKXJ",ROCKDAY TV
+#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://cdn-icons-png.flaticon.com/512/487/487169.png",ROCKDAY TV
 http://hls.goodgame.ru:8080/hls/198928.m3u8
-#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://gog.su/qKXJ",ROCK MUSIC (ushba.tv)
+#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://cdn-icons-png.flaticon.com/512/487/487169.png",ROCK MUSIC (ushba.tv)
 https://rpn3.bozztv.com/dvrfl07/ushba-m2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="МУЗЫКА" tvg-logo="https://gog.su/qKXJ",Hot Rock TV
+#EXTINF:-1 group-title="МУЗЫКА" tvg-logo="https://cdn-icons-png.flaticon.com/512/487/487169.png",Hot Rock TV
 https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="МУЗЫКА",DanceHits 80'
 http://dancehits80.denvs.ru:8080/index.m3u8
