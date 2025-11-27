@@ -344,7 +344,7 @@ https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
 https://kb.catcast.tv/content/49702/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Katastroff
 http://hls.goodgame.ru:8080/hls/208789.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",AV LIVE МУЛЬТФИЛЬМЫ
+#EXTINF:0 group-title="КИНОЗАЛЫ",AV LIVE
 http://hls.goodgame.ru:8080/hls/106103.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Абсолют синема
 http://hls.goodgame.ru:8080/hls/122102_prem.m3u8
@@ -418,6 +418,12 @@ https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" ,НТВ Пять минут тишины
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" ,STAR MEDIA
+https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Приколы-1
+https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Приколы-2
+https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" ,Retrovision
 https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" ,Retrovision Motor
@@ -557,6 +563,10 @@ https://karapuztv.catcast.tv/content/33418/index.m3u8
 http://hls.goodgame.ru:8080/hls/208391.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-name="ТНТ MUSIC HD" ,ТНТ MUSIC HD
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ",TMF RUS
+http://195.9.195.3:8080/hls/201891.m3u8
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ",VIVA RUSSIA
+http://195.9.195.3:8080/hls/180805.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/897.png" tvg-name="Муз ТВ" ,Муз ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/2277.png" tvg-name="RU TV HD",RU TV HD
@@ -581,12 +591,6 @@ http://kino-1.catcast.tv/content/37745/index.m3u8
 http://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-name="Музыка Кино International" ,Музыка Кино International
 http://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-name="Радио Шансон тв HD" ,Радио Шансон ТВ
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-name="Шансон ТВ" ,Шансон ТВ
-http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ",A21 Network - NM TV
-https://tv.a21network.ru/stream/40650/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ", MIXM TV
 http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", Hot Rock TV
@@ -599,11 +603,14 @@ http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 https://autopilot.catcast.tv/content/33418/index.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", NM TELEVISION
 https://autopilot.catcast.tv/content/40650/index.m3u8
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ",NM TELEVISION
+https://tv.a21network.ru/stream/40650/index.m3u8
 
 
 
 
-
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" ,Светлое ТВ
+http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="RTG TV",RTG TV
 http://46.8.46.14/rutravel/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Телепутешествия" ,Телепутешествия
@@ -1517,7 +1524,11 @@ http://iptv.netcome.ru:8000/play/a02a/index.m3u8
 
 
 
-#EXTINF:0 group-title="ЗАСТАВКИ"  ,Камин
+#EXTINF:0 group-title="RELAX" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Камин
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
-#EXTINF:0 group-title="ЗАСТАВКИ"  ,Звуки дождя
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Звуки дождя
 http://195.9.195.3:8080/hls/198378.m3u8
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",World HD
+http://185.57.68.33/232/mpegts
+#EXTINF:0 group-title="RELAX" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",STINGRAY Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8

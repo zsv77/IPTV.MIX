@@ -123,7 +123,10 @@ https://fl1003.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
 https://fl1003.bozztv.com/ushba45/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Шоу Бенни Хилла
 https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
-
+#EXTINF:0 group-title="КИНОЗАЛЫ",Приколы-1
+https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Приколы-2
+https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
 
 
 
@@ -314,7 +317,11 @@ https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
 
 
 
-#EXTINF:0 group-title="RELAX" ,Камин
+#EXTINF:0 group-title="RELAX" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Камин
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
-#EXTINF:-1 group-title="RELAX" ,Звуки дождя
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Звуки дождя
 http://195.9.195.3:8080/hls/198378.m3u8
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",World HD
+http://185.57.68.33/232/mpegts
+#EXTINF:0 group-title="RELAX" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",STINGRAY Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
