@@ -1,52 +1,64 @@
 #EXTM3U
 
 
-#EXTINF:0 group-title="КИНОЗАЛЫ",TV4 HD
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD",Твоё ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD Юмор",Твоё ТВ HD Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",КиноФраншизы 24/7
+http://195.9.195.3:8080/hls/218193.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Фильмы 24/7
+http://195.9.195.3:8080/hls/218251.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Фантом
+http://195.9.195.3:8080/hls/204722.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Zubrilom Franchise
+http://hls.goodgame.ru:8080/hls/218193.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Zubrilom Film 2
+http://hls.goodgame.ru:8080/hls/218251.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",STR TV
+https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Selecao TV
+http://195.9.195.3:8080/hls/163253.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Selecao TV2
+http://195.9.195.3:8080/manifest/157269_master.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",1FILMAX Фантастика
+http://195.9.195.3:8080/hls/204708.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",2FILMAX Комедия
+http://195.9.195.3:8080/hls/204717.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",КИНОЗАЛ TV4 HD
 https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",TV4 SD
+#EXTINF:0 group-title="КИНОЗАЛЫ",КИНОЗАЛ TV4 SD
 https://dvr3.vokkavideo.xyz/TV4SD/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",HD Comedy
 http://2.57.217.85:8000/play/a074/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",HD Kino
 http://2.57.217.85:8000/play/a05j/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Новый Русский
-https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",HTV HD
-https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Kino Mix
+http://hls.goodgame.ru:8080/hls/216612.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Film Best
 http://hls.goodgame.ru:8080/hls/212682.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Zubrilom Film 2
-http://hls.goodgame.ru:8080/hls/218251.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Moviee Toper
+http://195.9.195.3:8080/hls/214749.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Millenniym UHD
+http://195.9.195.3:8080/hls/206461.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Akudji
+http://195.9.195.3:8080/hls/5346.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛЫ", CyberTV 1
+http://hls.goodgame.ru:8080/hls/214454.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛЫ", CyberTV 2
+http://hls.goodgame.ru:8080/hls/214433.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛЫ", CyberTV 3
+http://hls.goodgame.ru:8080/hls/214421.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Kino Jam
+http://195.9.195.3:8080/hls/210182.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",ВИДЕОСАЛОН VHS
 http://hls.goodgame.ru:8080/hls/175764.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",TvBoom-ViP
-https://kb.catcast.tv/content/49702/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Katastroff
-http://hls.goodgame.ru:8080/hls/208789.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",AV LIVE МУЛЬТФИЛЬМЫ
-http://hls.goodgame.ru:8080/hls/106103.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Абсолют синема
-http://hls.goodgame.ru:8080/hls/122102_prem.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",VHS-ка
+http://95.66.188.74/VHS/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Видеокассета VHS
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Видеокассета VHS
 http://195.9.195.3:8080/hls/176975.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",STR TV
-https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD",Твоё ТВ HD
-http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD Юмор",Твоё ТВ HD Юмор
-http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",VHS-ка
-http://95.66.188.74/VHS/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Moviee Toper
-http://195.9.195.3:8080/hls/214749.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Kino Jam
-http://195.9.195.3:8080/hls/210182.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",КиноФраншизы 24/7
-http://195.9.195.3:8080/hls/218193.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Фильмы 24/7
-http://195.9.195.3:8080/hls/218251.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Малдер Всё тв
 http://195.9.195.3:8080/hls/153640.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Малдер Мегахит
@@ -57,34 +69,22 @@ http://195.9.195.3:8080/hls/205072.m3u8
 http://195.9.195.3:8080/hls/205116.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",alpha Funny 
 http://195.9.195.3:8080/hls/206963.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",1FILMAX Фантастика
-http://195.9.195.3:8080/hls/204708.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",2FILMAX Комедия
-http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Фантом
-http://195.9.195.3:8080/hls/204722.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Akudji
-http://195.9.195.3:8080/hls/5346.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Selecao TV
-http://195.9.195.3:8080/hls/163253.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Selecao TV2
-http://195.9.195.3:8080/manifest/157269_master.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Millenniym UHD
-http://195.9.195.3:8080/hls/206461.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Новый Русский
+https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",HTV HD
+https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",TvBoom-ViP
+https://kb.catcast.tv/content/49702/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Katastroff
+http://hls.goodgame.ru:8080/hls/208789.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",AV LIVE МУЛЬТФИЛЬМЫ
+http://hls.goodgame.ru:8080/hls/106103.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",Абсолют синема
+http://hls.goodgame.ru:8080/hls/122102_prem.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",P Boy Podpischik
 http://195.9.195.3:8080/manifest/40391_master.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Восход ТВ
 http://195.9.195.3:8080/manifest/202997_master.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Zubrilom Franchise
-http://hls.goodgame.ru:8080/hls/218193.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛЫ", CyberTV 1
-http://hls.goodgame.ru:8080/hls/214454.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛЫ", CyberTV 2
-http://hls.goodgame.ru:8080/hls/214433.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛЫ", CyberTV 3
-http://hls.goodgame.ru:8080/hls/214421.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Kino Mix
-http://hls.goodgame.ru:8080/hls/216612.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноДетектив
@@ -123,12 +123,12 @@ https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
 https://autopilot.catcast.tv/content/44051/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Movie Classic
 http://195.64.140.147:10061/61
+#EXTINF:0 group-title="КИНОЗАЛЫ",Советское кино
+https://fl1003.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Мистер Бин
 https://fl1003.bozztv.com/ushba45/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Шоу Бенни Хилла
 https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Советское кино
-https://fl1003.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
 
 
 
