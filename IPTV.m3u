@@ -5,8 +5,6 @@
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD Юмор",Твоё ТВ HD Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",DTR Zona 1
-https://kino-stream.online/hls/DTRZON
 #EXTINF:0 group-title="КИНОЗАЛЫ",Фантом
 http://195.9.195.3:8080/hls/204722.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Zubrilom Franchise
@@ -97,6 +95,8 @@ http://hls.goodgame.ru:8080/hls/218490.m3u8
 http://hls.goodgame.ru:8080/hls/211351.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",KPOT666NETOT
 http://hls.goodgame.ru:8080/hls/207482.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ",DTR Zona 1
+https://kino-stream.online/hls/DTRZON
 #EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноДетектив
 https://cityeden.catcast.tv/content/41327/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноДрама
