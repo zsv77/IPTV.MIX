@@ -69,7 +69,7 @@ http://195.9.195.3:8080/hls/205116.m3u8
 http://195.9.195.3:8080/hls/206963.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",Katastroff
 http://hls.goodgame.ru:8080/hls/208789.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png"",AV LIVE
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",AV LIVE
 http://hls.goodgame.ru:8080/hls/106103.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",Абсолют синема
 http://hls.goodgame.ru:8080/hls/122102_prem.m3u8
