@@ -5,49 +5,49 @@
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD Юмор",Твоё ТВ HD Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",Фантом
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",Фантом
 http://195.9.195.3:8080/hls/204722.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",Zubrilom Franchise
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",Zubrilom Franchise
 http://hls.goodgame.ru:8080/hls/218193.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",Zubrilom Film 2
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",Zubrilom Film 2
 http://hls.goodgame.ru:8080/hls/218251.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",STR TV (ushba.tv)
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",STR TV (ushba.tv)
 https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",Selecao TV
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",Selecao TV
 http://195.9.195.3:8080/hls/163253.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",Selecao TV2
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",Selecao TV2
 http://195.9.195.3:8080/manifest/157269_master.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",1FILMAX Фантастика
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",1FILMAX Фантастика
 http://195.9.195.3:8080/hls/204708.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",2FILMAX Комедия
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",2FILMAX Комедия
 http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",HD Comedy
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",HD Comedy
 http://2.57.217.85:8000/play/a074/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",HD Kino
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",HD Kino
 http://2.57.217.85:8000/play/a05j/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",HD Kids
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",HD Kids
 http://2.57.217.85:8000/play/a05q/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",Kino Mix
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",Kino Mix
 http://hls.goodgame.ru:8080/hls/216612.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",Film Best
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",Film Best
 http://hls.goodgame.ru:8080/hls/212682.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",Moviee Toper
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",Moviee Toper
 http://195.9.195.3:8080/hls/214749.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",Millenniym UHD
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",Millenniym UHD
 http://195.9.195.3:8080/hls/206461.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Akudji
 http://195.9.195.3:8080/hls/5346.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png", CyberTV 1
+#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg", CyberTV 1
 http://hls.goodgame.ru:8080/hls/214454.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png", CyberTV 2
+#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg", CyberTV 2
 http://hls.goodgame.ru:8080/hls/214433.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png", CyberTV 3
+#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg", CyberTV 3
 http://hls.goodgame.ru:8080/hls/214421.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",Kino Jam
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",Kino Jam
 http://195.9.195.3:8080/hls/210182.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",Scripach TV
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",Scripach TV
 https://live21.bozztv.com/akamaissh101/ssh101/scripachmovie/chunks.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",Кинозал
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",Кинозал
 http://185.57.68.33/237/mpegts
 #EXTINF:0 group-title="КИНОЗАЛЫ",ВИДЕОСАЛОН VHS
 http://hls.goodgame.ru:8080/hls/175764.m3u8
@@ -57,7 +57,7 @@ http://95.66.188.74/VHS/index.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Видеокассета VHS
 http://195.9.195.3:8080/hls/176975.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",Малдер Всё тв
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",Малдер Всё тв
 http://195.9.195.3:8080/hls/153640.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Малдер Мегахит
 https://autopilot.catcast.tv/content/47689/index.m3u8
@@ -67,23 +67,23 @@ http://195.9.195.3:8080/hls/205072.m3u8
 http://195.9.195.3:8080/hls/205116.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",alpha Funny 
 http://195.9.195.3:8080/hls/206963.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",Katastroff
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",Katastroff
 http://hls.goodgame.ru:8080/hls/208789.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",AV LIVE
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",AV LIVE
 http://hls.goodgame.ru:8080/hls/106103.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",Абсолют синема
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",Абсолют синема
 http://hls.goodgame.ru:8080/hls/122102_prem.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",P Boy Podpischik
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",P Boy Podpischik
 http://195.9.195.3:8080/manifest/40391_master.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",Восход ТВ
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",Восход ТВ
 http://195.9.195.3:8080/manifest/202997_master.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",LAV-KINO (ushba.tv)
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",LAV-KINO (ushba.tv)
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",Британский юмор
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",Британский юмор
 http://hls.goodgame.ru:8080/hls/218490.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",УЖАСЫ ФАНТАСТИКА 80-90-00
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",УЖАСЫ ФАНТАСТИКА 80-90-00
 http://hls.goodgame.ru:8080/hls/211351.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",DTR Zona 1
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",DTR Zona 1
 https://kino-stream.online/hls/DTRZON
 #EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноДетектив
 https://cityeden.catcast.tv/content/41327/index.m3u8
@@ -111,19 +111,19 @@ http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0 group-title="КИНОЗАЛЫ",IPTVPLAY УЖАСТИК
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",ЕРАЛАШ (ushba.tv)
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",ЕРАЛАШ (ushba.tv)
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",КИНОЗАЛ (ushba.tv)
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",КИНОЗАЛ (ushba.tv)
 https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",Советское кино (ushba.tv)
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",Советское кино (ushba.tv)
 https://fl1003.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",Мистер Бин (ushba.tv)
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",Мистер Бин (ushba.tv)
 https://fl1003.bozztv.com/ushba45/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",Шоу Бенни Хилла (ushba.tv)
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",Шоу Бенни Хилла (ushba.tv)
 https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",Приколы-1 (ushba.tv)
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",Приколы-1 (ushba.tv)
 https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn-icons-png.flaticon.com/128/4701/4701672.png",Приколы-2 (ushba.tv)
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/c9/9e/07/c99e07b1e25efcc1f90b00782382721d.jpg",Приколы-2 (ushba.tv)
 https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
 
 
