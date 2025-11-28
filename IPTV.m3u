@@ -265,25 +265,25 @@ https://glb.bozztv.com/glb/ushba78/index.m3u8
 
 
 
-#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png",Rock TV BR
+#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-id="no_epg",Rock TV BR
 https://video03.logicahost.com.br/tvrockhd/tvrockhd/chunklist_w1624224756.m3u8
 #EXTINF:0 group-title="МУЗЫКА" ,ROCK TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 #EXTINF:0 group-title="МУЗЫКА" ,ROCK TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png",ROCK MUSIC (ushba.tv)
+#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-id="no_epg",ROCK MUSIC (ushba.tv)
 https://rpn3.bozztv.com/dvrfl07/ushba-m2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="МУЗЫКА" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png",Hot Rock
 https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="МУЗЫКА" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png",NM TELEVISION
-https://autopilot.catcast.tv/content/40650/index.m3u8
-#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png",ROCKDAY TV
+#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-id="no_epg",ROCKDAY TV
 http://hls.goodgame.ru:8080/hls/198928.m3u8
-#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://volnorez.com/static/logo180/907064/61d7e230.jpg",DanceHits 80'
+#EXTINF:-1 group-title="МУЗЫКА" tvg-logo="https://volnorez.com/static/logo180/907064/61d7e230.jpg",NM TELEVISION
+https://autopilot.catcast.tv/content/40650/index.m3u8
+#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://volnorez.com/static/logo180/907064/61d7e230.jpg" tvg-id="no_epg",DanceHits 80'
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:0 group-title="МУЗЫКА",4ever Music
 http://2.57.217.85:8000/play/a08h/index.m3u8
-#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://volnorez.com/static/logo180/907064/61d7e230.jpg",15+ MUSIC
+#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://volnorez.com/static/logo180/907064/61d7e230.jpg" tvg-id="no_epg",15+ MUSIC
 http://hls.goodgame.ru:8080/hls/208391.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",BRIDGE CLASSIC
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
