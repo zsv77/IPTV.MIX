@@ -251,13 +251,13 @@ https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 
 #EXTINF:0 group-title="МУЛЬТФИЛЬМЫ",2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ",Futurama
+#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ" tvg-logo="https://i.pinimg.com/originals/c8/a4/77/c8a477e59df1c39bc16bcd4644f50b01.png" tvg-name="NO EPG мультфильмы",Futurama
 http://195.9.195.3:8080/hls/199417.m3u8
 #EXTINF:0 group-title="МУЛЬТФИЛЬМЫ",IPTVPLAY МультСказки
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ",Маша и медведь (ushba.tv)
+#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ" tvg-logo="https://i.pinimg.com/originals/c8/a4/77/c8a477e59df1c39bc16bcd4644f50b01.png" tvg-name="NO EPG мультфильмы",Маша и медведь (ushba.tv)
 https://live21.bozztv.com/giatvplayout7/ushba79/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ",Маша и медведь ENG (ushba.tv)
+#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ" tvg-logo="https://i.pinimg.com/originals/c8/a4/77/c8a477e59df1c39bc16bcd4644f50b01.png" tvg-name="NO EPG мультфильмы",Маша и медведь ENG (ushba.tv)
 https://glb.bozztv.com/glb/ushba78/index.m3u8
 
 
@@ -265,25 +265,25 @@ https://glb.bozztv.com/glb/ushba78/index.m3u8
 
 
 
-#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" channel-id="NO EPG музыка" ,Rock TV BR
+#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-name="NO EPG музыка" ,Rock TV BR
 https://video03.logicahost.com.br/tvrockhd/tvrockhd/chunklist_w1624224756.m3u8
 #EXTINF:0 group-title="МУЗЫКА" ,ROCK TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 #EXTINF:0 group-title="МУЗЫКА" ,ROCK TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-id="NO EPG музыка",ROCK MUSIC (ushba.tv)
+#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-name="NO EPG музыка",ROCK MUSIC (ushba.tv)
 https://rpn3.bozztv.com/dvrfl07/ushba-m2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="МУЗЫКА" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png",Hot Rock
 https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-id="NO EPG музыка",ROCKDAY TV
+#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-name="NO EPG музыка",ROCKDAY TV
 http://hls.goodgame.ru:8080/hls/198928.m3u8
 #EXTINF:-1 group-title="МУЗЫКА" tvg-logo="https://volnorez.com/static/logo180/907064/61d7e230.jpg",NM TELEVISION
 https://autopilot.catcast.tv/content/40650/index.m3u8
-#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://volnorez.com/static/logo180/907064/61d7e230.jpg" tvg-id="NO EPG музыка",DanceHits 80'
+#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://volnorez.com/static/logo180/907064/61d7e230.jpg" tvg-name="NO EPG музыка",DanceHits 80'
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:0 group-title="МУЗЫКА",4ever Music
 http://2.57.217.85:8000/play/a08h/index.m3u8
-#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://volnorez.com/static/logo180/907064/61d7e230.jpg" tvg-id="NO EPG музыка",15+ MUSIC
+#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://volnorez.com/static/logo180/907064/61d7e230.jpg" tvg-name="NO EPG музыка",15+ MUSIC
 http://hls.goodgame.ru:8080/hls/208391.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",BRIDGE CLASSIC
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
@@ -302,7 +302,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_NTSHD/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STVHD/variant.m3u8
 #EXTINF:-1 group-title="КРЫМ" ,Евпатория 24
 https://zabava-htlive.cdn.ngenix.net/hls/CH_EVPATORIATVHD/variant.m3u8
-#EXTINF:-1 group-title="КРЫМ" ,ТРК-555 HD
+#EXTINF:-1 group-title="КРЫМ" ,ТРК555 Алушта HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TRK555HD/variant.m3u8
 #EXTINF:-1 group-title="КРЫМ" ,Первый Крымский
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
@@ -317,9 +317,9 @@ https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
 
 #EXTINF:0 group-title="RELAX" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Камин
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Звуки дождя
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-name="NO EPG",Звуки дождя
 http://195.9.195.3:8080/hls/198378.m3u8
-#EXTINF:-1 group-title="RELAX" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",World HD
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-name="NO EPG",World HD
 http://185.57.68.33/232/mpegts
 #EXTINF:0 group-title="RELAX" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",STINGRAY Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
