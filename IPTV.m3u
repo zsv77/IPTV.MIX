@@ -287,8 +287,7 @@ http://2.57.217.85:8000/play/a08h/index.m3u8
 http://hls.goodgame.ru:8080/hls/208391.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",BRIDGE CLASSIC
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
-#EXTINF:-1 group-title="МУЗЫКА" tvg-name="NO EPG музыка" tvg-id="NO EPG музыка",MUSIC
-https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+
 
 
 
