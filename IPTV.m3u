@@ -123,10 +123,7 @@ https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Приколы-2 (ushba.tv)
 https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" ,Кино 1 International
-https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" ,Детское кино International
-https://v2.catcast.tv/content/38720/index.m3u8
+
 
 
 
@@ -278,7 +275,20 @@ http://95.66.188.74/RusRoman/mono.m3u8
 http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Ретро
 http://91.207.115.228:5000/c174
-
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/1754.png" tvg-name="НТВ Сериал" ,НТВ Сериал
+http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-logo="http://epg.one/img2/2041.png" tvg-name="НТВ Хит" ,НТВ Хит
+http://cdn2.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Смотрим Честный детектив HD" ,Смотрим Честный детектив HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-logo="http://epg.one/img2/6258.png" tvg-name="Кино 1 International" ,Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-logo="http://epg.one/img2/6261.png" ,Детское кино International
+http://v2.catcast.tv/content/38720/index.m3u8
 
 
 
