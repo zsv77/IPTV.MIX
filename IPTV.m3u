@@ -285,17 +285,17 @@ https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-name="NO EPG кино музыка",30A MUSIC
 https://30a-tv.com/feeds/720p/6.m3u8
-#EXTINF:-1 group-title="МУЗЫКА" tvg-logo="https://volnorez.com/static/logo180/907064/61d7e230.jpg",NM TELEVISION
+#EXTINF:-1 group-title="МУЗЫКА" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Music_TV_%282020%29.png",NM TELEVISION
 https://autopilot.catcast.tv/content/40650/index.m3u8
-#EXTINF:-1 group-title="МУЗЫКА" tvg-logo="https://volnorez.com/static/logo180/907064/61d7e230.jpg" tvg-name="NO EPG кино музыка", Phoenix Music TV
+#EXTINF:-1 group-title="МУЗЫКА" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Music_TV_%282020%29.png" tvg-name="NO EPG кино музыка", Phoenix Music TV
 https://autopilot.catcast.tv/content/33418/index.m3u8
-#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://volnorez.com/static/logo180/907064/61d7e230.jpg" tvg-name="NO EPG кино музыка",Phoenix Music TV
+#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Music_TV_%282020%29.png" tvg-name="NO EPG кино музыка",Phoenix Music TV
 https://karapuztv.catcast.tv/content/33418/index.m3u8
-#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://volnorez.com/static/logo180/907064/61d7e230.jpg" tvg-name="NO EPG кино музыка",DanceHits 80'
+#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Music_TV_%282020%29.png" tvg-name="NO EPG кино музыка",DanceHits 80'
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:0 group-title="МУЗЫКА",4ever Music
 http://2.57.217.85:8000/play/a08h/index.m3u8
-#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://volnorez.com/static/logo180/907064/61d7e230.jpg" tvg-name="NO EPG кино музыка",15+ MUSIC
+#EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Music_TV_%282020%29.png" tvg-name="NO EPG кино музыка",15+ MUSIC
 http://hls.goodgame.ru:8080/hls/208391.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",BRIDGE CLASSIC
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
