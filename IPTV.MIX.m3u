@@ -20,6 +20,8 @@ https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ",НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ HD",ТНТ HD
+http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ",ТНТ (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ",ТНТ
@@ -62,6 +64,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/690.png" tvg-name="Санкт-Петербург",Санкт-Петербург
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONAL/variant.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-name="Кухня",Кухня
+http://95.66.188.74/Kuhnya/mono.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1598.png" tvg-name="Че!",Че! (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1598.png" tvg-name="Че!",Че!
@@ -330,6 +334,14 @@ http://v2.catcast.tv/content/38720/index.m3u8
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD Юмор",Твоё ТВ HD Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино" ,TV4 КИНОЗАЛ
+https://dvr3.vokkavideo.xyz/TV4SD/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино" ,TV4 HD КИНОЗАЛ
+https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино" ,HTV HD
+https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино" ,Новый Русский HD
+https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино" ,Фантом
 http://195.9.195.3:8080/hls/204722.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Zubrilom Franchise
@@ -693,6 +705,8 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 p-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Music_TV_%282020%29.png" tvg-name="NO EPG https://5929b138b139d.streamlock.net/CompanyTV/livestream/playlist.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Music_TV_%282020%29.png" tvg-name="NO EPG кино музыка",CATCAST MUSIC
 https://v2.catcast.tv/content/48811/index.m3u8?password=kizugtv
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" aspect-ratio=16:9,О!2
+http://95.66.188.74/O2TV/index.m3u8
 
 
 
@@ -702,6 +716,8 @@ https://v2.catcast.tv/content/48811/index.m3u8?password=kizugtv
 
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" ,Светлое ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="RTG TV HD",RTG TV HD
+http://95.66.188.74/RTGHD/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="RTG TV",RTG TV
 http://46.8.46.14/rutravel/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Телепутешествия" ,Телепутешествия
