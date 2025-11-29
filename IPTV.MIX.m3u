@@ -30,8 +30,6 @@ https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1322.png" tvg-name="СТС Love",СТС Love
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/323.png" tvg-name="2x2",2x2
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/18.png" tvg-name="РЕН ТВ",РЕН ТВ (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/18.png" tvg-name="РЕН ТВ",РЕН ТВ
@@ -320,98 +318,84 @@ http://v2.catcast.tv/content/38720/index.m3u8
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD Юмор",Твоё ТВ HD Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",DTR Zona 1
-https://kino-stream.online/hls/DTRZON
-#EXTINF:0 group-title="КИНОЗАЛЫ",Фантом
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино" ,Фантом
 http://195.9.195.3:8080/hls/204722.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Zubrilom Franchise
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Zubrilom Franchise
 http://hls.goodgame.ru:8080/hls/218193.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Zubrilom Film 2
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Zubrilom Film 2
 http://hls.goodgame.ru:8080/hls/218251.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",STR TV
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",STR TV (ushba.tv)
 https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Selecao TV
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Selecao TV
 http://195.9.195.3:8080/hls/163253.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Selecao TV2
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Selecao TV2
 http://195.9.195.3:8080/manifest/157269_master.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",1FILMAX Фантастика
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",1FILMAX Фантастика
 http://195.9.195.3:8080/hls/204708.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",2FILMAX Комедия
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",2FILMAX Комедия
 http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",КИНОЗАЛ TV4 HD
-https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",КИНОЗАЛ TV4 SD
-https://dvr3.vokkavideo.xyz/TV4SD/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",HD Comedy
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",HD Comedy
 http://2.57.217.85:8000/play/a074/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",HD Kino
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",HD Kino
 http://2.57.217.85:8000/play/a05j/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",HD Kids
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",HD Kids
 http://2.57.217.85:8000/play/a05q/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Kino Mix
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Kino Mix
 http://hls.goodgame.ru:8080/hls/216612.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Film Best
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Film Best
 http://hls.goodgame.ru:8080/hls/212682.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Moviee Toper
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Moviee Toper
 http://195.9.195.3:8080/hls/214749.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Millenniym UHD
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Millenniym UHD
 http://195.9.195.3:8080/hls/206461.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Akudji
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Akudji
 http://195.9.195.3:8080/hls/5346.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛЫ", CyberTV 1
+#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино", CyberTV 1
 http://hls.goodgame.ru:8080/hls/214454.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛЫ", CyberTV 2
+#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино", CyberTV 2
 http://hls.goodgame.ru:8080/hls/214433.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛЫ", CyberTV 3
+#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино мультфильмы", CyberTV 3 Мультфильмы
 http://hls.goodgame.ru:8080/hls/214421.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Kino Jam
-http://195.9.195.3:8080/hls/210182.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Scripach TV
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Scripach TV
 https://live21.bozztv.com/akamaissh101/ssh101/scripachmovie/chunks.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Кинозал
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Кинозал
 http://185.57.68.33/237/mpegts
-#EXTINF:0 group-title="КИНОЗАЛЫ",ВИДЕОСАЛОН VHS
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",ВИДЕОСАЛОН VHS
 http://hls.goodgame.ru:8080/hls/175764.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",VHS-ка
 http://95.66.188.74/VHS/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Видеокассета VHS
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Видеокассета VHS
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Видеокассета VHS
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Видеокассета VHS
 http://195.9.195.3:8080/hls/176975.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Малдер Всё тв
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Малдер Всё тв
 http://195.9.195.3:8080/hls/153640.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Малдер Мегахит
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png",Малдер Мегахит
 https://autopilot.catcast.tv/content/47689/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",alpha Cinema 
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",alpha Cinema 
 http://195.9.195.3:8080/hls/205072.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",alpha Moretime
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",alpha Moretime
 http://195.9.195.3:8080/hls/205116.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",alpha Funny 
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",alpha Funny 
 http://195.9.195.3:8080/hls/206963.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Новый Русский
-https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",HTV HD
-https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",TvBoom-ViP
-https://kb.catcast.tv/content/49702/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Katastroff
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Katastroff
 http://hls.goodgame.ru:8080/hls/208789.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",AV LIVE
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",AV LIVE
 http://hls.goodgame.ru:8080/hls/106103.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Абсолют синема
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Абсолют синема
 http://hls.goodgame.ru:8080/hls/122102_prem.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",P Boy Podpischik
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",P Boy Podpischik
 http://195.9.195.3:8080/manifest/40391_master.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Восход ТВ
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Восход ТВ
 http://195.9.195.3:8080/manifest/202997_master.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",LAV-KINO
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",LAV-KINO (ushba.tv)
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Британский юмор
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Британский юмор
 http://hls.goodgame.ru:8080/hls/218490.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",УЖАСЫ ФАНТАСТИКА 80-90-00
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",УЖАСЫ ФАНТАСТИКА 80-90-00
 http://hls.goodgame.ru:8080/hls/211351.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",KPOT666NETOT
-http://hls.goodgame.ru:8080/hls/207482.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",DTR Zona 1
+https://kino-stream.online/hls/DTRZON
 #EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноДетектив
 https://cityeden.catcast.tv/content/41327/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноДрама
@@ -426,56 +410,50 @@ https://cityeden.catcast.tv/content/40783/index.m3u8
 https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноЭкшен
 https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",IPTVPLAY ВЕДЬМАК
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://iptv-play.ru/assets/img/logo/logo.png" tvg-name="NO EPG кино сериал",IPTVPLAY ВЕДЬМАК
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="КИНОЗАЛЫ",IPTVPLAY ФАНТАСТИКА
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://iptv-play.ru/assets/img/logo/logo.png",IPTVPLAY ФАНТАСТИКА
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="КИНОЗАЛЫ",IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://iptv-play.ru/assets/img/logo/logo.png",IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
 http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="КИНОЗАЛЫ",IPTVPLAY В.О.В
-http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="КИНОЗАЛЫ",IPTVPLAY ПАМЯТЬ
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://iptv-play.ru/assets/img/logo/logo.png" tvg-name="NO EPG кино кино",IPTVPLAY В.О.В
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0NO 
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://iptv-play.ru/assets/img/logo/logo.png",IPTVPLAY ПАМЯТЬ
 http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="КИНОЗАЛЫ",IPTVPLAY УЖАСТИК
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://iptv-play.ru/assets/img/logo/logo.png",IPTVPLAY УЖАСТИК
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="КИНОЗАЛЫ",ЕРАЛАШ
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",ЕРАЛАШ (ushba.tv)
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",КИНОЗАЛ
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png",КИНОЗАЛ (ushba.tv)
 https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Logovo Films
-https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",MGM
-https://autopilot.catcast.tv/content/44051/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Movie Classic
-http://195.64.140.147:10061/61
-#EXTINF:0 group-title="КИНОЗАЛЫ",Советское кино
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино кино",Советское кино (ushba.tv)
 https://fl1003.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Мистер Бин
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Мистер Бин (ushba.tv)
 https://fl1003.bozztv.com/ushba45/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Шоу Бенни Хилла
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Шоу Бенни Хилла (ushba.tv)
 https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" ,НТВ Невский
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Приколы-1 (ushba.tv)
+https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Приколы-2 (ushba.tv)
+https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" ,Невский
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" ,НТВ Первый Отдел
+#EXTINF:0 group-title="КИНОЗАЛЫ" ,Первый Отдел
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" ,НТВ Пес
+#EXTINF:0 group-title="КИНОЗАЛЫ" ,Пес
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" ,НТВ Скорая Помощь
+#EXTINF:0 group-title="КИНОЗАЛЫ" ,Скорая Помощь
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" ,НТВ Следствие вели...
+#EXTINF:0 group-title="КИНОЗАЛЫ" ,Следствие вели...
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" ,НТВ Шеф
+#EXTINF:0 group-title="КИНОЗАЛЫ" ,Шеф
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" ,НТВ Балабол
+#EXTINF:0 group-title="КИНОЗАЛЫ" ,Балабол
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" ,НТВ Пять минут тишины
+#EXTINF:0 group-title="КИНОЗАЛЫ" ,Пять минут тишины
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" ,STAR MEDIA
 https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Приколы-1
-https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",Приколы-2
-https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" ,Retrovision
 https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" ,Retrovision Motor
@@ -572,12 +550,14 @@ https://fl1001.bozztv.com/ushba65/index.m3u8
 
 
 
-#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
+#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://i.pinimg.com/originals/c8/a4/77/c8a477e59df1c39bc16bcd4644f50b01.png" tvg-name="NO EPG кино мультфильмы",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",Ну, погоди!
+#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://i.pinimg.com/originals/c8/a4/77/c8a477e59df1c39bc16bcd4644f50b01.png" tvg-name="NO EPG кино мультфильмы",Ну, погоди!
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:0 group-title="ДЕТСКИЕ",Futurama
+#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://i.pinimg.com/originals/c8/a4/77/c8a477e59df1c39bc16bcd4644f50b01.png" tvg-name="NO EPG кино мультфильмы",Futurama
 http://195.9.195.3:8080/hls/199417.m3u8
+#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/323.png" tvg-name="2x2",2x2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ"  tvg-logo="http://epg.one/img2/740.png" tvg-name="Карусель",Карусель (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ"  tvg-logo="http://epg.one/img2/1332.png" tvg-name="Мульт HD",Мульт HD
