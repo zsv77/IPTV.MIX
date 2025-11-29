@@ -35,7 +35,7 @@ http://hls.goodgame.ru:8080/hls/212682.m3u8
 http://195.9.195.3:8080/hls/214749.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG кино",Millenniym UHD
 http://195.9.195.3:8080/hls/206461.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-name="NO EPG кино",Akudji
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG кино",Akudji
 http://195.9.195.3:8080/hls/5346.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG кино", CyberTV 1
 http://hls.goodgame.ru:8080/hls/214454.m3u8
@@ -47,23 +47,23 @@ http://hls.goodgame.ru:8080/hls/214421.m3u8
 https://live21.bozztv.com/akamaissh101/ssh101/scripachmovie/chunks.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG кино",Кинозал
 http://185.57.68.33/237/mpegts
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-name="NO EPG кино",ВИДЕОСАЛОН VHS
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG кино",ВИДЕОСАЛОН VHS
 http://hls.goodgame.ru:8080/hls/175764.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",VHS-ка
 http://95.66.188.74/VHS/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-name="NO EPG кино",Видеокассета VHS
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG кино",Видеокассета VHS
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-name="NO EPG кино",Видеокассета VHS
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG кино",Видеокассета VHS
 http://195.9.195.3:8080/hls/176975.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG кино",Малдер Всё тв
 http://195.9.195.3:8080/hls/153640.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Малдер Мегахит
 https://autopilot.catcast.tv/content/47689/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-name="NO EPG кино",alpha Cinema 
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG кино",alpha Cinema 
 http://195.9.195.3:8080/hls/205072.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-name="NO EPG кино",alpha Moretime
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG кино",alpha Moretime
 http://195.9.195.3:8080/hls/205116.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-name="NO EPG кино",alpha Funny 
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG кино",alpha Funny 
 http://195.9.195.3:8080/hls/206963.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG кино",Katastroff
 http://hls.goodgame.ru:8080/hls/208789.m3u8
