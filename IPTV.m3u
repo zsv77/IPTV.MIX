@@ -5,47 +5,47 @@
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD Юмор",Твоё ТВ HD Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",Фантом
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",Фантом
 http://195.9.195.3:8080/hls/204722.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",Zubrilom Franchise
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",Zubrilom Franchise
 http://hls.goodgame.ru:8080/hls/218193.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",Zubrilom Film 2
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",Zubrilom Film 2
 http://hls.goodgame.ru:8080/hls/218251.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",STR TV (ushba.tv)
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",STR TV (ushba.tv)
 https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",Selecao TV
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",Selecao TV
 http://195.9.195.3:8080/hls/163253.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",Selecao TV2
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",Selecao TV2
 http://195.9.195.3:8080/manifest/157269_master.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",1FILMAX Фантастика
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",1FILMAX Фантастика
 http://195.9.195.3:8080/hls/204708.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",2FILMAX Комедия
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",2FILMAX Комедия
 http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",HD Comedy
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",HD Comedy
 http://2.57.217.85:8000/play/a074/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",HD Kino
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",HD Kino
 http://2.57.217.85:8000/play/a05j/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",HD Kids
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",HD Kids
 http://2.57.217.85:8000/play/a05q/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",Kino Mix
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",Kino Mix
 http://hls.goodgame.ru:8080/hls/216612.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",Film Best
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",Film Best
 http://hls.goodgame.ru:8080/hls/212682.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",Moviee Toper
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",Moviee Toper
 http://195.9.195.3:8080/hls/214749.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",Millenniym UHD
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",Millenniym UHD
 http://195.9.195.3:8080/hls/206461.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-name="NO EPG",Akudji
 http://195.9.195.3:8080/hls/5346.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG", CyberTV 1
+#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG", CyberTV 1
 http://hls.goodgame.ru:8080/hls/214454.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG", CyberTV 2
+#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG", CyberTV 2
 http://hls.goodgame.ru:8080/hls/214433.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG мультфильмы", CyberTV 3 Мультфильмы
+#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG мультфильмы", CyberTV 3 Мультфильмы
 http://hls.goodgame.ru:8080/hls/214421.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",Scripach TV
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",Scripach TV
 https://live21.bozztv.com/akamaissh101/ssh101/scripachmovie/chunks.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",Кинозал
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",Кинозал
 http://185.57.68.33/237/mpegts
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-name="NO EPG",ВИДЕОСАЛОН VHS
 http://hls.goodgame.ru:8080/hls/175764.m3u8
@@ -55,7 +55,7 @@ http://95.66.188.74/VHS/index.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-name="NO EPG",Видеокассета VHS
 http://195.9.195.3:8080/hls/176975.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",Малдер Всё тв
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",Малдер Всё тв
 http://195.9.195.3:8080/hls/153640.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Малдер Мегахит
 https://autopilot.catcast.tv/content/47689/index.m3u8
@@ -65,23 +65,23 @@ http://195.9.195.3:8080/hls/205072.m3u8
 http://195.9.195.3:8080/hls/205116.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-name="NO EPG",alpha Funny 
 http://195.9.195.3:8080/hls/206963.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",Katastroff
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",Katastroff
 http://hls.goodgame.ru:8080/hls/208789.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",AV LIVE
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",AV LIVE
 http://hls.goodgame.ru:8080/hls/106103.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",Абсолют синема
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",Абсолют синема
 http://hls.goodgame.ru:8080/hls/122102_prem.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",P Boy Podpischik
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",P Boy Podpischik
 http://195.9.195.3:8080/manifest/40391_master.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",Восход ТВ
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",Восход ТВ
 http://195.9.195.3:8080/manifest/202997_master.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",LAV-KINO (ushba.tv)
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",LAV-KINO (ushba.tv)
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",Британский юмор
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",Британский юмор
 http://hls.goodgame.ru:8080/hls/218490.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",УЖАСЫ ФАНТАСТИКА 80-90-00
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",УЖАСЫ ФАНТАСТИКА 80-90-00
 http://hls.goodgame.ru:8080/hls/211351.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",DTR Zona 1
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",DTR Zona 1
 https://kino-stream.online/hls/DTRZON
 #EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноДетектив
 https://cityeden.catcast.tv/content/41327/index.m3u8
@@ -109,20 +109,24 @@ http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0NO
 http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://iptv-play.ru/assets/img/logo/logo.png",IPTVPLAY УЖАСТИК
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",ЕРАЛАШ (ushba.tv)
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",ЕРАЛАШ (ushba.tv)
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png",КИНОЗАЛ (ushba.tv)
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg",КИНОЗАЛ (ushba.tv)
 https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG кино",Советское кино (ushba.tv)
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG кино",Советское кино (ushba.tv)
 https://fl1003.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",Мистер Бин (ushba.tv)
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",Мистер Бин (ushba.tv)
 https://fl1003.bozztv.com/ushba45/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",Шоу Бенни Хилла (ushba.tv)
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",Шоу Бенни Хилла (ushba.tv)
 https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",Приколы-1 (ushba.tv)
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",Приколы-1 (ushba.tv)
 https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://www.murphysmagicsupplies.com/images/58044-full.png" tvg-name="NO EPG",Приколы-2 (ushba.tv)
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://i.pinimg.com/736x/47/a9/8d/47a98dbfccf5b666c95f24dc9e4aaf76.jpg" tvg-name="NO EPG",Приколы-2 (ushba.tv)
 https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" ,Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" ,Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
 
 
 
@@ -138,6 +142,8 @@ http://195.191.208.11:8087/udp/238.2.49.3:1234
 http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ",НСТ
 http://46.8.46.14/nst/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", ТВ3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Fox
 http://94.232.127.28:8080/fox/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Fox Life
@@ -222,15 +228,13 @@ http://95.66.188.74/MosfilmHD/index.m3u8
 http://46.8.46.14/Nashe_Lubimoe_Kino/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", КОМЕДИЯ
 http://91.207.115.228:5000/c168
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", HD КИНО
-http://2.57.217.85:8000/play/a05j/index.m3u8
 
 
 
 
 
-#EXTINF:-1 group-title="ЭФИРНЫЕ", ТВ3
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+
+
 #EXTINF:-1 group-title="ЭФИРНЫЕ", КВН ТВ
 http://46.8.46.14/kvn/index.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ", КВН ТВ
@@ -297,7 +301,12 @@ http://hls.goodgame.ru:8080/hls/208391.m3u8
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",BRIDGE ROCK
 http://178.212.71.253:8000/play/101/index.m3u8
-
+#EXTINF:-1 group-title="МУЗЫКА",Музыка 1 International
+https://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 group-title="МУЗЫКА",Музыка 2 International
+https://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 group-title="МУЗЫКА",Музыка Кино International
+https://kino-1.catcast.tv/content/37739/index.m3u8
 
 
 

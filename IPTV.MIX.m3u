@@ -575,6 +575,8 @@ http://195.9.195.3:8080/hls/201891.m3u8
 http://195.9.195.3:8080/hls/180805.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://volnorez.com/static/logo180/907064/61d7e230.jpg" tvg-name="NO EPG музыка", HotBeatsTV HD
 http://195.9.195.3:8080/hls/191858.m3u8
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://volnorez.com/static/logo180/907064/61d7e230.jpg" tvg-name="NO EPG музыка", Melodic Tech
+https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/897.png" tvg-name="Муз ТВ" ,Муз ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/2277.png" tvg-name="RU TV HD",RU TV HD
@@ -583,7 +585,7 @@ https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Первый музыкальный HD
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://volnorez.com/static/logo180/907064/61d7e230.jpg" tvg-name="DanceHits80" tvg-name="NO EPG музыка",DanceHits80
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://volnorez.com/static/logo180/907064/61d7e230.jpg" tvg-name="NO EPG музыка",DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ"  tvg-logo="http://epg.one/img2/5597.png" tvg-name="Trace Urban HD",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
@@ -605,6 +607,10 @@ http://89.179.247.144/hls/mixm.m3u8
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", BRIDGE CLASSIC
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-name="NO EPG музыка",CHD-TV RU Rock HD
+http://194.26.229.213/chdtv_ru_rock/index.m3u8
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-name="NO EPG музыка",CHD-TV Rock HD
+http://194.26.229.213/chdtv_rock/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-name="NO EPG музыка",Rock TV BR
 https://video03.logicahost.com.br/tvrockhd/tvrockhd/chunklist_w1624224756.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png",ROCK TV
@@ -617,6 +623,14 @@ http://hls.goodgame.ru:8080/hls/198928.m3u8
 https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-name="NO EPG музыка",ROCK MUSIC
 https://rpn3.bozztv.com/dvrfl07/ushba-m2/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-name="NO EPG музыка",30A MUSIC
+https://30a-tv.com/feeds/720p/6.m3u8
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://volnorez.com/static/logo180/907064/61d7e230.jpg" tvg-name="NO EPG музыка",K-POP Play TV
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://volnorez.com/static/logo180/907064/61d7e230.jpg" tvg-name="NO EPG музыка",Afrobeats TV
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://volnorez.com/static/logo180/907064/61d7e230.jpg" tvg-name="NO EPG музыка",COMPANY TV HD
+https://5929b138b139d.streamlock.net/CompanyTV/livestream/playlist.m3u8
 
 
 
