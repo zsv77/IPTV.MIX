@@ -136,50 +136,102 @@ https://v2.catcast.tv/content/38720/index.m3u8
 http://195.191.208.11:8087/udp/238.2.48.137:1234
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Кошмар HD
 http://195.9.195.3:8080/hls/204709.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="КИНОУЖАС",КИНОУЖАС
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОУЖАС
 http://195.191.208.11:8087/udp/238.2.49.3:1234
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ",НСТ
-http://vod.tuva.ru/nst/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ",НСТ
-http://46.8.46.14/nst/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", ТВ3
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Fox
-http://94.232.127.28:8080/fox/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Fox Life
-http://94.232.127.28:8080/foxlife/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОУЖАС
+http://91.207.115.228:5000/c43
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОХИТ
 http://94.232.127.28:8080/kinohit/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОХИТ
+http://91.207.115.228:5000/c38
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОКОМЕДИЯ
 http://94.232.127.28:8080/kinokomedia/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОКОМЕДИЯ
+http://91.207.115.228:5000/c46
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОСЕМЬЯ
 http://94.232.127.28:8080/kinosemja/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОСЕМЬЯ
+http://91.207.115.228:5000/c39
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОСЕРИЯ
+http://95.66.188.74/Kinoseriya/mono.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОСЕРИЯ
 http://94.232.127.28:8080/kinoserija/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Duo 3 HD LT
-http://94.232.127.28:8080/sony/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Duo 6 HD LT
-http://94.232.127.28:8080/sony-turbo/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",.Sci-fi
-http://94.232.127.28:8080/sony-scifi/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОМИКС
+http://95.66.188.74/Kinomiks/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОМИКС
+http://95.66.188.74/Kinomiks/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОПОКАЗ
+http://95.66.188.74/Kinopokaz/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОПОКАЗ
+http://95.66.188.74/Kinopokaz/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОСВИДАНИЕ
+http://91.207.115.228:5000/c44
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОСВИДАНИЕ
+http://91.207.115.228:5000/c45
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",РОДНОЕ КИНО
+http://91.207.115.228:5000/c31
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",МУЖСКОЕ КИНО
+http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",МУЖСКОЕ КИНО
+http://91.207.115.228:5000/c40
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",НАШЕ НОВОЕ КИНО
+http://95.66.188.74/NasheNovoeKino/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",НАШЕ НОВОЕ КИНО
+http://91.207.115.228:5000/c41
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОПРЕМЬЕРА
+http://91.207.115.228:5000/c42
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju+ Comedy HD
+http://91.207.115.228:5000/c143
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju+ Megahit HD
+http://91.207.115.228:5000/c144
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju+ Premiere HD
+http://91.207.115.228:5000/c145
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", viju+ Premiere
+http://2.57.217.85:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju TV1000
+http://91.207.115.228:5000/c48
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju TV1000 Action
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju TV1000 Action
+http://91.207.115.228:5000/c49
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju TV1000 Русское кино
+http://91.207.115.228:5000/c37
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Amedia 1
+http://91.207.115.228:5000/c55
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Amedia 2
+http://91.207.115.228:5000/c56
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Amedia HIT
+http://91.207.115.228:5000/c57
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Amedia Premium
+http://91.207.115.228:5000/c58
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Amedia Premium
+http://217.21.34.160:38007/amediapremium/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Viasat Kino
 http://94.232.127.28:8080/tv1000/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Viasat Kino Action
 http://94.232.127.28:8080/tv1000action/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Viasat Kino World
 http://94.232.127.28:8080/tv1000ru/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Дорама
-http://193.27.209.122/dorama/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Amedia Premium
-http://217.21.34.160:38007/amediapremium/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Comedy Central
-http://46.8.46.14/paramountcomedy/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Hollywood 
-http://46.8.46.14/amc/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",FAN
-http://46.8.46.14/FAN/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",CINEMA
-http://46.8.46.14/cinema/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",.Black
+http://91.207.115.228:5000/c79
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",.Sci-Fi
+http://91.207.115.228:5000/c77
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",.Sci-fi
+http://94.232.127.28:8080/sony-scifi/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",.Red
+http://91.207.115.228:5000/c78
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Fox
+http://94.232.127.28:8080/fox/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Fox Life
+http://94.232.127.28:8080/foxlife/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",TLC HD
+http://91.207.115.228:5000/c151
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Duo 3 HD LT
+http://94.232.127.28:8080/sony/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Duo 6 HD LT
+http://94.232.127.28:8080/sony-turbo/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Go3 Films
+http://94.232.127.28:8080/tv1000premium/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Super Baltic HD
 http://84.245.224.71/SuperBaltic/mono.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Super+ Baltic HD
@@ -188,53 +240,51 @@ http://84.245.224.71/SuperPlus/mono.m3u8
 http://84.245.224.71/StarCinemaHD/mono.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Star Family HD
 http://84.245.224.71/StarFamilyHD/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Кино ТВ
-http://46.8.46.14/kinotv/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",ТВ 21
-http://46.8.46.14/TV21/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",ТВ 21М
-http://217.21.34.160:38007/tv-xxi/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",ЕВРОКИНО
-http://46.8.46.14/eurokino/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",ИЛЛЮЗИОН+
 http://217.21.34.160:38003/illuzionplus/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",ИЛЛЮЗИОН+
+http://91.207.115.228:5000/c170
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Hollywood HD
+http://91.207.115.228:5000/c59
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",FlixSnip
+http://91.207.115.228:5000/c60
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Kinoliving
+http://91.207.115.228:5000/c61
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Cinema
+http://95.66.188.74/Cinema/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Еврокино
+http://91.207.115.228:5000/c160
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",ТВ 21М
+http://217.21.34.160:38007/tv-xxi/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Т24
 http://217.21.34.160:38007/tehno24/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju TV1000
-http://46.8.46.14/tv1000/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju TV1000 Action
-http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Go3 Films
-http://94.232.127.28:8080/tv1000premium/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju+ Comedy
-http://46.8.46.14/vipcomedy/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju+ Megahit
-http://46.8.46.14/vipmegahit/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", viju+ Premiere
-http://2.57.217.85:8000/play/a03f/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Кинопоказ
-http://95.66.188.74/Kinopokaz/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", МУЖСКОЕ КИНО
-http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", КИНОМИКС
-http://95.66.188.74/Kinomiks/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", КИНОПРЕМЬЕРА
-http://91.207.115.228:5000/c42
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Мосфильм. Золотая коллекция
-http://95.66.188.74/MosfilmHD/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Комедия
+http://95.66.188.74/Comedia/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Дорама
+http://193.27.209.122/dorama/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Мосфильм. Золотая коллекция HD
 http://95.66.188.74/MosfilmHD/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Наше любимое кино
-http://46.8.46.14/Nashe_Lubimoe_Kino/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", КОМЕДИЯ
-http://91.207.115.228:5000/c168
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Мосфильм. Золотая коллекция
+http://95.66.188.74/MosfilmHD/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Мосфильм. Золотая коллекция
+http://95.66.188.74/MosfilmHD/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Дом кино
+http://95.66.188.74/Dom_kino/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Дом кино премиум
+http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Русский роман
+http://95.66.188.74/RusRoman/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Русский детектив
+http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Ретро
+http://91.207.115.228:5000/c174
 
 
 
 
 
-
-
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ", КВН ТВ
 http://46.8.46.14/kvn/index.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ", КВН ТВ
