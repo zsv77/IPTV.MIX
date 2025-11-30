@@ -488,98 +488,99 @@ https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Залипательные ролики-2
 https://30a-tv.com/feeds/720p/63.m3u8
+
 #EXTINF:0 group-title="КИНОЗАЛЫ" ,STAR MEDIA
 https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Retrovision
-https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Retrovision Motor
-https://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Retrovision Movies
-https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Retrovision Classic
-https://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Retrovision Кинопанорама
-https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Документалка 1
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Документальные фильмы 1
 https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Документалка 2
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Документальные фильмы 2
 https://fl1001.bozztv.com/ushba29/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Документалка 3
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Документальные фильмы 3
 https://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =01= [ushba.tv]
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",RETROVISION
+https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",RETROVISION Motor
+https://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",RETROVISION Movies
+https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",RETROVISION Classic
+https://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",RETROVISION Кинопанорама
+https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-01 • ushba.tv
 https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =02= [ushba.tv]
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-02 • ushba.tv
 https://fl1001.bozztv.com/ushba14/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =03= [ushba.tv]
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-03 • ushba.tv
 https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =04= [ushba.tv]
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-04 • ushba.tv
 https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =05= [ushba.tv]
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-05 • ushba.tv
 https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =06= [ushba.tv]
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-06 • ushba.tv
 https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =07= [ushba.tv]
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-07 • ushba.tv
 https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =08= [ushba.tv]
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-08 • ushba.tv
 https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =09= [ushba.tv]
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-09 • ushba.tv
 https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =10= [ushba.tv]
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-10 • ushba.tv
 https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =11= [ushba.tv]
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-11 • ushba.tv
 https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =12= [ushba.tv]
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-12 • ushba.tv
 https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =13= [ushba.tv]
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-13 • ushba.tv
 https://fl1001.bozztv.com/ushba-films-j/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =14= [ushba.tv]
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-14 • ushba.tv
 https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =15= [ushba.tv]
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-15 • ushba.tv
 https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =16= [ushba.tv]
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-16 • ushba.tv
 https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =17= [ushba.tv]
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-17 • ushba.tv
 https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =18= [ushba.tv]
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-18 • ushba.tv
 https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =19= [ushba.tv]
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-19 • ushba.tv
 https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =20= [ushba.tv]
-https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =21= [ushba.tv]
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-20 • ushba.tv
 https://fl1001.bozztv.com/ushba-films-o/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =22= [ushba.tv]
-https://fl1001.bozztv.com/ushba-films-s/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =23= [ushba.tv]
-https://fl1001.bozztv.com/ushba-films-w/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =24= [ushba.tv]
-https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =25= [ushba.tv]
-https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =26= [ushba.tv]
-https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =27= [ushba.tv]
-https://fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =28= [ushba.tv]
-https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =29= [ushba.tv]
-https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =30= [ushba.tv]
-https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =31= [ushba.tv]
-https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =32= [ushba.tv]
-https://fl1001.bozztv.com/ushba-rfilrms-k/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =33= [ushba.tv]
-https://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =34= [ushba.tv]
-https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =35= [ushba.tv]
-https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =36= [ushba.tv]
-https://fl1001.bozztv.com/ushba64/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал =37= [ushba.tv]
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-21 • ushba.tv
 https://fl1001.bozztv.com/ushba65/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-22 • ushba.tv
+https://fl1001.bozztv.com/ushba-films-s/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-23 • ushba.tv
+https://fl1001.bozztv.com/ushba-films-w/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-24 • ushba.tv
+https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-25 • ushba.tv
+https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-26 • ushba.tv
+https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-27 • ushba.tv
+https://fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-28 • ushba.tv
+https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-29 • ushba.tv
+https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-30 • ushba.tv
+https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-31 • ushba.tv
+https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-32 • ushba.tv
+https://fl1001.bozztv.com/ushba-rfilrms-k/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-33 • ushba.tv
+https://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-34 • ushba.tv
+https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-35 • ushba.tv
+https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png",Кинозал-36 • ushba.tv
+https://fl1001.bozztv.com/ushba64/index.m3u8
+
 
 
 
