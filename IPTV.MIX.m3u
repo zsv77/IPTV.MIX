@@ -256,8 +256,6 @@ http://91.207.115.228:5000/c78
 http://94.232.127.28:8080/fox/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Fox Life
 http://94.232.127.28:8080/foxlife/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",TLC HD
-http://91.207.115.228:5000/c151
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Duo 3 HD LT
 http://94.232.127.28:8080/sony/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Duo 6 HD LT
@@ -296,9 +294,7 @@ http://95.66.188.74/Comedia/mono.m3u8
 http://193.27.209.122/dorama/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Мосфильм. Золотая коллекция HD
 http://95.66.188.74/MosfilmHD/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Мосфильм. Золотая коллекция
-http://95.66.188.74/MosfilmHD/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Мосфильм. Золотая коллекция
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Мосфильм. Золотая коллекция HD
 http://95.66.188.74/MosfilmHD/mono.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Дом кино
 http://95.66.188.74/Dom_kino/mono.m3u8
@@ -334,9 +330,9 @@ http://v2.catcast.tv/content/38720/index.m3u8
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD Юмор",Твоё ТВ HD Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино" ,TV4 КИНОЗАЛ
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" channel id="4" ,TV4 КИНОЗАЛ
 https://dvr3.vokkavideo.xyz/TV4SD/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино" ,TV4 HD КИНОЗАЛ
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" channel id="4" ,TV4 HD КИНОЗАЛ
 https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино" ,HTV HD
 https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
