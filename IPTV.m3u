@@ -255,7 +255,7 @@ http://94.232.127.28:8080/sony-turbo/index.m3u8
 http://94.232.127.28:8080/tv1000premium/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Super Baltic HD
 http://84.245.224.71/SuperBaltic/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Super+ Baltic HD
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Super Plus HD
 http://84.245.224.71/SuperPlus/mono.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Star Cinema HD
 http://84.245.224.71/StarCinemaHD/mono.m3u8
