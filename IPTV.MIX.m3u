@@ -266,7 +266,7 @@ http://94.232.127.28:8080/sony-turbo/index.m3u8
 http://94.232.127.28:8080/tv1000premium/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Super Baltic HD
 http://84.245.224.71/SuperBaltic/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Super+ Baltic HD
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Super Plus HD
 http://84.245.224.71/SuperPlus/mono.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Star Cinema HD
 http://84.245.224.71/StarCinemaHD/mono.m3u8
@@ -384,13 +384,13 @@ http://hls.goodgame.ru:8080/hls/214421.m3u8
 https://live21.bozztv.com/akamaissh101/ssh101/scripachmovie/chunks.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Кинозал
 http://185.57.68.33/237/mpegts
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",ВИДЕОСАЛОН VHS
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://geocities.ws/rockker/vhs.jpg" tvg-name="NO EPG кино",ВИДЕОСАЛОН VHS
 http://hls.goodgame.ru:8080/hls/175764.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",VHS-ка
 http://95.66.188.74/VHS/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Видеокассета VHS
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://geocities.ws/rockker/vhs.jpg" tvg-name="NO EPG кино",Видеокассета VHS
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Видеокассета VHS
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://geocities.ws/rockker/vhs.jpg" tvg-name="NO EPG кино",Видеокассета VHS
 http://195.9.195.3:8080/hls/176975.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Малдер Всё тв
 http://195.9.195.3:8080/hls/153640.m3u8
