@@ -52,8 +52,6 @@ http://hls.goodgame.ru:8080/hls/175764.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",VHS-ка
 http://95.66.188.74/VHS/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://geocities.ws/rockker/vhs.jpg" ,Видеокассета VHS
-https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://geocities.ws/rockker/vhs.jpg" ,Видеокассета VHS
 http://195.9.195.3:8080/hls/176975.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" ,Малдер Всё тв
 http://195.9.195.3:8080/hls/153640.m3u8
@@ -157,20 +155,12 @@ http://195.191.208.11:8087/udp/238.2.48.137:1234
 http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОУЖАС
 http://195.191.208.11:8087/udp/238.2.49.3:1234
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОУЖАС
-http://91.207.115.228:5000/c43
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОХИТ
 http://94.232.127.28:8080/kinohit/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОХИТ
-http://91.207.115.228:5000/c38
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОКОМЕДИЯ
 http://94.232.127.28:8080/kinokomedia/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОКОМЕДИЯ
-http://91.207.115.228:5000/c46
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОСЕМЬЯ
 http://94.232.127.28:8080/kinosemja/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОСЕМЬЯ
-http://91.207.115.228:5000/c39
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОСЕРИЯ
 http://95.66.188.74/Kinoseriya/mono.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОСЕРИЯ
@@ -183,48 +173,22 @@ http://95.66.188.74/Kinomiks/mono.m3u8
 http://95.66.188.74/Kinopokaz/mono.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОПОКАЗ
 http://95.66.188.74/Kinopokaz/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОСВИДАНИЕ
-http://91.207.115.228:5000/c44
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОСВИДАНИЕ
-http://91.207.115.228:5000/c45
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",РОДНОЕ КИНО
-http://91.207.115.228:5000/c31
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",МУЖСКОЕ КИНО
 http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",МУЖСКОЕ КИНО
-http://91.207.115.228:5000/c40
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",НАШЕ НОВОЕ КИНО
 http://95.66.188.74/NasheNovoeKino/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",НАШЕ НОВОЕ КИНО
-http://91.207.115.228:5000/c41
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОПРЕМЬЕРА
-http://91.207.115.228:5000/c42
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",ЛЮБИМОЕ КИНО
 https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju+ Comedy HD
-http://91.207.115.228:5000/c143
+http://2.57.217.85:8000/play/a03d/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju+ Megahit HD
-http://91.207.115.228:5000/c144
+http://2.57.217.85:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju+ Premiere HD
-http://91.207.115.228:5000/c145
+http://2.57.217.85:8000/play/a03f/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", viju+ Premiere
 http://2.57.217.85:8000/play/a03f/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju TV1000
-http://91.207.115.228:5000/c48
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju TV1000 Action
 http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju TV1000 Action
-http://91.207.115.228:5000/c49
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju TV1000 Русское кино
-http://91.207.115.228:5000/c37
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Amedia 1
-http://91.207.115.228:5000/c55
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Amedia 2
-http://91.207.115.228:5000/c56
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Amedia HIT
-http://91.207.115.228:5000/c57
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Amedia Premium
-http://91.207.115.228:5000/c58
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Amedia Premium
 http://217.21.34.160:38007/amediapremium/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Viasat Kino
@@ -234,13 +198,9 @@ http://94.232.127.28:8080/tv1000action/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Viasat Kino World
 http://94.232.127.28:8080/tv1000ru/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",.Black
-http://91.207.115.228:5000/c79
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",.Sci-Fi
-http://91.207.115.228:5000/c77
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",.Sci-fi
 http://94.232.127.28:8080/sony-scifi/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",.Red
-http://91.207.115.228:5000/c78
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Fox
 http://94.232.127.28:8080/fox/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Fox Life
@@ -261,18 +221,8 @@ http://84.245.224.71/StarCinemaHD/mono.m3u8
 http://84.245.224.71/StarFamilyHD/mono.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",ИЛЛЮЗИОН+
 http://217.21.34.160:38003/illuzionplus/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",ИЛЛЮЗИОН+
-http://91.207.115.228:5000/c170
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Hollywood HD
-http://91.207.115.228:5000/c59
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",FlixSnip
-http://91.207.115.228:5000/c60
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Kinoliving
-http://91.207.115.228:5000/c61
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Cinema
-http://95.66.188.74/Cinema/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Еврокино
-http://91.207.115.228:5000/c160
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",ТВ 21
+http://2.57.217.85:8000/play/a097/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",ТВ 21М
 http://217.21.34.160:38007/tv-xxi/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Т24
@@ -293,8 +243,6 @@ http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
 http://95.66.188.74/RusRoman/mono.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Русский детектив
 http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Ретро
-http://91.207.115.228:5000/c174
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/1754.png" ,НТВ Сериал
 http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-logo="http://epg.one/img2/2041.png" ,НТВ Хит
@@ -321,8 +269,6 @@ http://46.8.46.14/kvn/index.m3u8
 http://93.170.254.17/KVN/index.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ", Победа
 http://46.8.46.14/Pobeda/index.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ", Победа
-http://91.207.115.228:5000/c184
 #EXTINF:-1 group-title="ЭФИРНЫЕ", Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ", Звезда
