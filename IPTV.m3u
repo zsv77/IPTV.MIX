@@ -294,3 +294,213 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 http://195.9.195.3:8080/hls/198378.m3u8
 #EXTINF:-1 group-title="RELAX" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" ,World HD
 http://185.57.68.33/232/mpegts
+
+
+
+
+#EXTINF:-1 group-title="FDCservers" ,STAR CINEMA
+http://50.7.28.226/9330/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,TV 1000 HD
+http://50.7.28.226/8048/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,TV 1000 action HD
+http://50.7.28.226/8049/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,TV 1000 новелла
+http://50.7.28.226/8973/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,КИНО КУЛЬТ
+http://50.7.28.226/9469/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,КИНОКЛАСИКА
+http://50.7.28.226/9461/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,ПРЕМИАЛЬНОЕ HD
+http://50.7.28.226/8028/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,ОСТРОСЮЖЕТНОЕ HD
+http://50.7.28.226/8184/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,СТРАШНОЕ HD
+http://50.7.28.226/8198/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Т24
+http://50.7.28.226/8196/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,ВОСЬМОЙ
+http://50.7.28.226/9459/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , СТС Love 
+http://50.7.28.226/8174/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Bollywood 
+http://50.7.28.226/8240/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Shot TV
+http://50.7.28.226/8358/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Кинеко
+http://50.7.28.226/8370/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Fan HD
+http://50.7.28.226/8386/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,COMEDY CENTRAL
+http://50.7.28.226/8171/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Box Spy HD
+http://50.7.28.226/8354/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Box Travel HD
+http://50.7.28.226/8416/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Box Zombie HD
+http://50.7.28.226/8418/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Box Stories HD
+http://50.7.28.226/8429/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Box Gangster HD
+http://50.7.28.226/8985/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Box ULTRASTARS 4K
+http://50.7.28.226/8444/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Box Serial HD
+http://50.7.28.226/8988/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU PREMIERE HDR
+http://50.7.28.226/8468/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU PREMIERE 2 HDR
+http://50.7.28.226/8473/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU PREMIERE 3 HDR
+http://50.7.28.226/8474/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU PREMIERE 4 HDR
+http://50.7.28.226/8475/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU PREMIERE 5 HDR
+http://50.7.28.226/8872/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU PREMIERE 6 HDR
+http://50.7.28.226/8873/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU PREMIERE 7 HDR
+http://50.7.28.226/8883/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU ACTION HDR
+http://50.7.28.226/8876/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU CINEMA HD
+http://50.7.28.226/8891/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU CINEMA+ HD
+http://50.7.28.226/8891/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU REALITY HD
+http://50.7.28.226/8910/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU SURVIVAL HD
+http://50.7.28.226/8912/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU MARVEL HD
+http://50.7.28.226/8476/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU MARVEL hd
+http://50.7.28.226/8822/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU TruMotion HD
+http://50.7.28.226/8977/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU COMEDY HD
+http://50.7.28.226/8480/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU COMEDY 
+http://50.7.28.226/8878/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU FANTASTIC HDR
+http://50.7.28.226/8476/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU FANTASTIC HDr
+http://50.7.28.226/8879/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU COSMO HD
+http://50.7.28.226/8476/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU Kids+
+http://50.7.28.226/8454/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU Kids
+http://50.7.28.226/8458/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU LITTLE HD
+http://50.7.28.226/8979/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU MULTSERIAL HD
+http://50.7.28.226/8874/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU Kinorating
+http://50.7.28.226/8455/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU FILMYSTIC
+http://50.7.28.226/8479/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU FILMYSTIC HD
+http://50.7.28.226/8880/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU HISTORY HD
+http://50.7.28.226/8881/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU Catastrophe HD 
+http://50.7.28.226/8877/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU Romantic HD
+http://50.7.28.226/8884/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU STARS HD
+http://50.7.28.226/8885/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU CRIMINAL HD
+http://50.7.28.226/8890/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU Сваты
+http://50.7.28.226/8889/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , BCU CHARM HD
+http://50.7.28.226/8978/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Продвижение 
+http://50.7.28.226/8665/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Наше Мужское HD
+http://50.7.28.226/8740/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , MM Honey
+http://50.7.28.226/8895/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , MM Драма HD
+http://50.7.28.226/8634/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , MM Макромир
+http://50.7.28.226/8636/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , MM Newfilm 3
+http://50.7.28.226/8743/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , MM БОЕКВИК КЛАССИК
+http://50.7.28.226/8411/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , MM Relax
+http://50.7.28.226/8793/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , MM UFO
+http://50.7.28.226/8410/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , MM Celebrity HD
+http://50.7.28.226/8991/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , MM СКОРОСТЬ HD
+http://50.7.28.226/8916/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , MM СЕМЕЙНЫЙ
+http://50.7.28.226/8442/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , MM СЕМЕЙНЫЙ 2
+http://50.7.28.226/8449/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , MM СУПЕРГЕРОИ
+http://50.7.28.226/8710/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , MM WALT DISNEY
+http://50.7.28.226/8914/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , CineMan VHS
+http://50.7.28.226/8807/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , CineMan
+http://50.7.28.226/9121/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , CineMan 1
+http://50.7.28.226/8821/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , CineMan 2
+http://50.7.28.226/8824/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , CineMan 3
+http://50.7.28.226/8825/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , CineMan 4
+http://50.7.28.226/8826/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , CineMan 5
+http://50.7.28.226/8951/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , CineMan 6
+http://50.7.28.226/8952/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , CineMan 7
+http://50.7.28.226/8955/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , CineMan 8
+http://50.7.28.226/8957/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , CineMan 9
+http://50.7.28.226/8959/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , CineMan 10
+http://50.7.28.226/8960/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , CineMan Симпсоны 
+http://50.7.28.226/8833/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Cinema 
+http://50.7.28.226/8949/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , CineMan Thriller
+http://50.7.28.226/8954/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , CineMan MiniSeries
+http://50.7.28.226/8961/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , 8812
+http://50.7.28.226/8812/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , CineMan РуКино
+http://50.7.28.226/8871/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Романтичное HD
+http://50.7.28.226/8948/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Viasat Kino
+http://50.7.28.226/9020/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Домашний
+http://50.7.28.226/9204/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Дом кино 
+http://50.7.28.226/8136/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , VIP PREMIERE
+http://50.7.28.226/8119/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , VIP Serial
+http://50.7.28.226/9222/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,ПЛЮС ПЛЮС
+http://50.7.28.226/9455/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,ОККО TV
+http://50.7.28.226/9232/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , VHS-ka
+http://50.7.28.226/8962/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,БЛОКБАСТЕР
+http://50.7.28.226/8939/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , GOLD Line PSYCHO
+http://50.7.28.226/8483/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , GOLD Line EXIST
+http://50.7.28.226/8489/index.m3u8
