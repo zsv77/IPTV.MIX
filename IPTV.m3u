@@ -298,209 +298,207 @@ http://185.57.68.33/232/mpegts
 
 
 
-#EXTINF:-1 group-title="FDCservers" ,STAR CINEMA
+#EXTINF:-1 group-title="КИНО-ТЕСТ" ,STAR CINEMA
 http://50.7.28.226/9330/index.m3u8
-#EXTINF:-1 group-title="FDCservers" ,TV 1000 HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" ,TV 1000 HD
 http://50.7.28.226/8048/index.m3u8
-#EXTINF:-1 group-title="FDCservers" ,TV 1000 action HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" ,TV 1000 action HD
 http://50.7.28.226/8049/index.m3u8
-#EXTINF:-1 group-title="FDCservers" ,TV 1000 новелла
+#EXTINF:-1 group-title="КИНО-ТЕСТ" ,TV 1000 новелла
 http://50.7.28.226/8973/index.m3u8
-#EXTINF:-1 group-title="FDCservers" ,КИНО КУЛЬТ
+#EXTINF:-1 group-title="КИНО-ТЕСТ" ,КИНО КУЛЬТ
 http://50.7.28.226/9469/index.m3u8
-#EXTINF:-1 group-title="FDCservers" ,КИНОКЛАСИКА
+#EXTINF:-1 group-title="КИНО-ТЕСТ" ,КИНОКЛАСИКА
 http://50.7.28.226/9461/index.m3u8
-#EXTINF:-1 group-title="FDCservers" ,ПРЕМИАЛЬНОЕ HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" ,ПРЕМИАЛЬНОЕ HD
 http://50.7.28.226/8028/index.m3u8
-#EXTINF:-1 group-title="FDCservers" ,ОСТРОСЮЖЕТНОЕ HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" ,ОСТРОСЮЖЕТНОЕ HD
 http://50.7.28.226/8184/index.m3u8
-#EXTINF:-1 group-title="FDCservers" ,СТРАШНОЕ HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" ,СТРАШНОЕ HD
 http://50.7.28.226/8198/index.m3u8
-#EXTINF:-1 group-title="FDCservers" ,Т24
+#EXTINF:-1 group-title="КИНО-ТЕСТ" ,Т24
 http://50.7.28.226/8196/index.m3u8
-#EXTINF:-1 group-title="FDCservers" ,ВОСЬМОЙ
+#EXTINF:-1 group-title="КИНО-ТЕСТ" ,ВОСЬМОЙ
 http://50.7.28.226/9459/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , СТС Love 
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , СТС Love 
 http://50.7.28.226/8174/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Bollywood 
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , Bollywood 
 http://50.7.28.226/8240/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Shot TV
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , Shot TV
 http://50.7.28.226/8358/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Кинеко
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , Кинеко
 http://50.7.28.226/8370/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Fan HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , Fan HD
 http://50.7.28.226/8386/index.m3u8
-#EXTINF:-1 group-title="FDCservers" ,COMEDY CENTRAL
+#EXTINF:-1 group-title="КИНО-ТЕСТ" ,COMEDY CENTRAL
 http://50.7.28.226/8171/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Box Spy HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , Box Spy HD
 http://50.7.28.226/8354/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Box Travel HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , Box Travel HD
 http://50.7.28.226/8416/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Box Zombie HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , Box Zombie HD
 http://50.7.28.226/8418/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Box Stories HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , Box Stories HD
 http://50.7.28.226/8429/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Box Gangster HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , Box Gangster HD
 http://50.7.28.226/8985/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Box ULTRASTARS 4K
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , Box ULTRASTARS 4K
 http://50.7.28.226/8444/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Box Serial HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , Box Serial HD
 http://50.7.28.226/8988/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU PREMIERE HDR
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU PREMIERE HDR
 http://50.7.28.226/8468/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU PREMIERE 2 HDR
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU PREMIERE 2 HDR
 http://50.7.28.226/8473/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU PREMIERE 3 HDR
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU PREMIERE 3 HDR
 http://50.7.28.226/8474/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU PREMIERE 4 HDR
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU PREMIERE 4 HDR
 http://50.7.28.226/8475/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU PREMIERE 5 HDR
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU PREMIERE 5 HDR
 http://50.7.28.226/8872/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU PREMIERE 6 HDR
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU PREMIERE 6 HDR
 http://50.7.28.226/8873/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU PREMIERE 7 HDR
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU PREMIERE 7 HDR
 http://50.7.28.226/8883/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU ACTION HDR
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU ACTION HDR
 http://50.7.28.226/8876/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU CINEMA HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU CINEMA HD
 http://50.7.28.226/8891/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU CINEMA+ HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU CINEMA+ HD
 http://50.7.28.226/8891/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU REALITY HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU REALITY HD
 http://50.7.28.226/8910/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU SURVIVAL HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU SURVIVAL HD
 http://50.7.28.226/8912/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU MARVEL HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU MARVEL HD
 http://50.7.28.226/8476/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU MARVEL hd
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU MARVEL hd
 http://50.7.28.226/8822/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU TruMotion HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU TruMotion HD
 http://50.7.28.226/8977/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU COMEDY HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU COMEDY HD
 http://50.7.28.226/8480/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU COMEDY 
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU COMEDY 
 http://50.7.28.226/8878/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU FANTASTIC HDR
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU FANTASTIC HDR
 http://50.7.28.226/8476/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU FANTASTIC HDr
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU FANTASTIC HDr
 http://50.7.28.226/8879/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU COSMO HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU COSMO HD
 http://50.7.28.226/8476/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU Kids+
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU Kids+
 http://50.7.28.226/8454/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU Kids
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU Kids
 http://50.7.28.226/8458/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU LITTLE HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU LITTLE HD
 http://50.7.28.226/8979/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU MULTSERIAL HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU MULTSERIAL HD
 http://50.7.28.226/8874/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU Kinorating
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU Kinorating
 http://50.7.28.226/8455/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU FILMYSTIC
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU FILMYSTIC
 http://50.7.28.226/8479/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU FILMYSTIC HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU FILMYSTIC HD
 http://50.7.28.226/8880/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU HISTORY HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU HISTORY HD
 http://50.7.28.226/8881/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU Catastrophe HD 
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU Catastrophe HD 
 http://50.7.28.226/8877/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU Romantic HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU Romantic HD
 http://50.7.28.226/8884/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU STARS HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU STARS HD
 http://50.7.28.226/8885/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU CRIMINAL HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU CRIMINAL HD
 http://50.7.28.226/8890/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU Сваты
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU Сваты
 http://50.7.28.226/8889/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , BCU CHARM HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU CHARM HD
 http://50.7.28.226/8978/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Продвижение 
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , Продвижение 
 http://50.7.28.226/8665/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Наше Мужское HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , Наше Мужское HD
 http://50.7.28.226/8740/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , MM Honey
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM Honey
 http://50.7.28.226/8895/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , MM Драма HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM Драма HD
 http://50.7.28.226/8634/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , MM Макромир
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM Макромир
 http://50.7.28.226/8636/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , MM Newfilm 3
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM Newfilm 3
 http://50.7.28.226/8743/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , MM БОЕКВИК КЛАССИК
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM БОЕКВИК КЛАССИК
 http://50.7.28.226/8411/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , MM Relax
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM Relax
 http://50.7.28.226/8793/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , MM UFO
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM UFO
 http://50.7.28.226/8410/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , MM Celebrity HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM Celebrity HD
 http://50.7.28.226/8991/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , MM СКОРОСТЬ HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM СКОРОСТЬ HD
 http://50.7.28.226/8916/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , MM СЕМЕЙНЫЙ
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM СЕМЕЙНЫЙ
 http://50.7.28.226/8442/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , MM СЕМЕЙНЫЙ 2
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM СЕМЕЙНЫЙ 2
 http://50.7.28.226/8449/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , MM СУПЕРГЕРОИ
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM СУПЕРГЕРОИ
 http://50.7.28.226/8710/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , MM WALT DISNEY
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM WALT DISNEY
 http://50.7.28.226/8914/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , CineMan VHS
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan VHS
 http://50.7.28.226/8807/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , CineMan
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan
 http://50.7.28.226/9121/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , CineMan 1
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan 1
 http://50.7.28.226/8821/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , CineMan 2
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan 2
 http://50.7.28.226/8824/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , CineMan 3
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan 3
 http://50.7.28.226/8825/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , CineMan 4
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan 4
 http://50.7.28.226/8826/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , CineMan 5
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan 5
 http://50.7.28.226/8951/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , CineMan 6
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan 6
 http://50.7.28.226/8952/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , CineMan 7
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan 7
 http://50.7.28.226/8955/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , CineMan 8
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan 8
 http://50.7.28.226/8957/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , CineMan 9
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan 9
 http://50.7.28.226/8959/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , CineMan 10
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan 10
 http://50.7.28.226/8960/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , CineMan Симпсоны 
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan Симпсоны 
 http://50.7.28.226/8833/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Cinema 
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , Cinema 
 http://50.7.28.226/8949/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , CineMan Thriller
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan Thriller
 http://50.7.28.226/8954/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , CineMan MiniSeries
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan MiniSeries
 http://50.7.28.226/8961/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , 8812
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , 8812
 http://50.7.28.226/8812/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , CineMan РуКино
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan РуКино
 http://50.7.28.226/8871/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Романтичное HD
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , Романтичное HD
 http://50.7.28.226/8948/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Viasat Kino
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , Viasat Kino
 http://50.7.28.226/9020/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Домашний
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , Домашний
 http://50.7.28.226/9204/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Дом кино 
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , Дом кино 
 http://50.7.28.226/8136/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , VIP PREMIERE
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , VIP PREMIERE
 http://50.7.28.226/8119/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , VIP Serial
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , VIP Serial
 http://50.7.28.226/9222/index.m3u8
-#EXTINF:-1 group-title="FDCservers" ,ПЛЮС ПЛЮС
-http://50.7.28.226/9455/index.m3u8
-#EXTINF:-1 group-title="FDCservers" ,ОККО TV
+#EXTINF:-1 group-title="КИНО-ТЕСТ" ,ОККО TV
 http://50.7.28.226/9232/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , VHS-ka
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , VHS-ka
 http://50.7.28.226/8962/index.m3u8
-#EXTINF:-1 group-title="FDCservers" ,БЛОКБАСТЕР
+#EXTINF:-1 group-title="КИНО-ТЕСТ" ,БЛОКБАСТЕР
 http://50.7.28.226/8939/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , GOLD Line PSYCHO
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , GOLD Line PSYCHO
 http://50.7.28.226/8483/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , GOLD Line EXIST
+#EXTINF:-1 group-title="КИНО-ТЕСТ" , GOLD Line EXIST
 http://50.7.28.226/8489/index.m3u8
