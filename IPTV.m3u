@@ -298,207 +298,282 @@ http://185.57.68.33/232/mpegts
 
 
 
-#EXTINF:-1 group-title="КИНО-ТЕСТ" ,STAR CINEMA
-http://50.7.28.226/9330/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" ,TV 1000 HD
-http://50.7.28.226/8048/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" ,TV 1000 action HD
-http://50.7.28.226/8049/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" ,TV 1000 новелла
-http://50.7.28.226/8973/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" ,КИНО КУЛЬТ
-http://50.7.28.226/9469/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" ,КИНОКЛАСИКА
-http://50.7.28.226/9461/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" ,ПРЕМИАЛЬНОЕ HD
-http://50.7.28.226/8028/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" ,ОСТРОСЮЖЕТНОЕ HD
-http://50.7.28.226/8184/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" ,СТРАШНОЕ HD
-http://50.7.28.226/8198/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" ,Т24
-http://50.7.28.226/8196/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" ,ВОСЬМОЙ
-http://50.7.28.226/9459/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , СТС Love 
-http://50.7.28.226/8174/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , Bollywood 
-http://50.7.28.226/8240/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , Shot TV
-http://50.7.28.226/8358/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , Кинеко
-http://50.7.28.226/8370/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , Fan HD
-http://50.7.28.226/8386/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" ,COMEDY CENTRAL
-http://50.7.28.226/8171/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , Box Spy HD
-http://50.7.28.226/8354/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , Box Travel HD
-http://50.7.28.226/8416/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , Box Zombie HD
-http://50.7.28.226/8418/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , Box Stories HD
-http://50.7.28.226/8429/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , Box Gangster HD
-http://50.7.28.226/8985/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , Box ULTRASTARS 4K
-http://50.7.28.226/8444/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , Box Serial HD
-http://50.7.28.226/8988/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU PREMIERE HDR
-http://50.7.28.226/8468/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU PREMIERE 2 HDR
-http://50.7.28.226/8473/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU PREMIERE 3 HDR
-http://50.7.28.226/8474/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU PREMIERE 4 HDR
-http://50.7.28.226/8475/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU PREMIERE 5 HDR
-http://50.7.28.226/8872/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU PREMIERE 6 HDR
-http://50.7.28.226/8873/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU PREMIERE 7 HDR
-http://50.7.28.226/8883/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU ACTION HDR
-http://50.7.28.226/8876/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU CINEMA HD
-http://50.7.28.226/8891/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU CINEMA+ HD
-http://50.7.28.226/8891/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU REALITY HD
-http://50.7.28.226/8910/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU SURVIVAL HD
-http://50.7.28.226/8912/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU MARVEL HD
-http://50.7.28.226/8476/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU MARVEL hd
-http://50.7.28.226/8822/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU TruMotion HD
-http://50.7.28.226/8977/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU COMEDY HD
-http://50.7.28.226/8480/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU COMEDY 
-http://50.7.28.226/8878/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU FANTASTIC HDR
-http://50.7.28.226/8476/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU FANTASTIC HDr
-http://50.7.28.226/8879/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU COSMO HD
-http://50.7.28.226/8476/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU Kids+
-http://50.7.28.226/8454/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU Kids
-http://50.7.28.226/8458/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU LITTLE HD
-http://50.7.28.226/8979/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU MULTSERIAL HD
-http://50.7.28.226/8874/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU Kinorating
-http://50.7.28.226/8455/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU FILMYSTIC
-http://50.7.28.226/8479/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU FILMYSTIC HD
-http://50.7.28.226/8880/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU HISTORY HD
-http://50.7.28.226/8881/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU Catastrophe HD 
+#EXTINF:-1 tvg-name="BCU Catastrophe" group-title="КИНО-ТЕСТ",BCU Catastrophe 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
 http://50.7.28.226/8877/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU Romantic HD
-http://50.7.28.226/8884/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU STARS HD
-http://50.7.28.226/8885/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU CRIMINAL HD
+#EXTINF:-1 tvg-name="BCU Cinema" group-title="КИНО-ТЕСТ",BCU Cinema 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8891/index.m3u8
+#EXTINF:-1 tvg-name="BCU Comedy" group-title="КИНО-ТЕСТ",BCU Comedy 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8480/index.m3u8
+#EXTINF:-1 tvg-name="BCU Comedy 2" group-title="КИНО-ТЕСТ",BCU Comedy 2 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://50.7.28.226/8878/index.m3u8
+#EXTINF:-1 tvg-name="BCU Criminal" group-title="КИНО-ТЕСТ",BCU Criminal 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
 http://50.7.28.226/8890/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU Сваты
+#EXTINF:-1 tvg-name="BCU Fantastic" group-title="КИНО-ТЕСТ",BCU Fantastic 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://50.7.28.226/8879/index.m3u8
+#EXTINF:-1 tvg-name="BCU FilMystic" group-title="КИНО-ТЕСТ",BCU FilMystic 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8479/index.m3u8
+#EXTINF:-1 tvg-name="BCU FilMystic 2" group-title="КИНО-ТЕСТ",BCU FilMystic 2 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://50.7.28.226/8880/index.m3u8
+#EXTINF:-1 tvg-name="BCU History" group-title="КИНО-ТЕСТ",BCU History 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8881/index.m3u8
+#EXTINF:-1 tvg-name="BCU Kinorating" group-title="КИНО-ТЕСТ",BCU Kinorating 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8455/index.m3u8
+#EXTINF:-1 tvg-name="BCU Marvel 2" group-title="КИНО-ТЕСТ",BCU Marvel 2 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8822/index.m3u8
+#EXTINF:-1 tvg-name="BCU Premiere" group-title="КИНО-ТЕСТ",BCU Premiere 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8468/index.m3u8
+#EXTINF:-1 tvg-name="BCU Premiere 2" group-title="КИНО-ТЕСТ",BCU Premiere 2 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://50.7.28.226/8473/index.m3u8
+#EXTINF:-1 tvg-name="BCU Premiere 3" group-title="КИНО-ТЕСТ",BCU Premiere 3 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8474/index.m3u8
+#EXTINF:-1 tvg-name="BCU Premiere 4" group-title="КИНО-ТЕСТ",BCU Premiere 4 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8475/index.m3u8
+#EXTINF:-1 tvg-name="BCU Premiere 5" group-title="КИНО-ТЕСТ",BCU Premiere 5 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://50.7.28.226/8872/index.m3u8
+#EXTINF:-1 tvg-name="BCU Premiere 6" group-title="КИНО-ТЕСТ",BCU Premiere 6 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://50.7.28.226/8873/index.m3u8
+#EXTINF:-1 tvg-name="BCU Premiere 7" group-title="КИНО-ТЕСТ",BCU Premiere 7 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8883/index.m3u8
+#EXTINF:-1 tvg-name="BCU Reality" group-title="КИНО-ТЕСТ",BCU Reality 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8910/index.m3u8
+#EXTINF:-1 tvg-name="BCU Romantic" group-title="КИНО-ТЕСТ",BCU Romantic 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8884/index.m3u8
+#EXTINF:-1 tvg-name="BCU Russian" group-title="КИНО-ТЕСТ",BCU Russian 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8457/index.m3u8
+#EXTINF:-1 tvg-name="BCU Stars" group-title="КИНО-ТЕСТ",BCU Stars 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8885/index.m3u8
+#EXTINF:-1 tvg-name="BCU Survival" group-title="КИНО-ТЕСТ",BCU Survival 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8912/index.m3u8
+#EXTINF:-1 tvg-name="BCU TruMotion" group-title="КИНО-ТЕСТ",BCU TruMotion 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8977/index.m3u8
+#EXTINF:-1 tvg-name="BCU Сваты" group-title="КИНО-ТЕСТ",BCU Сваты 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
 http://50.7.28.226/8889/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , BCU CHARM HD
-http://50.7.28.226/8978/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , Продвижение 
-http://50.7.28.226/8665/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , Наше Мужское HD
-http://50.7.28.226/8740/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM Honey
-http://50.7.28.226/8895/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM Драма HD
-http://50.7.28.226/8634/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM Макромир
-http://50.7.28.226/8636/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM Newfilm 3
-http://50.7.28.226/8743/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM БОЕКВИК КЛАССИК
-http://50.7.28.226/8411/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM Relax
-http://50.7.28.226/8793/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM UFO
-http://50.7.28.226/8410/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM Celebrity HD
-http://50.7.28.226/8991/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM СКОРОСТЬ HD
-http://50.7.28.226/8916/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM СЕМЕЙНЫЙ
-http://50.7.28.226/8442/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM СЕМЕЙНЫЙ 2
-http://50.7.28.226/8449/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM СУПЕРГЕРОИ
-http://50.7.28.226/8710/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , MM WALT DISNEY
-http://50.7.28.226/8914/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan VHS
-http://50.7.28.226/8807/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan
+#EXTINF:-1 tvg-name="BOX Apocalypse" group-title="КИНО-ТЕСТ",BOX Apocalypse 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8441/index.m3u8
+#EXTINF:-1 tvg-name="BOX Fantasy" group-title="КИНО-ТЕСТ",BOX Fantasy 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8430/index.m3u8
+#EXTINF:-1 tvg-name="BOX Gangster" group-title="КИНО-ТЕСТ",BOX Gangster 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8985/index.m3u8
+#EXTINF:-1 tvg-name="BOX M.Serial" group-title="КИНО-ТЕСТ",BOX M.Serial 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8988/index.m3u8
+#EXTINF:-1 tvg-name="BOX Spy" group-title="КИНО-ТЕСТ",BOX Spy 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8354/index.m3u8
+#EXTINF:-1 tvg-name="BOX Zombie" group-title="КИНО-ТЕСТ",BOX Zombie 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8418/index.m3u8
+#EXTINF:-1 tvg-name="BOX СССР 4K" group-title="КИНО-ТЕСТ",BOX СССР 4K
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8445/index.m3u8
+#EXTINF:-1 tvg-name="CineMan" group-title="КИНО-ТЕСТ",CineMan 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
 http://50.7.28.226/9121/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan 1
+#EXTINF:-1 tvg-name="CineMan 1" group-title="КИНО-ТЕСТ",CineMan 1 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
 http://50.7.28.226/8821/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan 2
-http://50.7.28.226/8824/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan 3
-http://50.7.28.226/8825/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan 4
-http://50.7.28.226/8826/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan 5
-http://50.7.28.226/8951/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan 6
-http://50.7.28.226/8952/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan 7
-http://50.7.28.226/8955/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan 8
-http://50.7.28.226/8957/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan 9
-http://50.7.28.226/8959/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan 10
+#EXTINF:-1 tvg-name="CineMan 10" group-title="КИНО-ТЕСТ",CineMan 10 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
 http://50.7.28.226/8960/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan Симпсоны 
-http://50.7.28.226/8833/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , Cinema 
-http://50.7.28.226/8949/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan Thriller
-http://50.7.28.226/8954/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan MiniSeries
+#EXTINF:-1 tvg-name="CineMan 2" group-title="КИНО-ТЕСТ",CineMan 2 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8824/index.m3u8
+#EXTINF:-1 tvg-name="CineMan 3" group-title="КИНО-ТЕСТ",CineMan 3 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8825/index.m3u8
+#EXTINF:-1 tvg-name="CineMan 4" group-title="КИНО-ТЕСТ",CineMan 4 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8826/index.m3u8
+#EXTINF:-1 tvg-name="CineMan 5" group-title="КИНО-ТЕСТ",CineMan 5 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8951/index.m3u8
+#EXTINF:-1 tvg-name="CineMan 6" group-title="КИНО-ТЕСТ",CineMan 6 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8952/index.m3u8
+#EXTINF:-1 tvg-name="CineMan 7" group-title="КИНО-ТЕСТ",CineMan 7 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8955/index.m3u8
+#EXTINF:-1 tvg-name="CineMan 8" group-title="КИНО-ТЕСТ",CineMan 8 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8957/index.m3u8
+#EXTINF:-1 tvg-name="CineMan 9" group-title="КИНО-ТЕСТ",CineMan 9 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8959/index.m3u8
+#EXTINF:-1 tvg-name="CineMan MiniSeries" group-title="КИНО-ТЕСТ",CineMan MiniSeries 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
 http://50.7.28.226/8961/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , 8812
-http://50.7.28.226/8812/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , CineMan РуКино
+#EXTINF:-1 tvg-name="CineMan Thriller" group-title="КИНО-ТЕСТ",CineMan Thriller 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8954/index.m3u8
+#EXTINF:-1 tvg-name="CineMan VHS" group-title="КИНО-ТЕСТ",CineMan VHS 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8807/index.m3u8
+#EXTINF:-1 tvg-name="CineMan РуКино" group-title="КИНО-ТЕСТ",CineMan РуКино 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
 http://50.7.28.226/8871/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , Романтичное HD
-http://50.7.28.226/8948/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , Viasat Kino
-http://50.7.28.226/9020/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , Домашний
-http://50.7.28.226/9204/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , Дом кино 
-http://50.7.28.226/8136/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , VIP PREMIERE
-http://50.7.28.226/8119/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , VIP Serial
-http://50.7.28.226/9222/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" ,ОККО TV
-http://50.7.28.226/9232/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , VHS-ka
-http://50.7.28.226/8962/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" ,БЛОКБАСТЕР
-http://50.7.28.226/8939/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , GOLD Line PSYCHO
-http://50.7.28.226/8483/index.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ" , GOLD Line EXIST
+#EXTINF:-1 tvg-name="GOLD Line EXIST" group-title="КИНО-ТЕСТ",GOLD Line EXIST 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
 http://50.7.28.226/8489/index.m3u8
+#EXTINF:-1 tvg-name="GOLD Line PSYCHO" group-title="КИНО-ТЕСТ",GOLD Line PSYCHO 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8483/index.m3u8
+#EXTINF:-1 tvg-name="GOLD Line Детектив" group-title="КИНО-ТЕСТ",GOLD Line Детектив 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8573/index.m3u8
+#EXTINF:-1 tvg-name="MM 007" group-title="КИНО-ТЕСТ",MM 007 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8327/index.m3u8
+#EXTINF:-1 tvg-name="MM Celebrity" group-title="КИНО-ТЕСТ",MM Celebrity 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8991/index.m3u8
+#EXTINF:-1 tvg-name="MM Love" group-title="КИНО-ТЕСТ",MM Love 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8328/index.m3u8
+#EXTINF:-1 tvg-name="MM NewFilm 1" group-title="КИНО-ТЕСТ",MM NewFilm 1 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8741/index.m3u8
+#EXTINF:-1 tvg-name="MM NewFilm 2" group-title="КИНО-ТЕСТ",MM NewFilm 2 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8742/index.m3u8
+#EXTINF:-1 tvg-name="MM NewFilm 3" group-title="КИНО-ТЕСТ",MM NewFilm 3 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8743/index.m3u8
+#EXTINF:-1 tvg-name="MM NewFilm.RU" group-title="КИНО-ТЕСТ",MM NewFilm.RU 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8706/index.m3u8
+#EXTINF:-1 tvg-name="MM UFO" group-title="КИНО-ТЕСТ",MM UFO 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8410/index.m3u8
+#EXTINF:-1 tvg-name="MM WALT DISNEY" group-title="КИНО-ТЕСТ",MM WALT DISNEY 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8914/index.m3u8
+#EXTINF:-1 tvg-name="MM БОЕВИК КЛАССИК" group-title="КИНО-ТЕСТ",MM БОЕВИК КЛАССИК 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8411/index.m3u8
+#EXTINF:-1 tvg-name="MM Драма" group-title="КИНО-ТЕСТ",MM Драма 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8634/index.m3u8
+#EXTINF:-1 tvg-name="MM Катастрофа" group-title="КИНО-ТЕСТ",MM Катастрофа 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8746/index.m3u8
+#EXTINF:-1 tvg-name="MM Комедия" group-title="КИНО-ТЕСТ",MM Комедия 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8708/index.m3u8
+#EXTINF:-1 tvg-name="MM Комедия Classic" group-title="КИНО-ТЕСТ",MM Комедия Classic 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8744/index.m3u8
+#EXTINF:-1 tvg-name="MM Кунг-Фу" group-title="КИНО-ТЕСТ",MM Кунг-Фу 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8559/index.m3u8
+#EXTINF:-1 tvg-name="MM Нуар" group-title="КИНО-ТЕСТ",MM Нуар 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8733/index.m3u8
+#EXTINF:-1 tvg-name="MM Погружение" group-title="КИНО-ТЕСТ",MM Погружение 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8799/index.m3u8
+#EXTINF:-1 tvg-name="MM Приключения" group-title="КИНО-ТЕСТ",MM Приключения 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8779/index.m3u8
+#EXTINF:-1 tvg-name="MM Роскино" group-title="КИНО-ТЕСТ",MM Роскино 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8709/index.m3u8
+#EXTINF:-1 tvg-name="MM СЕМЕЙНЫЙ" group-title="КИНО-ТЕСТ",MM СЕМЕЙНЫЙ 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8442/index.m3u8
+#EXTINF:-1 tvg-name="MM СЕМЕЙНЫЙ 2" group-title="КИНО-ТЕСТ",MM СЕМЕЙНЫЙ 2 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8449/index.m3u8
+#EXTINF:-1 tvg-name="MM СКОРОСТЬ" group-title="КИНО-ТЕСТ",MM СКОРОСТЬ 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8916/index.m3u8
+#EXTINF:-1 tvg-name="MM Спорт" group-title="КИНО-ТЕСТ",MM Спорт 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://157.90.0.245:8070/minimax-sport/index.m3u8
+#EXTINF:-1 tvg-name="MM Супергерои" group-title="КИНО-ТЕСТ",MM Супергерои 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8710/index.m3u8
+#EXTINF:-1 tvg-name="MM Триллер" group-title="КИНО-ТЕСТ",MM Триллер 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8778/index.m3u8
+#EXTINF:-1 tvg-name="MM Ужасы" group-title="КИНО-ТЕСТ",MM Ужасы 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8725/index.m3u8
+#EXTINF:-1 tvg-name="BCU Kids+" group-title="КИНО-ТЕСТ",BCU Kids+ 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8454/index.m3u8
+#EXTINF:-1 tvg-name="BCU LITTLE" group-title="КИНО-ТЕСТ",BCU LITTLE 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8979/index.m3u8
+#EXTINF:-1 tvg-name="BCU MULTSERIAL" group-title="КИНО-ТЕСТ",BCU MULTSERIAL 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8874/index.m3u8
+#EXTINF:-1 tvg-name="BOX Autotrend" group-title="КИНО-ТЕСТ",BOX Autotrend 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8440/index.m3u8
+#EXTINF:-1 tvg-name="BOX Lo-Fi" group-title="КИНО-ТЕСТ",BOX Lo-Fi 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8446/index.m3u8
+#EXTINF:-1 tvg-name="BOX Mayday HD" group-title="КИНО-ТЕСТ",BOX Mayday HD 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8434/index.m3u8
+#EXTINF:-1 tvg-name="BOX Stories" group-title="КИНО-ТЕСТ",BOX Stories 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8429/index.m3u8
+#EXTINF:-1 tvg-name="BOX TRAVEL" group-title="КИНО-ТЕСТ",BOX TRAVEL 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8416/index.m3u8
+#EXTINF:-1 tvg-name="BOX ULTRASTARS 4K" group-title="КИНО-ТЕСТ",BOX ULTRASTARS 4K 
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+http://50.7.28.226/8444/index.m3u8
+#EXTINF:-1 tvg-name="CineMan Мулт" group-title="КИНО-ТЕСТ",CineMan Мулт 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8812/index.m3u8
+#EXTINF:-1 tvg-name="CineMan Симпсоны" group-title="КИНО-ТЕСТ",CineMan Симпсоны 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8833/index.m3u8
+#EXTINF:-1 tvg-name="MM Honey" group-title="КИНО-ТЕСТ",MM Honey 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8895/index.m3u8
+#EXTINF:-1 tvg-name="MM Relax" group-title="КИНО-ТЕСТ",MM Relax 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8793/index.m3u8
+#EXTINF:-1 tvg-name="MM Rock" group-title="КИНО-ТЕСТ",MM Rock 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8679/index.m3u8
+#EXTINF:-1 tvg-name="MM Макромир" group-title="КИНО-ТЕСТ",MM Макромир 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8636/index.m3u8
+#EXTINF:-1 tvg-name="MM Мегамир" group-title="КИНО-ТЕСТ",MM Мегамир 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8770/index.m3u8
+#EXTINF:-1 tvg-name="MS Crime" group-title="КИНО-ТЕСТ",MS Crime 
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://sharingplus.net/iptv/NR7VUB57KMRXBD/15136/index.m3u8
