@@ -149,13 +149,13 @@ https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 http://195.191.208.5:8087/udp/233.170.170.118:58631
 #EXTINF:0 group-title="МУЛЬТФИЛЬМЫ",2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ" tvg-logo="https://i.pinimg.com/originals/c8/a4/77/c8a477e59df1c39bc16bcd4644f50b01.png" channel id="1",Futurama
+#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://zsv.ucoz.net/Logo/Futurama.png" tvg-name="NO EPG мультфильмы",Futurama
 http://195.9.195.3:8080/hls/199417.m3u8
 #EXTINF:0 group-title="МУЛЬТФИЛЬМЫ" tvg-logo="https://iptv-play.ru/assets/img/logo/logo.png",IPTVPLAY МультСказки
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ" tvg-logo="https://i.pinimg.com/originals/c8/a4/77/c8a477e59df1c39bc16bcd4644f50b01.png" channel id="1",Маша и медведь (ushba.tv)
+#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ" tvg-logo="https://zsv.ucoz.net/Logo/Masha.png" channel id="1",Маша и медведь (ushba.tv)
 https://live21.bozztv.com/giatvplayout7/ushba79/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ" channel id="1" tvg-logo="https://i.pinimg.com/originals/c8/a4/77/c8a477e59df1c39bc16bcd4644f50b01.png" ,Маша и медведь ENG (ushba.tv)
+#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ" channel id="1" tvg-logo="https://zsv.ucoz.net/Logo/MashaEN.png" ,Маша и медведь ENG (ushba.tv)
 https://glb.bozztv.com/glb/ushba78/index.m3u8
 
 
