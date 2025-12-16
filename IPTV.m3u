@@ -1,35 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Clarity4K Ужасы
-http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Clarity4K Фантастика
-http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Clarity4K Фэнтези
-http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Clarity4K Netflix
-http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Clarity4K Walt Disney 
-http://hls127.freeott.top:8080/Clarity4K_Walt_Disney/video.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Clarity4K Кино Франшизы
-http://hls127.freeott.top:8080/Clarity4K_Kinofranshiza/video.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,CPS Action
-http://hls127.freeott.top:8080/CPS_Action/video.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,CPS Anime
-http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,CPS Cartoon
-http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,CPS Comedy
-http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,CPS Drama
-http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,CPS Fiction
-http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,CPS Fresh
-http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,CPS Investigation
-http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,CPS Mix
-http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
+
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Kinoteka
 http://195.9.195.3:8080/hls/146065.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Fantastic Mystic
