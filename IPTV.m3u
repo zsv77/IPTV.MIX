@@ -1,13 +1,38 @@
 #EXTM3U
 
-
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD",Твоё ТВ HD
-http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD Юмор",Твоё ТВ HD Юмор
-http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Clarity4K Ужасы
+http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Clarity4K Фантастика
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Clarity4K Фэнтези
+http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Clarity4K Netflix
+http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Clarity4K Walt Disney 
+http://hls127.freeott.top:8080/Clarity4K_Walt_Disney/video.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Clarity4K Кино Франшизы
+http://hls127.freeott.top:8080/Clarity4K_Kinofranshiza/video.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,CPS Action
+http://hls127.freeott.top:8080/CPS_Action/video.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,CPS Anime
+http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,CPS Cartoon
+http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,CPS Comedy
+http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,CPS Drama
+http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,CPS Fiction
+http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,CPS Fresh
+http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,CPS Investigation
+http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,CPS Mix
+http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Kinoteka
 http://195.9.195.3:8080/hls/146065.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Fantastic Mistyc
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Fantastic Mystic
 http://195.9.195.3:8080/hls/187741.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Dimpon HD
 http://195.9.195.3:8080/hls/210470.m3u8
@@ -27,12 +52,6 @@ http://195.9.195.3:8080/manifest/157269_master.m3u8
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,2FILMAX Комедия
 http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,HD Comedy
-http://2.57.217.85:8000/play/a074/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,HD Kino
-http://2.57.217.85:8000/play/a05j/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,HD Kids
-http://2.57.217.85:8000/play/a05q/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Kino Mix
 http://hls.goodgame.ru:8080/hls/216612.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Film Best
@@ -47,8 +66,6 @@ http://195.9.195.3:8080/hls/5346.m3u8
 http://hls.goodgame.ru:8080/hls/214454.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , CyberTV 2
 http://hls.goodgame.ru:8080/hls/214433.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" tvg-name="NO EPG кино мультфильмы", CyberTV 3 Мультфильмы
-http://hls.goodgame.ru:8080/hls/214421.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Scripach TV
 https://live21.bozztv.com/akamaissh101/ssh101/scripachmovie/chunks.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Кинозал
@@ -61,8 +78,10 @@ http://hls.goodgame.ru:8080/hls/175764.m3u8
 http://95.66.188.74/VHS/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VHS.png" ,Видеокассета VHS
 http://195.9.195.3:8080/hls/176975.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ"  ,КОШМАР HD
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Koshmar-hd.png" ,КОШМАР HD
 http://195.9.195.3:8080/hls/204709.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" aspect-ratio=16:9,Киноман
+http://31.47.199.45:1402/kinoman/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Малдер Всё тв
 http://195.9.195.3:8080/hls/153640.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,alpha Cinema 
@@ -89,6 +108,10 @@ http://hls.goodgame.ru:8080/hls/218490.m3u8
 http://hls.goodgame.ru:8080/hls/211351.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,DTR Zona 1
 https://kino-stream.online/hls/DTRZON
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD",Твоё ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD Юмор",Твоё ТВ HD Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноДетектив
 https://cityeden.catcast.tv/content/41327/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноДрама
@@ -135,6 +158,8 @@ https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НСТ
+http://195.9.195.3:8080/hls/217855.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ", КВН ТВ
 http://93.170.254.17/KVN/index.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ", Звезда HD
@@ -157,7 +182,8 @@ http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 https://live21.bozztv.com/giatvplayout7/ushba79/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 group-title="МУЛЬТФИЛЬМЫ" channel id="1" tvg-logo="https://zsv.ucoz.net/Logo/MashaEN.png" ,Маша и медведь ENG (ushba.tv)
 https://glb.bozztv.com/glb/ushba78/index.m3u8
-
+#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" tvg-name="NO EPG кино мультфильмы", CyberTV 3 Мультфильмы
+http://hls.goodgame.ru:8080/hls/214421.m3u8
 
 
 
