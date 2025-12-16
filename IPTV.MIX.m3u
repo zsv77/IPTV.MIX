@@ -163,425 +163,22 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-name="BCU Catastrophe" group-title="КИНО-ТЕСТ",BCU Catastrophe 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8877/index.m3u8
-#EXTINF:-1 tvg-name="BCU Cinema" group-title="КИНО-ТЕСТ",BCU Cinema 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8891/index.m3u8
-#EXTINF:-1 tvg-name="BCU Comedy" group-title="КИНО-ТЕСТ",BCU Comedy 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8480/index.m3u8
-#EXTINF:-1 tvg-name="BCU Comedy 2" group-title="КИНО-ТЕСТ",BCU Comedy 2 
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://50.7.28.226/8878/index.m3u8
-#EXTINF:-1 tvg-name="BCU Criminal" group-title="КИНО-ТЕСТ",BCU Criminal 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8890/index.m3u8
-#EXTINF:-1 tvg-name="BCU Fantastic" group-title="КИНО-ТЕСТ",BCU Fantastic 
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://50.7.28.226/8879/index.m3u8
-#EXTINF:-1 tvg-name="BCU FilMystic" group-title="КИНО-ТЕСТ",BCU FilMystic 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8479/index.m3u8
-#EXTINF:-1 tvg-name="BCU FilMystic 2" group-title="КИНО-ТЕСТ",BCU FilMystic 2 
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://50.7.28.226/8880/index.m3u8
-#EXTINF:-1 tvg-name="BCU History" group-title="КИНО-ТЕСТ",BCU History 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8881/index.m3u8
-#EXTINF:-1 tvg-name="BCU Kinorating" group-title="КИНО-ТЕСТ",BCU Kinorating 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8455/index.m3u8
-#EXTINF:-1 tvg-name="BCU Marvel 2" group-title="КИНО-ТЕСТ",BCU Marvel 2 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8822/index.m3u8
-#EXTINF:-1 tvg-name="BCU Premiere" group-title="КИНО-ТЕСТ",BCU Premiere 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8468/index.m3u8
-#EXTINF:-1 tvg-name="BCU Premiere 2" group-title="КИНО-ТЕСТ",BCU Premiere 2 
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://50.7.28.226/8473/index.m3u8
-#EXTINF:-1 tvg-name="BCU Premiere 3" group-title="КИНО-ТЕСТ",BCU Premiere 3 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8474/index.m3u8
-#EXTINF:-1 tvg-name="BCU Premiere 4" group-title="КИНО-ТЕСТ",BCU Premiere 4 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8475/index.m3u8
-#EXTINF:-1 tvg-name="BCU Premiere 5" group-title="КИНО-ТЕСТ",BCU Premiere 5 
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://50.7.28.226/8872/index.m3u8
-#EXTINF:-1 tvg-name="BCU Premiere 6" group-title="КИНО-ТЕСТ",BCU Premiere 6 
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://50.7.28.226/8873/index.m3u8
-#EXTINF:-1 tvg-name="BCU Premiere 7" group-title="КИНО-ТЕСТ",BCU Premiere 7 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8883/index.m3u8
-#EXTINF:-1 tvg-name="BCU Reality" group-title="КИНО-ТЕСТ",BCU Reality 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8910/index.m3u8
-#EXTINF:-1 tvg-name="BCU Romantic" group-title="КИНО-ТЕСТ",BCU Romantic 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8884/index.m3u8
-#EXTINF:-1 tvg-name="BCU Russian" group-title="КИНО-ТЕСТ",BCU Russian 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8457/index.m3u8
-#EXTINF:-1 tvg-name="BCU Stars" group-title="КИНО-ТЕСТ",BCU Stars 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8885/index.m3u8
-#EXTINF:-1 tvg-name="BCU Survival" group-title="КИНО-ТЕСТ",BCU Survival 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8912/index.m3u8
-#EXTINF:-1 tvg-name="BCU TruMotion" group-title="КИНО-ТЕСТ",BCU TruMotion 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8977/index.m3u8
-#EXTINF:-1 tvg-name="BCU Сваты" group-title="КИНО-ТЕСТ",BCU Сваты 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8889/index.m3u8
-#EXTINF:-1 tvg-name="BOX Apocalypse" group-title="КИНО-ТЕСТ",BOX Apocalypse 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8441/index.m3u8
-#EXTINF:-1 tvg-name="BOX Fantasy" group-title="КИНО-ТЕСТ",BOX Fantasy 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8430/index.m3u8
-#EXTINF:-1 tvg-name="BOX Gangster" group-title="КИНО-ТЕСТ",BOX Gangster 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8985/index.m3u8
-#EXTINF:-1 tvg-name="BOX M.Serial" group-title="КИНО-ТЕСТ",BOX M.Serial 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8988/index.m3u8
-#EXTINF:-1 tvg-name="BOX Spy" group-title="КИНО-ТЕСТ",BOX Spy 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8354/index.m3u8
-#EXTINF:-1 tvg-name="BOX Zombie" group-title="КИНО-ТЕСТ",BOX Zombie 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8418/index.m3u8
-#EXTINF:-1 tvg-name="BOX СССР 4K" group-title="КИНО-ТЕСТ",BOX СССР 4K
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8445/index.m3u8
-#EXTINF:-1 tvg-name="CineMan" group-title="КИНО-ТЕСТ",CineMan 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/9121/index.m3u8
-#EXTINF:-1 tvg-name="CineMan 1" group-title="КИНО-ТЕСТ",CineMan 1 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8821/index.m3u8
-#EXTINF:-1 tvg-name="CineMan 10" group-title="КИНО-ТЕСТ",CineMan 10 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8960/index.m3u8
-#EXTINF:-1 tvg-name="CineMan 2" group-title="КИНО-ТЕСТ",CineMan 2 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8824/index.m3u8
-#EXTINF:-1 tvg-name="CineMan 3" group-title="КИНО-ТЕСТ",CineMan 3 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8825/index.m3u8
-#EXTINF:-1 tvg-name="CineMan 4" group-title="КИНО-ТЕСТ",CineMan 4 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8826/index.m3u8
-#EXTINF:-1 tvg-name="CineMan 5" group-title="КИНО-ТЕСТ",CineMan 5 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8951/index.m3u8
-#EXTINF:-1 tvg-name="CineMan 6" group-title="КИНО-ТЕСТ",CineMan 6 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8952/index.m3u8
-#EXTINF:-1 tvg-name="CineMan 7" group-title="КИНО-ТЕСТ",CineMan 7 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8955/index.m3u8
-#EXTINF:-1 tvg-name="CineMan 8" group-title="КИНО-ТЕСТ",CineMan 8 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8957/index.m3u8
-#EXTINF:-1 tvg-name="CineMan 9" group-title="КИНО-ТЕСТ",CineMan 9 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8959/index.m3u8
-#EXTINF:-1 tvg-name="CineMan MiniSeries" group-title="КИНО-ТЕСТ",CineMan MiniSeries 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8961/index.m3u8
-#EXTINF:-1 tvg-name="CineMan Thriller" group-title="КИНО-ТЕСТ",CineMan Thriller 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8954/index.m3u8
-#EXTINF:-1 tvg-name="CineMan VHS" group-title="КИНО-ТЕСТ",CineMan VHS 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8807/index.m3u8
-#EXTINF:-1 tvg-name="CineMan РуКино" group-title="КИНО-ТЕСТ",CineMan РуКино 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8871/index.m3u8
-#EXTINF:-1 tvg-name="GOLD Line EXIST" group-title="КИНО-ТЕСТ",GOLD Line EXIST 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8489/index.m3u8
-#EXTINF:-1 tvg-name="GOLD Line PSYCHO" group-title="КИНО-ТЕСТ",GOLD Line PSYCHO 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8483/index.m3u8
-#EXTINF:-1 tvg-name="GOLD Line Детектив" group-title="КИНО-ТЕСТ",GOLD Line Детектив 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8573/index.m3u8
-#EXTINF:-1 tvg-name="MM 007" group-title="КИНО-ТЕСТ",MM 007 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8327/index.m3u8
-#EXTINF:-1 tvg-name="MM Celebrity" group-title="КИНО-ТЕСТ",MM Celebrity 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8991/index.m3u8
-#EXTINF:-1 tvg-name="MM Love" group-title="КИНО-ТЕСТ",MM Love 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8328/index.m3u8
-#EXTINF:-1 tvg-name="MM NewFilm 1" group-title="КИНО-ТЕСТ",MM NewFilm 1 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8741/index.m3u8
-#EXTINF:-1 tvg-name="MM NewFilm 2" group-title="КИНО-ТЕСТ",MM NewFilm 2 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8742/index.m3u8
-#EXTINF:-1 tvg-name="MM NewFilm 3" group-title="КИНО-ТЕСТ",MM NewFilm 3 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8743/index.m3u8
-#EXTINF:-1 tvg-name="MM NewFilm.RU" group-title="КИНО-ТЕСТ",MM NewFilm.RU 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8706/index.m3u8
-#EXTINF:-1 tvg-name="MM UFO" group-title="КИНО-ТЕСТ",MM UFO 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8410/index.m3u8
-#EXTINF:-1 tvg-name="MM WALT DISNEY" group-title="КИНО-ТЕСТ",MM WALT DISNEY 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8914/index.m3u8
-#EXTINF:-1 tvg-name="MM БОЕВИК КЛАССИК" group-title="КИНО-ТЕСТ",MM БОЕВИК КЛАССИК 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8411/index.m3u8
-#EXTINF:-1 tvg-name="MM Драма" group-title="КИНО-ТЕСТ",MM Драма 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8634/index.m3u8
-#EXTINF:-1 tvg-name="MM Катастрофа" group-title="КИНО-ТЕСТ",MM Катастрофа 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8746/index.m3u8
-#EXTINF:-1 tvg-name="MM Комедия" group-title="КИНО-ТЕСТ",MM Комедия 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8708/index.m3u8
-#EXTINF:-1 tvg-name="MM Комедия Classic" group-title="КИНО-ТЕСТ",MM Комедия Classic 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8744/index.m3u8
-#EXTINF:-1 tvg-name="MM Кунг-Фу" group-title="КИНО-ТЕСТ",MM Кунг-Фу 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8559/index.m3u8
-#EXTINF:-1 tvg-name="MM Нуар" group-title="КИНО-ТЕСТ",MM Нуар 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8733/index.m3u8
-#EXTINF:-1 tvg-name="MM Погружение" group-title="КИНО-ТЕСТ",MM Погружение 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8799/index.m3u8
-#EXTINF:-1 tvg-name="MM Приключения" group-title="КИНО-ТЕСТ",MM Приключения 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8779/index.m3u8
-#EXTINF:-1 tvg-name="MM Роскино" group-title="КИНО-ТЕСТ",MM Роскино 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8709/index.m3u8
-#EXTINF:-1 tvg-name="MM СЕМЕЙНЫЙ" group-title="КИНО-ТЕСТ",MM СЕМЕЙНЫЙ 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8442/index.m3u8
-#EXTINF:-1 tvg-name="MM СЕМЕЙНЫЙ 2" group-title="КИНО-ТЕСТ",MM СЕМЕЙНЫЙ 2 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8449/index.m3u8
-#EXTINF:-1 tvg-name="MM СКОРОСТЬ" group-title="КИНО-ТЕСТ",MM СКОРОСТЬ 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8916/index.m3u8
-#EXTINF:-1 tvg-name="MM Спорт" group-title="КИНО-ТЕСТ",MM Спорт 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://157.90.0.245:8070/minimax-sport/index.m3u8
-#EXTINF:-1 tvg-name="MM Супергерои" group-title="КИНО-ТЕСТ",MM Супергерои 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8710/index.m3u8
-#EXTINF:-1 tvg-name="MM Триллер" group-title="КИНО-ТЕСТ",MM Триллер 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8778/index.m3u8
-#EXTINF:-1 tvg-name="MM Ужасы" group-title="КИНО-ТЕСТ",MM Ужасы 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8725/index.m3u8
-#EXTINF:-1 tvg-name="BCU Kids+" group-title="КИНО-ТЕСТ",BCU Kids+ 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8454/index.m3u8
-#EXTINF:-1 tvg-name="BCU LITTLE" group-title="КИНО-ТЕСТ",BCU LITTLE 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8979/index.m3u8
-#EXTINF:-1 tvg-name="BCU MULTSERIAL" group-title="КИНО-ТЕСТ",BCU MULTSERIAL 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8874/index.m3u8
-#EXTINF:-1 tvg-name="BOX Autotrend" group-title="КИНО-ТЕСТ",BOX Autotrend 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8440/index.m3u8
-#EXTINF:-1 tvg-name="BOX Lo-Fi" group-title="КИНО-ТЕСТ",BOX Lo-Fi 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8446/index.m3u8
-#EXTINF:-1 tvg-name="BOX Mayday HD" group-title="КИНО-ТЕСТ",BOX Mayday HD 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8434/index.m3u8
-#EXTINF:-1 tvg-name="BOX Stories" group-title="КИНО-ТЕСТ",BOX Stories 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8429/index.m3u8
-#EXTINF:-1 tvg-name="BOX TRAVEL" group-title="КИНО-ТЕСТ",BOX TRAVEL 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8416/index.m3u8
-#EXTINF:-1 tvg-name="BOX ULTRASTARS 4K" group-title="КИНО-ТЕСТ",BOX ULTRASTARS 4K 
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
-http://50.7.28.226/8444/index.m3u8
-#EXTINF:-1 tvg-name="CineMan Мулт" group-title="КИНО-ТЕСТ",CineMan Мулт 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8812/index.m3u8
-#EXTINF:-1 tvg-name="CineMan Симпсоны" group-title="КИНО-ТЕСТ",CineMan Симпсоны 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8833/index.m3u8
-#EXTINF:-1 tvg-name="MM Honey" group-title="КИНО-ТЕСТ",MM Honey 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8895/index.m3u8
-#EXTINF:-1 tvg-name="MM Relax" group-title="КИНО-ТЕСТ",MM Relax 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8793/index.m3u8
-#EXTINF:-1 tvg-name="MM Rock" group-title="КИНО-ТЕСТ",MM Rock 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8679/index.m3u8
-#EXTINF:-1 tvg-name="MM Макромир" group-title="КИНО-ТЕСТ",MM Макромир 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8636/index.m3u8
-#EXTINF:-1 tvg-name="MM Мегамир" group-title="КИНО-ТЕСТ",MM Мегамир 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://50.7.28.226/8770/index.m3u8
-#EXTINF:-1 tvg-name="MS Crime" group-title="КИНО-ТЕСТ",MS Crime 
-#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
-http://sharingplus.net/iptv/NR7VUB57KMRXBD/15136/index.m3u8
 
 
 
 
 
-
-
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Шокирующее HD
-http://195.191.208.11:8087/udp/238.2.48.137:1234
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Кошмар HD
 http://195.9.195.3:8080/hls/204709.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОУЖАС
-http://195.191.208.11:8087/udp/238.2.49.3:1234
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОУЖАС
-http://91.207.115.228:5000/c43
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОХИТ
-http://94.232.127.28:8080/kinohit/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОХИТ
-http://91.207.115.228:5000/c38
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОКОМЕДИЯ
-http://94.232.127.28:8080/kinokomedia/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОКОМЕДИЯ
-http://91.207.115.228:5000/c46
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОСЕМЬЯ
-http://94.232.127.28:8080/kinosemja/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОСЕМЬЯ
-http://91.207.115.228:5000/c39
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОСЕРИЯ
-http://95.66.188.74/Kinoseriya/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОСЕРИЯ
-http://94.232.127.28:8080/kinoserija/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОМИКС
-http://95.66.188.74/Kinomiks/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОМИКС
-http://95.66.188.74/Kinomiks/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОПОКАЗ
-http://95.66.188.74/Kinopokaz/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОПОКАЗ
-http://95.66.188.74/Kinopokaz/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОСВИДАНИЕ
-http://91.207.115.228:5000/c44
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОСВИДАНИЕ
-http://91.207.115.228:5000/c45
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",РОДНОЕ КИНО
-http://91.207.115.228:5000/c31
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",МУЖСКОЕ КИНО
-http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",МУЖСКОЕ КИНО
-http://91.207.115.228:5000/c40
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",НАШЕ НОВОЕ КИНО
-http://95.66.188.74/NasheNovoeKino/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",НАШЕ НОВОЕ КИНО
-http://91.207.115.228:5000/c41
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОПРЕМЬЕРА
-http://91.207.115.228:5000/c42
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",ЛЮБИМОЕ КИНО
-https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju+ Comedy HD
-http://91.207.115.228:5000/c143
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju+ Megahit HD
-http://91.207.115.228:5000/c144
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju+ Premiere HD
-http://91.207.115.228:5000/c145
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", viju+ Premiere
-http://2.57.217.85:8000/play/a03f/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju TV1000
-http://91.207.115.228:5000/c48
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju TV1000 Action
-http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju TV1000 Action
-http://91.207.115.228:5000/c49
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",viju TV1000 Русское кино
-http://91.207.115.228:5000/c37
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Amedia 1
-http://91.207.115.228:5000/c55
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Amedia 2
-http://91.207.115.228:5000/c56
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Amedia HIT
-http://91.207.115.228:5000/c57
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Amedia Premium
-http://91.207.115.228:5000/c58
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Amedia Premium
-http://217.21.34.160:38007/amediapremium/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Viasat Kino
-http://94.232.127.28:8080/tv1000/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Viasat Kino Action
-http://94.232.127.28:8080/tv1000action/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Viasat Kino World
-http://94.232.127.28:8080/tv1000ru/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",.Black
-http://91.207.115.228:5000/c79
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",.Sci-Fi
-http://91.207.115.228:5000/c77
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",.Sci-fi
-http://94.232.127.28:8080/sony-scifi/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",.Red
-http://91.207.115.228:5000/c78
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Fox
-http://94.232.127.28:8080/fox/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Fox Life
-http://94.232.127.28:8080/foxlife/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Duo 3 HD LT
-http://94.232.127.28:8080/sony/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Duo 6 HD LT
-http://94.232.127.28:8080/sony-turbo/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Go3 Films
-http://94.232.127.28:8080/tv1000premium/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Super Baltic HD
-http://84.245.224.71/SuperBaltic/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Super Plus HD
-http://84.245.224.71/SuperPlus/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Star Cinema HD
-http://84.245.224.71/StarCinemaHD/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Star Family HD
-http://84.245.224.71/StarFamilyHD/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",ИЛЛЮЗИОН+
-http://217.21.34.160:38003/illuzionplus/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",ИЛЛЮЗИОН+
-http://91.207.115.228:5000/c170
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Hollywood HD
-http://91.207.115.228:5000/c59
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",FlixSnip
-http://91.207.115.228:5000/c60
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Kinoliving
-http://91.207.115.228:5000/c61
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Cinema
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Cinema
 http://95.66.188.74/Cinema/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Еврокино
-http://91.207.115.228:5000/c160
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",ТВ 21М
-http://217.21.34.160:38007/tv-xxi/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Т24
-http://217.21.34.160:38007/tehno24/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Комедия
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Комедия
 http://95.66.188.74/Comedia/mono.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Дорама
 http://193.27.209.122/dorama/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Мосфильм. Золотая коллекция HD
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Мосфильм. Золотая коллекция HD
 http://95.66.188.74/MosfilmHD/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Мосфильм. Золотая коллекция HD
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Мосфильм. Золотая коллекция HD
 http://95.66.188.74/MosfilmHD/mono.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Дом кино
 http://95.66.188.74/Dom_kino/mono.m3u8
@@ -591,24 +188,20 @@ http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
 http://95.66.188.74/RusRoman/mono.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Русский детектив
 http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Ретро
-http://91.207.115.228:5000/c174
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/1754.png" tvg-name="НТВ Сериал" ,НТВ Сериал
-http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-logo="http://epg.one/img2/2041.png" tvg-name="НТВ Хит" ,НТВ Хит
-http://cdn2.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Смотрим Честный детектив HD" ,Смотрим Честный детектив HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-logo="http://epg.one/img2/6258.png" tvg-name="Кино 1 International" ,Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Детское кино International
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/6261.png",Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-logo="http://epg.one/img2/6261.png" ,Детское кино International
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/6261.png" ,Детское кино International
 http://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" aspect-ratio=16:9,Киноман
 http://31.47.199.45:1402/kinoman/index.m3u8
+
+
 
 
 
@@ -617,92 +210,92 @@ http://31.47.199.45:1402/kinoman/index.m3u8
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD Юмор",Твоё ТВ HD Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"   tvg-name="NO EPG кино",TV4 КИНОЗАЛ
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png"   tvg-name="NO EPG кино",TV4 КИНОЗАЛ
 https://dvr3.vokkavideo.xyz/TV4SD/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"   tvg-name="NO EPG кино",TV4 HD КИНОЗАЛ
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png"   tvg-name="NO EPG кино",TV4 HD КИНОЗАЛ
 https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино" ,HTV HD
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png"  tvg-name="NO EPG кино" ,HTV HD
 https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"   tvg-name="NO EPG кино",Новый Русский HD
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png"   tvg-name="NO EPG кино",Новый Русский HD
 https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино" ,Фантом
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Kinoteka
+http://195.9.195.3:8080/hls/146065.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Fantastic Mistyc
+http://195.9.195.3:8080/hls/187741.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Dimpon HD
+http://195.9.195.3:8080/hls/210470.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Фантом
 http://195.9.195.3:8080/hls/204722.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",Zubrilom Franchise
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Zubrilom Franchise
 http://hls.goodgame.ru:8080/hls/218193.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",Zubrilom Film 2
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Zubrilom Film 2
 http://hls.goodgame.ru:8080/hls/218251.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",STR TV
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg",STR TV
 https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",Selecao TV
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg",Selecao TV
 http://195.9.195.3:8080/hls/163253.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",Selecao TV2
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Selecao TV2
 http://195.9.195.3:8080/manifest/157269_master.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",1FILMAX Фантастика
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,1FILMAX Фантастика
 http://195.9.195.3:8080/hls/204708.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",2FILMAX Комедия
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,2FILMAX Комедия
 http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",HD Comedy
-http://2.57.217.85:8000/play/a074/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",HD Kino
-http://2.57.217.85:8000/play/a05j/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",HD Kids
-http://2.57.217.85:8000/play/a05q/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",Kino Mix
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Kino Mix
 http://hls.goodgame.ru:8080/hls/216612.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",Film Best
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Film Best
 http://hls.goodgame.ru:8080/hls/212682.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",Moviee Toper
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Moviee Toper
 http://195.9.195.3:8080/hls/214749.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",Millenniym UHD
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Millenniym UHD
 http://195.9.195.3:8080/hls/206461.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",Akudji
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Akudji
 http://195.9.195.3:8080/hls/5346.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино", CyberTV 1
+#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , CyberTV 1
 http://hls.goodgame.ru:8080/hls/214454.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино", CyberTV 2
+#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , CyberTV 2
 http://hls.goodgame.ru:8080/hls/214433.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG мультфильмы", CyberTV 3 Мультфильмы
+#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" tvg-name="NO EPG кино мультфильмы", CyberTV 3 Мультфильмы
 http://hls.goodgame.ru:8080/hls/214421.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",Scripach TV
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Scripach TV
 https://live21.bozztv.com/akamaissh101/ssh101/scripachmovie/chunks.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",Кинозал
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Кинозал
 http://185.57.68.33/237/mpegts
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://geocities.ws/rockker/vhs.jpg"  tvg-name="NO EPG кино",ВИДЕОСАЛОН VHS
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VHS.png" id="no_epg_cinema" ,VHS Кино
+http://195.9.195.3:8080/hls/218531.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VHS.png" ,ВИДЕОСАЛОН VHS
 http://hls.goodgame.ru:8080/hls/175764.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ",VHS-ка
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VHS.png",VHS-ка
 http://95.66.188.74/VHS/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://geocities.ws/rockker/vhs.jpg"  tvg-name="NO EPG кино",Видеокассета VHS
-https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://geocities.ws/rockker/vhs.jpg"  tvg-name="NO EPG кино",Видеокассета VHS
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VHS.png" ,Видеокассета VHS
 http://195.9.195.3:8080/hls/176975.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",Малдер Всё тв
+#EXTINF:0 group-title="КИНОЗАЛЫ"  ,КОШМАР HD
+http://195.9.195.3:8080/hls/204709.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Малдер Всё тв
 http://195.9.195.3:8080/hls/153640.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино",Малдер Мегахит
-https://autopilot.catcast.tv/content/47689/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",alpha Cinema 
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,alpha Cinema 
 http://195.9.195.3:8080/hls/205072.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",alpha Moretime
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,alpha Moretime
 http://195.9.195.3:8080/hls/205116.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",alpha Funny 
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,alpha Funny 
 http://195.9.195.3:8080/hls/206963.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",Katastroff
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Katastroff
 http://hls.goodgame.ru:8080/hls/208789.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",AV LIVE
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,AV LIVE
 http://hls.goodgame.ru:8080/hls/106103.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",Абсолют синема
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Абсолют синема
 http://hls.goodgame.ru:8080/hls/122102_prem.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",P Boy Podpischik
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,P Boy Podpischik
 http://195.9.195.3:8080/manifest/40391_master.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино" ,Восход ТВ
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Восход ТВ
 http://195.9.195.3:8080/manifest/202997_master.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",LAV-KINO (ushba.tv)
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",Британский юмор
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Британский юмор
 http://hls.goodgame.ru:8080/hls/218490.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png" tvg-name="NO EPG кино" ,УЖАСЫ ФАНТАСТИКА 80-90-00
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,УЖАСЫ ФАНТАСТИКА 80-90-00
 http://hls.goodgame.ru:8080/hls/211351.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://cdn.androidblip.com/icns/35/5/com_fastest_tube_video_downloader____3572789.png"  tvg-name="NO EPG кино",DTR Zona 1
-https://kino-stream.online/hls/DTRZON
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,DTR Zona 1
+https://kino-stream.online/hls/DTRZONine/hls/DTRZON
 #EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноДетектив
 https://cityeden.catcast.tv/content/41327/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноДрама
@@ -870,6 +463,10 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://zsv.ucoz.net/Logo/Futurama.png" tvg-name="NO EPG мультфильмы",Futurama
 http://195.9.195.3:8080/hls/199417.m3u8
+#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://zsv.ucoz.net/Logo/Masha.png" channel id="1",Маша и медведь (ushba.tv)
+https://live21.bozztv.com/giatvplayout7/ushba79/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 group-title="ДЕТСКИЕ" channel id="1" tvg-logo="https://zsv.ucoz.net/Logo/MashaEN.png" ,Маша и медведь ENG (ushba.tv)
+https://glb.bozztv.com/glb/ushba78/index.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/323.png" tvg-name="2x2",2x2 HD
 http://195.191.208.5:8087/udp/233.170.170.118:58631
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/323.png" tvg-name="2x2",2x2
@@ -1002,8 +599,6 @@ http://176.107.219.20:9000/play/a009/index.m3u8
 http://tv.streams.baikal-telecom.net:8080/RTG_HD/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Телепутешествия" ,Телепутешествия
 http://31.148.48.15/Teleputeshestviya/index.m3u8?token=test
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Бобёр",Бобёр
-https://pkvc-hls3.cdnvideo.ru/Bober/smil:Bober.smil/chunklist_b5128000_slru.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="OK",ОК ТВ
 http://v4.proofix.ru/okino-tv/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" ,Лекторий Dостоевский
@@ -1020,14 +615,9 @@ http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" aspect-ratio=16:9,ЕГЭ ТВ
 http://tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" ,Московское образование
-https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" aspect-ratio=16:9,Загородная жизнь
 http://185.57.68.33/40/mpegts
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" ,Глазами туриста
-https://livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Top Secret",Top Secret
-https://live-sovsec-ref.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8?zoid=sref
+
 
 
 
@@ -1042,7 +632,7 @@ https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
-#EXTINF:0 group-title="СПОРТИВНЫЕ" ,Матч! Футбол 3
+#EXTINF:0 group-title="СПОРТИВНЫЕ" aspect-ratio=16:9,Матч! Футбол 3
 http://timeshift.arpinet.am/110/mpegts
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,Конный мир
 http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
