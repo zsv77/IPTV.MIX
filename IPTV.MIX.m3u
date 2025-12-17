@@ -168,8 +168,7 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 
 
 
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Кошмар HD
-http://195.9.195.3:8080/hls/204709.m3u8
+
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Cinema
 http://95.66.188.74/Cinema/mono.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Комедия
@@ -198,33 +197,25 @@ https://kino-1.catcast.tv/content/38617/index.m3u8
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/6261.png" ,Детское кино International
 http://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" aspect-ratio=16:9,Киноман
-http://31.47.199.45:1402/kinoman/index.m3u8
 
 
 
 
 
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD",Твоё ТВ HD
-http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD Юмор",Твоё ТВ HD Юмор
-http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png"   tvg-name="NO EPG кино",TV4 КИНОЗАЛ
-https://dvr3.vokkavideo.xyz/TV4SD/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png"   tvg-name="NO EPG кино",TV4 HD КИНОЗАЛ
-https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png"  tvg-name="NO EPG кино" ,HTV HD
-https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png"   tvg-name="NO EPG кино",Новый Русский HD
-https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Kinoteka
-http://195.9.195.3:8080/hls/146065.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Fantastic Mistyc
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VHS.png",VHS-ка
+http://95.66.188.74/VHS/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VHS.png" id="no_epg_cinema" ,VHS Кино
+http://195.9.195.3:8080/hls/218531.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VHS.png" ,ВИДЕОСАЛОН VHS
+http://hls.goodgame.ru:8080/hls/175764.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VHS.png" ,Видеокассета VHS
+http://195.9.195.3:8080/hls/176975.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,FMC
 http://195.9.195.3:8080/hls/187741.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Dimpon HD
 http://195.9.195.3:8080/hls/210470.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Фантом
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Fantom
 http://195.9.195.3:8080/hls/204722.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Zubrilom Franchise
 http://hls.goodgame.ru:8080/hls/218193.m3u8
@@ -260,14 +251,6 @@ http://hls.goodgame.ru:8080/hls/214421.m3u8
 https://live21.bozztv.com/akamaissh101/ssh101/scripachmovie/chunks.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Кинозал
 http://185.57.68.33/237/mpegts
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VHS.png" id="no_epg_cinema" ,VHS Кино
-http://195.9.195.3:8080/hls/218531.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VHS.png" ,ВИДЕОСАЛОН VHS
-http://hls.goodgame.ru:8080/hls/175764.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VHS.png",VHS-ка
-http://95.66.188.74/VHS/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VHS.png" ,Видеокассета VHS
-http://195.9.195.3:8080/hls/176975.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Koshmar-hd.png" ,КОШМАР HD
 http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Малдер Всё тв
@@ -282,6 +265,8 @@ http://195.9.195.3:8080/hls/206963.m3u8
 http://hls.goodgame.ru:8080/hls/208789.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,AV LIVE
 http://hls.goodgame.ru:8080/hls/106103.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Kinoteka
+http://195.9.195.3:8080/hls/146065.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Абсолют синема
 http://hls.goodgame.ru:8080/hls/122102_prem.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,P Boy Podpischik
@@ -290,12 +275,18 @@ http://195.9.195.3:8080/manifest/40391_master.m3u8
 http://195.9.195.3:8080/manifest/202997_master.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Британский юмор
-http://hls.goodgame.ru:8080/hls/218490.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" aspect-ratio=16:9,Киноман
+http://31.47.199.45:1402/kinoman/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,УЖАСЫ ФАНТАСТИКА 80-90-00
 http://hls.goodgame.ru:8080/hls/211351.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,DTR Zona 1
 https://kino-stream.online/hls/DTRZONine/hls/DTRZON
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Британский юмор
+http://hls.goodgame.ru:8080/hls/218490.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD",Твоё ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD Юмор",Твоё ТВ HD Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноДетектив
 https://cityeden.catcast.tv/content/41327/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ",Сити Эдем - КиноДрама
