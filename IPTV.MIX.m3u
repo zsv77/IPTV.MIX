@@ -167,8 +167,8 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОУЖАС
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Cinema
 http://95.66.188.74/Cinema/mono.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Комедия
@@ -189,14 +189,11 @@ http://95.66.188.74/RusRoman/mono.m3u8
 http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Смотрим Честный детектив HD" ,Смотрим Честный детектив HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-logo="http://epg.one/img2/6258.png" tvg-name="Кино 1 International" ,Кино 1 International
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-logo="http://epg.one/img2/6258.png" ,Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Кино 1 International
-https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/6261.png",Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/6261.png" ,Детское кино International
-http://v2.catcast.tv/content/38720/index.m3u8
+
 
 
 
