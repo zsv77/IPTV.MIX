@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,ЛЮБЛЮ ТЕБЯ МАШЕНЬКА И СКУЧАЮ)))
+https://cs20.pikabu.ru/s/2025/03/30/23/xgegp7jp_1280x720.mp4
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Kinoteka
 http://195.9.195.3:8080/hls/146065.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Fantastic Mystic
