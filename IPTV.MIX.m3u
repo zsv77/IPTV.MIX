@@ -165,10 +165,37 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Комедия
+http://95.66.188.74/Comedia/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Cinema
+http://95.66.188.74/Cinema/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Дом кино
+http://95.66.188.74/Dom_kino/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Дом кино премиум
+http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Кинопоказ
+http://95.66.188.74/Kinopokaz/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Мужское кино
+http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Наше новое кино
+http://95.66.188.74/NasheNovoeKino/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Киномикс
+http://95.66.188.74/Kinomiks/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Киносерия
+http://95.66.188.74/Kinoseriya/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Мосфильм. Золотая коллекция
+http://95.66.188.74/MosfilmHD/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",НСТ
+http://95.66.188.74/NST/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Победа
+http://95.66.188.74/Pobeda/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Русский роман
+http://95.66.188.74/RusRoman/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Русский детектив
+http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
 
 
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",КИНОУЖАС
-http://158.101.222.193:88/georgia_play.php?id=kinoujas
+
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Cinema
 http://95.66.188.74/Cinema/mono.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Комедия
@@ -198,7 +225,10 @@ https://v2.catcast.tv/content/38720/index.m3u8
 
 
 
-
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Fizcultprivet
+http://hls.goodgame.ru:8080/hls/29969.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Tocoxoj361
+http://hls.goodgame.ru:8080/hls/218475.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,TvBoom-ViP
 https://kb.catcast.tv/content/49702/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,FMC
