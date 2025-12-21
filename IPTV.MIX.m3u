@@ -1,5 +1,149 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
 
+
+#EXTINF:-1 group-title="КИНО-ТЕСТ",MM Скорость HD
+http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Asia
+http://hls127.freeott.top:8080/Clarity4K_Asia/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Фантастика
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Netflix
+http://hls127.freeott.top:8080/Clarity4K_Netflix/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Боевик
+http://hls127.freeott.top:8080/Clarity4K_Boevik/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Драмы
+http://hls127.freeott.top:8080/Clarity4K_Dramma/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K КиноФраншизы
+http://hls127.freeott.top:8080/Clarity4K_Kinofranshiza/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Приключения
+http://hls127.freeott.top:8080/Clarity4K_Priklucheniya/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Семейный
+http://hls127.freeott.top:8080/Clarity4K_Semeyniy/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Русский сериал
+http://hls127.freeott.top:8080/Clarity4K_Serial/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Ужасы
+http://hls127.freeott.top:8080/Clarity4K_Uzhasi/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Фэнтези
+http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Anime
+http://hls127.freeott.top:8080/Clarity4K_Anime/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4k Deep House
+http://hls127.freeott.top:8080/Clarity4K_Concert/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Walt Disney
+http://hls127.freeott.top:8080/Clarity4K_Walt_Disney/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K World Music 
+http://hls127.freeott.top:8080/Clarity4K_World_Music/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Единоборства
+http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Звериный мир
+http://hls127.freeott.top:8080/Clarity4K_Zveriniy_Mir/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Космомир
+http://hls127.freeott.top:8080/Clarity4K_Kosmomir/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Мультимир
+http://hls127.freeott.top:8080/Clarity4K_Multmir/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Путешествие
+http://hls127.freeott.top:8080/Clarity4K_Puteshestviya/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Action HD
+http://hls127.freeott.top:8080/CPS_Action/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Comedy HD
+http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Drama HD
+http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Fiction HD
+http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Fresh HD
+http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Investigation
+http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Jackie Chan HD
+http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Mix HD
+http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Anime HD
+http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Cartoon HD
+http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Fresh UA HD
+http://hls127.freeott.top:8080/CPS_Fresh_UA/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Magic Premiere HD
+http://88.99.215.227/Magic_Premiere/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Magic Comedy HD
+http://88.99.215.227/Magic_Comedy/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Magic Action HD
+http://88.99.215.227/Magic_Action/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Magic Karate HD
+http://88.99.215.227/Magic_Karate/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Magic Adventure HD
+http://88.99.215.227/Magic_Adventure/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Magic Thriller HD
+http://88.99.215.227/Magic_Thriller/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Magic VHS HD
+http://88.99.215.227/Magic_VHS/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Magic Family HD
+http://88.99.215.227/Magic_Family/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Magic Horror
+http://88.99.215.227/Magic_Horror/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОПРЕМЬЕРА HD
+http://88.99.215.227/Kinopremiera/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОХИТ HD
+http://88.99.215.227/Kinoxit/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",МУЖСКОЕ КИНО HD
+http://88.99.215.227/MujskoeKino/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОПОКАЗ HD
+http://88.99.215.227/Kinopokaz/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОПОКАЗ HD
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОСЕРИЯ HD
+http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОСВИДАНИЕ HD
+http://88.99.215.227/Kinosvidanie/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОСЕМЬЯ HD
+http://88.99.215.227/Kinosemya/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОМИКС HD
+http://88.99.215.227/Kinomix/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Hollywood HD
+http://88.99.215.227/Hollywood/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНО ТВ
+http://88.99.215.227/KinoTV/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",T24
+http://88.99.215.227/T24/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Премиальное HD
+http://88.99.215.227/Premialnoe/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Романтичное HD
+http://88.99.215.227/Romantichnoe/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Kinoman HD
+http://88.99.215.227/Kinoman/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Scream HD
+http://88.99.215.227/Scream/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Trash HD
+http://88.99.215.227/Trash/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",PlanB
+http://88.99.215.227/PlanB/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Red HD
+http://88.99.215.227/Red/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Black HD
+http://88.99.215.227/Black/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",SCI-FI HD
+http://88.99.215.227/Scifi/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Amedia Premium HD
+http://88.99.215.227/AmediaPremium/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Amedia HIT HD
+http://88.99.215.227/AmediaHit/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Cinema HD
+http://88.99.215.227/Cinema/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",ComedyCentral
+http://88.99.215.227/ComedyCentral/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",НСТ
+http://88.99.215.227/NST/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Хит HD
+http://88.99.215.227/Xit/index.m3u8?token=Home
+
+
+
+
+
+
+
 #EXTINF:0 group-title="ЭФИРНЫЕ"   tvg-logo="http://epg.one/img2/983.png" tvg-name="Первый канал HD",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/146.png" tvg-name="Первый канал",Первый канал (Смоленск)
