@@ -1,5 +1,76 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
 
+#EXTINF:0 group-title="HD"   tvg-logo="http://epg.one/img2/983.png" tvg-name="Первый канал HD",Первый канал HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:0 group-title="HD" tvg-logo="http://epg.one/img2/711.png" tvg-name="Россия 1 HD" ,Россия 1 HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/russia1-hd/1080p.m3u8
+#EXTINF:0 group-title="HD" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ HD",ТНТ HD
+http://95.66.188.74/TNT_HD/mono.m3u8
+#EXTINF:0 group-title="HD" tvg-logo="http://epg.one/img2/79.png" tvg-name="СТС",СТС HD
+http://95.66.188.74/CTC_HD/mono.m3u8
+#EXTINF:0 group-title="HD" tvg-logo="http://epg.one/img2/405.png" tvg-name="Звезда HD",Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:0 group-title="HD" tvg-logo="http://epg.one/img2/405.png" tvg-name="Звезда Плюс",Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
+#EXTINF:0 group-title="HD" tvg-logo="http://epg.one/img2/690.png" tvg-name="Санкт-Петербург",Санкт-Петербург HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
+#EXTINF:0 group-title="HD"  tvg-logo="http://epg.one/img2/726.png" tvg-name="Мир HD",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0 group-title="HD"  tvg-logo="http://epg.one/img2/1683.png" tvg-name="Россия 24",Россия 24 HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+#EXTINF:0 group-title="HD"  tvg-logo="http://epg.one/img2/2271.png" tvg-name="Известия HD",Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:0 group-title="HD"  tvg-logo="http://epg.one/img2/2078.png" tvg-name="Мир 24 HD",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0 group-title="HD"  tvg-logo="http://epg.one/img2/4458.png" tvg-name="360° Новости",360° Новости HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:0 group-title="HD"  tvg-logo="http://epg.one/img2/2265.png" tvg-name="360° HD",360° HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:0 group-title="HD" tvg-logo="http://epg.one/img2/7616.png" tvg-name="Канал 78",Канал 78 HD
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8
+#EXTINF:0 group-title="HD"  tvg-logo="http://epg.one/img2/743.png" tvg-name="РБК HD",РБК HD
+http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
+#EXTINF:0  group-title="HD"  tvg-name="Общественная служба новостей",Общественная служба новостей HD
+https://osnmedia.servicecdn.ru/streams/17603_88089/720n/index.m3u8
+#EXTINF:-1 group-title="HD" ,Крым 24 HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM24HD/variant.m3u8
+#EXTINF:-1 group-title="HD" ,СТВ 24 HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STV24HD/variant.m3u8
+#EXTINF:-1 group-title="HD" ,НТС HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTSHD/variant.m3u8
+#EXTINF:-1 group-title="HD" ,СТВ HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STVHD/variant.m3u8
+#EXTINF:-1 group-title="HD" ,Евпатория 24 HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EVPATORIATVHD/variant.m3u8
+#EXTINF:-1 group-title="HD" ,ТРК-555 HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TRK555HD/variant.m3u8
+#EXTINF:-1 group-title="HD" ,Первый Крымский HD
+https://live1.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:0 group-title="HD" ,Симферополь 24 HD
+https://simf.1tvcrimea.ru/simferopol24.m3u8
+#EXTINF:0 group-title="HD" ,Легендарный 24 HD
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+#EXTINF:-1 group-title="HD",Дом кино премиум HD
+http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
+#EXTINF:-1 group-title="HD",Мужское кино HD
+http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
+#EXTINF:0 group-title="HD" tvg-name="Смотрим Честный детектив HD" ,Смотрим Честный детектив HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:0 group-title="HD" tvg-logo="http://epg.one/img2/323.png" tvg-name="2x2",2x2 HD
+http://195.191.208.5:8087/udp/233.170.170.118:58631
+#EXTINF:0 group-title="HD"  tvg-logo="http://epg.one/img2/1332.png" tvg-name="Мульт HD",Мульт HD
+http://stv.mediacdn.ru/live/cdn/mult/tracks-v2a1/mono.ts.m3u8
+#EXTINF:0 group-title="HD" tvg-logo="http://epg.one/img2/897.png" tvg-name="Муз ТВ" ,Муз ТВ HD
+https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
+#EXTINF:0 group-title="HD" tvg-logo="http://epg.one/img2/2277.png" tvg-name="RU TV HD",RU TV HD
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 group-title="HD",Первый музыкальный HD
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+
+
+
+
 
 #EXTINF:-1 group-title="КИНО-ТЕСТ",MM Скорость HD
 http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
@@ -152,6 +223,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1649.png" tvg-name="ТНТ4",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/79.png" tvg-name="СТС",СТС HD
+http://95.66.188.74/CTC_HD/mono.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/79.png" tvg-name="СТС",СТС (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/79.png" tvg-name="СТС",СТС
@@ -267,7 +340,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:0 group-title="НОВОСТИ"  tvg-logo="http://epg.one/img2/2265.png" tvg-name="360° HD",360° HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:0 group-title="НОВОСТИ"  tvg-logo="http://epg.one/img2/2265.png" ,360° Международный HD
+#EXTINF:0 group-title="НОВОСТИ"  tvg-logo="http://epg.one/img2/2265.png" ,360° Международный
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8
 #EXTINF:0 group-title="НОВОСТИ" tvg-logo="http://epg.one/img2/7616.png" tvg-name="Канал 78",Канал 78
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8
