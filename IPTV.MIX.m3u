@@ -34,18 +34,16 @@ http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 https://osnmedia.servicecdn.ru/streams/17603_88089/720n/index.m3u8
 #EXTINF:-1 group-title="HD" ,Крым 24 HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KRYM24HD/variant.m3u8
-#EXTINF:-1 group-title="HD" ,СТВ 24 HD
+#EXTINF:-1 group-title="HD" tvg-name="СТВ 24",СТВ 24 HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STV24HD/variant.m3u8
 #EXTINF:-1 group-title="HD" ,НТС HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTSHD/variant.m3u8
 #EXTINF:-1 group-title="HD" ,СТВ HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STVHD/variant.m3u8
-#EXTINF:-1 group-title="HD" ,Евпатория 24 HD
+#EXTINF:-1 group-title="HD" tvg-name="Евпатория 24",Евпатория 24 HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_EVPATORIATVHD/variant.m3u8
-#EXTINF:-1 group-title="HD" ,ТРК-555 HD
+#EXTINF:-1 group-title="HD" tvg-name="ТРК555 HD (Алушта)",ТРК555 HD (Алушта)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TRK555HD/variant.m3u8
-#EXTINF:-1 group-title="HD" ,Первый Крымский HD
-https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:0 group-title="HD" ,Симферополь 24 HD
 https://simf.1tvcrimea.ru/simferopol24.m3u8
 #EXTINF:0 group-title="HD" ,Легендарный 24 HD
@@ -878,7 +876,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_NTSHD/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STVHD/variant.m3u8
 #EXTINF:-1 group-title="КРЫМ" ,Евпатория 24
 https://zabava-htlive.cdn.ngenix.net/hls/CH_EVPATORIATVHD/variant.m3u8
-#EXTINF:-1 group-title="КРЫМ" ,ТРК-555 HD
+#EXTINF:-1 group-title="КРЫМ" ,ТРК555 HD (Алушта)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TRK555HD/variant.m3u8
 #EXTINF:-1 group-title="КРЫМ" ,Первый Крымский
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
