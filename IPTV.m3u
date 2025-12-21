@@ -1,12 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Magic Horror HD
-http://88.99.215.227/Magic_Horror/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Magic Thriller HD
-http://88.99.215.227/Magic_Thriller/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Trash HD
-http://88.99.215.227/Trash/index.m3u8?token=Home
 #EXTINF:-1 group-title="КИНО-ТЕСТ",Trash HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/08VWswAQx-yPUFVvl37Hhg,1766231284/streaming/trash/324/1/tracks-v5a1/mono.m3u8
@@ -16,16 +10,7 @@ https://mhd128.iptv2022.com/p/3vwbggxZwx9ogvoCOpNVzA,1766231284/streaming/kinouj
 #EXTINF:-1 group-title="КИНО-ТЕСТ",HORROR TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/rSdz-8pUj3l5IQVrl0cN-w,1766231284/streaming/horror_tv/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОПРЕМЬЕРА HD
-http://88.99.215.227/Kinopremiera/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОХИТ HD
-http://88.99.215.227/Kinoxit/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Magic Premiere HD
-http://88.99.215.227/Magic_Premiere/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Magic Comedy HD
-http://88.99.215.227/Magic_Comedy/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Magic VHS HD
-http://88.99.215.227/Magic_VHS/index.m3u8?token=Home
+
 
 
 

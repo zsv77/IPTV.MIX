@@ -120,70 +120,17 @@ http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
 http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
 #EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Cartoon HD
 http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Magic Premiere HD
-http://88.99.215.227/Magic_Premiere/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Magic Comedy HD
-http://88.99.215.227/Magic_Comedy/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Magic Action HD
-http://88.99.215.227/Magic_Action/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Magic Karate HD
-http://88.99.215.227/Magic_Karate/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Magic Adventure HD
-http://88.99.215.227/Magic_Adventure/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Magic Thriller HD
-http://88.99.215.227/Magic_Thriller/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Magic VHS HD
-http://88.99.215.227/Magic_VHS/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Magic Family HD
-http://88.99.215.227/Magic_Family/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Magic Horror
-http://88.99.215.227/Magic_Horror/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОПРЕМЬЕРА HD
-http://88.99.215.227/Kinopremiera/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОХИТ HD
-http://88.99.215.227/Kinoxit/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",МУЖСКОЕ КИНО HD
-http://88.99.215.227/MujskoeKino/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОСЕРИЯ HD
-http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОСВИДАНИЕ HD
-http://88.99.215.227/Kinosvidanie/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОСЕМЬЯ HD
-http://88.99.215.227/Kinosemya/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОМИКС HD
-http://88.99.215.227/Kinomix/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОПОКАЗ HD
-http://88.99.215.227/Kinopokaz/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОПОКАЗ HD
-http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Hollywood HD
-http://88.99.215.227/Hollywood/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНО ТВ
-http://88.99.215.227/KinoTV/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",T24
-http://88.99.215.227/T24/index.m3u8?token=Home
+
 #EXTINF:-1 group-title="КИНО-ТЕСТ",Trash HD
-http://88.99.215.227/Trash/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Plan_B
-http://88.99.215.227/PlanB/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Red HD
-http://88.99.215.227/Red/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Black HD
-http://88.99.215.227/Black/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",SCI-FI HD
-http://88.99.215.227/Scifi/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Amedia Premium HD
-http://88.99.215.227/AmediaPremium/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Amedia HIT HD
-http://88.99.215.227/AmediaHit/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Cinema HD
-http://88.99.215.227/Cinema/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",ComedyCentral
-http://88.99.215.227/ComedyCentral/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",НСТ
-http://88.99.215.227/NST/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Хит HD
-http://88.99.215.227/Xit/index.m3u8?token=Home
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/08VWswAQx-yPUFVvl37Hhg,1766231284/streaming/trash/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОУЖАС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/3vwbggxZwx9ogvoCOpNVzA,1766231284/streaming/kinoujas/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО-ТЕСТ",HORROR TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/rSdz-8pUj3l5IQVrl0cN-w,1766231284/streaming/horror_tv/324/1/tracks-v5a1/mono.m3u8
+
 
 
 
