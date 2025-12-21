@@ -8,7 +8,7 @@ http://88.99.215.227/Magic_Thriller/index.m3u8?token=Home
 #EXTINF:-1 group-title="КИНО-ТЕСТ",Trash HD
 http://88.99.215.227/Trash/index.m3u8?token=Home
 #EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОУЖАС
-http://158.101.222.193:88/georgia_play.php?id=kinoujas
+http://api.peers.tv/timeshift/kinouzhas/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjYzOTAwNTMsImlhdCI6MTc2NjMwMzY1MywiY2lkIjo2LCJ1aWQiOjk3ODMzMzAxMCwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.ejpVCWIPojTkstoyGVKO-IcPuwU5B3BJPIxAiGCCSd0&offset=10
 #EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОПРЕМЬЕРА HD
 http://88.99.215.227/Kinopremiera/index.m3u8?token=Home
 #EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОХИТ HD
