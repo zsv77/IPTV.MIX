@@ -27,22 +27,10 @@ http://hls127.freeott.top:8080/Clarity4K_Uzhasi/video.m3u8
 http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
 #EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Anime
 http://hls127.freeott.top:8080/Clarity4K_Anime/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4k Deep House
-http://hls127.freeott.top:8080/Clarity4K_Concert/video.m3u8
 #EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Walt Disney
 http://hls127.freeott.top:8080/Clarity4K_Walt_Disney/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K World Music 
-http://hls127.freeott.top:8080/Clarity4K_World_Music/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Единоборства
-http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Звериный мир
-http://hls127.freeott.top:8080/Clarity4K_Zveriniy_Mir/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Космомир
-http://hls127.freeott.top:8080/Clarity4K_Kosmomir/video.m3u8
 #EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Мультимир
 http://hls127.freeott.top:8080/Clarity4K_Multmir/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Путешествие
-http://hls127.freeott.top:8080/Clarity4K_Puteshestviya/video.m3u8
 #EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Action HD
 http://hls127.freeott.top:8080/CPS_Action/video.m3u8
 #EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Comedy HD
@@ -63,8 +51,6 @@ http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
 http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
 #EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Cartoon HD
 http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Fresh UA HD
-http://hls127.freeott.top:8080/CPS_Fresh_UA/video.m3u8
 #EXTINF:-1 group-title="КИНО-ТЕСТ",Magic Premiere HD
 http://88.99.215.227/Magic_Premiere/index.m3u8?token=Home
 #EXTINF:-1 group-title="КИНО-ТЕСТ",Magic Comedy HD
@@ -89,10 +75,6 @@ http://88.99.215.227/Kinopremiera/index.m3u8?token=Home
 http://88.99.215.227/Kinoxit/index.m3u8?token=Home
 #EXTINF:-1 group-title="КИНО-ТЕСТ",МУЖСКОЕ КИНО HD
 http://88.99.215.227/MujskoeKino/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОПОКАЗ HD
-http://88.99.215.227/Kinopokaz/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОПОКАЗ HD
-http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 #EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОСЕРИЯ HD
 http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 #EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОСВИДАНИЕ HD
@@ -101,23 +83,19 @@ http://88.99.215.227/Kinosvidanie/index.m3u8?token=Home
 http://88.99.215.227/Kinosemya/index.m3u8?token=Home
 #EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОМИКС HD
 http://88.99.215.227/Kinomix/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОПОКАЗ HD
+http://88.99.215.227/Kinopokaz/index.m3u8?token=Home
+#EXTINF:-1 group-title="КИНО-ТЕСТ",КИНОПОКАЗ HD
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 #EXTINF:-1 group-title="КИНО-ТЕСТ",Hollywood HD
 http://88.99.215.227/Hollywood/index.m3u8?token=Home
 #EXTINF:-1 group-title="КИНО-ТЕСТ",КИНО ТВ
 http://88.99.215.227/KinoTV/index.m3u8?token=Home
 #EXTINF:-1 group-title="КИНО-ТЕСТ",T24
 http://88.99.215.227/T24/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Премиальное HD
-http://88.99.215.227/Premialnoe/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Романтичное HD
-http://88.99.215.227/Romantichnoe/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Kinoman HD
-http://88.99.215.227/Kinoman/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Scream HD
-http://88.99.215.227/Scream/index.m3u8?token=Home
 #EXTINF:-1 group-title="КИНО-ТЕСТ",Trash HD
 http://88.99.215.227/Trash/index.m3u8?token=Home
-#EXTINF:-1 group-title="КИНО-ТЕСТ",PlanB
+#EXTINF:-1 group-title="КИНО-ТЕСТ",Plan_B
 http://88.99.215.227/PlanB/index.m3u8?token=Home
 #EXTINF:-1 group-title="КИНО-ТЕСТ",Red HD
 http://88.99.215.227/Red/index.m3u8?token=Home
