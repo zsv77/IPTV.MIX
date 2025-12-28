@@ -7,6 +7,15 @@
 
 
 
+#EXTINF:0 group-title="КИНО-ТЕСТ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Кино Без Границ
+http://185.57.68.33:8091/237/playlist.m3u8
+#EXTINF:0 group-title="КИНО-ТЕСТ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,BCU Kinorating HD
+http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
+#EXTINF:0 group-title="КИНО-ТЕСТ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,BCU Stars HD
+http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
+#EXTINF:0 group-title="КИНО-ТЕСТ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Kinowood HD
+http://193.27.209.122/kinowood/index.m3u8
+
 
 
 
@@ -49,6 +58,8 @@ http://95.66.188.74/VHS/index.m3u8
 http://hls.goodgame.ru:8080/hls/175764.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VHS.png" id="no_epg_cinema" ,Видеокассета VHS
 http://195.9.195.3:8080/hls/176975.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VHS.png" id="no_epg_cinema" ,VHS Кино
+http://hls.goodgame.ru:8080/hls/218531.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Новогодний канал
 http://195.9.195.3:8080/hls/198088.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Круглосуточно Кино и Сериалы
@@ -57,6 +68,18 @@ http://195.9.195.3:8080/hls/210953.m3u8
 http://195.9.195.3:8080/hls/23570.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,УЖАСЫ ФАНТАСТИКА 80-90-00
 http://hls.goodgame.ru:8080/hls/211351.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Tocoxoj361
+http://hls.goodgame.ru:8080/hls/218475.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Кино Хит - 24 / 7
+http://hls.goodgame.ru:8080/hls/215741.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,KROPOTKIN_POWER
+http://hls.goodgame.ru:8080/hls/177016.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Коломбо
+http://hls.goodgame.ru:8080/hls/3592.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,marked0ne
+http://hls.goodgame.ru:8080/hls/203674.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,runepi
+http://hls.goodgame.ru:8080/hls/210953.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Малдер Всё тв
 http://195.9.195.3:8080/hls/153640.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,alpha Cinema 
