@@ -200,6 +200,8 @@ http://hls.goodgame.ru:8080/hls/214421.m3u8
 
 
 
+#EXTINF:-1 group-title="МУЗЫКА" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Music_TV_%282020%29.png",TECHNO DANCE MUSIC
+http://195.9.195.3:8080/hls/180509.m3u8
 #EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png"  ,Rock TV BR
 https://video03.logicahost.com.br/tvrockhd/tvrockhd/chunklist_w1624224756.m3u8
 #EXTINF:0 group-title="МУЗЫКА" ,ROCK TV
