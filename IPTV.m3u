@@ -4,22 +4,6 @@
 
 
 
-
-
-
-#EXTINF:0 group-title="КИНО-ТЕСТ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Кино Без Границ
-http://185.57.68.33:8091/237/playlist.m3u8
-#EXTINF:0 group-title="КИНО-ТЕСТ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,BCU Kinorating HD
-http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
-#EXTINF:0 group-title="КИНО-ТЕСТ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,BCU Stars HD
-http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
-#EXTINF:0 group-title="КИНО-ТЕСТ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Kinowood HD
-http://193.27.209.122/kinowood/index.m3u8
-
-
-
-
-
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,FMC
 http://195.9.195.3:8080/hls/187741.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Zubrilom Franchise
