@@ -4,18 +4,12 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 #EXTINF:0 group-title="ЭФИРНЫЕ"   tvg-logo="http://epg.one/img2/983.png" tvg-name="Первый канал HD",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:0 group-title="ЭФИРНЫЕ"   tvg-logo="http://epg.one/img2/983.png" tvg-name="Первый канал HD",Первый канал HD
+http://95.66.188.74:80/PerviyHD/mono.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ"   tvg-logo="http://epg.one/img2/983.png" tvg-name="Первый канал HD",Первый канал HD
+http://95.66.188.74/PerviyHD/mono.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/146.png" tvg-id="Первый канал",Первый канал (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/146.png" tvg-name="Первый канал",Первый канал
@@ -30,10 +24,16 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/2547.png" tvg-name="РТР Планета",РТР Планета
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ HD",НТВ HD
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ",НТВ (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ",НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ HD",ТНТ HD
+http://95.66.188.74:80/TNT_HD/mono.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ HD",ТНТ HD
+http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ HD",ТНТ HD
 http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ",ТНТ (Смоленск)
@@ -447,18 +447,20 @@ http://195.9.195.3:8080/hls/204709.m3u8
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD Юмор",Твоё ТВ HD Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://iptv-play.ru/assets/img/logo/logo.png" ,IPTVPLAY ВЕДЬМАК
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , IPTVPLAY ВЕДЬМАК
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://iptv-play.ru/assets/img/logo/logo.png" ,IPTVPLAY ФАНТАСТИКА
-http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://iptv-play.ru/assets/img/logo/logo.png" ,IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
 http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://iptv-play.ru/assets/img/logo/logo.png" ,IPTVPLAY В.О.В
-http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0NO 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://iptv-play.ru/assets/img/logo/logo.png" ,IPTVPLAY ПАМЯТЬ
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , IPTVPLAY ИНТЕРНЫ
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , IPTVPLAY ФАНТАСТИКА
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , IPTVPLAY ПАМЯТЬ
 http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://iptv-play.ru/assets/img/logo/logo.png" ,IPTVPLAY УЖАСТИК
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , IPTVPLAY УЖАСТИК
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , IPTVPLAY Великая Отечественная HD
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Мистер Бин
 https://fl1003.bozztv.com/ushba45/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Шоу Бенни Хилла
@@ -469,6 +471,8 @@ https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Залипательные ролики
 https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Ералаш
+https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/NTV.png" tvg-name="NO EPG кино",НТВ. Невский
@@ -620,6 +624,12 @@ https://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
 http://178.212.71.253:8000/play/52/index.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-name="О!",О!
 http://95.66.188.74:80/O/mono.m3u8
+#EXTINF:0 group-title="ДЕТСКИЕ",Cartoon Classics
+http://5.188.159.128:8070/Cartoon_Network/index.m3u8
+#EXTINF:0 group-title="ДЕТСКИЕ",Cartoon Classics
+http://95.66.188.74/Cartoon_Classics/index.m3u8
+#EXTINF:0 group-title="ДЕТСКИЕ",Cartoonito
+http://88.216.112.114/Cartoonito/index.m3u8
 
 
 
@@ -642,7 +652,7 @@ https://tv.a21network.ru/stream/40650/index.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png",TECHNO DANCE MUSIC
 http://195.9.195.3:8080/hls/180509.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-name="ТНТ MUSIC HD" ,ТНТ MUSIC HD
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+http://cdn-01.bonus-tv.ru/tntmusic/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ",TMF RUS
 http://195.9.195.3:8080/hls/201891.m3u8
 #EXTINF:-1 group-title="МУЗЫКА" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png",TMF RUS
