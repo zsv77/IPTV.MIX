@@ -188,11 +188,9 @@ http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
 http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,BCU Stars HD
 http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Скорость HD
-http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Kinowood HD
 http://193.27.209.122/kinowood/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,MM Скорость
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,MM Скорость HD
 http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,MyTV
 http://hls127.freeott.top:8080/MyTV/mono.m3u8
