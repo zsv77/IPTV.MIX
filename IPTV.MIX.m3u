@@ -6,56 +6,7 @@
 
 
 
-#EXTINF:-1 group-title="КИНО-ТЕСТ",MM Скорость HD
-http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Asia
-http://hls127.freeott.top:8080/Clarity4K_Asia/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Фантастика
-http://hls127.freeott.top:8080/Clarity4K_Fantastic/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Netflix
-http://hls127.freeott.top:8080/Clarity4K_Netflix/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Боевик
-http://hls127.freeott.top:8080/Clarity4K_Boevik/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Драмы
-http://hls127.freeott.top:8080/Clarity4K_Dramma/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K КиноФраншизы
-http://hls127.freeott.top:8080/Clarity4K_Kinofranshiza/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Приключения
-http://hls127.freeott.top:8080/Clarity4K_Priklucheniya/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Семейный
-http://hls127.freeott.top:8080/Clarity4K_Semeyniy/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Русский сериал
-http://hls127.freeott.top:8080/Clarity4K_Serial/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Ужасы
-http://hls127.freeott.top:8080/Clarity4K_Uzhasi/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Фэнтези
-http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Anime
-http://hls127.freeott.top:8080/Clarity4K_Anime/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Walt Disney
-http://hls127.freeott.top:8080/Clarity4K_Walt_Disney/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",Clarity4K Мультимир
-http://hls127.freeott.top:8080/Clarity4K_Multmir/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Action HD
-http://hls127.freeott.top:8080/CPS_Action/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Comedy HD
-http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Drama HD
-http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Fiction HD
-http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Fresh HD
-http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Investigation
-http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Jackie Chan HD
-http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Mix HD
-http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Anime HD
-http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
-#EXTINF:-1 group-title="КИНО-ТЕСТ",CPS Cartoon HD
-http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
+
 
 
 
@@ -65,7 +16,7 @@ http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
 
 #EXTINF:0 group-title="ЭФИРНЫЕ"   tvg-logo="http://epg.one/img2/983.png" tvg-name="Первый канал HD",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/146.png" tvg-name="Первый канал",Первый канал (Смоленск)
+#EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/146.png" tvg-id="Первый канал",Первый канал (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/146.png" tvg-name="Первый канал",Первый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
@@ -229,56 +180,130 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 
 
 
-
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Комедия
-http://95.66.188.74/Comedia/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Cinema
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Kinosweet HD
+http://193.27.209.122/kinosweet/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",ATV Cineman
+http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,BCU Kinorating HD
+http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,BCU Stars HD
+http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Скорость HD
+http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Kinowood HD
+http://193.27.209.122/kinowood/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,MM Скорость
+http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,MyTV
+http://hls127.freeott.top:8080/MyTV/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,MyTV 2
+http://hls127.freeott.top:8080/MyTV2/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,MyTV 3
+http://hls127.freeott.top:8080/MyTV3/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Clarity4K Asia
+http://hls127.freeott.top:8080/Clarity4K_Asia/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Clarity4K Фантастика
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Clarity4K Netflix
+http://hls127.freeott.top:8080/Clarity4K_Netflix/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Clarity4K Боевик
+http://hls127.freeott.top:8080/Clarity4K_Boevik/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Clarity4K Драмы
+http://hls127.freeott.top:8080/Clarity4K_Dramma/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Clarity4K КиноФраншизы
+http://hls127.freeott.top:8080/Clarity4K_Kinofranshiza/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Clarity4K Приключения
+http://hls127.freeott.top:8080/Clarity4K_Priklucheniya/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Clarity4K Семейный
+http://hls127.freeott.top:8080/Clarity4K_Semeyniy/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Clarity4K Русский сериал
+http://hls127.freeott.top:8080/Clarity4K_Serial/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Clarity4K Ужасы
+http://hls127.freeott.top:8080/Clarity4K_Uzhasi/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Clarity4K Фэнтези
+http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Clarity4K Anime
+http://hls127.freeott.top:8080/Clarity4K_Anime/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Clarity4K Walt Disney
+http://hls127.freeott.top:8080/Clarity4K_Walt_Disney/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Clarity4K Мультимир
+http://hls127.freeott.top:8080/Clarity4K_Multmir/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",CPS Action HD
+http://hls127.freeott.top:8080/CPS_Action/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",CPS Comedy HD
+http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",CPS Drama HD
+http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",CPS Fiction HD
+http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",CPS Fresh HD
+http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",CPS Investigation
+http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",CPS Jackie Chan HD
+http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",CPS Mix HD
+http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",CPS Anime HD
+http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",CPS Cartoon HD
+http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Saga TV
+http://46.175.123.164:4022/udp/239.195.65.56:1234
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Suspense
+http://146.120.14.239:3001/play/a08o
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,VIP Comedy HD
+http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,VIP Comedy
+http://2.57.217.85:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,VIP Megahit
+http://2.57.217.85:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,VIP Premiere
+http://2.57.217.85:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,TV1000
+http://2.57.217.85:8000/play/a09x/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,TV1000 Русское кино
+http://2.57.217.85:8000/play/a09z/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,TV1000 Action
+http://2.57.217.85:8000/play/a09y/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,TV XXI
+http://2.57.217.85:8000/play/a097/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Кинопоказ
+http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,ТВ3
+http://89.232.68.194:8080/tv3/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Cinema
 http://95.66.188.74/Cinema/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Дом кино
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Комедия
+http://95.66.188.74/Comedia/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Дом кино
 http://95.66.188.74/Dom_kino/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Дом кино премиум
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Дом кино премиум
 http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Кинопоказ
-http://95.66.188.74/Kinopokaz/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Мужское кино
-http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Наше новое кино
-http://95.66.188.74/NasheNovoeKino/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Киномикс
-http://95.66.188.74/Kinomiks/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Киносерия
-http://95.66.188.74/Kinoseriya/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Мосфильм. Золотая коллекция
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Мосфильм. Золотая коллекция
 http://95.66.188.74/MosfilmHD/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Кинопоказ
+http://95.66.188.74/Kinopokaz/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Киносемья
+http://2.57.217.85:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Мужское кино
+http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Наше новое кино
+http://95.66.188.74/NasheNovoeKino/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Киномикс
+http://95.66.188.74/Kinomiks/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Киносерия
+http://95.66.188.74/Kinoseriya/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Победа
+http://95.66.188.74/Pobeda/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Русский роман
+http://95.66.188.74/RusRoman/mono.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Русский детектив
+http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",НСТ
 http://95.66.188.74/NST/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Победа
-http://95.66.188.74/Pobeda/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Русский роман
-http://95.66.188.74/RusRoman/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Русский детектив
-http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
-
-
-
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Cinema
-http://95.66.188.74/Cinema/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Комедия
-http://95.66.188.74/Comedia/mono.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Дорама
 http://193.27.209.122/dorama/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Мосфильм. Золотая коллекция HD
-http://95.66.188.74/MosfilmHD/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Мосфильм. Золотая коллекция HD
-http://95.66.188.74/MosfilmHD/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Дом кино
-http://95.66.188.74/Dom_kino/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Дом кино премиум
-http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Русский роман
-http://95.66.188.74/RusRoman/mono.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ", Русский детектив
-http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-name="Смотрим Честный детектив HD" ,Смотрим Честный детектив HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-logo="http://epg.one/img2/6258.png" ,Кино 1 International
@@ -292,8 +317,6 @@ https://v2.catcast.tv/content/38720/index.m3u8
 
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,TvBoom-ViP
 https://kb.catcast.tv/content/49702/index.m3u8
-
-
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,FMC
 http://195.9.195.3:8080/hls/187741.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Zubrilom Franchise
@@ -352,6 +375,12 @@ http://hls.goodgame.ru:8080/hls/3592.m3u8
 http://hls.goodgame.ru:8080/hls/203674.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,runepi
 http://hls.goodgame.ru:8080/hls/210953.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Film Vizit
+https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Кино без границ HD
+http://185.57.68.33:8091/237/playlist.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,SSA Film
+https://fl1003.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,revolyo Pulse
 http://195.9.195.3:8080/hls/218087.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Video_Serial
