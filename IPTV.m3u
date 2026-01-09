@@ -20,15 +20,15 @@ http://158.101.222.193:88/georgia_play.php?id=kinoujas
 http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Srah.png" ,СТРАХ HD
 https://s.catcast.tv/content/34816/index.m3u8?token=59be0c33d8ca261d38a59b3cbb23085c
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/IPTVPlay.png" , IPTVPLAY УЖАСТИК
-http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/SityEdem.Myst.png",Сити Эдем - КиноМистика
-https://cityeden.catcast.tv/content/40783/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Fatastica.png" ,ФАНТАСТИКА HD
 https://s.catcast.tv/content/39533/index.m3u8?token=2727751f4f0e8a4ef46b9b8f41c97132
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/IPTVPlay.png" , IPTVPLAY УЖАСТИК
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/IPTVPlay.png" , IPTVPLAY ФАНТАСТИКА
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png",Сити Эдем - КиноФантастика
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/SityEdem.Myst.png",Сити Эдем - КиноМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/SityEdem.Fant.png",Сити Эдем - КиноФантастика
 https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/698.png" ,ТВ3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
