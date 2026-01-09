@@ -330,7 +330,15 @@ http://178.212.71.253:8000/play/90/index.m3u8
 
 
 
-
+#EXTINF:0 group-title="КИНОЗАЛЫ" , HORROR TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0 x-lhd-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}
+https://mhd116.iptv2022.com/x/-gYjor39hg-hl9nqa3rubw,1768031741/streaming/horror_tv/324/1/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Koshmar-hd.png" ,КОШМАР HD
+http://195.9.195.3:8080/hls/204709.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Srah.png" ,СТРАХ HD
+https://s.catcast.tv/content/34816/index.m3u8?token=59be0c33d8ca261d38a59b3cbb23085c
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Fatastica.png" ,ФАНТАСТИКА HD
+https://s.catcast.tv/content/39533/index.m3u8?token=2727751f4f0e8a4ef46b9b8f41c97132
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,TvBoom-ViP
 https://kb.catcast.tv/content/49702/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,FMC
@@ -473,8 +481,6 @@ https://cityeden.catcast.tv/content/40783/index.m3u8
 https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png",Сити Эдем - КиноЭкшен
 https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Koshmar-hd.png" id="no_epg_cinema" ,КОШМАР HD
-http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-name="Твоё ТВ HD Юмор",Твоё ТВ HD Юмор
@@ -630,21 +636,17 @@ http://195.9.195.3:8080/hls/199417.m3u8
 https://live21.bozztv.com/giatvplayout7/ushba80/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://zsv.ucoz.net/Logo/Cartoons.png" ,Ретро Мульт
 http://195.9.195.3:8080/hls/213086.m3u8
-#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://zsv.ucoz.net/Logo/Masha.png" channel id="1",Маша и медведь
-https://live21.bozztv.com/giatvplayout7/ushba79/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="ДЕТСКИЕ" channel id="1" tvg-logo="https://zsv.ucoz.net/Logo/MashaEN.png" ,Маша и медведь ENG 
-https://glb.bozztv.com/glb/ushba78/index.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/323.png" tvg-name="2x2",2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ"  tvg-logo="http://epg.one/img2/740.png" tvg-name="Карусель",Карусель (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
-#EXTINF:0 group-title="ДЕТСКИЕ"  tvg-logo="http://epg.one/img2/1332.png" tvg-name="Мульт HD",Мульт HD
+#EXTINF:0 group-title="ДЕТСКИЕ"  tvg-logo="http://epg.one/img2/1332.png" ,Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/tracks-v2a1/mono.ts.m3u8
-#EXTINF:0 group-title="ДЕТСКИЕ"  tvg-logo="http://epg.one/img2/1332.png" tvg-name="Мульт",Мульт
+#EXTINF:0 group-title="ДЕТСКИЕ"  tvg-logo="http://epg.one/img2/1332.png" ,Мульт
 http://stv.mediacdn.ru/live/cdn/mult/tracks-v2a1/mono.ts.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ"  tvg-name="Ani",Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
-#EXTINF:0 group-title="ДЕТСКИЕ"  tvg-logo="http://epg.one/img2/284.png" tvg-name="Мультимузыка",Мультимузыка
+#EXTINF:0 group-title="ДЕТСКИЕ"  tvg-logo="http://epg.one/img2/284.png" ,Мультимузыка
 http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-name="Солнце" ,Солнце
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
@@ -673,99 +675,99 @@ http://88.216.112.114/Cartoonito/index.m3u8
 
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ",4ever Music
 http://2.57.217.85:8000/play/a08h/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" tvg-name="NO EPG музыка",Phoenix Music TV
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" ,Phoenix Music TV
 https://karapuztv.catcast.tv/content/33418/index.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" tvg-name="NO EPG музыка",Phoenix Music TV
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" ,Phoenix Music TV
 https://autopilot.catcast.tv/content/33418/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/15Plus.png" tvg-name="NO EPG музыка",15+ MUSIC
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/15Plus.png" ,15+ MUSIC
 http://hls.goodgame.ru:8080/hls/208391.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" tvg-name="NO EPG музыка",NM TELEVISION
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" ,NM TELEVISION
 https://autopilot.catcast.tv/content/40650/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" tvg-name="NO EPG музыка",NM TELEVISION
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" ,NM TELEVISION
 https://tv.a21network.ru/stream/40650/index.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png",TECHNO DANCE MUSIC
 http://195.9.195.3:8080/hls/180509.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-name="ТНТ MUSIC HD" ,ТНТ MUSIC HD
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ"  ,ТНТ MUSIC HD
 http://cdn-01.bonus-tv.ru/tntmusic/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-name="ТНТ MUSIC HD" ,ТНТ MUSIC HD
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,ТНТ MUSIC HD
 https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ",TMF RUS
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,TMF RUS
 http://195.9.195.3:8080/hls/201891.m3u8
-#EXTINF:-1 group-title="МУЗЫКА" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png",TMF RUS
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" ,TMF RUS
 https://edge1-eu-west.picarto.tv/stream/hls/golive+TMFRUS/1_0/index.m3u8
-#EXTINF:-1 group-title="МУЗЫКА" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png",TMF RUS
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" ,TMF RUS
 https://live21.bozztv.com/akamaissh101/ssh101/tmfrus/chunks.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ",VIVA RUSSIA
 http://195.9.195.3:8080/hls/180805.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" tvg-name="NO EPG музыка", HotBeatsTV HD
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" , HotBeatsTV HD
 http://195.9.195.3:8080/hls/191858.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" tvg-name="NO EPG музыка", Melodic Tech
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" , Melodic Tech
 https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/897.png" tvg-name="Муз ТВ" ,Муз ТВ HD
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/897.png"  ,Муз ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/897.png" tvg-name="Муз ТВ" ,Муз ТВ
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/897.png"  ,Муз ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/2277.png" tvg-name="RU TV HD",RU TV HD
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/2277.png" ,RU TV HD
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Первый музыкальный
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" ,Первый музыкальный
 http://hz1.teleport.cc/HLS/SD.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Первый музыкальный HD
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" ,Первый музыкальный HD
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" tvg-name="NO EPG музыка",DanceHits80
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" ,DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ"  tvg-logo="http://epg.one/img2/5597.png" tvg-name="Trace Urban HD",Trace Urban HD
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ"  tvg-logo="http://epg.one/img2/5597.png" ,Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png",THE VOICE
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ"  tvg-logo="http://i115.fastpic.org/big/2021/0924/0d/694a7fbcc8c0e95f020b81749c45770d.png",Kronehit HD
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ"  ,Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ", Deluxe Music
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-name="Страна FM" ,Страна FM
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-name="Музыка 1 International HD" ,Музыка 1 International
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,Музыка 1 International
 http://kino-1.catcast.tv/content/37745/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-name="Музыка 2 International" ,Музыка 2 International
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,Музыка 2 International
 http://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-name="Музыка Кино International" ,Музыка Кино International
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,Музыка Кино International
 http://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ", MIXM TV
 http://89.179.247.144/hls/mixm.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ",1HD Music
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,1HD Music
 http://91.247.68.229:8000/play/eee/index.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", BRIDGE CLASSIC
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" ,BRIDGE CLASSIC
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-name="NO EPG музыка",CHD-TV RU Rock HD
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" ,CHD-TV RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-name="NO EPG музыка",CHD-TV Rock HD
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" ,CHD-TV Rock HD
 http://194.26.229.213/chdtv_rock/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-name="NO EPG музыка",Rock TV BR
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" ,Rock TV BR
 https://video03.logicahost.com.br/tvrockhd/tvrockhd/chunklist_w1624224756.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png",ROCK TV
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" ,ROCK TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png",ROCK TV
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" ,ROCK TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-name="NO EPG музыка",ROCKDAY TV
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" ,ROCKDAY TV
 http://hls.goodgame.ru:8080/hls/198928.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-name="NO EPG музыка",Hot Rock
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" ,Hot Rock
 https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-name="NO EPG музыка",ROCK MUSIC
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" ,ROCK MUSIC
 https://rpn3.bozztv.com/dvrfl07/ushba-m2/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-name="NO EPG музыка",30A MUSIC
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" ,30A MUSIC
 https://30a-tv.com/feeds/720p/6.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" tvg-name="NO EPG музыка",K-POP Play TV
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" ,K-POP Play TV
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" tvg-name="NO EPG музыка",Afrobeats TV
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" ,Afrobeats TV
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" tvg-name="NO EPG музыка" ,COMPANY TV HD
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" ,COMPANY TV HD
 https://5929b138b139d.streamlock.net/CompanyTV/livestream/playlist.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" tvg-name="NO EPG музыка",CATCAST MUSIC
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" ,CATCAST MUSIC
 https://v2.catcast.tv/content/48811/index.m3u8?password=kizugtv
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" aspect-ratio=16:9,О!2
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" aspect-ratio=16:9 ,О!2
 http://95.66.188.74/O2TV/index.m3u8
-#EXTINF:-1 group-title="МУЗЫКА" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png",Lo-Fi Music
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" ,LO-FI Music
 http://195.9.195.3:8080/hls/218690.m3u8
-#EXTINF:-1 group-title="МУЗЫКА" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png",Классическая музыка
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" ,Классическая музыка
 https://cityeden.catcast.tv/content/47400/index.m3u8
 
 
