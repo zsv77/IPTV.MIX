@@ -1,7 +1,7 @@
 #EXTM3U
 
-
-
+#EXTINF:0 group-title="КИНОЗАЛЫ"  ,КИНОУЖАС
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:0 group-title="КИНОЗАЛЫ" , HORROR TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0 x-lhd-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"6","version_code":"355","sdk":"30","device_id":"256846.83127662633-1766213458774"}
 https://mhd116.iptv2022.com/x/-gYjor39hg-hl9nqa3rubw,1768031741/streaming/horror_tv/324/1/index.m3u8
