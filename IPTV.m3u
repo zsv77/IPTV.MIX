@@ -91,19 +91,19 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 
 
 
-#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ" tvg-logo="https://zsv.ucoz.net/Logo/Cartoons.png",2x2
+#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ" ,2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ" tvg-logo="https://zsv.ucoz.net/Logo/Cartoons.png" ,Futurama
+#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ" tvg-logo="https://zsv.ucoz.net/Logo/Futurama.png" ,Futurama
 http://195.9.195.3:8080/hls/199417.m3u8
-#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ" tvg-logo="https://zsv.ucoz.net/Logo/Cartoons.png" ,IPTVPLAY МультСказки
+#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ" tvg-logo="https://zsv.ucoz.net/Logo/IPTVPlay.png" ,IPTVPLAY МультСказки
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ" tvg-logo="https://zsv.ucoz.net/Logo/Cartoons.png" ,СССР Мульты
+#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ" tvg-logo="https://zsv.ucoz.net/Logo/Multfilm2.png" ,СССР Мульты
 https://live21.bozztv.com/giatvplayout7/ushba80/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ" tvg-logo="https://zsv.ucoz.net/Logo/Cartoons.png" ,Ретро Мульт
+#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ" tvg-logo="https://zsv.ucoz.net/Logo/Multfilm.png" ,Ретро Мульт
 http://195.9.195.3:8080/hls/213086.m3u8
-#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ" tvg-logo="https://zsv.ucoz.net/Logo/Cartoons.png" ,Cartoon Classics
+#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ"  ,Cartoon Classics
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
-#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ" tvg-logo="https://zsv.ucoz.net/Logo/Cartoons.png",Cartoonito
+#EXTINF:0 group-title="МУЛЬТФИЛЬМЫ" ,Cartoonito
 http://88.216.112.114/Cartoonito/index.m3u8
 
 
