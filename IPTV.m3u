@@ -82,6 +82,10 @@ http://hls.goodgame.ru:8080/hls/106103.m3u8
 http://hls.goodgame.ru:8080/hls/217083.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Кинозал
 http://185.57.68.33/237/mpegts
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Video_Serial
+http://195.9.195.3:8080/hls/218886.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Katastroff
+http://hls.goodgame.ru:8080/hls/208789.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" ,FAN HD
 http://195.9.195.3:8080/hls/157239.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" ,Твоё ТВ HD
