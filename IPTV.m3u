@@ -50,6 +50,16 @@ http://195.9.195.3:8080/hls/218531.m3u8
 http://95.66.188.74/VHS/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VHS.png" ,Видеокассета VHS
 http://195.9.195.3:8080/hls/176975.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png"  ,CyberTV 1
+http://hls.goodgame.ru:8080/hls/214454.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , CyberTV 2
+http://hls.goodgame.ru:8080/hls/214433.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,FilmOFF
+https://stream.ushba.tv/akamaiushba/ushba65/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,P Boy Podpischik
+http://195.9.195.3:8080/manifest/40391_master.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,1FILMAX Фантастика
+http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Tocoxoj361
 http://hls.goodgame.ru:8080/hls/218475.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Кино Хит - 24/7
