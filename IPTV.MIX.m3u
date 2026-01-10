@@ -336,9 +336,9 @@ https://mhd116.iptv2022.com/x/-gYjor39hg-hl9nqa3rubw,1768031741/streaming/horror
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Koshmar-hd.png" ,КОШМАР HD
 http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Srah.png" ,СТРАХ HD
-https://s.catcast.tv/content/34816/index.m3u8?token=59be0c33d8ca261d38a59b3cbb23085c
+https://s.catcast.tv/content/34816/index.m3u8?token=aa254011226989eb7450db6eccc88bcd
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Fatastica.png" ,ФАНТАСТИКА HD
-https://s.catcast.tv/content/39533/index.m3u8?token=2727751f4f0e8a4ef46b9b8f41c97132
+https://s.catcast.tv/content/39533/index.m3u8?token=ee9dc6538f14e795546f6b1765a1a6fe
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,TvBoom-ViP
 https://kb.catcast.tv/content/49702/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,FMC
