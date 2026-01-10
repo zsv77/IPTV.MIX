@@ -82,10 +82,12 @@ http://hls.goodgame.ru:8080/hls/106103.m3u8
 http://hls.goodgame.ru:8080/hls/217083.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Кинозал
 http://185.57.68.33/237/mpegts
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Video_Serial
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Video_Serial
 http://195.9.195.3:8080/hls/218886.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" id="no_epg_cinema" ,Katastroff
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Katastroff
 http://hls.goodgame.ru:8080/hls/208789.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Триллер Ужасы
+http://195.9.195.3:8080/hls/23570.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" ,FAN HD
 http://195.9.195.3:8080/hls/157239.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" ,Твоё ТВ HD
@@ -194,89 +196,3 @@ http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Digital Desire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Penthouse Gold
-http://185.98.209.11:81/penthouse1/index.m3u8?token=test
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Penthouse Reallity TV
-http://185.98.209.11:81/penthouse2/index.m3u8?token=testE
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,HUSTLER HD
-http://85.11.144.9:50999/30
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,EROTA
-http://85.11.144.9:50999/31
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,PASSION XXX
-http://85.11.144.9:50999/33
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,HOT 1
-http://85.11.144.9:50999/34
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,XYPlus HD
-http://85.11.144.9:50999/35
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,XYmix HD
-http://85.11.144.9:50999/101
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,XYmax HD
-http://85.11.144.9:50999/102
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,XYPlus HD
-http://85.11.144.9:50999/103
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Redlight HD
-http://85.11.144.9:50999/39
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,EXTASY
-http://85.11.144.9:50999/43
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Playboy TV HD
-http://85.11.144.9:50999/47
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,PRIVATE
-http://77.46.130.252:99/private
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+",PINK EROTIC 1
-https://webtvstream.bhtelecom.ba/pink_erotic1.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+",PINK EROTIC 2
-https://webtvstream.bhtelecom.ba/pink_erotic2.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+",PINK EROTIC 3
-https://webtvstream.bhtelecom.ba/pink_erotic3.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+",PINK EROTIC 4
-https://webtvstream.bhtelecom.ba/pink_erotic4.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+",PINK EROTIC 5
-https://webtvstream.bhtelecom.ba/pink_erotic5.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+",PINK EROTIC 6
-https://webtvstream.bhtelecom.ba/pink_erotic6.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+",PINK EROTIC 7
-https://webtvstream.bhtelecom.ba/pink_erotic7.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+",PINK EROTIC 8
-https://webtvstream.bhtelecom.ba/pink_erotic8.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+",Babes TV
-http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Rough
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Blonde
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Anal
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Live Cams
-http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Russian
-http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Threesome
-http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Hardcore
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Teen
-http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Blowjob
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,POV
-http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Latina
-http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Interracial
-http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Big Ass
-http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Fetish
-http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Big Tits
-http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Big Dick
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,MILF
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Pornstar
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Lesbian
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Cuckold
-http://live.redtraffic.xyz/cuckold.m3u8
