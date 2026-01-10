@@ -25,7 +25,7 @@ http://195.9.195.3:8080/hls/217855.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,1FILMAX Фантастика
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛЫ" ,Sci-Fi
-http://188.225.31.197/bpk-tv/000000134/tve/index.m3u8
+http://176.118.197.125/SCI-FI/index.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/1700.png" ,КВН ТВ
 http://93.170.254.17/KVN/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,FMC
