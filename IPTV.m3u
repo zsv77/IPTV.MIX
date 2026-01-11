@@ -54,7 +54,7 @@ http://195.9.195.3:8080/hls/210470.m3u8
 http://195.9.195.3:8080/hls/218531.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VHS.png" ,VHS-ка
 http://95.66.188.74/VHS/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VHS.png" ,Видеокассета VHS
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VHS.png" ,Видеокассета
 http://195.9.195.3:8080/hls/176975.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png"  ,CyberTV 1
 http://hls.goodgame.ru:8080/hls/214454.m3u8
@@ -68,8 +68,6 @@ http://195.9.195.3:8080/manifest/40391_master.m3u8
 http://hls.goodgame.ru:8080/hls/218475.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Кино Хит - 24/7
 http://hls.goodgame.ru:8080/hls/215741.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Кино без границ HD
-http://185.57.68.33:8091/237/playlist.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Малдер Всё ТВ
 http://195.9.195.3:8080/hls/153640.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,alpha Cinema 
@@ -88,9 +86,17 @@ http://195.9.195.3:8080/hls/218886.m3u8
 http://hls.goodgame.ru:8080/hls/208789.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Триллер Ужасы
 http://195.9.195.3:8080/hls/23570.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,SSA Film
+https://fl1003.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,LAV-KINO
+https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,MB TV
+https://dvrfl07.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Британский юмор
+http://hls.goodgame.ru:8080/hls/218490.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" ,FAN HD
 http://195.9.195.3:8080/hls/157239.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" ,Твоё ТВ HD
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-shift="-0,2",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" ,Твоё ТВ HD Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
