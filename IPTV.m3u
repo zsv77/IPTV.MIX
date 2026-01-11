@@ -96,7 +96,7 @@ https://dvrfl07.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
 http://hls.goodgame.ru:8080/hls/218490.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" ,FAN HD
 http://195.9.195.3:8080/hls/157239.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-shift="-0,2",Твоё ТВ HD
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" tvg-shift="-0.2",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" ,Твоё ТВ HD Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
