@@ -27,6 +27,8 @@ http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛЫ" ,.SCI-FI
 http://176.118.197.125/SCI-FI/index.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/1700.png" ,КВН ТВ
+http://95.66.188.74/KVN-TV/mono.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/1700.png" ,КВН ТВ
 http://93.170.254.17/KVN/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Новый канал от TDM (пока без названия)
 http://195.9.195.3:8080/hls/219255.m3u8
