@@ -14,10 +14,6 @@ https://s.catcast.tv/content/39533/index.m3u8?token=a868743798f4edfbadaec302a3e4
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/IPTVPlay.png" , IPTVPLAY ФАНТАСТИКА
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/SityEdem.Myst.png",Сити Эдем - КиноМистика
-https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/SityEdem.Fant.png",Сити Эдем - КиноФантастика
-https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/698.png" ,ТВ3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/518.png" ,НСТ
