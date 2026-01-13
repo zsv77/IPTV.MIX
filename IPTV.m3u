@@ -21,11 +21,11 @@ https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/698.png" ,ТВ3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/518.png" ,НСТ
-http://195.9.195.3:8080/hls/217855.m3u8
+http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,1FILMAX Фантастика
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛЫ" ,.SCI-FI
-http://176.118.197.125/SCI-FI/index.m3u8
+http://86.57.209.210/Sci-Fi/index.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/1700.png" ,КВН ТВ
 http://95.66.188.74/KVN-TV/mono.m3u8
 #EXTINF:-1 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/1700.png" ,КВН ТВ
