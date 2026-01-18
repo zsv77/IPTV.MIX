@@ -22,6 +22,22 @@ http://cdn-bal.srv4you.net/0432/mpegts
 http://cdn-bal.srv4you.net/0312/mpegts
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Фобия HD
 http://cdn-bal.srv4you.net/ru46/mpegts
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Триллер HD
+http://cdn-bal.srv4you.net/ru41/mpegts
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",BCU Fantastic HD
+http://cdn-bal.srv4you.net/0404/mpegts
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Фантастика HD
+http://cdn-bal.srv4you.net/ru45/mpegts
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM UFO HD
+http://cdn-bal.srv4you.net/ru07/mpegts
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Грайндхаус HD
+http://cdn-bal.srv4you.net/ru13/mpegts
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Затмение HD
+http://cdn-bal.srv4you.net/ru18/mpegts
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Катастрофа HD
+http://cdn-bal.srv4you.net/ru20/mpegts
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM USSR Фантастика HD
+http://cdn-bal.srv4you.net/ru11/mpegts
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Romance HD
 http://cdn-bal.srv4you.net/rj13/mpegts
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",BCU Action HD
@@ -38,8 +54,6 @@ http://cdn-bal.srv4you.net/0402/mpegts
 http://cdn-bal.srv4you.net/0498/mpegts
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",BCU Criminal HD
 http://cdn-bal.srv4you.net/0476/mpegts
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",BCU Fantastic HD
-http://cdn-bal.srv4you.net/0404/mpegts
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",BCU History HD
 http://cdn-bal.srv4you.net/0403/mpegts
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",BCU Kinorating HD
@@ -90,20 +104,14 @@ http://cdn-bal.srv4you.net/ru04/mpegts
 http://cdn-bal.srv4you.net/ru05/mpegts
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Love HD
 http://cdn-bal.srv4you.net/ru06/mpegts
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM UFO HD
-http://cdn-bal.srv4you.net/ru07/mpegts
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM USSR 1941-1945 HD
 http://cdn-bal.srv4you.net/ru08/mpegts
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM USSR Детектив HD
 http://cdn-bal.srv4you.net/ru09/mpegts
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM USSR Комедия HD
 http://cdn-bal.srv4you.net/ru10/mpegts
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM USSR Фантастика HD
-http://cdn-bal.srv4you.net/ru11/mpegts
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Агата Кристи HD
 http://cdn-bal.srv4you.net/ru12/mpegts
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Грайндхаус HD
-http://cdn-bal.srv4you.net/ru13/mpegts
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Боевик Classic HD
 http://cdn-bal.srv4you.net/ru14/mpegts
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Боевик HD
@@ -112,12 +120,8 @@ http://cdn-bal.srv4you.net/ru15/mpegts
 http://cdn-bal.srv4you.net/ru16/mpegts
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Воронины HD
 http://cdn-bal.srv4you.net/ru17/mpegts
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Затмение HD
-http://cdn-bal.srv4you.net/ru18/mpegts
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM История HD
 http://cdn-bal.srv4you.net/ru19/mpegts
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Катастрофа HD
-http://cdn-bal.srv4you.net/ru20/mpegts
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Киберпанк HD
 http://cdn-bal.srv4you.net/ru21/mpegts
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Комедия Classic HD
@@ -156,12 +160,8 @@ http://cdn-bal.srv4you.net/ru37/mpegts
 http://cdn-bal.srv4you.net/ru38/mpegts
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Супергерои HD
 http://cdn-bal.srv4you.net/ru40/mpegts
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Триллер HD
-http://cdn-bal.srv4you.net/ru41/mpegts
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Синематограф HD
 http://cdn-bal.srv4you.net/ru44/mpegts
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Фантастика HD
-http://cdn-bal.srv4you.net/ru45/mpegts
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Classic HD
 http://cdn-bal.srv4you.net/ru47/mpegts
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Драма HD
