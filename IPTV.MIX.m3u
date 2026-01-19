@@ -187,8 +187,6 @@ http://cdn-bal.srv4you.net/56181A/mpegts
 http://cdn-bal.srv4you.net/2C1A1B/mpegts
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Страшное HD
 http://cdn-bal.srv4you.net/0218/mpegts
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",Trash HD
-http://cdn-bal.srv4you.net/2C1A1B/mpegts
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Ужастик HD
 http://cdn-bal.srv4you.net/ru42/mpegts
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",MM Ужасы HD
@@ -560,6 +558,8 @@ http://193.27.209.122/kinowood/index.m3u8
 http://188.225.31.197/bpk-tv/000000078/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/518.png" ,НСТ
 http://176.118.197.101/HCT/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/518.png" ,НСТ
+http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Феникс+Кино
 http://188.225.31.197/bpk-tv/000000125/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Т24
@@ -592,6 +592,8 @@ http://188.225.31.197/bpk-tv/000003392/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Дом кино
 http://188.225.31.197/bpk-tv/000000050/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Дом кино
+http://176.118.197.101/Dom_kino/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Plan_b
 http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Hollywood
@@ -638,6 +640,10 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediya
 http://188.225.31.197/bpk-tv/000004582/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/1700.png" ,КВН ТВ
 http://93.170.254.17/KVN/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,НТВ Хит
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,НТВ Сериал
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 
 
 
@@ -701,7 +707,7 @@ https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/NTV.png" ,НТВ. Балабол
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/NTV.png" ,НТВ. Пять минут тишины
-https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-id="smotrim-100-lubov",Смотрим 100% Любовь
 https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-id="smotrim-100-muzhskoe",Смотрим 100% Мужское
@@ -853,8 +859,10 @@ https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-name="Здоровое ТВ",Здоровое ТВ
 http://31.148.48.15:80/Zdorovoe_TV/index.m3u8?token=test
-#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ"  tvg-logo="http://epg.one/img2/1755.png" tvg-name="НТВ Стиль",НТВ Стиль
-http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ"  tvg-logo="http://epg.one/img2/1755.png" ,НТВ Стиль
+https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ"  tvg-logo="http://epg.one/img2/1755.png" ,НТВ Право
+https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ"  tvg-name="Московский образовательный",Московский образовательный
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" aspect-ratio=16:9 tvg-name="Просвещение",Просвещение
