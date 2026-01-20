@@ -176,18 +176,29 @@ http://ukr2.ukrainske.tv/493/video.m3u8
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Kinowood HD
 http://193.27.209.122/kinowood/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,TV1000 Action
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,.SCI-FI
+http://176.118.197.125/SCI-FI/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Еврокино
+http://vod.tuva.ru/eurokino/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,НСТ
 http://176.118.197.101/HCT/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,ТВ3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНО ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Комедия
+http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,РЕТРО
 http://176.118.197.101/Retro/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Патриот
-http://catchup.videoline.ru/asvtv/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КВН ТВ
-http://93.170.254.17/KVN/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Русский Детектив
+http://178.212.71.253:8001/play/45/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Русский Роман
+http://185.46.16.239:8000/Russkiy_roman
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Время
+http://193.25.8.59:8000/vremya
+
 
 
 
