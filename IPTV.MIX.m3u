@@ -22,12 +22,12 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ HD",НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ HD",НТВ HD
+https://cdn.ntv.ru/ntv0/playlist.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/162.png" tvg-id="НТВ",НТВ (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ",НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ HD",ТНТ HD
-http://85.198.85.43/THTHD/index.m3u8?KinoStreamMediaApps
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ",ТНТ (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ",ТНТ
@@ -122,14 +122,8 @@ http://217.21.34.160:38005/vremya/index.m3u8
 http://178.212.71.253:8000/play/41/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/2472.png" tvg-name="Первый Крымский",Первый Крымский
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
-#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1700.png",КВН ТВ
-http://46.8.46.14/kvn/index.m3u8
-#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1700.png",КВН ТВ
-http://93.170.254.17/KVN/index.m3u8
-#EXTINF:0 group-title="ЭФИРНЫЕ",Победа
-http://46.8.46.14/Pobeda/index.m3u8
-#EXTINF:0 group-title="ЭФИРНЫЕ",Победа
-http://91.207.115.228:5000/c184
+
+
 
 
 
@@ -174,28 +168,6 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 
 
 
-
-
-
-
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОУЖАС
-http://158.101.222.193:88/georgia_play.php?id=kinoujas
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОСВИДАНИЕ
-http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОМИКС
-http://158.101.222.193:88/georgia_play.php?id=kinomiks
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,РОДНОЕ КИНО
-http://84.54.128.52:9090/play/a009/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,РОДНОЕ КИНО
-http://176.118.197.101/RodnoeKino/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОХИТ
-http://158.101.222.193:88/georgia_play.php?id=kinohit
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОСЕРИЯ
-http://158.101.222.193:88/georgia_play.php?id=kinoseria
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОСЕМЬЯ
-http://158.101.222.193:88/georgia_play.php?id=kinosemya
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОКОМЕДИЯ
-http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Кинопоказ
 http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Viasat Kino Comedy HD
