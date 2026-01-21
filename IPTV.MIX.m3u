@@ -220,35 +220,12 @@ https://livetv-app.mylifeisgood.net.ru/channels/kineko.m3u8
 
 
 
-
-
-
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , Сити Эдем - КиноДетектив
-https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , Сити Эдем - КиноДрама
-https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , Сити Эдем - КиноКлассика
-https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , Сити Эдем - КиноКомедия
-https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , Сити Эдем - КиноМистика
-https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , Сити Эдем - КиноФантастика
-https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , Сити Эдем - КиноЭкшен
-https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , Сити Эдем - Теленовелла
-https://cityeden.catcast.tv/content/46209/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , IPTVPLAY МультСказки HD
-http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png"  ,IPTVPLAY ФАНТАСТИКА
-http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png"  ,IPTVPLAY ПАМЯТЬ
-http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png"  ,IPTVPLAY УЖАСТИК
-http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , IPTVPLAY Великая Отечественная HD
-http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0 group-title="КИНОЗАЛЫ" ,ТЕХ ЛЕТ ТВ
+http://cdn.voka.tv/live/9489-req_5k_v5.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" ,Синема Космос ТВ
+http://cdn.voka.tv/live/3870-req_5k_v5.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , VHS-ка
+http://cdn.voka.tv/live/1123-req_5k_v5.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,VHDV TV
 https://kino-stream.online/hls/vhdvtv.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Scripach TV
@@ -289,7 +266,19 @@ https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/NTV.png" ,НТВ. Пять минут тишины
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
-
+#EXTINF:0 group-title="КИНОЗАЛЫ" , Смотрим Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" , Смотрим 100% Праздник
+http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" , Смотрим 100% Мужское
+http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" , Смотрим 100% Факты
+http://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" , Смотрим 100% Детское
+http://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" , Смотрим 100% Классика
+http://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" , Смотрим 100% Любовь
 
 
 
@@ -403,8 +392,20 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 https://5929b138b139d.streamlock.net/CompanyTV/livestream/playlist.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" ,MyHITS
 http://lb.wisp.cat/lb0/My_Hits/video.m3u8?token=E2qXjFx
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,DTR MUSIC 1 HD
+https://kino-stream.online/hls/DTRMUSIC1.m3u8
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,Dmitriy-tv HD
+http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,Music Box Classic
 http://lb.wisp.cat/lb0/Music_Box_Classic/video.m3u8?token=E2qXjFx
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,Music Box Sexy
+http://lb.wisp.cat/lb0/MusicBox_Sexy/video.m3u8?token=E2qXjFx
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,Music Box 80`s
+http://lb.wisp.cat/lb0/Music_Box_80s_HD/video.m3u8?token=E2qXjFx
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,Music Box 90`s
+http://lb.wisp.cat/lb0/Music_Box_90s_HD/video.m3u8?token=E2qXjFx
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,Music Box 00`s
+http://lb.wisp.cat/lb0/Music_Box_00s_HD/video.m3u8?token=E2qXjFx
 
 
 
