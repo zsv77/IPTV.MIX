@@ -186,7 +186,7 @@ https://livetv-app.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
 http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Viasat Kino Comedy HD
 http://ukr2.ukrainske.tv/493/video.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,ATV Cineman
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,ATV Cineman HD
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Kinowood HD
 http://193.27.209.122/kinowood/index.m3u8
@@ -198,8 +198,6 @@ http://176.118.197.125/SCI-FI/index.m3u8
 http://vod.tuva.ru/eurokino/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,НСТ
 http://176.118.197.101/HCT/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,ТВ3
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНО ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Комедия
@@ -208,6 +206,8 @@ http://176.118.197.101/Komediya/index.m3u8
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Русский Детектив
 http://178.212.71.253:8001/play/45/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Русский роман HD
+http://5.35.88.99/RussiaRoman/index.m3u8?KinoStreamMediaApps
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Русский Роман
 http://185.46.16.239:8000/Russkiy_roman
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Дом кино
@@ -216,16 +216,16 @@ https://streaming.thestream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.
 http://193.25.8.59:8000/vremya
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНЕКО HD
 https://livetv-app.mylifeisgood.net.ru/channels/kineko.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Мосфильм. Золотая коллекция HD
+http://5.35.88.99/mosfilm-hd/index.m3u8?KinoStreamMediaApps
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,ДОРАМА HD
+http://193.27.209.122/dorama/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FUN HD
+http://5.35.88.99/FANHD/index.m3u8?KinoStreamMediaApps
 
 
 
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" ,ТЕХ ЛЕТ ТВ
-http://cdn.voka.tv/live/9489-req_5k_v5.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" ,Синема Космос ТВ
-http://cdn.voka.tv/live/3870-req_5k_v5.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , VHS-ка
-http://cdn.voka.tv/live/1123-req_5k_v5.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,VHDV TV
 https://kino-stream.online/hls/vhdvtv.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Scripach TV
@@ -279,6 +279,21 @@ http://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab
 #EXTINF:0 group-title="КИНОЗАЛЫ" , Смотрим 100% Классика
 http://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" , Смотрим 100% Любовь
+http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Кино Боевик
+http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Мировое Кино
+http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Премиум Кино
+http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Семейное Кино
+http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" ,ТЕХ ЛЕТ ТВ
+http://cdn.voka.tv/live/9489-req_5k_v5.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" ,Синема Космос ТВ
+http://cdn.voka.tv/live/3870-req_5k_v5.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , VHS-ка
+http://cdn.voka.tv/live/1123-req_5k_v5.m3u8
 
 
 
@@ -298,10 +313,14 @@ http://195.9.195.3:8080/hls/199417.m3u8
 https://live21.bozztv.com/giatvplayout7/ushba80/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://zsv.ucoz.net/Logo/Cartoons.png" ,Ретро Мульт
 http://195.9.195.3:8080/hls/213086.m3u8
+#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/323.png" tvg-name="2x2",2x2 HD
+http://5.35.88.99/2x2hd/index.m3u8?KinoStreamMediaApps
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/323.png" tvg-name="2x2",2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ"  tvg-logo="http://epg.one/img2/740.png" tvg-name="Карусель",Карусель (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
+#EXTINF:0 group-title="ДЕТСКИЕ"  tvg-logo="http://epg.one/img2/1332.png" ,Мульт HD
+http://5.35.88.99/mult/index.m3u8?KinoStreamMediaApps
 #EXTINF:0 group-title="ДЕТСКИЕ"  tvg-logo="http://epg.one/img2/1332.png" ,Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/tracks-v2a1/mono.ts.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ"  tvg-logo="http://epg.one/img2/1332.png" ,Мульт
@@ -334,8 +353,6 @@ http://88.216.112.114/Cartoonito/index.m3u8
 
 
 
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ"  ,4EVER MUSIC
-http://lb.wisp.cat/lb0/4EverHD/video.m3u8?token=E2qXjFx
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/15Plus.png" ,15+ MUSIC
 https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" ,NM TELEVISION
@@ -396,6 +413,8 @@ http://lb.wisp.cat/lb0/My_Hits/video.m3u8?token=E2qXjFx
 https://kino-stream.online/hls/DTRMUSIC1.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,Dmitriy-tv HD
 http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",O2TV HD
+http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,Music Box Classic
 http://lb.wisp.cat/lb0/Music_Box_Classic/video.m3u8?token=E2qXjFx
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,Music Box Sexy
