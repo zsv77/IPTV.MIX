@@ -28,7 +28,7 @@ https://cdn.ntv.ru/ntv0/playlist.m3u8
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ",НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" ,ТНТ HD
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" ,ТНТ HD (+1)
 https://livetv-app.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" ,ТНТ HD (+3)
 http://5.35.88.99/THTHD/index.m3u8?KinoStreamMediaApps
