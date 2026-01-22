@@ -173,6 +173,59 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_b5160000_sle
 
 
 
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Amedia 1 HD
+http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Amedia 2
+http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Amedia HiT HD
+http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Amedia Premium HD
+http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju+ Comedy HD
+http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju+ Megahit HD
+http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju+ Premiere HD
+http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju+ Serial HD
+http://188.225.31.197/bpk-tv/000004375/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju TV1000 HD
+http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju TV1000 Action HD
+http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju TV1000 Русское HD
+http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Кинобоевик HD
+http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Мировое Кино HD
+http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Премиум Кино HD
+http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Семейное кино HD
+http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FOX HD
+http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FlixSnip HD
+http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Hollywood
+http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Start Air HD
+http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Start World HD
+http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Киноман
+http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Любимое Кино
+http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Мосфильм. Золотая коллекция
+http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Т24
+http://188.225.31.197/bpk-tv/000000008/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,ТВ21
+http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Феникс+Кино
+http://188.225.31.197/bpk-tv/000000125/tve/index.m3u8
+
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju+ Megahit HD
 https://livetv-app.mylifeisgood.net.ru/channels/viju-megahit.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju+ Comedy HD
@@ -209,6 +262,8 @@ http://178.163.5.6:4022/udp/234.0.0.117:2000
 http://vod.tuva.ru/eurokino/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,НСТ
 http://176.118.197.101/HCT/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,НСТ
+http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНО ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Комедия
@@ -219,6 +274,8 @@ http://176.118.197.101/Retro/index.m3u8
 http://5.35.88.99/RussiaRoman/index.m3u8?KinoStreamMediaApps
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Русский Роман
 http://185.46.16.239:8000/Russkiy_roman
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Русский Роман
+http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Русский иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Дом кино
@@ -384,6 +441,8 @@ https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/play
 http://185.46.16.239:8000/National_Geographic_HD
 #EXTINF:-1 group-title="ДЕТСКИЕ" ,Тооку HD
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ" ,Смайл ТВ
+https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 
 
 
