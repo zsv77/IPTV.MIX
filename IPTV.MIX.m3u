@@ -179,13 +179,13 @@ https://livetv-app.mylifeisgood.net.ru/channels/viju-megahit.m3u8
 https://livetv-app.mylifeisgood.net.ru/channels/viju-comedy.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju+ Premiere HD
 https://livetv-app.mylifeisgood.net.ru/channels/viju-premiere.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju+ TV1000 HD
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju TV1000 HD
 https://livetv-app.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju+ Action HD
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju Action HD
 https://livetv-app.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" , viju TV1000 HD
 http://176.96.241.40/TV1000/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju TV1000 Action
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" aspect-ratio=16:9 ,viju TV1000 Action
 http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Кинопоказ
 http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
@@ -203,8 +203,6 @@ http://193.27.209.122/kinowood/index.m3u8
 http://176.118.197.125/SCI-FI/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Cinema HD
 http://176.96.241.40/Cinema/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Amedia Hit HD
-http://178.163.5.6:4022/udp/234.0.0.169:2000
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Hollywood
 http://178.163.5.6:4022/udp/234.0.0.117:2000
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Еврокино
@@ -237,17 +235,13 @@ http://193.25.8.59:8000/vremya
 https://livetv-app.mylifeisgood.net.ru/channels/kineko.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Мосфильм. Золотая коллекция HD
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Мосфильм. Золотая коллекция HD
-http://5.35.88.99/mosfilm-hd/index.m3u8?KinoStreamMediaApps
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,ДОРАМА HD
 http://193.27.209.122/dorama/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FUN HD
-http://5.35.88.99/FANHD/index.m3u8?KinoStreamMediaApps
 
 
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , Видеокассета VHS
-https://live21.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
+
+
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,VHDV TV
 https://kino-stream.online/hls/vhdvtv.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Scripach TV
@@ -318,24 +312,6 @@ http://cdn.voka.tv/live/9489-req_5k_v5.m3u8
 http://cdn.voka.tv/live/3870-req_5k_v5.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , Видеокассета VHS
 https://live21.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" , VHS-ка
-http://cdn.voka.tv/live/1123-req_5k_v5.m3u8
-#EXTINF:-1 group-title="КИНОЗАЛЫ" ,Сити Эдем — КиноМистика
-https://autopilot.catcast.tv/content/40783/index.m3u8?password=loganet
-#EXTINF:-1 group-title="КИНОЗАЛЫ" ,Сити Эдем — КиноФантастика
-https://autopilot.catcast.tv/content/45268/index.m3u8?password=loganet
-#EXTINF:-1 group-title="КИНОЗАЛЫ" ,Сити Эдем — КиноДетектив
-https://autopilot.catcast.tv/content/41327/index.m3u8?password=loganet
-#EXTINF:-1 group-title="КИНОЗАЛЫ" ,Сити Эдем — КиноЭкшен
-https://autopilot.catcast.tv/content/41333/index.m3u8?password=loganet
-#EXTINF:-1 group-title="КИНОЗАЛЫ" ,Сити Эдем — КиноДрама
-https://autopilot.catcast.tv/content/45269/index.m3u8?password=loganet
-#EXTINF:-1 group-title="КИНОЗАЛЫ" ,Сити Эдем — КиноКлассика
-https://autopilot.catcast.tv/content/34185/index.m3u8?password=loganet
-#EXTINF:-1 group-title="КИНОЗАЛЫ" ,Сити Эдем — КиноСемья
-https://autopilot.catcast.tv/content/38128/index.m3u8?password=loganet
-#EXTINF:-1 group-title="КИНОЗАЛЫ" ,Сити Эдем — ТелеНовелла
-https://autopilot.catcast.tv/content/46209/index.m3u8?password=loganet
 
 
 
@@ -412,6 +388,8 @@ http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 
 
 
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,4EVER MUSIC
+http://lb.wisp.cat/lb0/4EverHD/video.m3u8?token=E2qXjFx
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/15Plus.png" ,15+ MUSIC
 https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" ,NM TELEVISION
