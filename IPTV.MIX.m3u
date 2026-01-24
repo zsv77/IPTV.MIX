@@ -363,12 +363,10 @@ https://s.catcast.tv/content/48693/index.m3u8?token=a45a74c9e06ade029a349f0bf859
 https://kino-stream.online/hls/vhdvtv.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Scripach TV
 https://kino-stream.online/hls/scripach.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,SeleCaoTV 1
-https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,SeleCaoTV 2
-https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,SeleCaoTV 2
-https://s2.catcast.tv/content/43842/index.m3u8?token=128eb4315ba48fa5f2768a0bddc4e940
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,SeleCaoTV Фильм
+https://kino-stream.online/hls/selecaotv-film.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,SeleCaoTV Сериал
+https://kino-stream.online/hls/selecaotv-serial.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Alpha Moretime
