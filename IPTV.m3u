@@ -203,6 +203,8 @@ http://catchup.videoline.ru/asvtv/index.m3u8
 http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,43 канал (Туапсе)
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" , plan_b
+http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
 
 
 
@@ -229,8 +231,7 @@ http://178.163.2.144:4022/udp/234.0.0.248:2000
 
 
 
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,4EVER MUSIC
-http://lb.wisp.cat/lb0/4EverHD/video.m3u8?token=E2qXjFx
+
 #EXTINF:-1 group-title="МУЗЫКА" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png",NM TELEVISION
 https://autopilot.catcast.tv/content/40650/index.m3u8
 #EXTINF:0 group-title="МУЗЫКА" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png"  ,Rock TV BR
@@ -243,16 +244,7 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 https://rpn3.bozztv.com/dvrfl07/ushba-m2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="МУЗЫКА" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png",DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/MusicBox.png",Music Box Classic
-http://lb.wisp.cat/lb0/Music_Box_Classic/video.m3u8?token=E2qXjFx
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/MusicBox.png",Music Box Sexy
-http://lb.wisp.cat/lb0/MusicBox_Sexy/video.m3u8?token=E2qXjFx
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/MusicBox.png",Music Box 80`s
-http://lb.wisp.cat/lb0/Music_Box_80s_HD/video.m3u8?token=E2qXjFx
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/MusicBox.png",Music Box 90`s
-http://lb.wisp.cat/lb0/Music_Box_90s_HD/video.m3u8?token=E2qXjFx
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/MusicBox.png",Music Box 00`s
-http://lb.wisp.cat/lb0/Music_Box_00s_HD/video.m3u8?token=E2qXjFx
+
 
 
 
