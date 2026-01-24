@@ -7,11 +7,13 @@ https://s.catcast.tv/content/34816/index.m3u8?token=f9c1e18c5e460a099684c0a38e0f
 https://s.catcast.tv/content/39533/index.m3u8?token=bf1ef0799e9ea5a69a9693c7f6fd7f27
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,MALDER ВСЁ ТВ
 https://s.catcast.tv/content/43064/index.m3u8?token=31928830ea09b0eeb3dc6beff2b1c12e
+#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,KinoMix
+https://kino-stream.online/hls/kinomix.m3u8
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,SHEKELTV
 https://s2.catcast.tv/content/50319/index.m3u8?token=f31be874e62f4301fc5e923636e68c86
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Канал Disney Онлайн
 https://s.catcast.tv/content/48693/index.m3u8?token=a45a74c9e06ade029a349f0bf8591374
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,VHDV TV
+#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,LEGION TV
 https://kino-stream.online/hls/vhdvtv.m3u8
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Scripach TV
 https://kino-stream.online/hls/scripach.m3u8
@@ -19,6 +21,8 @@ https://kino-stream.online/hls/scripach.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,SeleCaoTV 2
 https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
+#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,SeleCaoTV 2
+https://s2.catcast.tv/content/43842/index.m3u8?token=128eb4315ba48fa5f2768a0bddc4e940
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Alpha Moretime
@@ -117,7 +121,7 @@ http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Семейное кино HD
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FOX HD
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FX HD
 http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FlixSnip HD
 http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
