@@ -345,6 +345,10 @@ http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 
 
 
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,СТРАХ HD
+https://s.catcast.tv/content/34816/index.m3u8?token=f9c1e18c5e460a099684c0a38e0f05e5
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,ФАНТАСТИКА HD
+https://s.catcast.tv/content/39533/index.m3u8?token=bf1ef0799e9ea5a69a9693c7f6fd7f27
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,VHDV TV
 https://kino-stream.online/hls/vhdvtv.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Scripach TV
