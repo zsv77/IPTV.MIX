@@ -339,7 +339,8 @@ http://185.46.48.18:80/asvtv/index.m3u8
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,СТРК HD
 http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
-
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,43 канал (Туапсе)
+http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 
 
 
@@ -545,10 +546,6 @@ https://video03.logicahost.com.br/tvrockhd/tvrockhd/chunklist_w1624224756.m3u8
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" ,ROCK TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" ,ROCKDAY TV
-http://hls.goodgame.ru:8080/hls/198928.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" ,Hot Rock
-https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" ,ROCK MUSIC
 https://rpn3.bozztv.com/dvrfl07/ushba-m2/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" ,Afrobeats TV
@@ -561,7 +558,7 @@ http://lb.wisp.cat/lb0/My_Hits/video.m3u8?token=E2qXjFx
 https://kino-stream.online/hls/DTRMUSIC1.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,Dmitriy-tv HD
 http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",O2TV HD
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",О2ТВ HD
 http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/MusicBox.png",Music Box Classic
 http://lb.wisp.cat/lb0/Music_Box_Classic/video.m3u8?token=E2qXjFx
