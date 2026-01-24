@@ -9,6 +9,8 @@ https://s.catcast.tv/content/39533/index.m3u8?token=bf1ef0799e9ea5a69a9693c7f6fd
 https://s.catcast.tv/content/43064/index.m3u8?token=31928830ea09b0eeb3dc6beff2b1c12e
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,SHEKELTV
 https://s2.catcast.tv/content/50319/index.m3u8?token=f31be874e62f4301fc5e923636e68c86
+#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Канал Disney Онлайн
+https://s.catcast.tv/content/48693/index.m3u8?token=a45a74c9e06ade029a349f0bf8591374
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,VHDV TV
 https://kino-stream.online/hls/vhdvtv.m3u8
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Scripach TV
