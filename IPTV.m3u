@@ -11,7 +11,7 @@ https://s.catcast.tv/content/39533/index.m3u8?token=56f60233ebbee69f1f197a5f8790
 https://s.catcast.tv/content/43064/index.m3u8?token=ae44221594b64520b6045bd582287fa0
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,KinoMix
 https://kino-stream.online/hls/kinomix.m3u8
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Канал Disney Онлайн
+#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Канал Disney Онлайн  (с 12:00)
 https://s.catcast.tv/content/48693/index.m3u8?token=a45a74c9e06ade029a349f0bf8591374
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,LEGION TV
 https://kino-stream.online/hls/vhdvtv.m3u8
@@ -55,10 +55,8 @@ https://live21.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 http://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089.m3u8
 #EXTINF:0 group-title="МашКИНО" ,Смотрим 100% Классика
 http://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338.m3u8
-#EXTINF:-1 group-title="МашКИНО" ,Детское кино International
-https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 group-title="МашКИНО" ,Кино 1 International
-http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+
+
 
 
 
@@ -76,37 +74,23 @@ http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju+ Comedy HD
 http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju+ Comedy HD
-https://livetv-app.mylifeisgood.net.ru/channels/viju-comedy.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju+ Comedy HD
 http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju+ Comedy
 http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju+ Megahit HD
 http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju+ Megahit HD
-https://livetv-app.mylifeisgood.net.ru/channels/viju-megahit.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju+ Premiere HD
 http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju+ Premiere HD
-https://livetv-app.mylifeisgood.net.ru/channels/viju-premiere.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju+ Serial HD
 http://188.225.31.197/bpk-tv/000004375/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju TV1000 HD
 http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju TV1000 HD
-https://livetv-app.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" , viju TV1000 HD
 http://176.96.241.40/TV1000/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" aspect-ratio=16:9 ,viju TV1000
-http://217.11.177.56/streams/media/tv1000_720x576/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju TV1000 Action HD
 http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju TV1000 Action HD
-https://livetv-app.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" aspect-ratio=16:9 ,viju TV1000 Action
 http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" aspect-ratio=16:9 ,viju TV1000 Action
-http://217.11.177.56/streams/media/tv1000-action_720x576/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,viju TV1000 Русское HD
 http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Viasat Kino Comedy HD
@@ -147,8 +131,8 @@ http://188.225.31.197/bpk-tv/000000125/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000520/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,.Sci-Fi
 http://188.225.31.197/bpk-tv/000000134/tve/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,.Sci-Fi
-http://176.118.197.125/SCI-FI/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОУЖАС
+http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОМИКС
 http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОМИКС
@@ -161,18 +145,20 @@ http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
 http://31.148.48.15:80/Kinopokaz/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОСЕРИЯ
 http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,НАШЕ НОВОЕ КИНО
-http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОСВИДАНИЕ
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,РОДНОЕ КИНО
+http://84.54.128.52:9090/play/a009/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,НАШЕ НОВОЕ КИНО
+http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Хит HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hit_HD
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FAN
-http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,ATV Cineman HD
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Kinowood HD
 http://193.27.209.122/kinowood/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,.SCI-FI
+http://176.118.197.125/SCI-FI/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Cinema HD
 http://176.96.241.40/Cinema/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Cinema
@@ -193,10 +179,20 @@ http://176.118.197.101/Komediya/index.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediya
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,РЕТРО
 http://176.118.197.101/Retro/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНЕКО HD
-https://livetv-app.mylifeisgood.net.ru/channels/kineko.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Дом кино
+https://streaming.thestream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Дом кино
+http://176.96.241.40/DomKino/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Дом кино
+https://flussonic.salomtv.uz/domkino/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Дом кино Премиум HD
+http://109.75.59.241:8017/Domkino/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Время
+http://193.25.8.59:8000/vremya
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,ДОРАМА HD
 http://193.27.209.122/dorama/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FAN
+http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,ТелеКафе
 https://flussonic.salomtv.uz/telekafe/video.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" , Про100 ТВ
@@ -213,12 +209,14 @@ http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" , plan_b
 http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Кино 1 International
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
 
 
 
 
-#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/323.png" tvg-name="2x2",2x2 HD
-http://155.212.131.19/2x2hd/index.m3u8?KinoStreamMediaApps
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/323.png" tvg-name="2x2",2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://zsv.ucoz.net/Logo/Cartoons.png" ,СССР Мульты
