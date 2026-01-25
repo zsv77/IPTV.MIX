@@ -394,7 +394,7 @@ https://kino-stream.online/hls/scripach.m3u8
 https://kino-stream.online/hls/selecaotv-film.m3u8
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,SeleCaoTV Сериал
 https://kino-stream.online/hls/selecaotv-serial.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,CyberTV 2
+#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,CyberTV 2
 https://live20.bozztv.com/akamaissh101/ssh101/cybertv2/chunks.m3u8
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
