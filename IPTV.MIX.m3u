@@ -326,6 +326,11 @@ https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Russkiy_detektiv
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Русский бестселлер
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rus_Bests
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",НТВ Хит
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ",НТВ Сериал
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+
 
 
 
