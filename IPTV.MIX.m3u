@@ -106,7 +106,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/2308.png" tvg-name="Москва Доверие",Москва Доверие
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
-#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="https://zsv.ucoz.net/Region67.png" tvg-name="Регион 67",Регион 67
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/Region67.png" tvg-name="Регион 67",Регион 67
 http://212.3.155.126:8181/udp/233.67.67.177:5510
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/6783.png" tvg-name="ТЕО-ТВ",ТЕО-ТВ
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
