@@ -376,12 +376,14 @@ https://homtv.ru/BOX_Sitcom_HD/video.m3u8
 
 #EXTINF:0 group-title="МашКИНО" ,КИНОУЖАС
 http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОУЖАС
+http://91.207.115.228:5000/c43
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,СТРАХ HD
-https://s.catcast.tv/content/34816/index.m3u8?token=d0f5daa3fe651fd4ad775eca90eb5923
+https://s.catcast.tv/content/34816/index.m3u8?token=4319899c4476af733dbfec989d65e10f
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,ФАНТАСТИКА HD
-https://s.catcast.tv/content/39533/index.m3u8?token=56f60233ebbee69f1f197a5f879083fc
+https://s.catcast.tv/content/39533/index.m3u8?token=993f9d0382fa99c9b72315942b2fc59e
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,MALDER ВСЁ ТВ
-https://s.catcast.tv/content/43064/index.m3u8?token=ae44221594b64520b6045bd582287fa0
+https://s.catcast.tv/content/43064/index.m3u8?token=feb1941ef151807948b23d2951f3c835
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,KinoMix
 https://kino-stream.online/hls/kinomix.m3u8
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Канал Disney (с 12:00)
@@ -394,7 +396,7 @@ https://kino-stream.online/hls/scripach.m3u8
 https://kino-stream.online/hls/selecaotv-film.m3u8
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,SeleCaoTV Сериал
 https://kino-stream.online/hls/selecaotv-serial.m3u8
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,CyberTV 2
+#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,CyberTV 2 (Not 24/7)
 https://live20.bozztv.com/akamaissh101/ssh101/cybertv2/chunks.m3u8
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
@@ -508,8 +510,10 @@ http://188.225.31.197/bpk-tv/000000520/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000134/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,.Sci-Fi
 http://176.118.197.125/SCI-FI/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОУЖАС
-http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОКОМЕДИЯ
+http://91.207.115.228:5000/c46
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОПРЕМЬЕРА
+http://91.207.115.228:5000/c42
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОМИКС
 http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОМИКС
@@ -549,15 +553,11 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediya
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,РЕТРО
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Дом кино
-https://streaming.thestream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Дом кино
 http://176.96.241.40/DomKino/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Дом кино
 https://flussonic.salomtv.uz/domkino/video.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Дом кино Премиум HD
 http://109.75.59.241:8017/Domkino/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Время
-http://193.25.8.59:8000/vremya
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,ДОРАМА HD
 http://193.27.209.122/dorama/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FAN
