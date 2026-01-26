@@ -384,14 +384,24 @@ https://s.catcast.tv/content/34816/index.m3u8?token=4319899c4476af733dbfec989d65
 https://s.catcast.tv/content/39533/index.m3u8?token=993f9d0382fa99c9b72315942b2fc59e
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,MALDER ВСЁ ТВ
 https://s.catcast.tv/content/43064/index.m3u8?token=feb1941ef151807948b23d2951f3c835
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,KinoMix
-https://kino-stream.online/hls/kinomix.m3u8
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Канал Disney (с 12:00)
-https://s.catcast.tv/content/48693/index.m3u8?token=e96c3d3a83b6079ad97283f64e744dcf
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,LEGION TV (с 17:00)
+https://s.catcast.tv/content/48693/index.m3u8?token=19d3aa827b7aaa56d8b7f4eada226ef5
+#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,LEGION TV
 https://kino-stream.online/hls/vhdvtv.m3u8
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Scripach TV
 https://kino-stream.online/hls/scripach.m3u8
+#EXTINF:0 group-title="МашКИНО" tvg-logo="https://kino-stream.online/logo/KinoMix.png" ,KinoMix
+http://217.12.38.4/kinomix/index.m3u8?KinoStreamMediaApps
+#EXTINF:0 group-title="МашКИНО" tvg-logo="https://kino-stream.online/logo/kino-vk.png" ,КИНО ВК
+http://217.12.38.4/kinovk/index.m3u8?KinoStreamMediaApps
+#EXTINF:0 group-title="МашКИНО" tvg-logo="https://kino-stream.online/logo/kino-vk2.png" ,КИНО ВК 2
+http://217.12.38.4/kinovk2/index.m3u8?KinoStreamMediaApps
+#EXTINF:0 group-title="МашКИНО" tvg-logo="https://kino-stream.online/logo/ZSMEDIA.png" ,ZSMEDIA
+http://217.12.38.4/zsmedia/index.m3u8?KinoStreamMediaApps
+#EXTINF:0 group-title="МашКИНО" tvg-logo="https://kino-stream.online/logo/kino.online.png" ,Kino.Online
+http://217.12.38.4/kino.online/index.m3u8?KinoStreamMediaApps
+#EXTINF:0 group-title="МашКИНО" tvg-logo="https://kino-stream.online/logo/beyourowndirector.png" ,Сам себе режиссёр
+http://217.12.38.4/Beyourowndirector/index.m3u8?KinoStreamMediaApps
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,SeleCaoTV Фильм
 https://kino-stream.online/hls/selecaotv-film.m3u8
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,SeleCaoTV Сериал
