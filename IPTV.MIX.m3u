@@ -172,7 +172,7 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b516000
 
 
 
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Amedia 1
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Amedia 1 HD
 http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Amedia 1
 http://91.207.115.228:5000/c55
@@ -282,6 +282,8 @@ http://91.207.115.228:5000/c60
 http://91.207.115.228:5000/c131
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Kinoliving
 http://91.207.115.228:5000/c61
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Кинеко HD
+http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Hollywood
 http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Start Air HD
@@ -296,7 +298,7 @@ http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000008/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,ТВ-21 М
 http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Феникс+Кино
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Феникс плюс Кино
 http://188.225.31.197/bpk-tv/000000125/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,.Black
 http://188.225.31.197/bpk-tv/000000520/tve/index.m3u8
@@ -342,16 +344,14 @@ http://91.207.115.228:5000/c170
 http://193.27.209.122/dorama/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FAN
 http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" , Про100 ТВ
-https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" , Kino24
-http://a0925677.xsph.ru/hls/CH_KINO24.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,СТРК HD
 http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,43 канал (Туапсе)
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Plan_b
 http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Сапфир HD
+http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Кино 1 International
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Время
@@ -361,7 +361,11 @@ http://185.46.48.18:80/asvtv/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Патриот
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Победа
+http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Победа
 http://91.207.115.228:5000/c184
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Мир Сериала
+http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Мосфильм. Золотая коллекция HD
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Мосфильм. Золотая коллекция
@@ -376,12 +380,16 @@ http://176.96.241.40/DomKino/index.m3u8
 http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Телекафе
 http://91.207.115.228:5000/c84
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Время
+http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Русский Роман
 http://91.207.115.228:5000/c32
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Русский Бестселлер
 http://91.207.115.228:5000/c34
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Русский Детектив
 http://91.207.115.228:5000/c35
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Русский иллюзион
+http://188.225.31.197/bpk-tv/000004207/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,НТВ Хит
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,НТВ Сериал
