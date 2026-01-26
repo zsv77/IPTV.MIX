@@ -230,6 +230,8 @@ http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОУЖАС
 http://91.207.115.228:5000/c43
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОУЖАС
+http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОКОМЕДИЯ
 http://91.207.115.228:5000/c46
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОПРЕМЬЕРА
@@ -262,9 +264,9 @@ http://91.207.115.228:5000/c41
 http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,ИНДИЙСКОЕ КИНО
 http://91.207.115.228:5000/c47
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОПОКАЗ
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Кинопоказ
 http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОПОКАЗ
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Кинопоказ
 http://91.207.115.228:5000/c28
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Хит HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hit_HD
@@ -280,7 +282,7 @@ http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
 http://91.207.115.228:5000/c60
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,SHOT TV
 http://91.207.115.228:5000/c131
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Kinoliving
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,KINOLIVING
 http://91.207.115.228:5000/c61
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Кинеко HD
 http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
@@ -376,7 +378,7 @@ http://91.207.115.228:5000/c29
 http://91.207.115.228:5000/c30
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Дом кино
 http://176.96.241.40/DomKino/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Дом кино Premium HD
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Дом кино Премиум HD
 http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Телекафе
 http://91.207.115.228:5000/c84
