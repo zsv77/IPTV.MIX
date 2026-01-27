@@ -379,11 +379,11 @@ http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
 #EXTINF:0 group-title="МашКИНО" ,КИНОУЖАС
 http://91.207.115.228:5000/c43
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,СТРАХ HD
-https://s.catcast.tv/content/34816/index.m3u8?token=4319899c4476af733dbfec989d65e10f
+https://s.catcast.tv/content/34816/index.m3u8?token=d9dccc84b41ee397fe7d3b91845a9384
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,ФАНТАСТИКА HD
-https://s.catcast.tv/content/39533/index.m3u8?token=993f9d0382fa99c9b72315942b2fc59e
+https://s.catcast.tv/content/39533/index.m3u8?token=8cbfd59ea0c36d65446e8402b08fac49
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,MALDER ВСЁ ТВ
-https://s.catcast.tv/content/43064/index.m3u8?token=feb1941ef151807948b23d2951f3c835
+https://s.catcast.tv/content/43064/index.m3u8?token=506d62033e41b40b5b85a39896ff5e1d
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Канал Disney (с 12:00)
 https://s.catcast.tv/content/48693/index.m3u8?token=19d3aa827b7aaa56d8b7f4eada226ef5
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,LEGION TV
@@ -450,13 +450,13 @@ http://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96
 
 
 
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Amedia 1 HD
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,А1 HD
 http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Amedia 1
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,А1
 http://91.207.115.228:5000/c55
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Amedia 2
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,А2
 http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Amedia 2
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,А2
 http://91.207.115.228:5000/c56
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Amedia Hit HD
 http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
@@ -498,13 +498,13 @@ http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
 http://91.207.115.228:5000/c37
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Viasat Kino Comedy HD
 http://ukr2.ukrainske.tv/493/video.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Кинобоевик HD
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КиноБоевик HD KZ
 http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Мировое Кино HD
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Мировое Кино HD KZ
 http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Премиум Кино HD
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Премиум Кино HD KZ
 http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Семейное кино HD
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Семейное Кино HD KZ
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОУЖАС
 http://91.207.115.228:5000/c43
@@ -576,7 +576,7 @@ http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Т24
 http://188.225.31.197/bpk-tv/000000008/tve/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,ТВ-21 М
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,ТВ-21M
 http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Феникс плюс Кино
 http://188.225.31.197/bpk-tv/000000125/tve/index.m3u8
@@ -628,7 +628,7 @@ http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,43 канал (Туапсе)
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Plan_b
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Plan B
 http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Сапфир HD
 http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
@@ -636,6 +636,8 @@ http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Время
 http://91.207.115.228:5000/c53
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Время
+http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Патриот
 http://185.46.48.18:80/asvtv/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Патриот
@@ -660,8 +662,6 @@ http://176.96.241.40/DomKino/index.m3u8
 http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Телекафе
 http://91.207.115.228:5000/c84
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Время
-http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Русский Роман
 http://91.207.115.228:5000/c32
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Русский Бестселлер
