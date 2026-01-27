@@ -398,9 +398,9 @@ http://46.173.24.241/kinovk/index.m3u8?KinoStreamMediaApps
 http://46.173.24.241/kinovk2/index.m3u8?KinoStreamMediaApps
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/ZSMedia.png" ,ZSMEDIA
 http://46.173.24.241/zsmedia/index.m3u8?KinoStreamMediaApps
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/SSR.png" ,Kino.Online
+#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/KinoOnline.png" ,Kino.Online
 http://46.173.24.241/kino.online/index.m3u8?KinoStreamMediaApps
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Сам себе режиссёр
+#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/SSR.png" ,Сам себе режиссёр
 http://46.173.24.241/Beyourowndirector/index.m3u8?KinoStreamMediaApps
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,SeleCaoTV Фильм
 https://kino-stream.online/hls/selecaotv-film.m3u8
