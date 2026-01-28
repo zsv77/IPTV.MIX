@@ -374,6 +374,8 @@ https://homtv.ru/BOX_Sitcom_HD/video.m3u8
 
 
 
+#EXTINF:0 group-title="МашКИНО" ,Disney
+http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/524/index.m3u8
 #EXTINF:0 group-title="МашКИНО" ,КИНОУЖАС
 http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
 #EXTINF:0 group-title="МашКИНО" ,КИНОУЖАС
