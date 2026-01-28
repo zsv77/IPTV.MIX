@@ -380,13 +380,13 @@ http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
 #EXTINF:0 group-title="МашКИНО" ,КИНОУЖАС
 http://91.207.115.228:5000/c43
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Srah.png" ,СТРАХ HD
-https://s.catcast.tv/content/34816/index.m3u8?token=9fd2de925be8570661ae277381b34d51
+https://s.catcast.tv/content/34816/index.m3u8?token=fa46155594815ffd911bae5752a3ef7a
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Fatastica.png" ,ФАНТАСТИКА HD
-https://s.catcast.tv/content/39533/index.m3u8?token=1581e27f1e96d6c3ab959f8da312c4f6
+https://s.catcast.tv/content/39533/index.m3u8?token=45fa7ede0b75f1ad75f99dfc55bdc5bb
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Malder.png" ,MALDER ВСЁ ТВ
-https://s.catcast.tv/content/43064/index.m3u8?token=6067e96f140388762fc7288ebd5610d2
+https://s.catcast.tv/content/43064/index.m3u8?token=5f293596249a7635c398fe91de56b4c4
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Disney.png" ,Канал Disney (с 12:00)
-https://s.catcast.tv/content/48693/index.m3u8?token=05d600d73ed6193be202c9b61a9c4423
+https://s.catcast.tv/content/48693/index.m3u8?token=cc292a140f206fed94a8f0cedf88f9a6
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/LegionTV.png" ,LEGION TV
 http://5.35.89.154/vhdvtv/index.m3u8?KinoStreamMediaApps
 #EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/ScripachTV.png" ,Scripach TV
