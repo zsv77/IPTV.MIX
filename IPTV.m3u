@@ -80,6 +80,7 @@ https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1709.m3u8
 https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1710.m3u8
 #EXTINF:-1 tvg-id="SKYHIGHLOFIHD" group-title="TEST",SKY HIGH LOFI HD
 https://homtv.ru/WVd4NVlVQnRZV2xzTG5KMQ/1711.m3u8
+
 #EXTINF:-1 tvg-id="VFSerialyTurtsii" group-title="TEST",VF Сериалы Турции
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1537.m3u8
 #EXTINF:-1 tvg-id="VFVestern" group-title="TEST",VF Вестерн
@@ -332,6 +333,7 @@ https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1663.m3u8
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1664.m3u8
 #EXTINF:-1 tvg-id="VFOdNazhdVRF" group-title="TEST",VF Однажды в России
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1665.m3u8
+
 #EXTINF:-1 tvg-id="BCUUltra4K" group-title="TEST",BCU Ultra 4K
 https://homtv.ru/BCU_Ultra_4K/video.m3u8
 #EXTINF:-1 tvg-id="BCUSSSRHD" group-title="TEST",BCU СССР HD
@@ -344,6 +346,7 @@ https://homtv.ru/BCU_Russian_HD/video.m3u8
 https://homtv.ru/BCU_RUSERIAL_HD/video.m3u8
 #EXTINF:-1 tvg-id="BCUMediaHD" group-title="TEST",BCU Media HD
 https://homtv.ru/BCUMEDIA_HD/video.m3u8
+
 #EXTINF:-1 tvg-id="BOXMusic4K" group-title="TEST",BOX Music 4K
 https://homtv.ru/BOX_Music_4K/video.m3u8
 #EXTINF:-1 tvg-id="BOXRelax4K" group-title="TEST",BOX Relax 4K
@@ -695,9 +698,8 @@ http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 http://95.66.188.74/Cartoon_Classics/index.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ",Cartoonito
 http://88.216.112.114/Cartoonito/index.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ" ,В гостях у сказки
+#EXTINF:0 group-title="ДЕТСКИЕ",В гостях у сказки
 http://178.163.2.144:4022/udp/234.0.0.248:2000
-
 
 
 
