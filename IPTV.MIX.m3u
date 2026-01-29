@@ -949,13 +949,13 @@ https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/play
 
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/15Plus.png" ,15+ MUSIC
 https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MusicTV.png" ,NM TELEVISION
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/NMMusic.png" ,NM TELEVISION
 https://tv.a21network.ru/stream/40650/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/15Plus.png" DTR MUSIC 1
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/DTRMusic1.png" ,DTR MUSIC 1
 https://kino-stream.online/hls/DTRMUSIC1.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ"  ,ТНТ MUSIC HD
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ"  tvg-logo="https://zsv.ucoz.net/Logo/FONMusic.png",FON MUSIC HD
 http://cdn-01.bonus-tv.ru/tntmusic/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,ТНТ MUSIC HD
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/FONMusic.png",FON MUSIC HD
 https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" ,TMF RUS
 https://edge1-eu-west.picarto.tv/stream/hls/golive+TMFRUS/1_0/index.m3u8
