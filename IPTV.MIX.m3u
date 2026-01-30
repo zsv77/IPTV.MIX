@@ -112,6 +112,8 @@ http://212.3.155.126:8181/udp/233.67.67.177:5510
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ" ,Еда
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
+#EXTINF:-1 group-title="ЭФИРНЫЕ" ,Еда Премиум международный
+http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1753.png"  tvg-name="НТВ Право",НТВ Право
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/2294.png"  tvg-name="БелРос",БелРос
@@ -122,6 +124,10 @@ https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 http://tv.streams.baikal-telecom.net:8080/KaleidoskopTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ" ,Культ Медиа
 http://213.108.175.226/telplushd/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ" ,Телекафе
+http://188.225.31.197/bpk-tv/000000206/tve/index.m3u8
+
+
 
 
 
