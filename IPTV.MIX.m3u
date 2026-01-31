@@ -284,6 +284,8 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediya
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,ДОРАМА HD
 http://193.27.209.122/dorama/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Bollywood HD
+http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FAN
 http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,СТРК HD
@@ -702,11 +704,11 @@ https://homtv.ru/BOX_Sitcom_HD/video.m3u8
 
 
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Srah.png" ,СТРАХ HD
-https://s.catcast.tv/content/34816/index.m3u8?token=4183a0e6a99e07ebb79b206ce197a6a0
+https://s.catcast.tv/content/34816/index.m3u8?token=3bc689cb5dbc24d5dcaa681c0d4e48df
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Fatastica.png" ,ФАНТАСТИКА HD
-https://s.catcast.tv/content/39533/index.m3u8?token=3a4264ad2b5c4a9719247a9eeb63d69e
+https://s.catcast.tv/content/39533/index.m3u8?token=95570cb72364686a1700cf43b7cae89a
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Malder.png" ,MALDER ВСЁ ТВ
-https://s.catcast.tv/content/43064/index.m3u8?token=6c6da38ebfbaf083aeb17b4a4361c47b
+https://s.catcast.tv/content/43064/index.m3u8?token=21a6fcd67bd50033fea58d7b85cb6008
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Disney.png" ,Канал Disney (с 12:00)
 https://s.catcast.tv/content/48693/index.m3u8?token=0cabd4b73d29c2192e7a8f30529d24bf
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/LegionTV.png" ,LEGION TV
@@ -725,6 +727,8 @@ http://62.217.180.158/zsmedia/index.m3u8?KinoStreamMediaApps
 http://62.217.180.158/kino.online/index.m3u8?KinoStreamMediaApps
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/SSR.png" ,Сам себе режиссёр
 http://62.217.180.158/Beyourowndirector/index.m3u8?KinoStreamMediaApps
+#EXTINF:0 group-title="КИНОЗАЛЫ" ,Новый игровой канал
+http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Selecao.png" ,SeleCaoTV Фильм
 https://kino-stream.online/hls/selecaotv-film.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Selecao.png" ,SeleCaoTV Сериал
@@ -966,7 +970,8 @@ http://178.163.5.6:4022/udp/234.0.0.111:2000
 http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" audio-track="rus", Наша тема HD
 http://live-3.otcnet.ru/nashatema/index.m3u8
-
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" ,Мужской
+http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
 
 
 
@@ -1003,8 +1008,14 @@ https://7pal.short.gy/skyspt1nz
 https://7pal.short.gy/ssportsfb
 #EXTINF:0 group-title="СПОРТИВНЫЕ" audio-track="rus", viju+ Sport
 http://45.145.32.13:20440/viasat_sport/index.m3u8?token=test
-
-
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,Удар HD
+http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,Setanta Sports 1 HD
+http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,Setanta Sports 2 HD
+http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,Trace Sport Stars HD
+http://188.225.31.197/bpk-tv/000001122/tve/index.m3u8
 
 
 
