@@ -702,7 +702,18 @@ https://homtv.ru/BOX_Franchise_HDR/video.m3u8
 https://homtv.ru/BOX_Sitcom_HD/video.m3u8
 
 
-
+#EXTINF:0 group-title="КИНОЗАЛЫ" , Эра VHS Live
+https://vsd262.okcdn.ru/hls/10781446376054.m3u8/sig/tG0apeJ5Ra0/expires/1769940528704/srcIp/178.251.216.75/urls/185.226.52.90/clientType/36/srcAg/UNKNOWN/mid/11425367541622/video.m3u8?low_latency=yes&p
+#EXTINF:0 group-title="КИНОЗАЛЫ" , Видеокассета
+https://vsd229.okcdn.ru/hls/10787037973061.m3u8/sig/DKTqGtejJhQ/expires/1769940658413/srcIp/178.251.216.75/urls/45.136.21.62/clientType/36/srcAg/UNKNOWN/mid/11387355285317/video.m3u8?low_latency=yes&p
+#EXTINF:0 group-title="КИНОЗАЛЫ" , VHS Forever
+https://vsd78.okcdn.ru/hls/10756218817074.m3u8/sig/2w0h7JQ-AOY/expires/1769940744961/srcIp/178.251.216.75/urls/185.226.52.52/clientType/36/srcAg/UNKNOWN/mid/13994051716914/video.m3u8?low_latency=yes&p
+#EXTINF:0 group-title="КИНОЗАЛЫ" , VHS кино
+https://vsd245.okcdn.ru/hls/10786671823562.m3u8/sig/EBlmWl2KtOg/expires/1769940836867/srcIp/178.251.216.75/urls/185.226.53.98/clientType/36/srcAg/UNKNOWN/mid/11553348601802/video.m3u8?low_latency=yes&p
+#EXTINF:0 group-title="КИНОЗАЛЫ" , VHS Power
+https://vsd231.okcdn.ru/hls/10857207171819.m3u8/sig/XjemWByOM7I/expires/1769940941702/srcIp/178.251.216.75/urls/185.226.52.84/clientType/36/srcAg/UNKNOWN/mid/11419427882987/video.m3u8?low_latency=yes&p
+#EXTINF:0 group-title="КИНОЗАЛЫ" , VHS-ка
+https://msk3.peers.tv/streaming/vhs_ka/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njk5NDMzMTUsImlhdCI6MTc2OTg1NjkxNSwiY2lkIjo4MSwidWlkIjo5OTQ0NjAxNTIsInJlZyI6ZmFsc2UsImlwIjozMDAyODQ5MzU1fQ.sbAbFHV6YnXQa_6gEoM7IDvAwW2fhFIwRb0sLUq4Lpk&client=81
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Srah.png" ,СТРАХ HD
 https://s.catcast.tv/content/34816/index.m3u8?token=3bc689cb5dbc24d5dcaa681c0d4e48df
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Fatastica.png" ,ФАНТАСТИКА HD
