@@ -380,69 +380,71 @@ https://homtv.ru/BOX_Sitcom_HD/video.m3u8
 
 #EXTINF:0 group-title="МашКИНО" ,КИНОУЖАС
 http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Srah.png" ,СТРАХ HD
-https://s.catcast.tv/content/34816/index.m3u8?token=3bc689cb5dbc24d5dcaa681c0d4e48df
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Fatastica.png" ,ФАНТАСТИКА HD
-https://s.catcast.tv/content/39533/index.m3u8?token=95570cb72364686a1700cf43b7cae89a
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Malder.png" ,MALDER ВСЁ ТВ
-https://s.catcast.tv/content/43064/index.m3u8?token=21a6fcd67bd50033fea58d7b85cb6008
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Disney.png" ,Канал Disney (с 12:00)
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Srah.png" ,СТРАХ HD
+https://s.catcast.tv/content/34816/index.m3u8?token=4a112b0b9d795d6e61e5e502df1d06a0
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Fatastica.png" ,ФАНТАСТИКА HD
+https://s.catcast.tv/content/39533/index.m3u8?token=a8be024082696ca0effabf597b4b23ad
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Malder.png" ,MALDER ВСЁ ТВ
+https://s.catcast.tv/content/43064/index.m3u8?token=25fdb5e8d947a456f5e41a0d3e4f99db
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Disney.png" ,Канал Disney (с 12:00)
 https://s.catcast.tv/content/48693/index.m3u8?token=a015679fa429e14347e46a04a3397ff2
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/LegionTV.png" ,LEGION TV
-http://62.217.180.158/vhdvtv/index.m3u8?KinoStreamMediaApps
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/ScripachTV.png" ,Scripach TV
-https://kino-stream.online/hls/scripach.m3u8
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/KinoMix.png" ,KinoMix
-http://62.217.180.158/kinomix/index.m3u8?KinoStreamMediaApps
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/KinoVK.png" ,КИНО ВК
-http://62.217.180.158/kinovk/index.m3u8?KinoStreamMediaApps
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/KinoVK2.png" ,КИНО ВК 2
-http://62.217.180.158/kinovk2/index.m3u8?KinoStreamMediaApps
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/ZSMedia.png" ,ZSMEDIA
-http://62.217.180.158/zsmedia/index.m3u8?KinoStreamMediaApps
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/KinoOnline.png" ,Kino.Online
-http://62.217.180.158/kino.online/index.m3u8?KinoStreamMediaApps
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/SSR.png" ,Сам себе режиссёр
-http://62.217.180.158/Beyourowndirector/index.m3u8?KinoStreamMediaApps
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Selecao.png" ,SeleCaoTV Фильм
-https://kino-stream.online/hls/selecaotv-film.m3u8
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Selecao.png" ,SeleCaoTV Сериал
-https://kino-stream.online/hls/selecaotv-serial.m3u8
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/CyberTV.png" ,CyberTV 2 (Not 24/7)
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/LegionTV.png" ,LEGION TV
+http://62.217.180.158/vhdvtv/index.m3u8?
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/ScripachTV.png" ,Scripach TV
+http://62.217.180.158/scripachtv/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/KinoMix.png" ,KinoMix
+http://62.217.180.158/kinomix/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/KinoVK.png" ,КИНО ВК
+http://62.217.180.158/kinovk/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/KinoVK2.png" ,КИНО ВК 2
+http://62.217.180.158/kinovk2/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/ZSMedia.png" ,ZSMEDIA
+http://62.217.180.158/zsmedia/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/KinoOnline.png" ,Kino.Online
+http://62.217.180.158/kino.online/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/SSR.png" ,Сам себе режиссёр
+http://62.217.180.158/Beyourowndirector/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" ,Новый игровой канал
+http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Selecao.png" ,SeleCaoTV Фильм
+http://62.217.180.158/selecaotv-film/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Selecao.png" ,SeleCaoTV Сериал
+http://62.217.180.158/selecaotv-serial/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/CyberTV.png" ,CyberTV 2 (Not 24/7)
 https://live20.bozztv.com/akamaissh101/ssh101/cybertv2/chunks.m3u8
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/ACinema.png" ,Alpha Cinema
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/ACinema.png" ,Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/AMoretime.png" ,Alpha Moretime
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/AMoretime.png" ,Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/AFunny.png" ,Alpha Funny
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/AFunny.png" ,Alpha Funny
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/BezGran.png"  ,Кино Без Границ
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/BezGran.png"  ,Кино Без Границ
 http://185.57.68.33:8091/237/playlist.m3u8
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Rvision.png"  ,RVISION TV
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Rvision.png"  ,RVISION TV
 https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Ushba.png"  ,Кинозал USHBA
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Ushba.png"  ,Кинозал USHBA
 https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/Kino.png" ,Cinemator
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Ciemator.png" ,Cinemator
 https://fl1003.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/CinemaTest.png" ,Cinema Test
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/CinemaTest.png" ,Cinema Test
 https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/FilmVizit.png" ,Film Vizit
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/FilmVizit.png" ,Film Vizit
 https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/MBTV.png"  ,MB TV
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/MBTV.png"  ,MB TV
 https://dvrfl07.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/LentaKino.png"  ,LentaKino
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/LentaKino.png"  ,LentaKino
 https://fl1001.bozztv.com/ushba-films-w/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/STR_TV.jpg"  ,STR TV
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/STR_TV.jpg"  ,STR TV
 https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/LAV-KINO.jpg" ,LAV-KINO
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/LAV-KINO.jpg" ,LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="МашКИНО" tvg-logo="http://epg.one/img2/5441.png" ,Твоё ТВ HD
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" ,Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:0 group-title="МашКИНО" tvg-logo="http://epg.one/img2/5441.png" ,Твоё ТВ HD Юмор
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="http://epg.one/img2/5441.png" ,Твоё ТВ HD Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/DTRZona1.png" ,DTR Zona 1
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/DTRZona1.png" ,DTR Zona 1
 https://kino-stream.online/hls/DTRZONA1.m3u8
-#EXTINF:0 group-title="МашКИНО" tvg-logo="https://zsv.ucoz.net/Logo/VHS.png" , Видеокассета VHS
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VHS.png" , Видеокассета VHS
 https://live21.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:0 group-title="МашКИНО" ,Смотрим 100% Детское
 http://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089.m3u8
@@ -576,6 +578,8 @@ http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Время
 http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Советское кино
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Патриот
 http://185.46.48.18:80/asvtv/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Патриот
