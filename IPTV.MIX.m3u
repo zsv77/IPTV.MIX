@@ -6,7 +6,7 @@
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/146.png" tvg-name="Первый канал",Первый канал (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
-#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/146.png" tvg-name="Первый канал",Первый канал
+#EXTINF:0 group-title="ЭФИРНЫЕ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/146.png" tvg-name="Первый канал",Первый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/711.png" tvg-id="Россия 1 HD" ,Россия 1 HD (Смоленск)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/russia1-hd/1080p.m3u8
@@ -716,10 +716,16 @@ https://s.catcast.tv/content/43064/index.m3u8?token=8ccd07f18873cc83bde62d81cf50
 https://s.catcast.tv/content/48693/index.m3u8?token=285b1cc5994b574a47bd0d2f5fb67224
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/LegionTV.png" ,LEGION TV
 http://155.212.209.23/vhdvtv/index.m3u8?
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/LegionTV.png" ,LEGION TV
+https://live20.bozztv.com/akamaissh101/ssh101/1vhdvtvstriming/playlist.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/ScripachTV.png" ,Scripach TV
 http://155.212.209.23/scripachtv/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/ScripachTV.png" ,Scripach TV
+https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/KinoMix.png" ,KinoMix
 http://155.212.209.23/kinomix/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/KinoMix.png" ,KinoMix
+http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/KinoVK.png" ,КИНО ВК
 http://155.212.209.23/kinovk/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/KinoVK2.png" ,КИНО ВК 2
@@ -736,8 +742,12 @@ http://155.212.209.23/kinowalk/index.m3u8
 http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Selecao.png" ,SeleCaoTV Фильм
 http://155.212.209.23/selecaotv-film/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Selecao.png" ,SeleCaoTV Фильм
+https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Selecao.png" ,SeleCaoTV Сериал
 http://155.212.209.23/selecaotv-serial/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Selecao.png" ,SeleCaoTV Сериал
+https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/CyberTV.png" ,CyberTV 2 (Not 24/7)
 https://live20.bozztv.com/akamaissh101/ssh101/cybertv2/chunks.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/ACinema.png" ,Alpha Cinema
