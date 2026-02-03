@@ -8,7 +8,7 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/146.png" tvg-name="Первый канал",Первый канал (+архив)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/711.png" tvg-id="Россия 1 HD" ,Россия 1 HD (Смоленск)
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/711.png" tvg-id="Россия 1 HD" Россия 1 HD (Смоленск)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/russia1-hd/1080p.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/711.png" tvg-id="Россия 1",Россия 1 (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R04_OTT_CT_SMOL_ROSSIA1/variant.m3u8
