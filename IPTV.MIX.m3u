@@ -8,16 +8,12 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/146.png" tvg-name="Первый канал",Первый канал (+архив)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/711.png" tvg-id="Россия 1 HD" Россия 1 HD (Смоленск)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/russia1-hd/1080p.m3u8
-#EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/711.png" tvg-id="Россия 1",Россия 1 (Смоленск)
-https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R04_OTT_CT_SMOL_ROSSIA1/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/711.png" tvg-name="Россия 1 HD" ,Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/711.png" tvg-id="Россия 1",Россия 1 (Смоленск)
+https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R04_OTT_CT_SMOL_ROSSIA1/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ"  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/711.png" tvg-name="Россия 1",Россия 1 (+архив)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/2547.png" tvg-name="РТР Планета",РТР Планета
-https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ HD",НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ HD",НТВ HD
@@ -26,8 +22,6 @@ https://cdn.ntv.ru/ntv0/playlist.m3u8
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ",НТВ (+архив)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" ,ТНТ HD
-http://5.35.88.99/THTHD/index.m3u8?
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ",ТНТ (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ",ТНТ (+архив)
@@ -36,8 +30,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/1649.png" tvg-name="ТНТ4",ТНТ4 (+архив)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/79.png" tvg-name="СТС",СТС HD
-http://95.66.188.74/CTC_HD/mono.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/79.png" tvg-name="СТС",СТС (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/79.png" tvg-name="СТС",СТС (+архив)
@@ -80,8 +72,6 @@ https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ"  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/304.png" tvg-name="Домашний",Домашний (+архив)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/898.png" tvg-name="Ю ТВ",Ю ТВ (Смоленск)
-https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ"  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/898.png" tvg-name="Ю ТВ",Ю ТВ (+архив)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/1003.png" tvg-name="Пятница!",Пятница! (Смоленск)
@@ -110,8 +100,6 @@ http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 http://212.3.155.126:8181/udp/233.67.67.177:5510
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/6783.png" tvg-name="ТЕО-ТВ",ТЕО-ТВ
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ" ,Еда
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
 #EXTINF:-1 group-title="ЭФИРНЫЕ" ,Еда Премиум международный
 http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1753.png"  tvg-name="НТВ Право",НТВ Право
@@ -153,8 +141,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:0 group-title="НОВОСТИ"  tvg-logo="http://epg.one/img2/2265.png" tvg-name="360° HD",360° HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:0 group-title="НОВОСТИ"  tvg-logo="http://epg.one/img2/2265.png" ,360° Международный
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8
 #EXTINF:0 group-title="НОВОСТИ" tvg-logo="http://epg.one/img2/7616.png" tvg-name="Канал 78",Канал 78
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8
 #EXTINF:0 group-title="НОВОСТИ"  tvg-logo="http://epg.one/img2/2474.png" tvg-name="Крым 24",Крым 24
@@ -224,14 +210,10 @@ http://93.170.254.17/Kinomiks/index.m3u8
 http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОСВИДАНИЕ
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,РОДНОЕ КИНО
-http://84.54.128.52:9090/play/a009/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,НАШЕ НОВОЕ КИНО
 http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Кинопоказ
 http://89.232.68.194:8080/kinopokaz/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Хит HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hit_HD
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,ATV Cineman HD
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Kinowood HD
@@ -240,8 +222,6 @@ http://193.27.209.122/kinowood/index.m3u8
 http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FlixSnip HD
 http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Кинеко HD
-http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Hollywood
 http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Start Air HD
@@ -271,19 +251,17 @@ http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Еврокино
 http://vod.tuva.ru/eurokino/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,НСТ
-http://176.118.197.101/HCT/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,НСТ
 http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНО ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Комедия
-http://176.118.197.101/Komediya/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Комедия
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediya
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,РЕТРО
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,ДОРАМА HD
 http://193.27.209.122/dorama/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Кинеко HD
+http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Сапфир HD
+http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Bollywood HD
 http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FAN
@@ -294,10 +272,6 @@ http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Plan B
 http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Сапфир HD
-http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Кино 1 International
-http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Время
 http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Советское кино
@@ -330,6 +304,8 @@ http://46.53.208.4:80/live/3870.m3u8
 http://46.53.208.4:80/live/5007.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Movie Classic
 http://46.53.208.4:80/live/3006.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Кино 1 International
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Детское кино International
