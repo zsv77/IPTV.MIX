@@ -688,6 +688,8 @@ https://homtv.ru/BOX_Sitcom_HD/video.m3u8
 
 
 
+
+
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/StrahHD2.png" ,СТРАХ HD
 https://s.catcast.tv/content/34816/index.m3u8?token=2a1011dab9d94fb0252543d70f5ee6e5
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/FantasticaHD2.png" ,ФАНТАСТИКА HD
@@ -702,7 +704,7 @@ http://kinowalk.hopto.org/timetomovie_live
 http://kinowalk.hopto.org/timetohorror_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Videoprokat.png",Video Prokat FHD
 http://kinowalk.hopto.org/video_prokat_live
-#EXTINF:0 group-title="КИНОЗАЛЫ"  tvg-logo="https://zsv.ucoz.net/Logo/VA.jpg",Video Arsenal
+#EXTINF:0 group-title="КИНОЗАЛЫ"  tvg-logo="https://zsv.ucoz.net/Logo/VArsenal.jpg",Video Arsenal
 http://kinowalk.hopto.org/videoarsenal_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/KinoJam.png",KinoJam
 http://kinowalk.hopto.org/kinojam_live
