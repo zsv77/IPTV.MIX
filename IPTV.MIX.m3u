@@ -744,9 +744,9 @@ http://kinowalk.hopto.org/kinowalk_live
 http://188.208.197.173/kinolafka/video.m3u8?token=tvon
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/KinoJelezo.png",Киножелезо
 http://188.208.197.173/kinojelezo/video.m3u8?token=tvon
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/SelecaoFilm.png" ,SeleCaoTV Фильм
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/SelecaoTVFilm.png" ,SeleCaoTV Фильм
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/SelecaoSerial.png" ,SeleCaoTV Сериал
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/SelecaoTVSerial.png" ,SeleCaoTV Сериал
 https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/CyberTV3.png" ,CyberTV 2 (Not 24/7)
 https://live20.bozztv.com/akamaissh101/ssh101/cybertv2/chunks.m3u8
