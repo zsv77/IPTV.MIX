@@ -714,6 +714,8 @@ http://kinowalk.hopto.org/dimpon_live
 http://kinowalk.hopto.org/kinolampa_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/WihailFHD.png",Wihail FHD
 http://kinowalk.hopto.org/wihail_live
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kinosezon.png",Киносезон
+http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VHSka.png",VHS-ка
 http://46.53.208.4:80/live/1123.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/MalderVseTV.png" ,MALDER ВСЁ ТВ
@@ -766,7 +768,10 @@ http://82.202.131.162/dtrzona1-sd/index.m3u8
 http://82.202.131.162/dtrzona1/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" ,Новый игровой канал
 http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" ,3х3
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/2x2old.jpg",2х2 Old
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://vsd106.okcdn.ru/hls/10982152800821.m3u8/sig/mLGVLDzZozk/expires/1770416726891/srcIp/85.198.100.140/urls/185.226.53.56/clientType/36/srcAg/CHROME/mid/11841621608245/10982152800821_high/index.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/3x3.png",3х3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://vsd158.okcdn.ru/cmaf/10915109473017/sig/csq9mDcdRcA/expires/1770377694160/srcIp/85.198.100.140/urls/185.226.55.71/clientType/36/srcAg/CHROME/mid/11363621816313/get/CPmPkeXcygIQ6AcYBjIICgYIgA8QuAg6BAjE2AJaBggDEAIoF2ICCCBXGNrZ3D1Ucg/track.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VKKinoSerial.png" ,VK Кино и Сериалы
