@@ -694,9 +694,6 @@ https://homtv.ru/BOX_Sitcom_HD/video.m3u8
 https://s.catcast.tv/content/34816/index.m3u8?token=930c882b8884b5a5aa53115799117c8e
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/FantasticaHD2.png" ,ФАНТАСТИКА HD
 https://s.catcast.tv/content/39533/index.m3u8?token=ce39b63f31555aaa51d081a44e9e7994
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/AkudjiTV.png" , Akudji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://eun13.playlist.ttvnw.net/v1/playlist/CroF6xK9l6JLfapYHvu1g8x88j1G2_1Jk1GfngXecd9hq3grA5oOo00NqYJUCIe-f_JeYVPhPQd-prr4ttc7XbUOy4y2GRGJftvGoSM6v4AGTUodH92r4hWwqCcOdg6NIhGcjQ2J8189T4XMbsuzbRVguRgsnDMJGb2qViizM1LpT4O283yaGX3MbEa_6i_hpRTbIKXn3CVRgzY98tKfA3TGxUcDvM9tMpYMJ-uNaLv3cihzx4SNSDreMTIePK6I51z6YNy06aKUgfHYYhAcMqOF3zUcuG6X14ElMHwsEYG-jJWO7uNN4ubs9rOs8NCAy9f_8hy3H1vYtACVfr2vh3rk8uuFg0Zc5JlSGz4bdPzPVDrgqsrJJRgkS1eo4yHrXH7w7wujDSWPBlzK36fko0oAs_LyZHcAq6NitTgntxLgfaqafhJPQMX8TS5joptdaqWn_NcSUQyQor8z7CGVwzm3Dj-T3qtcHpb7998l_fjoGf4pmSIPRSnUi_-Y_6NEC83UoK9dnaT6BFTdak27JZwKLMgYuTo2GWz5c4XAKdP_uMK02LCLhCY0SdRKGeyzmSOJK6nh0AYj4-rNPw5a_WvMFTDkmhnPapKQiTiF-v_1_yH_I3EKYH4qzLkBKRrSETyiaP4Ny44CHsmWqHFPQzdKHFV5Fb2BCnscNL9Ddox-DUCU2h1yGTkM-wELaQEk84ZZUdtFiI4jPSkaEOa1ZnyQzWza0f7N7KAIitO4f-gxoN8GHU4lQ_upKFqBRwB7LNxI8Ler_JfbPSMkqrqKJD8YUcaP9N_NGMmSdC6IWVVpMjJVoC6ULFvXUmzQL93s9UCSAGLlEiN2jw1LZHxue7pkQsbVPZJgp6Z2gpLxH99AvjxvGrU65sdBY7YJ7PsERzTlDtDTHj9yS5XUG3EN0-pac2S_K_7EqLGr9UsaDDnB36Mnouaf7Y1gMSABKglldS13ZXN0LTIwrw4.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kin0ZALL.png" , Kin0ZALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://liveplay.trovo.live/live/73846_116058117_116058117.flv?bizid=73846&txSecret=5018db03ac0508edf13f9aa18bb6d2eb&txTime=695e209d&_bmlj_t=ChxMeU5LQWdrTzBqNGdCZExCdjR2elNUcGIwTDg9EiRlYTNkYTA4MC0wOTJlLTQzMjUtOTU1My1jM2QyMTkwZmUxNGUaHjExNjA1ODExN18xMTYwNTgxMTdfMTc2NzE3MTYxMyCT19TKBiiP%2BMQ3Mhk3Mzg0Nl8xMTYwNTgxMTdfMTE2MDU4MTE3Qg00Ni4xMzguMTQ4LjgyShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehI4ODUwMTI2ODQ4MjUxMjIzMTmQAQQ%3D&playScene=innerSite&pvid=885012684825122319&_f_=1767189399211
@@ -865,7 +862,7 @@ https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/sledstvie.jpg" ,НТВ. Следствие вели...
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/SvoyaIgra.jpg" ,НТВ. Своя игра
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/SvoyaIgra.png" ,НТВ. Своя игра
 https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
 
 
