@@ -703,9 +703,9 @@ https://homtv.ru/BOX_Sitcom_HD/video.m3u8
 
 
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/StrahHD2.png" tvg-id="no_epg_cinema",СТРАХ HD
-https://s.catcast.tv/content/34816/index.m3u8?token=930c882b8884b5a5aa53115799117c8e
+https://s.catcast.tv/content/34816/index.m3u8?token=8e3aeedf1789b001e3f3367b14f6f70b
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/FantasticaHD2.png" tvg-id="no_epg_cinema",ФАНТАСТИКА HD
-https://s.catcast.tv/content/39533/index.m3u8?token=ce39b63f31555aaa51d081a44e9e7994
+https://s.catcast.tv/content/39533/index.m3u8?token=d426e9674a09434a4846c361182be314
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kin0ZALL.png" tvg-id="no_epg_cinema",Kin0ZALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://liveplay.trovo.live/live/73846_116058117_116058117.flv?bizid=73846&txSecret=5018db03ac0508edf13f9aa18bb6d2eb&txTime=695e209d&_bmlj_t=ChxMeU5LQWdrTzBqNGdCZExCdjR2elNUcGIwTDg9EiRlYTNkYTA4MC0wOTJlLTQzMjUtOTU1My1jM2QyMTkwZmUxNGUaHjExNjA1ODExN18xMTYwNTgxMTdfMTc2NzE3MTYxMyCT19TKBiiP%2BMQ3Mhk3Mzg0Nl8xMTYwNTgxMTdfMTE2MDU4MTE3Qg00Ni4xMzguMTQ4LjgyShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehI4ODUwMTI2ODQ4MjUxMjIzMTmQAQQ%3D&playScene=innerSite&pvid=885012684825122319&_f_=1767189399211
@@ -769,7 +769,7 @@ http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VHSka2.png",VHS-ка
 http://46.53.208.4:80/live/1123.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/MalderVseTV.png" tvg-id="no_epg_cinema",MALDER ВСЁ ТВ
-https://s.catcast.tv/content/43064/index.m3u8?token=94b51510d39d0699a02b9f9cc653c6d3
+https://s.catcast.tv/content/43064/index.m3u8?token=8452dbea7d79d00d06b0f718e68b73fd
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Legion.png" tvg-id="no_epg_cinema",LEGION TV
 https://kinescope.io/0cwN7hW1R99j4NS2NszKgJ/master.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Legion.png"tvg-id="no_epg_cinema" ,LEGION TV
@@ -812,7 +812,7 @@ http://185.57.68.33/237/mpegts
 https://live20.bozztv.com/akamaissh101/ssh101/cybertv2/chunks.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Disney2.png" tvg-id="no_epg_mult",Канал Disney Онлайн (с 12:00)
 https://s.catcast.tv/content/48693/index.m3u8?token=819c7cdaa7058577d4f9abf9a81261b7
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Disney.png" tvg-id="no_epg_mult" ,Канал Disney Онлайн
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Disney2.png" tvg-id="no_epg_mult" ,Канал Disney Онлайн
 rtmp://vkvsd162.okcdn.ru/playback/10379532053422?stkn=W1ab90cV2dhEdmVK-IgaaEfk-nZG1eYdaZv5lLd9kS7baWXq5somrsMKai84PhVZW4Z4JdRr_zQ&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/ACinema.png" tvg-id="no_epg_cinema",Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
