@@ -48,7 +48,7 @@ http://kinowalk.hopto.org/timetomovie_live
 http://kinowalk.hopto.org/timetohorror_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Videoprokat.png" tvg-id="no_epg_cinema",Video Prokat FHD
 http://kinowalk.hopto.org/video_prokat_live
-#EXTINF:0 group-title="КИНОЗАЛЫ"  tvg-logo="https://zsv.ucoz.net/Logo/VArsenal.jpg" tvg-id="no_epg_cinema",Video Arsenal
+#EXTINF:0 group-title="КИНОЗАЛЫ"  tvg-logo="https://zsv.ucoz.net/Logo/VArsenal.png" tvg-id="no_epg_cinema",Video Arsenal
 http://kinowalk.hopto.org/videoarsenal_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/KinoJam.png" tvg-id="no_epg_cinema",KinoJam
 http://kinowalk.hopto.org/kinojam_live
