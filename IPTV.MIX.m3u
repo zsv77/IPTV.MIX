@@ -694,6 +694,42 @@ https://homtv.ru/BOX_Sitcom_HD/video.m3u8
 https://s.catcast.tv/content/34816/index.m3u8?token=2a1011dab9d94fb0252543d70f5ee6e5
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/FantasticaHD2.png" ,ФАНТАСТИКА HD
 https://s.catcast.tv/content/39533/index.m3u8?token=3e5e74e062977d64a0284bb798b75527
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/AkudjiTV.png" , Akudji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://eun13.playlist.ttvnw.net/v1/playlist/CroF6xK9l6JLfapYHvu1g8x88j1G2_1Jk1GfngXecd9hq3grA5oOo00NqYJUCIe-f_JeYVPhPQd-prr4ttc7XbUOy4y2GRGJftvGoSM6v4AGTUodH92r4hWwqCcOdg6NIhGcjQ2J8189T4XMbsuzbRVguRgsnDMJGb2qViizM1LpT4O283yaGX3MbEa_6i_hpRTbIKXn3CVRgzY98tKfA3TGxUcDvM9tMpYMJ-uNaLv3cihzx4SNSDreMTIePK6I51z6YNy06aKUgfHYYhAcMqOF3zUcuG6X14ElMHwsEYG-jJWO7uNN4ubs9rOs8NCAy9f_8hy3H1vYtACVfr2vh3rk8uuFg0Zc5JlSGz4bdPzPVDrgqsrJJRgkS1eo4yHrXH7w7wujDSWPBlzK36fko0oAs_LyZHcAq6NitTgntxLgfaqafhJPQMX8TS5joptdaqWn_NcSUQyQor8z7CGVwzm3Dj-T3qtcHpb7998l_fjoGf4pmSIPRSnUi_-Y_6NEC83UoK9dnaT6BFTdak27JZwKLMgYuTo2GWz5c4XAKdP_uMK02LCLhCY0SdRKGeyzmSOJK6nh0AYj4-rNPw5a_WvMFTDkmhnPapKQiTiF-v_1_yH_I3EKYH4qzLkBKRrSETyiaP4Ny44CHsmWqHFPQzdKHFV5Fb2BCnscNL9Ddox-DUCU2h1yGTkM-wELaQEk84ZZUdtFiI4jPSkaEOa1ZnyQzWza0f7N7KAIitO4f-gxoN8GHU4lQ_upKFqBRwB7LNxI8Ler_JfbPSMkqrqKJD8YUcaP9N_NGMmSdC6IWVVpMjJVoC6ULFvXUmzQL93s9UCSAGLlEiN2jw1LZHxue7pkQsbVPZJgp6Z2gpLxH99AvjxvGrU65sdBY7YJ7PsERzTlDtDTHj9yS5XUG3EN0-pac2S_K_7EqLGr9UsaDDnB36Mnouaf7Y1gMSABKglldS13ZXN0LTIwrw4.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kin0ZALL.png" , Kin0ZALL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://liveplay.trovo.live/live/73846_116058117_116058117.flv?bizid=73846&txSecret=5018db03ac0508edf13f9aa18bb6d2eb&txTime=695e209d&_bmlj_t=ChxMeU5LQWdrTzBqNGdCZExCdjR2elNUcGIwTDg9EiRlYTNkYTA4MC0wOTJlLTQzMjUtOTU1My1jM2QyMTkwZmUxNGUaHjExNjA1ODExN18xMTYwNTgxMTdfMTc2NzE3MTYxMyCT19TKBiiP%2BMQ3Mhk3Mzg0Nl8xMTYwNTgxMTdfMTE2MDU4MTE3Qg00Ni4xMzguMTQ4LjgyShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehI4ODUwMTI2ODQ4MjUxMjIzMTmQAQQ%3D&playScene=innerSite&pvid=885012684825122319&_f_=1767189399211
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/FilmSerial.png" , Фильмы и Сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+rtmp://vkvsd171.okcdn.ru/playback/11782676949969?stkn=tdttjWMTsSN64s_v7vN4H2hnLoNqeUjmRvlzhqty-Tau9nm0G8p55sOQW7SDlnk6p9KpR81JzEkD&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/K1n0man1a.png" , K1n0man1a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+rtmp://vkvsd176.okcdn.ru/playback/9060843400063?stkn=KV0WGPPXIBbOVVy6l6W5YU70Wrv6I9tZOa9CyCjyDUwntlSO4dtIt72cgu0M-sTWTi7PFHAQj8s&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/SsR.png" , Сам себе режжисер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+rtmp://vkvsd33.okcdn.ru/playback/11074022091636?stkn=y0J1cBqm48zbr_72vP9Wq3E2iZJw064SZ7JdIned1TGL9X7fVDWGi5fftZ-RUuNYzeX1HLiznCQQ&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/RKTV.png" , ИТВ РК-ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+rtmp://vkvsd200.okcdn.ru/playback/9977142717416?stkn=DqeIp6c8c-J9J03Udx605MARw2DcPyQpTHkQ35mK69z3ZSnO65PU9KlUtPsbp8FMVkpfnUkGMvE&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/RSTV.png" , RSTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+rtmp://vkvsd177.okcdn.ru/playback/9784991296445?stkn=Bu11jviKqv8XV4jmbgsGRyXtfTi46qNmVpzNczQTttL_wt7OBO_B47D8PLo_bnF7hndvjB5NAuI&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/KinoBar.png" , KinoBar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+rtmp://vkvsd267.okcdn.ru/playback/11865043512184?stkn=p0OaO5TQj0hmPh-enAH6jwik4eAW-hSWqeUavrF42cOWe1NwiqXtzfBm7xzkYNBMGpm9hvJiH37E&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/TVSeries.png" , TV Series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+rtmp://vkvsd258.okcdn.ru/playback/4212830514154?stkn=3-5AxYkRTClGxxwNYsB-PosDfNMu_Z8wVCxKPRiA5P1eG-dXv3IyUKjRPAmaGd92HY3VjEPNPE4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/FMC.png" , FMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+rtmp://vkvsd69.okcdn.ru/playback/3780958366657?stkn=QkbWCnARWe2BdgDd2ZlIsACtDwpqkYXvX5avvzYaOvFMLx0UvcPKLeTbLVWs99SwkzSDsjYLt-I&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/nsc.png" , NSC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/OvR.png" , Однажды в России
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+rtmp://vkvsd8.okcdn.ru/playback/11366093630227?stkn=MgAPA64MXpukhks5bQPU5WKvRRjGYRiRj7OhSlsLAOHcmEwHQ8EkbeiMB0H-kdP_oYpI69_iSfmO&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/CinemaTime.png",Cinema Time FHD
 http://kinowalk.hopto.org/cinemaa_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Blockbusters.png",Blockbusters Time FHD
