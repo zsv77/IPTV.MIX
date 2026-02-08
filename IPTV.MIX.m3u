@@ -198,6 +198,8 @@ http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
 http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Viasat Kino Comedy HD
 http://ukr2.ukrainske.tv/493/video.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Viasat Kino HD
+http://cdnua03.hls.tv/524/hls/8743361621b245838bee193c9ec28322/311/stream.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КиноБоевик HD KZ
 http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Мировое Кино HD KZ
@@ -300,12 +302,16 @@ http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 http://176.96.241.40/DomKino/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Дом кино Премиум HD
 http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Дом кино Премиум HD
+http://88.135.128.20:8090/domkinopremium/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Русский иллюзион
 http://188.225.31.197/bpk-tv/000004207/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Русский роман HD
 http://62.113.110.23/RussiaRoman/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Русский роман
 http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Про любовь
+http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,НТВ Хит
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,НТВ Сериал
@@ -698,47 +704,6 @@ https://homtv.ru/BOX_Franchise_HDR/video.m3u8
 #EXTINF:-1 tvg-id="BOXSitcomHD" group-title="TEST",BOX Sitcom HD
 https://homtv.ru/BOX_Sitcom_HD/video.m3u8
 
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="TEST",Clarity4K Anime
-http://hls127.freeott.top:8080/Clarity4K_Anime/video.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="TEST",Clarity4K Asia
-http://hls127.freeott.top:8080/Clarity4K_Asia/video.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="TEST",Clarity4k Deep House
-http://hls127.freeott.top:8080/Clarity4K_Concert/video.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="TEST",Clarity4K Netflix
-http://hls127.freeott.top:8080/Clarity4K_Netflix/video.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="TEST",Clarity4K Walt Disney
-http://hls127.freeott.top:8080/Clarity4K_Walt_Disney/video.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="TEST",Clarity4K World Music
-http://hls127.freeott.top:8080/Clarity4K_World_Music/video.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="TEST",Clarity4K Боевик
-http://hls127.freeott.top:8080/Clarity4K_Boevik/video.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="TEST",Clarity4K Драмы
-http://hls127.freeott.top:8080/Clarity4K_Dramma/video.m3u8
-#EXTINF:-1 group-title="⚽ Спорт+ ᴴᴰ 🏀🥎🏒⛸🏈🏋️‍ 🏆" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Clarity4K Единоборства
-http://gr.seetv.cc/play/4611/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="TEST",Clarity4K Единоборства
-http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/video.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="TEST",Clarity4K Звериный мир
-http://hls127.freeott.top:8080/Clarity4K_Zveriniy_Mir/video.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="TEST",Clarity4K КиноФраншизы
-http://hls127.freeott.top:8080/Clarity4K_Kinofranshiza/video.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="TEST",Clarity4K Космомир
-http://hls127.freeott.top:8080/Clarity4K_Kosmomir/video.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="TEST",Clarity4K Мультимир
-http://hls127.freeott.top:8080/Clarity4K_Multmir/video.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="TEST",Clarity4K Путешествие
-http://hls127.freeott.top:8080/Clarity4K_Puteshestviya/video.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="TEST",Clarity4K Р сериалы
-http://hls127.freeott.top:8080/Clarity4K_Serial/video.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="TEST",Clarity4K Семейный
-http://hls127.freeott.top:8080/Clarity4K_Semeyniy/video.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="TEST",Clarity4K Ужасы
-http://hls127.freeott.top:8080/Clarity4K_Uzhasi/video.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="TEST",Clarity4K Фантастика
-http://hls127.freeott.top:8080/Clarity4K_Fantastic/video.m3u8
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="TEST",Clarity4K Фэнтези
-http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
-
 
 
 
@@ -809,6 +774,8 @@ http://kinowalk.hopto.org/wihail_live
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VHSka2.png",VHS-ка
 http://46.53.208.4:80/live/1123.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Videokasseta.png",Видеокассета
+https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/MalderVseTV.png" tvg-id="no_epg_cinema",MALDER ВСЁ ТВ
 https://s.catcast.tv/content/43064/index.m3u8?token=8452dbea7d79d00d06b0f718e68b73fd
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Legion.png" tvg-id="no_epg_cinema",LEGION TV
@@ -1041,6 +1008,8 @@ http://77.232.131.211/O2TV/index.m3u8
 https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",7 YOU & ME
 https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Russian MusicBox
+http://www.mitvpro.online:88/BcNOztZBZkc7vCE/vvsvmBOLrcEzKYX/567469
 
 
 
