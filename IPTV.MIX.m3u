@@ -782,7 +782,7 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_4KANAL/variant.m3u8
 #EXTGRP:РЕГИОНАЛЬНЫЕ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 http://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
-#EXTINF:-1 tvg-id="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="" tvg-logo="https://i.ibb.co/whJ98XBL/image-67.png" group-title="РЕГИОНАЛЬНЫЕ", 41 Телеканал ВТК АРГУС HD
+#EXTINF:-1 tvg-id="" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="vtk-argus" tvg-logo="https://i.ibb.co/whJ98XBL/image-67.png" group-title="РЕГИОНАЛЬНЫЕ", 41 Телеканал ВТК АРГУС HD
 #EXTGRP:РЕГИОНАЛЬНЫЕ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
@@ -2584,21 +2584,21 @@ http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Penthouse Gold
 http://185.98.209.11:81/penthouse1/index.m3u8?token=test
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" tvg-id="no_epg_xxx",PINK EROTIC 1
+#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" tvg-logo="https://epg.iptvx.one/picons/pink-ero-1-rs.png" tvg-id="no_epg_xxx",PINK EROTIC 1
 https://webtvstream.bhtelecom.ba/pink_erotic1.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" tvg-id="no_epg_xxx",PINK EROTIC 2
+#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" tvg-logo="https://epg.iptvx.one/picons/pink-ero-1-rs.png" tvg-id="no_epg_xxx",PINK EROTIC 2
 https://webtvstream.bhtelecom.ba/pink_erotic2.m3u8
 #EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+"t vg-id="no_epg_xxx",PINK EROTIC 3
 https://webtvstream.bhtelecom.ba/pink_erotic3.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" tvg-id="no_epg_xxx",PINK EROTIC 4
+#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" t vg-id="no_epg_xxx",PINK EROTIC 4
 https://webtvstream.bhtelecom.ba/pink_erotic4.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" tvg-id="no_epg_xxx",PINK EROTIC 5
+#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" t vg-id="no_epg_xxx",PINK EROTIC 5
 https://webtvstream.bhtelecom.ba/pink_erotic5.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+"tvg-id="no_epg_xxx" ,PINK EROTIC 6
+#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+"t vg-id="no_epg_xxx" ,PINK EROTIC 6
 https://webtvstream.bhtelecom.ba/pink_erotic6.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" tvg-id="no_epg_xxx",PINK EROTIC 7
+#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" t vg-id="no_epg_xxx",PINK EROTIC 7
 https://webtvstream.bhtelecom.ba/pink_erotic7.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" tvg-id="no_epg_xxx",PINK EROTIC 8
+#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" t vg-id="no_epg_xxx",PINK EROTIC 8
 https://webtvstream.bhtelecom.ba/pink_erotic8.m3u8
 #EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" tvg-id="no_epg_xxx" tvg-logo="https://zsv.ucoz.net/Logo/mycamtv.png",Rough
 http://cdn.adultiptv.net/rough.m3u8
