@@ -23,7 +23,7 @@ https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/162.png" tvg-name="НТВ",НТВ (+архив)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ",ТНТ HD
-http://5.35.95.65/THTHD/index.m3u8
+http://45.12.72.121/THTHD/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ",ТНТ (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ",ТНТ (+архив)
@@ -31,7 +31,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ International",ТНТ International (Европа)
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1649.png" tvg-name="ТНТ4",ТНТ4 HD
-http://5.35.95.65/THT4HD/index.m3u8
+http://45.12.72.121/THT4HD/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/1649.png" tvg-name="ТНТ4",ТНТ4 (+архив)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/79.png" tvg-name="СТС",СТС (Смоленск)
@@ -79,7 +79,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ"  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/898.png" tvg-name="Ю ТВ",Ю ТВ (+архив)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/1003.png" tvg-name="Пятница!",Пятница! HD
-http://5.35.95.65/friday/index.m3u8
+http://45.12.72.121/friday/index.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/1003.png" tvg-name="Пятница!",Пятница! (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"  tvg-logo="http://epg.one/img2/1003.png" tvg-name="Пятница!",Пятница! (+архив)
@@ -295,7 +295,7 @@ http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Мосфильм. Золотая коллекция HD
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Мосфильм. Золотая коллекция HD
-http://5.35.95.65/mosfilm-hd/index.m3u8
+http://45.12.72.121/mosfilm-hd/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Мосфильм. Золотая коллекция
 http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Дом кино
@@ -307,7 +307,7 @@ http://88.135.128.20:8090/domkinopremium/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Русский иллюзион
 http://188.225.31.197/bpk-tv/000004207/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Русский роман HD
-http://5.35.95.65/RussiaRoman/index.m3u8
+http://45.12.72.121/RussiaRoman/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Русский роман
 http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/pro-lyubov.png",Про любовь
@@ -401,21 +401,21 @@ https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/MalderVseTV.png" tvg-id="no_epg_cinema",MALDER ВСЁ ТВ
 https://s.catcast.tv/content/43064/index.m3u8?token=8452dbea7d79d00d06b0f718e68b73fd
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Legion.png"tvg-id="no_epg_cinema" ,LEGION TV
-http://5.35.95.65/vhdvtv/index.m3u8
+http://45.12.72.121/vhdvtv/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Scripach.png" tvg-id="no_epg_cinema",Scripach TV
-http://5.35.95.65/scripachtv/index.m3u8
+http://45.12.72.121/scripachtv/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Scripach.png" tvg-id="no_epg_cinema",Scripach TV
 http://kinowalk.hopto.org/scripachtv_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/KinoMix2.png" tvg-id="no_epg_cinema",KinoMix
 http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/KinoVK.png" tvg-id="no_epg_cinema",КИНО ВК
-http://5.35.95.65/kinovk/index.m3u8
+http://45.12.72.121/kinovk/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/KinoVK2.png" tvg-id="no_epg_cinema",КИНО ВК 2
-http://5.35.95.65/kinovk2/index.m3u8
+http://45.12.72.121/kinovk2/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/KinoOnline2.png" tvg-id="no_epg_cinema",Kino.Online
-http://5.35.95.65/kino.online/index.m3u8
+http://45.12.72.121/kino.online/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/KinoWalk.png" tvg-id="no_epg_cinema",Kino Walk
-http://5.35.95.65/kinowalk/index.m3u8
+http://45.12.72.121/kinowalk/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/KinoWalk.png" tvg-id="no_epg_cinema",Kino Walk
 http://kinowalk.hopto.org/kinowalk_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kinolaffka.png" tvg-id="no_epg_cinema",Кинолаффка
@@ -447,9 +447,9 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/TvoeTV.png" ,Твоё ТВ HD Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/DTRZon1.jpg" ,DTR Zona 1 SD
-http://5.35.95.65/dtrzona1-sd/index.m3u8
+http://45.12.72.121/dtrzona1-sd/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/DTRZon1.jpg" ,DTR Zona 1 HD
-http://5.35.95.65/dtrzona1/index.m3u8
+http://45.12.72.121/dtrzona1/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/NIKtv.png",Новый игровой канал
 http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/VKKinoSerial.png" tvg-id="no_epg_cinema",VK Кино и Сериалы
@@ -532,7 +532,7 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://zsv.ucoz.net/Logo/NuPogodi.png" tvg-id="no_epg_mult",Ну, погоди!
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/323.png" tvg-name="2x2",2x2 HD
-http://5.35.95.65/2x2hd/index.m3u8
+http://45.12.72.121/2x2hd/index.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/323.png" tvg-name="2x2",2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ"  tvg-logo="http://epg.one/img2/740.png" tvg-name="Карусель",Карусель (Смоленск)
