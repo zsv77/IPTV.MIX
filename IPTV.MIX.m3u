@@ -567,7 +567,8 @@ http://46.53.208.4:80/live/157.m3u8
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" ,Советские мультфильмы
 http://46.53.208.4:80/live/3007.m3u8
-
+#EXTINF:0 group-title="ДЕТСКИЕ" ,Уникум
+http://185.46.16.239:8000/Detskiy
 
 
 
@@ -2668,3 +2669,304 @@ https://s3.ebacdn.net/videos_ssd1/pornhub/67ee54a190b8d/pornhub_67ee54a190b8d.mp
 #EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" tvg-logo="https://zsv.ucoz.net/Logo/phub.png",PornHub  24
 https://s4.ebacdn.net/videos_ssd1/pornhub/680f40a25819a/pornhub_680f40a25819a.mp4
 
+
+
+
+
+#EXTINF:-1 tvg-id="4937" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/610/1.1",Любимое HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4937
+#EXTINF:-1 tvg-id="4853" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/505/1.1",Индия
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4853
+#EXTINF:-1 tvg-id="4730" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/487/1.1",Bollywood HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4730
+#EXTINF:-1 tvg-id="3209" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/83/2.2",Индийское кино
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=3209
+#EXTINF:-1 tvg-id="3301" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/127/2.2",Киномикс
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=3301
+#EXTINF:-1 tvg-id="4883" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/530/1.1",Киносерия
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4883
+#EXTINF:-1 tvg-id="5089" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/829/2.2",Кинохит HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5089
+#EXTINF:-1 tvg-id="3208" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/394/2.2",Родное кино
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=3208
+#EXTINF:-1 tvg-id="4966" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/659/2.2",Киноужас HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4966
+#EXTINF:-1 tvg-id="5088" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/49/1.1",Киносемья HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5088
+#EXTINF:-1 tvg-id="5090" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/84/2.2",Кинокомедия HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5090
+#EXTINF:-1 tvg-id="5087" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/47/2.2",Киносвидание HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5087
+#EXTINF:-1 tvg-id="3374" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/99/2.2",Мужское Кино HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=3374
+#EXTINF:-1 tvg-id="3791" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/121/2.2",Кинопремьера HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=3791
+#EXTINF:-1 tvg-id="3794" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/391/1.1",НСТ
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=3794
+#EXTINF:-1 tvg-id="4920" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/580/1.1",A1 HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4920
+#EXTINF:-1 tvg-id="4927" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/587/1.1",A2 HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4927
+#EXTINF:-1 tvg-id="3186" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/243/1.1",viju TV1000
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=3186
+#EXTINF:-1 tvg-id="3720" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/91/1.1",Иллюзион+
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=3720
+#EXTINF:-1 tvg-id="4053" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/110/1.1",Кинопоказ
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4053
+#EXTINF:-1 tvg-id="5057" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/640/2.2",Cinema HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5057
+#EXTINF:-1 tvg-id="3207" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/278/1.1",viju TV1000 action
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=3207
+#EXTINF:-1 tvg-id="5092" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/833/2.2",Мир сериала HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5092
+#EXTINF:-1 tvg-id="4923" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/77/1.1",viju TV1000 русское
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4923
+#EXTINF:-1 tvg-id="4921" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/581/1.1",Hit HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4921
+#EXTINF:-1 tvg-id="4892" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/554/1.1",FOX HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4892
+#EXTINF:-1 tvg-id="4116" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/118/1.1",ЕвроКино
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4116
+#EXTINF:-1 tvg-id="3188" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/15/1.1",Дом Кино
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=3188
+#EXTINF:-1 tvg-id="3718" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/142/1.1",Premium HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=3718
+#EXTINF:-1 tvg-id="4962" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/651/1.1",viju+ Serial HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4962
+#EXTINF:-1 tvg-id="4051" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/436/1.1",viju+ Megahit
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4051
+#EXTINF:-1 tvg-id="4111" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/583/1.1",viju+ Comedy
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4111
+#EXTINF:-1 tvg-id="4117" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/437/1.1",viju+ Premiere HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4117
+#EXTINF:-1 tvg-id="4922" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/582/1.1",Comedy Central
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4922
+#EXTINF:-1 tvg-id="4969" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/667/1.1",Победа
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4969
+#EXTINF:-1 tvg-id="4968" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/661/1.1",Мосфильм
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4968
+#EXTINF:-1 tvg-id="4941" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/613/1.1",Fox Life HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4941
+#EXTINF:-1 tvg-id="4965" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/657/1.1",Камеди HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4965
+#EXTINF:-1 tvg-id="4917" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/576/1.1",Кино ТВ HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4917
+#EXTINF:-1 tvg-id="4589" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/575/1.1",Hollywood HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4589
+#EXTINF:-1 tvg-id="4963" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/653/1.1",Блокбастер HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4963
+#EXTINF:-1 tvg-id="4860" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/573/1.1",Комедийное HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4860
+#EXTINF:-1 tvg-id="4961" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/649/1.1",Шокирующее HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4961
+#EXTINF:-1 tvg-id="4748" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/266/1.1",Остросюжетное HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4748
+#EXTINF:-1 tvg-id="4970" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/276/1.1",Наше HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4970
+#EXTINF:-1 tvg-id="4122" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/486/1.1",Наш Детектив
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4122
+#EXTINF:-1 tvg-id="3792" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/78/1.1",Наше новое кино
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=3792
+#EXTINF:-1 tvg-id="4971" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/665/1.1",Наше Мужское HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4971
+#EXTINF:-1 tvg-id="4967" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/663/1.1",Наш Кинопоказ HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4967
+#EXTINF:-1 tvg-id="4729" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/480/1.1",Наш Кинороман HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4729
+#EXTINF:-1 tvg-id="4612" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/158/1.1",Русский роман HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4612
+#EXTINF:-1 tvg-id="3184" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/68/1.1",Русский Иллюзион
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=3184
+#EXTINF:-1 tvg-id="4115" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/152/1.1",Русский бестселлер
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4115
+#EXTINF:-1 tvg-id="4964" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/655/1.1",Дом кино премиум HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4964
+#EXTINF:-1 tvg-id="4972" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/671/1.1",Хит HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4972
+#EXTINF:-1 tvg-id="4918" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/911/1.1",.red HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4918
+#EXTINF:-1 tvg-id="5055" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/892/1.1",.black HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5055
+#EXTINF:-1 tvg-id="5017" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/711/1.1",Plan B HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5017
+#EXTINF:-1 tvg-id="5066" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/788/1.1",Flix Snip HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5066
+#EXTINF:-1 tvg-id="5067" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/789/1.1",KinoJam 1 HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5067
+#EXTINF:-1 tvg-id="5068" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/790/1.1",KinoJam 2 HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5068
+#EXTINF:-1 tvg-id="4973" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/669/1.1",Про Любовь HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4973
+#EXTINF:-1 tvg-id="4988" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/688/1.1",Премиальное HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=4988
+#EXTINF:-1 tvg-id="5078" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/801/1.1",Shot TV
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5078
+#EXTINF:-1 tvg-id="5064" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/786/1.1",FAN HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5064
+#EXTINF:-1 tvg-id="5081" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/804/1.1",Start Air
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5081
+#EXTINF:-1 tvg-id="5073" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/910/1.1",.sci-fi HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5073
+#EXTINF:-1 tvg-id="5086" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/826/1.1",Киноман
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5086
+#EXTINF:-1 tvg-id="5085" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/825/1.1",Кинеко HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5085
+#EXTINF:-1 tvg-id="5074" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/795/1.1",Scream HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5074
+#EXTINF:-1 tvg-id="5082" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/805/1.1",Start World
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5082
+#EXTINF:-1 tvg-id="5080" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/803/1.1",Star Family HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5080
+#EXTINF:-1 tvg-id="5079" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/574/1.1",Star Cinema HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5079
+#EXTINF:-1 tvg-id="5162" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/942/1.1",BCU Premiere 1 HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5162
+#EXTINF:-1 tvg-id="5163" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/943/1.1",BCU Premiere 2 HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5163
+#EXTINF:-1 tvg-id="5165" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/944/1.1",BCU Premiere 3 HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5165
+#EXTINF:-1 tvg-id="5167" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/946/1.1",BCU CCCP HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5167
+#EXTINF:-1 tvg-id="5168" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/947/1.1",BCU Action HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5168
+#EXTINF:-1 tvg-id="5169" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/948/1.1",BCU Catastrophe HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5169
+#EXTINF:-1 tvg-id="5171" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/950/1.1",BCU Fantastic HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5171
+#EXTINF:-1 tvg-id="5172" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/951/1.1",BCU FilMystic HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5172
+#EXTINF:-1 tvg-id="5173" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/952/1.1",BCU History HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5173
+#EXTINF:-1 tvg-id="5175" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/953/1.1",BCU Premiere HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5175
+#EXTINF:-1 tvg-id="5177" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/955/1.1",BCU Stars HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5177
+#EXTINF:-1 tvg-id="5180" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/958/1.1",BCU RUSERIAL HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5180
+#EXTINF:-1 tvg-id="5181" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/959/1.1",BCU Сваты HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5181
+#EXTINF:-1 tvg-id="5182" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/960/1.1",BCU Criminal HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5182
+#EXTINF:-1 tvg-id="5183" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/961/1.1",BCU Cinema HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5183
+#EXTINF:-1 tvg-id="5184" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/962/1.1",BCU Kinorating HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5184
+#EXTINF:-1 tvg-id="5237" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1055/1.1",BCU Cosmo HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5237
+#EXTINF:-1 tvg-id="5224" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1029/1.1",DIZI
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5224
+#EXTINF:-1 tvg-id="5232" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1045/1.1",Сапфир HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5232
+#EXTINF:-1 tvg-id="5231" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1043/1.1",Душевное HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5231
+#EXTINF:-1 tvg-id="5233" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1047/1.1",Романтичное HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5233
+#EXTINF:-1 tvg-id="5166" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/945/1.1",BCU Мультсериал HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5166
+#EXTINF:-1 tvg-id="5186" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/964/1.1",BCU Little HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5186
+#EXTINF:-1 tvg-id="5187" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/965/1.1",BCU Kids HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5187
+#EXTINF:-1 tvg-id="5188" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/966/1.1",BCU Kids+ HD
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5188
+#EXTINF:-1 tvg-id="5189" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/967/1.1",BCU Kids 4K
+#EXTGRP:LAMRO
+http://tv.lamro.workers.dev/?ID=5189
