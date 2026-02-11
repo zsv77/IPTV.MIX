@@ -324,19 +324,18 @@ https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Кино 1 International
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/TehLetTv.png",ТЕХ ЛЕТ ТВ
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/TehLetTv.png",ТЕХ ЛЕТ ТВ
 http://46.53.208.4:80/live/9489.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Cinema Космос ТВ
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/CinemaKosmos.png",Cinema Космос ТВ
 http://46.53.208.4:80/live/3870.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-id="sovkino",Советское кино
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/sovkino.png" tvg-id="sovkino",Советское кино
 http://46.53.208.4:80/live/3018.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Муви ТВ
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/muvitv.png",Муви ТВ
 http://46.53.208.4:80/live/5007.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-id="klassika-kino",Movie Classic
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/klassika-kino.png" ,Movie Classic
 http://46.53.208.4:80/live/3006.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/Kinosezon.png",Киносезон
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/kinosezon2.png",Киносезон
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
-
 
 
 
