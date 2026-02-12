@@ -3550,3 +3550,68 @@ http://tv.lamro.workers.dev/?ID=5231
 #EXTINF:-1 tvg-id="5233" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1047/1.1",Романтичное HD
 #EXTGRP:LAMRO
 http://tv.lamro.workers.dev/?ID=5233
+
+
+
+
+
+#EXTINF:-1 ,Clarity4K Asia
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Asia/video.m3u8
+#EXTINF:-1 ,Clarity4K Фантастика
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/video.m3u8
+#EXTINF:-1 ,Clarity4K Netflix
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Netflix/video.m3u8
+#EXTINF:-1 ,Clarity4K Боевик
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Boevik/video.m3u8
+#EXTINF:-1 ,Clarity4K Драмы
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Dramma/video.m3u8
+#EXTINF:-1 ,Clarity4K КиноФраншизы
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Kinofranshiza/video.m3u8
+#EXTINF:-1 ,Clarity4K Приключения
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Priklucheniya/video.m3u8
+#EXTINF:-1 ,Clarity4K Семейный
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Semeyniy/video.m3u8
+#EXTINF:-1 ,Clarity4K Русские сериалы
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Serial/video.m3u8
+#EXTINF:-1 ,Clarity4K Ужасы
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Uzhasi/video.m3u8
+#EXTINF:-1 ,Clarity4K Фэнтези
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
+#EXTINF:-1 ,Clarity4K Anime
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Anime/video.m3u8
+#EXTINF:-1 ,Clarity4k Deep House
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Concert/video.m3u8
+#EXTINF:-1 ,Clarity4K Walt Disney
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Walt_Disney/video.m3u8
+#EXTINF:-1 ,Clarity4K World Music 
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_World_Music/video.m3u8
+#EXTINF:-1 ,Clarity4K Единоборства
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/video.m3u8
+#EXTINF:-1 ,Clarity4K Звериный мир
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Zveriniy_Mir/video.m3u8
+#EXTINF:-1 ,Clarity4K Космомир
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Kosmomir/video.m3u8
+#EXTINF:-1 ,Clarity4K Мультимир
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Multmir/video.m3u8
+#EXTINF:-1 ,Clarity4K Путешествие
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Puteshestviya/video.m3u8
