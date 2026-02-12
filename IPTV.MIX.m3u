@@ -4,6 +4,8 @@
 
 #EXTINF:0 group-title="ЭФИРНЫЕ"   tvg-logo="http://epg.one/img2/983.png" tvg-name="Первый канал HD",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:0 group-title="ЭФИРНЫЕ"   tvg-logo="http://epg.one/img2/983.png" tvg-name="Первый канал HD",Первый канал HD
+http://tv.padarok.workers.dev/?ID=527
 #EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/146.png" tvg-name="Первый канал",Первый канал (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/146.png" tvg-name="Первый канал",Первый канал (+архив)
