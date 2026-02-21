@@ -731,7 +731,7 @@ http://188.225.31.197/bpk-tv/000001122/tve/index.m3u8
 
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" 
-tvg-logo="https://zsv.ucoz.net/Logo2/1Resp.png" group-title="РЕГИОНАЛЬНЫЕ", tvg-name="Кабардино-Балкария",1КБР (Нальчик)
+ group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Кабардино-Балкария",1КБР (Нальчик)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
 http://rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_NALCH_KBR/variant.m3u8
 
