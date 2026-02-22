@@ -167,6 +167,8 @@ https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 https://simf.1tvcrimea.ru/simferopol24.m3u8
 #EXTINF:0 group-title="НОВОСТИ" tvg-logo="https://epg.iptvx.one/picons/legendarny24.png",Легендарный 24
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+#EXTINF:-1 group-title="НОВОСТИ" tvg-logo="https://epg.iptvx.one/picons/ewpatorya24.png", Евпатория 24
+http://195.26.83.96:7029/play/a009
 #EXTINF:0 group-title="НОВОСТИ"  tvg-logo="http://epg.one/img2/743.png" tvg-name="РБК HD",РБК HD
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:0  group-title="НОВОСТИ" tvg-logo="https://zsv.ucoz.net/Logo2/OSN.png",Общественная служба новостей
@@ -730,1432 +732,928 @@ http://188.225.31.197/bpk-tv/000001122/tve/index.m3u8
 
 
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" 
- group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Кабардино-Балкария",1КБР (Нальчик)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
-http://rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_NALCH_KBR/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://zsv.ucoz.net/Logo2/1Resp.png" group-title="РЕГИОНАЛЬНЫЕ", 1 Республиканский ДНР
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"  
 group-title="РЕГИОНАЛЬНЫЕ" tvg-id="10kanal-novokuzneck",10 канал (Новокузнецк)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
 http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_DESYATKA/variant.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"  group-title="РЕГИОНАЛЬНЫЕ" tvg-logo="https://epg.iptvx.one/picons/10-rentv.png" tvg-id="10-rentv",10 канал (Саранск)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
 https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_10CHENAL/variant.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Наш дом" tvg-logo="http://epg.one/img2/88053.png",11 канал. Экспресс (Пенза)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="РЕГИОНАЛЬНЫЕ" tvg-name="Наш дом" tvg-logo="https://epg.iptvx.one/picons/nash-dom.png",11 канал. Экспресс (Пенза)
 https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/12Cherepovec.jpg" group-title="РЕГИОНАЛЬНЫЕ", 12 Канал (Череповец)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
 https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
 
 #EXTINF:-1 tvg-id="12-omsk" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="12 канал (Омск)" tvg-logo="https://epg.iptvx.one/picons/12-omsk.png" group-title="РЕГИОНАЛЬНЫЕ", 12 канал (Омск)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/25-region-vladik.png" group-title="РЕГИОНАЛЬНЫЕ", 25 регион (Владивосток)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_25REGION/variant.m3u8
 
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="31 канал (Челябинск)" tvg-id="31-kanal-chelyabinsk" tvg-logo="https://epg.iptvx.one/picons/31-kanal-chelyabinsk.png" group-title="РЕГИОНАЛЬНЫЕ", 31 канал (Челябинск)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
 
 #EXTINF:-1 tvg-name="360° (Армавир)" tvg-logo="http://epg.one/img2/2265.png" group-title="РЕГИОНАЛЬНЫЕ", 360° (Армавир)
 http://85.172.79.221:36037/live/360/playlist_360.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/2265.png" group-title="РЕГИОНАЛЬНЫЕ", 360° (Братск)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_BRATSK360/variant.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/2265.png" group-title="РЕГИОНАЛЬНЫЕ", 360° (Златоуст)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_ZLATTV/variant.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/2265.png" group-title="РЕГИОНАЛЬНЫЕ", 360° (Киселёвск)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
 https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R03_KISEL_TV/variant.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/2265.png" group-title="РЕГИОНАЛЬНЫЕ", 360° (Югра)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_PERVIYSOVETSKIY/variant.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://i115.fastpic.org/big/2021/0824/cf/4e6d2de87a076b227902d34558b21ecf.png" group-title="РЕГИОНАЛЬНЫЕ", 4 канал (Екатеринбург)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/4kanal-piatnica.png" group-title="РЕГИОНАЛЬНЫЕ", 4 канал (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_4KANAL/variant.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://i115.fastpic.org/big/2021/0824/53/c663e538d05d1e7a84ba7e4d253b6f53.png" group-title="РЕГИОНАЛЬНЫЕ", 41 Регион (Камчатка)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
 http://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="vtk-argus" tvg-logo="http://i115.fastpic.org/big/2021/0824/34/9d2c95ec191f22c932f468babfc3ee34.png" group-title="РЕГИОНАЛЬНЫЕ", 41 Телеканал ВТК АРГУС
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="vtk-argus" tvg-logo="https://zsv.ucoz.net/Logo2/vtk-argus.png" group-title="РЕГИОНАЛЬНЫЕ", 41 Телеканал ВТК АРГУС
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
 
-#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0824/07/e9b65a26f2252c588d355ac584d49e07.png" group-title="РЕГИОНАЛЬНЫЕ", 43 канал (Туапсе)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-logo="https://zsv.ucoz.net/Logo2/43tuapse.png" group-title="РЕГИОНАЛЬНЫЕ", 43 канал (Туапсе)
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Губерния Самара" tvg-logo="https://i.ibb.co/8Dj7m4SB/image-9.png" group-title="РЕГИОНАЛЬНЫЕ", 450
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Губерния Самара" tvg-logo="https://epg.iptvx.one/picons/gubernia-samara.png" group-title="РЕГИОНАЛЬНЫЕ", 450
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_GUBERNIA/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/WvtqZ95L/image-23.png" group-title="РЕГИОНАЛЬНЫЕ", 6 канал (Владимир)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/5-taganrog.png" group-title="РЕГИОНАЛЬНЫЕ", 5 канал (Таганрог)
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R06_TAGANROG5/variant.m3u8
+
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/6kanal-vlad.png" group-title="РЕГИОНАЛЬНЫЕ", 6 канал Владимир
 https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_6KANAL/variant.m3u8
-#EXTINF:-1 tvg-id="6tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="6 ТВ" tvg-logo="https://i.postimg.cc/QNvx1KHM/image-4.png" group-title="РЕГИОНАЛЬНЫЕ", 6 ТВ (Хабаровск)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="6tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="6 ТВ" tvg-logo="https://epg.iptvx.one/picons/6tv.png" group-title="РЕГИОНАЛЬНЫЕ", 6 ТВ (Хабаровск)
 https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
-#EXTINF:-1 tvg-id="7kanal-krasnoyarsk" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="7 канал Красноярск" tvg-logo="https://i.postimg.cc/jSZp6BZ3/image-9.png" group-title="РЕГИОНАЛЬНЫЕ", 7 канал Красноярск
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="7kanal-krasnoyarsk" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="7 канал Красноярск" tvg-logo="https://zsv.ucoz.net/Logo2/7kanal-krasnoyarsk.png" group-title="РЕГИОНАЛЬНЫЕ", 7 канал Красноярск
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.postimg.cc/DyYQqg1P/image-12.png" group-title="РЕГИОНАЛЬНЫЕ", 7 канал (Нефтеюганск)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/7Neft.png" group-title="РЕГИОНАЛЬНЫЕ", 7 канал (Нефтеюганск)
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R02_OTT_TNR7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/KTwm6Pd/image-37.png" group-title="РЕГИОНАЛЬНЫЕ", 78
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/7616.png" group-title="РЕГИОНАЛЬНЫЕ", Канал 78
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/hF7T67sG/image-4.png" group-title="РЕГИОНАЛЬНЫЕ", 7 TV
 
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/7tv.png" group-title="РЕГИОНАЛЬНЫЕ", 7 TV
 http://v4.proofix.ru/7tv-live/index.m3u8
-#EXTINF:-1 tvg-id="8vladik" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="8 канал (Владивосток)" tvg-logo="https://i.ibb.co/Cp07DBGS/image-14.png" group-title="РЕГИОНАЛЬНЫЕ", 8 канал (Владивосток)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="8vladik" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="8 канал (Владивосток)" tvg-logo="https://epg.iptvx.one/picons/8vladik.png" group-title="РЕГИОНАЛЬНЫЕ", 8 канал (Владивосток)
 https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
-#EXTINF:-1 tvg-id="8kanal-krasnoyarsk" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="8 канал (Красноярский край)" tvg-logo="https://i.ibb.co/JWTykmVc/image-16.png" group-title="РЕГИОНАЛЬНЫЕ", 8 канал (Красноярский край)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="8kanal-krasnoyarsk" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="8 канал (Красноярский край)" tvg-logo="https://epg.iptvx.one/picons/8kanal-novosibirsk.png" group-title="РЕГИОНАЛЬНЫЕ", 8 канал (Красноярский край)
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
-#EXTINF:-1 tvg-id="8kanal-novosibirsk" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="8 канал (Новосибирск)" tvg-logo="https://i.ibb.co/0WRSnNM/image-15.png" group-title="РЕГИОНАЛЬНЫЕ", 8 канал (Новосибирск)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="8kanal-novosibirsk" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="8 канал (Новосибирск)" tvg-logo="https://epg.iptvx.one/picons/8kanal-novosibirsk.png" group-title="РЕГИОНАЛЬНЫЕ", 8 канал (Новосибирск)
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/nM57Nb2F/image-17.png" group-title="РЕГИОНАЛЬНЫЕ", 86 Канал (Сургут)
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/86surgut.png" group-title="РЕГИОНАЛЬНЫЕ", 86 Канал (Сургут)
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TELEKANAL86/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/pCNHRGk/image-19.png" group-title="РЕГИОНАЛЬНЫЕ", Next TV (Нефтекамск)
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/NextTV.png" group-title="РЕГИОНАЛЬНЫЕ", Next TV (Нефтекамск)
 http://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nq6C6KJK/image-15.png" group-title="РЕГИОНАЛЬНЫЕ", News Front TV
 
+#EXTINF:-1 tvg-logo="https://zsv.ucoz.net/Logo2/NewsFront.png" group-title="РЕГИОНАЛЬНЫЕ", News Front TV
 https://tv.2kita.com/stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jZ6WhFkT/image-16.png" group-title="РЕГИОНАЛЬНЫЕ", OVAA TV
 
+#EXTINF:-1 tvg-logo="https://zsv.ucoz.net/Logo2/ovva.png" group-title="РЕГИОНАЛЬНЫЕ", OVAA TV
 http://vod.tuva.ru/ovaa/index.m3u8
-#EXTINF:-1 tvg-name="Redcom tv" tvg-logo="https://i.ibb.co/mrzFNwkL/image-20.png" group-title="РЕГИОНАЛЬНЫЕ", Redcom TV
 
-https://camcity.redcom.ru/Redcams/index.m3u8
-#EXTINF:-1 tvg-name="Sochi Live HD" tvg-logo="https://i.ibb.co/ZpVKhsHV/image-21.png" group-title="РЕГИОНАЛЬНЫЕ", Sochi Live HD
-
+#EXTINF:-1 tvg-name="Sochi Live HD" tvg-logo="https://zsv.ucoz.net/Logo2/Sochi.png" group-title="РЕГИОНАЛЬНЫЕ", Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
-#EXTINF:-1 tvg-id="tmtv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="TMTV" tvg-logo="https://i.ibb.co/8nDDfGK6/image-79.png" group-title="РЕГИОНАЛЬНЫЕ", TMTV
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_TMTV/variant.m3u8
-#EXTINF:-1 tvg-name="TV Аист (Ликино-Дулево)" tvg-logo="https://i.ibb.co/5gbdJCCw/image-22.png" group-title="РЕГИОНАЛЬНЫЕ", TV Аист (Ликино-Дулево)
+
+#EXTINF:-1 tvg-name="TV Аист (Ликино-Дулево)" tvg-logo="https://zsv.ucoz.net/Logo2/AIst.png" group-title="РЕГИОНАЛЬНЫЕ", TV Аист (Ликино-Дулево)
 
 http://141.101.205.134:8080/hls/tvaist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/TBkMVPMY/image-23.png" group-title="РЕГИОНАЛЬНЫЕ", TV Губерния
-
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i115.fastpic.org/big/2021/0926/bd/34e807aefaeab9e0024cc25d8820f7bd.png?md5=38CU5VA5AbSoDkLV5wncVw&expires=1771696800" group-title="РЕГИОНАЛЬНЫЕ", TV Губерния
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
-#EXTINF:-1 tvg-id="ugra-travel" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="UGRA TRAVEL" tvg-logo="https://i.ibb.co/SXJYsWdS/image-24.png" group-title="РЕГИОНАЛЬНЫЕ", UGRA TRAVEL
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="ugra-travel" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="UGRA TRAVEL" tvg-logo="https://i115.fastpic.org/big/2021/0926/03/49d4ca416335d2e300aecaf8735aac03.png?md5=0zZT67VW0tUn-oEKjmzYaw&expires=1771696800" group-title="РЕГИОНАЛЬНЫЕ", UGRA TRAVEL
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/MDKWXqXC/image-26.png" group-title="РЕГИОНАЛЬНЫЕ", Univer TV
 
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/univer-tv.png" group-title="РЕГИОНАЛЬНЫЕ", Univer TV
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/PGZ2JQnx/image-27.png" group-title="РЕГИОНАЛЬНЫЕ", Ural1
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/Ural1.png" group-title="РЕГИОНАЛЬНЫЕ", Ural1
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_URAL1/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mVTM2kHW/image-12.png" group-title="РЕГИОНАЛЬНЫЕ", Абаза ТВ
 
+#EXTINF:-1 tvg-logo="https://zsv.ucoz.net/Logo2/Abaza.png" group-title="РЕГИОНАЛЬНЫЕ", Абаза ТВ
 http://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/WNdxsDH7/image-28.png" group-title="РЕГИОНАЛЬНЫЕ", Абакан 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/Abakan24.png" group-title="РЕГИОНАЛЬНЫЕ", Абакан 24
 https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R03_ABAKAN24_ABKN/variant.m3u8
-#EXTINF:-1 tvg-id="aist" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="АИСТ HD" tvg-logo="https://i.ibb.co/7dS9zXz9/image-29.png" group-title="РЕГИОНАЛЬНЫЕ", Аист ТВ (Иркутск)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="aist" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="АИСТ HD" tvg-logo="https://epg.iptvx.one/picons/aist.png" group-title="РЕГИОНАЛЬНЫЕ", Аист ТВ (Иркутск)
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/pvX3xBhy/image-21.png" group-title="РЕГИОНАЛЬНЫЕ", Актис (Ангарск)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/Aktis.png" group-title="РЕГИОНАЛЬНЫЕ", Актис (Ангарск)
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AKTIS/variant.m3u8?version=2
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/T6X2BmZ/image-30.png" group-title="РЕГИОНАЛЬНЫЕ", Алмазный край (Якутск)
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/almazny-kray.png" group-title="РЕГИОНАЛЬНЫЕ", Алмазный край (Якутск)
 https://s34351.cdn.ngenix.net/hls/CH_R14_ALMAZNYJKRAJHD/variant.m3u8
-#EXTINF:-1 tvg-id="1obl-blagoveschensk" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Амурское областное телевидение" tvg-logo="https://i.ibb.co/Ng118Tvv/image-31.png" group-title="РЕГИОНАЛЬНЫЕ", Амурское областное телевидение
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="1obl-blagoveschensk" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Амурское областное телевидение" tvg-logo="http://i115.fastpic.org/big/2021/0926/e0/b102a8d47c1197761b1f6bd76bd19de0.png" group-title="РЕГИОНАЛЬНЫЕ", Амурское областное телевидение
 https://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/5XC88n2T/image-47.png" group-title="РЕГИОНАЛЬНЫЕ", Анжерское телевидение (Анжеро-Судженск)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/antv.png" group-title="РЕГИОНАЛЬНЫЕ", Анжерское телевидение (Анжеро-Судженск)
 https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_ANGERSKTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/k63kygVt/image-48.png" group-title="РЕГИОНАЛЬНЫЕ", Ариг Ус 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/Arigus.png" group-title="РЕГИОНАЛЬНЫЕ", Ариг Ус 24
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ARIGUS/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/gLWFPqD6/image-49.png" group-title="РЕГИОНАЛЬНЫЕ", Арис 24
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/Aris.png" group-title="РЕГИОНАЛЬНЫЕ", Арис 24
 https://s45177.cdn.ngenix.net/hls/CH_R02_ARIS/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/4RwVFRYk/image-50.png" group-title="РЕГИОНАЛЬНЫЕ", Арктик ТВ
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/arktik-tv.png" group-title="РЕГИОНАЛЬНЫЕ", Арктик ТВ
 https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/rGfZSFYY/image-22.png" group-title="РЕГИОНАЛЬНЫЕ", Арктика 24 (Архангельск)
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/Arktika.png" group-title="РЕГИОНАЛЬНЫЕ", Арктика 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/ymLxTzRq/image-34.png" group-title="РЕГИОНАЛЬНЫЕ", Архыз 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/arxyz24.png" group-title="РЕГИОНАЛЬНЫЕ", Архыз 24
 https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ241/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Rpqqpjgs/image-33.png" group-title="РЕГИОНАЛЬНЫЕ", Архы3 24 Light
 
-
-http://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ24LITE/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/213CFhCF/image-51.png" group-title="РЕГИОНАЛЬНЫЕ", АСТВ (Сахалин)
-
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/ASTV.png" group-title="РЕГИОНАЛЬНЫЕ", АСТВ (Сахалин)
 https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_ACTV/variant.m3u8
-#EXTINF:-1 tvg-id="astraxan24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Астрахань 24 HD" tvg-logo="https://i.ibb.co/kg15tgHX/image-52.png" group-title="РЕГИОНАЛЬНЫЕ", Астрахань 24 HD
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="astraxan24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Астрахань 24 HD" tvg-logo="https://epg.iptvx.one/picons/astraxan24.png" group-title="РЕГИОНАЛЬНЫЕ", Астрахань 24 HD
 https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_ASTRAKHAN24/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/qM6M0f45/image-17.png" group-title="РЕГИОНАЛЬНЫЕ", Астрахань.Ru Sport
+
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/AsSport.png" group-title="РЕГИОНАЛЬНЫЕ", Астрахань.Ru Sport
 
 
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/dv9sGLC/image-19.png" group-title="РЕГИОНАЛЬНЫЕ", Астрахань.Ru TV
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/astrahan-live.png" group-title="РЕГИОНАЛЬНЫЕ", Астрахань Live
 
 
 http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DD1Dfq2v/image-4.png" group-title="РЕГИОНАЛЬНЫЕ",АТВ АМОС
-
+#EXTINF:-1 tvg-logo="https://zsv.ucoz.net/Logo2/Amos.png" group-title="РЕГИОНАЛЬНЫЕ",АТВ АМОС
 http://iptv46.mcx-ix.ru:8077/atv/index.m3u8
-#EXTINF:-1 tvg-id="atv-media" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="АТВ-Медиа" tvg-logo="https://i.ibb.co/SXXXjGvS/image-53.png" group-title="РЕГИОНАЛЬНЫЕ", АТВ-Медиа
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="atv-media" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="АТВ-Медиа" tvg-logo="https://zsv.ucoz.net/Logo2/ATV-media.png" group-title="РЕГИОНАЛЬНЫЕ", АТВ-Медиа
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/JFjHf8r9/image-54.png" group-title="РЕГИОНАЛЬНЫЕ", АТВ-Ставрополь
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/atv.png" group-title="РЕГИОНАЛЬНЫЕ", АТВ-Ставрополь
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_ATV/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SwDtG9g2/image-55.png" group-title="РЕГИОНАЛЬНЫЕ", Ател ТВ (Рыбинск)
 
+#EXTINF:-1 tvg-logo="https://zsv.ucoz.net/Logo2/ateltv.png" group-title="РЕГИОНАЛЬНЫЕ", Ател ТВ (Рыбинск)
 https://iptv.atel.me/live/123/atel.m3u8
-#EXTINF:-1 tvg-name="Афонтово" tvg-logo="https://i.ibb.co/G37rZXW2/image-56.png" group-title="РЕГИОНАЛЬНЫЕ", Афонтово
 
-
+#EXTINF:-1 tvg-name="Афонтово" tvg-logo="https://epg.iptvx.one/picons/afontovo-kr.png" group-title="РЕГИОНАЛЬНЫЕ", Афонтово
 https://stream.afontovo.ru/hd.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/7cDGY7w/image-57.png" group-title="РЕГИОНАЛЬНЫЕ", Ачинское ТВ (Ачинск)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/achinskoetv.png" group-title="РЕГИОНАЛЬНЫЕ", Ачинское ТВ (Ачинск)
 http://dmitry-tv.ddns.net/hls/zabava/region/ACHINSK/CH_ACHINSKOETVHD.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/tTjSpvbZ/image-58.png" group-title="РЕГИОНАЛЬНЫЕ", Байкал Универ ТВ
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/Baykal.png" group-title="РЕГИОНАЛЬНЫЕ", Байкал Универ ТВ
 http://dmitry-tv.ddns.net/hls/region/CH_BAYKALUNIVERTVHD_IRK.m3u8
-#EXTINF:-1 tvg-id="bars" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Барс плюс" tvg-logo="https://i.ibb.co/QZF8mzB/image-59.png" group-title="РЕГИОНАЛЬНЫЕ", Барс плюс
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="bars" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Барс плюс" tvg-logo="https://epg.iptvx.one/picons/bars.png" group-title="РЕГИОНАЛЬНЫЕ", Барс плюс
+
 https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/KjN5wwYp/image-60.png" group-title="РЕГИОНАЛЬНЫЕ", Батайск ТВ
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/Bataysk.png" group-title="РЕГИОНАЛЬНЫЕ", Батайск ТВ
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_BATAYSK/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/FLPqKf44/image-62.png" group-title="РЕГИОНАЛЬНЫЕ", Башкортостан 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/Bashkortostan.png" group-title="РЕГИОНАЛЬНЫЕ", Башкортостан 24
 https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
-#EXTINF:-1 tvg-id="belgorod24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Белгород 24" tvg-logo="https://i.ibb.co/DDrZ4BTt/image-63.png" group-title="РЕГИОНАЛЬНЫЕ", Белгород 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="belgorod24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Белгород 24" tvg-logo="https://epg.iptvx.one/picons/belgorod24.png" group-title="РЕГИОНАЛЬНЫЕ", Белгород 24
 https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_BELG_BELGOROD24/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/20dC6rh1/image-64.png" group-title="РЕГИОНАЛЬНЫЕ", Бийское ТВ (Алтайский край г. Бийск)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/BTV.png" group-title="РЕГИОНАЛЬНЫЕ", Бийское ТВ (Алтайский край г. Бийск)
 https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_BIYSKTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/1fkfXBn5/image-65.png" group-title="РЕГИОНАЛЬНЫЕ", Брянск 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/Bryansk24.png" group-title="РЕГИОНАЛЬНЫЕ", Брянск 24
 https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_BRYANSK24/variant.m3u8
-#EXTINF:-1 tvg-id="brianskaya-gubernia" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Брянская Губерния HD" tvg-logo="https://i.ibb.co/Q7g7DDM6/image-66.png" group-title="РЕГИОНАЛЬНЫЕ", Брянская Губерния HD
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="brianskaya-gubernia" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Брянская Губерния HD" tvg-logo="https://zsv.ucoz.net/Logo2/brianskaya-gubernia.png" group-title="РЕГИОНАЛЬНЫЕ", Брянская Губерния HD
 https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="БСТ (Уфа)" tvg-logo="https://i.ibb.co/PvHvSwP6/image-67.png" group-title="РЕГИОНАЛЬНЫЕ", БСТ (Уфа)
+
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="БСТ (Уфа)" tvg-logo="https://epg.iptvx.one/picons/bst.png" group-title="РЕГИОНАЛЬНЫЕ", БСТ (Уфа)
 
 
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/NPQKT01/image-69.png" group-title="РЕГИОНАЛЬНЫЕ", БСТ 24 (Братск)
-
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://i115.fastpic.org/big/2021/0926/9d/c11e612e32402ae47ded3e015180f19d.png" group-title="РЕГИОНАЛЬНЫЕ", БСТ 24 (Братск)
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_BR/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/R4h4kKJN/image-70.png" group-title="РЕГИОНАЛЬНЫЕ", Буряад ТВ
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/buriaad.png" group-title="РЕГИОНАЛЬНЫЕ", Буряад ТВ
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_BURYAAD/variant.m3u8
-#EXTINF:-1 tvg-id="tk-variant" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Вариант V" tvg-logo="https://i.ibb.co/LDvm3W1Y/image-71.png" group-title="РЕГИОНАЛЬНЫЕ", Вариант V (Владимир)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="tk-variant" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Вариант V" tvg-logo="https://epg.iptvx.one/picons/tk-variant.png" group-title="РЕГИОНАЛЬНЫЕ", Вариант V (Владимир)
 https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VLAD_VARIANT_V/variant.m3u8
-#EXTINF:-1 tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Вектор 24" tvg-logo="https://i.ibb.co/KxgRrwTt/image-72.png" group-title="РЕГИОНАЛЬНЫЕ", Вектор 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_VEKTOR24_GUBK/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Kx5vzvMK/image-73.png" group-title="РЕГИОНАЛЬНЫЕ", Верх ТВ (Березники)
+#EXTINF:-1 tvg-id="no_epg" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Вектор 24" tvg-logo="https://epg.iptvx.one/picons/vektor-24.png" group-title="РЕГИОНАЛЬНЫЕ", Вектор 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_VERHTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/9mdQkKGM/image-74.png" group-title="РЕГИОНАЛЬНЫЕ", Вестник Надыма
-
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/vestnik-nadyma.png" group-title="РЕГИОНАЛЬНЫЕ", Вестник Надыма
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VESTN_URAL_NAD/variant.m3u8
-#EXTINF:-1 tvg-id="vetta24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Ветта 24 Пермь" tvg-logo="https://i.ibb.co/SX7QdZ3P/image-75.png" group-title="РЕГИОНАЛЬНЫЕ", Ветта 24 (Пермь)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="vetta24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Ветта 24 Пермь" tvg-logo="https://epg.iptvx.one/picons/vetta24.png" group-title="РЕГИОНАЛЬНЫЕ", Ветта 24 (Пермь)
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VETTA24_PERM/variant.m3u8
-#EXTINF:-1 tvg-id="volga" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Волга" tvg-logo="https://i.ibb.co/fVQrDfKR/image-24.png" group-title="РЕГИОНАЛЬНЫЕ", Волга (Нижний Новгород)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="volga" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Волга" tvg-logo="https://zsv.ucoz.net/Logo2/Volga.png" group-title="РЕГИОНАЛЬНЫЕ", Волга (Нижний Новгород)
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/DDBBgh3k/image-23.png" group-title="РЕГИОНАЛЬНЫЕ", Волга 24
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/Volga24.png" group-title="РЕГИОНАЛЬНЫЕ", Волга 24
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
-#EXTINF:-1 tvg-id="volgograd-1" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Волгоград 1 HD" tvg-logo="https://i.ibb.co/d890mHk/image-76.png" group-title="РЕГИОНАЛЬНЫЕ", Волгоград 1 HD
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="volgograd-1" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Волгоград 1 HD" tvg-logo="https://zsv.ucoz.net/Logo2/Volgograd1.png" group-title="РЕГИОНАЛЬНЫЕ", Волгоград 1 HD
+
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/hRph0SHg/image-27.png" group-title="РЕГИОНАЛЬНЫЕ", Волгоград 24
-
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://i115.fastpic.org/big/2021/0926/be/ac53a41f1c153004ea08e60b2974dcbe.png" group-title="РЕГИОНАЛЬНЫЕ", Волгоград 24
 https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VGRAD_VOLGOGRAD24/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/gFfdSf6t/image-77.png" group-title="РЕГИОНАЛЬНЫЕ", Волгодонский Вестник (Волгодонск)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/Volgodonsk.png" group-title="РЕГИОНАЛЬНЫЕ", Волгодонский Вестник (Волгодонск)
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R06_VOLGVEST/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/s96bTXQb/image-78.png" group-title="РЕГИОНАЛЬНЫЕ", Волжский Плюс HD
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/Voljskiy.png" group-title="РЕГИОНАЛЬНЫЕ", Волжский Плюс HD
 http://dmitry-tv.ddns.net/hls/region/CH_VOLPLUSHD_VLSKIY.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Xrx13QgV/image-79.png" group-title="РЕГИОНАЛЬНЫЕ", Восток 24 (Владивосток)
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/Vostok24.png" group-title="РЕГИОНАЛЬНЫЕ", Восток 24 (Владивосток)
 https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/gFdx0GsD/image-80.png" group-title="РЕГИОНАЛЬНЫЕ", Восточный экспресс HD (Миасс)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/vostochnyj-ekspress.png" group-title="РЕГИОНАЛЬНЫЕ", Восточный экспресс HD (Миасс)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_VOSTEXPRESS/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Mx9bKxC2/image-81.png" group-title="РЕГИОНАЛЬНЫЕ", ВОТ ТВ
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/VOTTv.png" group-title="РЕГИОНАЛЬНЫЕ", ВОТ ТВ
 https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_LIPETSK_VOTTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/mCWKvzfm/image-16.png" group-title="РЕГИОНАЛЬНЫЕ", Выборг ТВ
-РЕГИОНАЛЬНЫЕ
 
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/Vyborg.png" group-title="РЕГИОНАЛЬНЫЕ", Выборг ТВ
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_VMK/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/bgpTrfcr/image-90.png" group-title="РЕГИОНАЛЬНЫЕ", Геленджик ТВ
 
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/gln24.png" group-title="РЕГИОНАЛЬНЫЕ", Геленджик ТВ
 http://serv25.vintera.tv:8081/gelendzhik/stream_1/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/wFc1JW6y/image-24.png" group-title="РЕГИОНАЛЬНЫЕ",Город (Рязань)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/Gorod.png" group-title="РЕГИОНАЛЬНЫЕ",Город (Рязань)
 https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R02_GOROD/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/HLmgtcnr/image-35.png" group-title="РЕГИОНАЛЬНЫЕ", Город 24
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/Gorod24.png" group-title="РЕГИОНАЛЬНЫЕ", Город 24
 http://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_GOROD24/variant.m3u8
-#EXTINF:-1 tvg-id="gorodskoy-yaroslavl" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Городской телеканал Ярославль" tvg-logo="https://i.ibb.co/WpPm3VTc/image-91.png" group-title="РЕГИОНАЛЬНЫЕ", Городской телеканал Ярославль
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="gorodskoy-yaroslavl" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Городской телеканал Ярославль" tvg-logo="https://epg.iptvx.one/picons/gorodskoy-yaroslavl.png" group-title="РЕГИОНАЛЬНЫЕ", Городской телеканал Ярославль
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u8
-#EXTINF:-1 tvg-name="Грозный" tvg-logo="https://i.ibb.co/F1M2WYQ/image-92.png" group-title="РЕГИОНАЛЬНЫЕ", Грозный
 
+#EXTINF:-1 tvg-name="Грозный" tvg-logo="https://epg.iptvx.one/picons/grozny.png" group-title="РЕГИОНАЛЬНЫЕ", Грозный
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/p6r2hG1S/image-20.png" group-title="РЕГИОНАЛЬНЫЕ", Гродно Плюс
 
-
-http://82.209.219.165:1234/gp
-#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/ZRrWXynF/image-93.png" group-title="РЕГИОНАЛЬНЫЕ", Губерния (Хабаровск)
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/gubern.png" group-title="РЕГИОНАЛЬНЫЕ", Губерния (Хабаровск)
 https://s97982.cdn.ngenix.net/hls/CH_R27_GUBERNYA/variant.m3u8
-#EXTINF:-1 tvg-id="gubernia-33" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Губерния 33 HD" tvg-logo="https://i.ibb.co/kVhV1ykm/image-94.png" group-title="РЕГИОНАЛЬНЫЕ", Губерния 33
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="gubernia-33" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Губерния 33 HD" tvg-logo="https://epg.iptvx.one/picons/gubernia-33.png" group-title="РЕГИОНАЛЬНЫЕ", Губерния 33
 https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/nNZN57wc/image-4.png" group-title="РЕГИОНАЛЬНЫЕ", Дагестан HD
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
-https://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_MAHACHK_DAGESTAN/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/C5fLSTPc/image-12.png" group-title="РЕГИОНАЛЬНЫЕ", Даль-ТВ
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
-https://s91030.cdn.ngenix.net/hls/CH_R25_DAL_TV/variant.m3u8
-#EXTINF:-1 tvg-id="deviatka" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Девятка ТВ" tvg-logo="https://i.ibb.co/xtxPQ8n0/image-96.png" group-title="РЕГИОНАЛЬНЫЕ", Девятка ТВ
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="deviatka" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Девятка ТВ" tvg-logo="https://epg.iptvx.one/picons/deviatka.png" group-title="РЕГИОНАЛЬНЫЕ", Девятка ТВ
 https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
-#EXTINF:-1 tvg-id="dzenzhinsk-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Дзержинск ТВ" tvg-logo="https://i.ibb.co/fYGg0WHx/image-98.png" group-title="РЕГИОНАЛЬНЫЕ", Дзержинск ТВ
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="dzenzhinsk-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Дзержинск ТВ" tvg-logo="https://epg.iptvx.one/picons/dzenzhinsk-tv.png" group-title="РЕГИОНАЛЬНЫЕ", Дзержинск ТВ
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dsSZ8PcZ/image-99.png" group-title="РЕГИОНАЛЬНЫЕ", Димград 24
 
+#EXTINF:-1 tvg-logo="https://zsv.ucoz.net/Logo2/Dimgrad.png" group-title="РЕГИОНАЛЬНЫЕ", Димград 24
 https://live-3.otcnet.ru/dimgrad/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/d4pR0DJk/image-100.png" group-title="РЕГИОНАЛЬНЫЕ", ДОН 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69 Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/Don24.png" group-title="РЕГИОНАЛЬНЫЕ", ДОН 24
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
-#EXTINF:-1 tvg-name="Ростов-папа" tvg-logo="https://i.ibb.co/4RF4FQw1/image-41.png" group-title="РЕГИОНАЛЬНЫЕ", Дон Лайф
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/m525X10k/image-46.png" group-title="РЕГИОНАЛЬНЫЕ", Евпатория ТВ
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/ewpatorya24.png" group-title="РЕГИОНАЛЬНЫЕ", Евпатория 24
 http://195.26.83.96:7029/play/a009
-#EXTINF:-1 tvg-id="evrasia" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Евразия" tvg-logo="https://i.ibb.co/S70dPjjp/image-2025-10-09-T044010-749.png" group-title="РЕГИОНАЛЬНЫЕ", Евразия Орск
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="evrasia" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Евразия" tvg-logo="https://epg.iptvx.one/picons/evrasia.png" group-title="РЕГИОНАЛЬНЫЕ", Евразия Орск
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/bMh44gJx/image-2025-10-09-T044253-492.png" group-title="РЕГИОНАЛЬНЫЕ", Елец ТВ
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/ElecTV.png" group-title="РЕГИОНАЛЬНЫЕ", Елец ТВ
 https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_ELETS/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/0RDSx1xx/image-2025-10-09-T044513-258.png" group-title="РЕГИОНАЛЬНЫЕ",Енисей (Красноярск)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/Enisey.png" group-title="РЕГИОНАЛЬНЫЕ",Енисей (Красноярск)
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/RkYtMNqP/image-21.png" group-title="РЕГИОНАЛЬНЫЕ", Жизнь Глазова
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/Glazov.png" group-title="РЕГИОНАЛЬНЫЕ", Жизнь Глазова
 http://yellow.garant.tv/glazov24/stream.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/wrdBZNtK/image-22.png" group-title="РЕГИОНАЛЬНЫЕ", За!ТВ
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/za.png" group-title="РЕГИОНАЛЬНЫЕ", За!ТВ
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/7T3dswx/image-2025-10-09-T044858-753.png" group-title="РЕГИОНАЛЬНЫЕ", Запад 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/zapad24.png" group-title="РЕГИОНАЛЬНЫЕ", Запад 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
-#EXTINF:-1 tvg-id="ivanovo-ot" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Ивановское общественное телевидение" tvg-logo="https://i.ibb.co/wZp0nJj9/image-2025-10-09-T045057-601.png" group-title="РЕГИОНАЛЬНЫЕ", Ивановское общественное телевидение
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="ivanovo-ot" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Ивановское общественное телевидение" tvg-logo="https://epg.iptvx.one/picons/ivanovo-ot.png" group-title="РЕГИОНАЛЬНЫЕ", Ивановское общественное телевидение
 https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/KjD9QpcH/image-36.png" group-title="РЕГИОНАЛЬНЫЕ", Известия (Воронеж)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/izvestia.png" group-title="РЕГИОНАЛЬНЫЕ", Известия (Воронеж)
 http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/KjD9QpcH/image-36.png" group-title="РЕГИОНАЛЬНЫЕ", Известия (Армавир)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/izvestia.png" group-title="РЕГИОНАЛЬНЫЕ", Известия (Армавир)
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA-ARMAVIR/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/KjD9QpcH/image-36.png" group-title="РЕГИОНАЛЬНЫЕ", Известия (Кострома)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/izvestia.png" group-title="РЕГИОНАЛЬНЫЕ", Известия (Кострома)
 https://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA_KST/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/KjD9QpcH/image-36.png" group-title="РЕГИОНАЛЬНЫЕ", Известия (Сыктывкар)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/izvestia.png" group-title="РЕГИОНАЛЬНЫЕ", Известия (Сыктывкар)
 https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTYA/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/KjD9QpcH/image-36.png" group-title="РЕГИОНАЛЬНЫЕ", Известия (Рубцовск)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/izvestia.png" group-title="РЕГИОНАЛЬНЫЕ", Известия (Рубцовск)
 https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_RUBCOSKTV/variant.m3u8
-#EXTINF:-1 tvg-name#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/KjD9QpcH/image-36.png" group-title="РЕГИОНАЛЬНЫЕ", Известия (Старый Оскол)
 
+#EXTINF:-1 tvg-name#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/izvestia.png" group-title="РЕГИОНАЛЬНЫЕ", Известия (Старый Оскол)
 http://stream.tvbelgorod.ru:8080/izvestiya/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/KjD9QpcH/image-36.png" group-title="РЕГИОНАЛЬНЫЕ", Известия (Чита)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/izvestia.png" group-title="РЕГИОНАЛЬНЫЕ", Известия (Чита)
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R02_IZVESTIA_CHITA/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/KjD9QpcH/image-36.png" group-title="РЕГИОНАЛЬНЫЕ", Известия (Владимир)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/izvestia.png" group-title="РЕГИОНАЛЬНЫЕ", Известия (Владимир)
 https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA_VLD/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/KjD9QpcH/image-36.png" group-title="РЕГИОНАЛЬНЫЕ", Известия (Магадан)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/izvestia.png" group-title="РЕГИОНАЛЬНЫЕ", Известия (Магадан)
 https://s20441.cdn.ngenix.net/hls/CH_R49_MGTK/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/KjD9QpcH/image-36.png" group-title="РЕГИОНАЛЬНЫЕ", Известия (Кемерово)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/izvestia.png" group-title="РЕГИОНАЛЬНЫЕ", Известия (Кемерово)
 https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_IZVEST_KEMR/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/KjD9QpcH/image-36.png" group-title="РЕГИОНАЛЬНЫЕ", Известия/ОТС (Бердск)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/izvestia.png" group-title="РЕГИОНАЛЬНЫЕ", Известия/ОТС (Бердск)
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTS_BERDSK_NSK/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/KjD9QpcH/image-36.png" group-title="РЕГИОНАЛЬНЫЕ", Известия/Панорама (Тверь)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/izvestia.png" group-title="РЕГИОНАЛЬНЫЕ", Известия/Панорама (Тверь)
 https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_PANORAMATV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/KjD9QpcH/image-36.png" group-title="РЕГИОНАЛЬНЫЕ", Известия/ТСН 24 (Тула)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/izvestia.png" group-title="РЕГИОНАЛЬНЫЕ", Известия/ТСН 24 (Тула)
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_TULA24/variant.m3u8
-#EXTINF:-1 tvg-id="Импульс HD" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Импульс HD" tvg-logo="https://i.ibb.co/chYM79MX/image-2025-10-09-T050041-704.png" group-title="РЕГИОНАЛЬНЫЕ", Импульс (Ямало-Ненецкий АО)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"  tvg-logo="https://epg.iptvx.one/picons/impuls-sewera.png" group-title="РЕГИОНАЛЬНЫЕ", Импульс Севера
+
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/6JZKMNS5/image-38.png" group-title="РЕГИОНАЛЬНЫЕ", ИНГУШЕТИЯ
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/ntrk-ingushetia.png" group-title="РЕГИОНАЛЬНЫЕ", НТРК Ингушетия
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_INGUSHETIYA/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/pBQ2Yq6H/image-37.png" group-title="РЕГИОНАЛЬНЫЕ", Инком ТВ (Талица)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/inkom.png" group-title="РЕГИОНАЛЬНЫЕ", Инком ТВ (Талица)
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_INKOMTV/variant.m3u8
-#EXTINF:-1 tvg-id="no_epg_news" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Инфо 24 HD" tvg-logo="https://i.ibb.co/DHRKsrG1/image-2025-10-09-T050247-258.png" group-title="РЕГИОНАЛЬНЫЕ", Инфо 24 HD
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="no_epg_news" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Инфо 24 HD" tvg-logo="https://zsv.ucoz.net/Logo2/Info24.png" group-title="РЕГИОНАЛЬНЫЕ", Инфо 24 HD
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/xt5mkhq6/image-7.png" group-title="РЕГИОНАЛЬНЫЕ", Инсит (Копейск)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/Insit.png" group-title="РЕГИОНАЛЬНЫЕ", Инсит-ТВ
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_INSITTV_KOPSK/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/LXqnss5m/image-2025-10-09-T050442-320.png" group-title="РЕГИОНАЛЬНЫЕ", Истоки Орёл
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/Istoki.png" group-title="РЕГИОНАЛЬНЫЕ", Истоки Орёл
 http://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_ISTOKI/variant.m3u8
-#EXTINF:-1 tvg-name="К16 (Саров)" tvg-logo="https://i.ibb.co/8gkbT7B8/image-2025-10-09-T050642-728.png" group-title="РЕГИОНАЛЬНЫЕ", К16 (Саров)
 
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/k16-sarov.png" group-title="РЕГИОНАЛЬНЫЕ", К16 (Саров)
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/VYfN8ZHp/image-43.png" group-title="РЕГИОНАЛЬНЫЕ", Кабардино-Балкария
 
-
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/kabardino-balkaria.png" group-title="РЕГИОНАЛЬНЫЕ", Кабардино-Балкария
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_KAVKAZ24/variant.m3u8
-#EXTINF:-1 tvg-id="no_epg_news" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Камчатка HD" tvg-logo="https://i.ibb.co/wNBYcGZT/image-2025-10-09-T051106-117.png" group-title="РЕГИОНАЛЬНЫЕ", Камчатка 1 HD
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="no_epg_news" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Камчатка HD" tvg-logo="https://zsv.ucoz.net/Logo2/Kamchatka1.png" group-title="РЕГИОНАЛЬНЫЕ", Камчатка 1 HD
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/ynWw31hy/image-44.png" group-title="РЕГИОНАЛЬНЫЕ", КАРИБУ (Магадан)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/Karibu.png" group-title="РЕГИОНАЛЬНЫЕ", КАРИБУ (Магадан)
 https://s20441.cdn.ngenix.net/hls/CH_R49_OTTKARIBU/variant.m3u8
-#EXTINF:-1 tvg-id="kaskad24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Каскад" tvg-logo="https://i.ibb.co/Kmyhk4Y/image-2024-10-07-T072756-836.png" group-title="РЕГИОНАЛЬНЫЕ", Каскад
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="kaskad24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Каскад" tvg-logo="https://epg.iptvx.one/picons/kaskad24.png" group-title="РЕГИОНАЛЬНЫЕ", Каскад
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/S8wcgwT/image-45.png" group-title="РЕГИОНАЛЬНЫЕ", Катунь 24 (Барнаул)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/katun-24.png" group-title="РЕГИОНАЛЬНЫЕ", Катунь 24 (Барнаул)
 https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/TDwfqndN/image-26.png" group-title="РЕГИОНАЛЬНЫЕ", КВАНТ
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_KVANT/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/sfgrrxr/image-23.png" group-title="РЕГИОНАЛЬНЫЕ", Кварц ТВ
-
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i115.fastpic.org/big/2021/0927/39/93031cb4ab8cc5cb401656db5c7a7539.png?md5=I8UvuL3G8TIMKC0QzDo05w&expires=1771714800" group-title="РЕГИОНАЛЬНЫЕ", ТМ-КВАНТ (Междуреченск)
+https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_KVANT/variant.m3u8 
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/Kvarc.png" group-title="РЕГИОНАЛЬНЫЕ", Кварц ТВ
 http://109.94.1.3:8080/25/index.m3u8
-#EXTINF:-1 tvg-name="Кизилюрт ТВ HD" tvg-logo="https://i.ibb.co/gFhsJChf/image-15.png" group-title="РЕГИОНАЛЬНЫЕ", Кизилюрт ТВ HD
 
-http://iptv46.mcx-ix.ru:8077/KTV/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/7vxQDTT/resize-78.png" group-title="РЕГИОНАЛЬНЫЕ", Колыма Плюс
-
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/kolyma-plus.png" group-title="РЕГИОНАЛЬНЫЕ", Колыма Плюс
 https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_KOLYMA/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mrFMND9x/image-47.png" group-title="РЕГИОНАЛЬНЫЕ", Компас ТВ (Каменск-Уральский)
 
-http://46.48.96.88:81/udp/239.255.3.172:1234
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/5gwQJ2Rc/image-46.png" group-title="РЕГИОНАЛЬНЫЕ", Комсомольское время 6ТВ (Хабаровск)
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-https://s97982.cdn.ngenix.net/hls/CH_R27_6TVKMS/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/sdZLQrXz/image-48.png" group-title="РЕГИОНАЛЬНЫЕ", Котлас ТВ
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/kotlastv.png" group-title="РЕГИОНАЛЬНЫЕ", Котлас ТВ
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_KOTLASTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/JFjynx8S/image-16.png" group-title="РЕГИОНАЛЬНЫЕ", Краснодар HD
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/krasnodar.png" group-title="РЕГИОНАЛЬНЫЕ", Краснодар HD
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
-#EXTINF:-1 tvg-name="Крик ТВ" tvg-logo="https://i.ibb.co/3YcPTGjf/image-17.png" group-title="РЕГИОНАЛЬНЫЕ", Крик ТВ
 
+#EXTINF:-1 tvg-name="Крик ТВ" tvg-logo="https://zsv.ucoz.net/Logo2/krik-tv.png" group-title="РЕГИОНАЛЬНЫЕ", Крик ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5f3tm09/image-18.png" group-title="РЕГИОНАЛЬНЫЕ", КРТВ (Красногорск)
 
+#EXTINF:-1 tvg-logo="https://zsv.ucoz.net/Logo2/krtv.png" group-title="РЕГИОНАЛЬНЫЕ", КРТВ (Красногорск)
 http://live-krtv.cdnvideo.ru/krtv/krtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ycsrn3D4/image-45.png" group-title="РЕГИОНАЛЬНЫЕ", Крым 24
 
-
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/krym24.png" group-title="РЕГИОНАЛЬНЫЕ", Крым 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/XZKW5MGj/image-24.png" group-title="РЕГИОНАЛЬНЫЕ", Крым ТВ
 
-
-http://178.212.71.253:8000/play/381/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/4RYXW5Fv/image-83.png" group-title="РЕГИОНАЛЬНЫЕ", КТВ Луч (Сызрань)
-
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/ktv-luch.png" group-title="РЕГИОНАЛЬНЫЕ", КТВ-Луч (Сызрань)
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_KTVLUCH/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/xK59h1D8/image-26.png" group-title="РЕГИОНАЛЬНЫЕ", КТРК (Челябниская область)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/KRTk.png" group-title="РЕГИОНАЛЬНЫЕ", КТРК (Челябниская область)
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_KTRK/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/VcFWdCwf/image-49.png" group-title="РЕГИОНАЛЬНЫЕ", Кубань 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/kuban24.png" group-title="РЕГИОНАЛЬНЫЕ", Кубань 24
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/ZpgtkMYq/image-50.png" group-title="РЕГИОНАЛЬНЫЕ", Кузбасс 1
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/kuzbass1.png" group-title="РЕГИОНАЛЬНЫЕ", Кузбасс 1
 https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
-#EXTINF:-1 tvg-name="Культ Медиа ТВ" tvg-logo="https://i.ibb.co/2ZtyrGx/resize-10.png" group-title="РЕГИОНАЛЬНЫЕ", Культ Медиа ТВ (Астрахань)
 
+#EXTINF:-1 tvg-name="Культ Медиа ТВ" tvg-logo="https://zsv.ucoz.net/Logo2/KultMedia.png" group-title="РЕГИОНАЛЬНЫЕ", Культ Медиа ТВ (Астрахань)
 http://streaming.astrakhan.ru/telplushd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/NdvVjhXc/image-2025-09-09-T125849-076.png" group-title="РЕГИОНАЛЬНЫЕ", Курай HD
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/kuraj.png" group-title="РЕГИОНАЛЬНЫЕ", Курай HD
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R01_KURAI/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Fk2MvjV7/image-27.png" group-title="РЕГИОНАЛЬНЫЕ", Лабытнанги ТВ
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/labytnagi.png" group-title="РЕГИОНАЛЬНЫЕ", Лабытнанги ТВ
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_LABYTNANG_TV/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rKLcDXgS/image-47.png" group-title="РЕГИОНАЛЬНЫЕ", Легендарный 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/legendarny24.png" group-title="РЕГИОНАЛЬНЫЕ", Легендарный 24
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Y4H3f3jL/image-52.png" group-title="РЕГИОНАЛЬНЫЕ", ЛЕН ТВ 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/lot-47.png" group-title="РЕГИОНАЛЬНЫЕ", Лен ТВ 24
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/G4fJbvnz/image-28.png" group-title="РЕГИОНАЛЬНЫЕ", Липецк 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/lipeck24.png" group-title="РЕГИОНАЛЬНЫЕ", Липецк 24
 https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_LIPTIME/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/q3RVNYjp/image-21.png" group-title="РЕГИОНАЛЬНЫЕ", Липецкое Время
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/lipeckoe-vremia.png" group-title="РЕГИОНАЛЬНЫЕ", Липецкое Время
 https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_LVREM/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/hJ91s2TV/image-22.png" group-title="РЕГИОНАЛЬНЫЕ", Лотос 24
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/lotos24.png" group-title="РЕГИОНАЛЬНЫЕ", Лотос 24
 https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_ASTRH_ROSSIA1/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/jvG6Nyvg/image-53.png" group-title="РЕГИОНАЛЬНЫЕ", ЛТК HD (Лысьва)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/ltk.png" group-title="РЕГИОНАЛЬНЫЕ", ЛТК HD (Лысьва)
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_LTK/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/V0XWVStj/image-32.png" group-title="РЕГИОНАЛЬНЫЕ", Луганск 24
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/lugansk24.png" group-title="РЕГИОНАЛЬНЫЕ", Луганск 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/zVWWD5y2/image-24.png" group-title="РЕГИОНАЛЬНЫЕ", Луч
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/luch.png" group-title="РЕГИОНАЛЬНЫЕ", Луч
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_LUTCH/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/q3WxFJjv/image-26.png" group-title="РЕГИОНАЛЬНЫЕ", Магаданский городской телеканал HD (Магадан)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-https://s20441.cdn.ngenix.net/hls/CH_R49_MGTK/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/NnW740gQ/image-27.png" group-title="РЕГИОНАЛЬНЫЕ",Мамонт ТВ
-
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/mamonttv.png" group-title="РЕГИОНАЛЬНЫЕ",Мамонт ТВ
 https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_MAMONT/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/gbGTvr4y/image-9.png" group-title="РЕГИОНАЛЬНЫЕ", Матур ТВ HD
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/matur-tv.png" group-title="РЕГИОНАЛЬНЫЕ", Матур ТВ HD
 https://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/N6gxX3qq/image-28.png" group-title="РЕГИОНАЛЬНЫЕ",Мегаполис Югра
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/megapolis.png" group-title="РЕГИОНАЛЬНЫЕ",Мегаполис Югра
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MEGAPOLIS/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/s9GVVhPF/image-30.png" group-title="РЕГИОНАЛЬНЫЕ",Миг ТВ HD (Ноябрьск)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/mig-tv-noyabrsk.png" group-title="РЕГИОНАЛЬНЫЕ",Миг ТВ HD (Ноябрьск)
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
-#EXTINF:-1 tvg-name="Миг" tvg-logo="https://i.ibb.co/gMR7RJ9m/image-41.png" group-title="РЕГИОНАЛЬНЫЕ", Миллет
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-name="Миг" tvg-logo="https://epg.iptvx.one/picons/millet.png" group-title="РЕГИОНАЛЬНЫЕ", Миллет
 https://live1.1tvcrimea.ru/milletlive.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/JWCVpnhL/image-31.png" group-title="РЕГИОНАЛЬНЫЕ", Мир 24 (Нягань)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NYAGANTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/rfLjDy9d/image-32.png" group-title="РЕГИОНАЛЬНЫЕ", Мир Белогорья
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/mirbel.png" group-title="РЕГИОНАЛЬНЫЕ", Мир Белогорья
 https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
-#EXTINF:-1 tvg-name="МИТВ (Усть-Илимск)" tvg-logo="https://i.ibb.co/PzbcvQ4M/image-33.png" group-title="РЕГИОНАЛЬНЫЕ", МИТВ (Усть-Илимск)
 
+#EXTINF:-1 tvg-name="МИТВ (Усть-Илимск)" tvg-logo="https://epg.iptvx.one/picons/mitv-ustilimsk.png" group-title="РЕГИОНАЛЬНЫЕ", МИТВ (Усть-Илимск)
 http://193.33.233.109:9000/tv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4wJRdzSY/image-48.png" group-title="РЕГИОНАЛЬНЫЕ", Мой Город (Кушва)
 
-http://85.208.223.249:8888/play/a033
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Q7ttWFXy/image-31.png" group-title="РЕГИОНАЛЬНЫЕ", Москва 24
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/moskva-24.png" group-title="РЕГИОНАЛЬНЫЕ", Москва 24
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/VPHc7NL/image-32.png" group-title="РЕГИОНАЛЬНЫЕ", Москва Доверие
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/2308.png" group-title="РЕГИОНАЛЬНЫЕ", Москва Доверие
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5GnQhXC/image-33.png" group-title="РЕГИОНАЛЬНЫЕ", Мособр TV
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-logo="http://epg.one/img2/6037.png" group-title="РЕГИОНАЛЬНЫЕ", Мособр TV
 https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/wr0XQH2H/image-34.png" group-title="РЕГИОНАЛЬНЫЕ", Мордовия 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/mordovia-24.png" group-title="РЕГИОНАЛЬНЫЕ", Мордовия 24
 https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_MORDOVIY24/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/ycTGQmpC/image-35.png" group-title="РЕГИОНАЛЬНЫЕ", МТВ (Волгоград)
 
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/mtv-volgograd.png" group-title="РЕГИОНАЛЬНЫЕ", МТВ (Волгоград)
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DfxtcKmd/image-36.png" group-title="РЕГИОНАЛЬНЫЕ", МТВ Столица (Дагестан)
 
-http://iptv46.mcx-ix.ru:8077/mtv-stolitca/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0pqcJ4CV/image-19.png" group-title="РЕГИОНАЛЬНЫЕ", МТРК Петропавловск
-
+#EXTINF:-1 tvg-logo="https://zsv.ucoz.net/Logo2/mtrk.png" group-title="РЕГИОНАЛЬНЫЕ", МТРК Петропавловск
 https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/fzqYtz3x/image-88.png" group-title="РЕГИОНАЛЬНЫЕ", Муравленко 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/muravlenko24.png" group-title="РЕГИОНАЛЬНЫЕ", Муравленко 24
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Z6SC4WFf/image-37.png" group-title="РЕГИОНАЛЬНЫЕ", Муром ТВ
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/muromtv.png" group-title="РЕГИОНАЛЬНЫЕ", Муром ТВ
 https://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_MUROMTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/HL5HQDSC/image-38.png" group-title="РЕГИОНАЛЬНЫЕ", Мы и город (Красноуральск)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/my-i-gorod.png" group-title="РЕГИОНАЛЬНЫЕ", Мы и город (Красноуральск)
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIGOR_URAL_KRASN/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/nNzJCh5B/image-40.png" group-title="РЕГИОНАЛЬНЫЕ", МЭТР (Йошкар-Ола)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/metr.png" group-title="РЕГИОНАЛЬНЫЕ", МЭТР (Йошкар-Ола)
 http://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/WpYN4086/image-9.png" group-title="РЕГИОНАЛЬНЫЕ", Наш дом
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/G4GG2gLY/image-43.png" group-title="РЕГИОНАЛЬНЫЕ", Наши Города (Когалым)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Pz1HjBTT/image-44.png" group-title="РЕГИОНАЛЬНЫЕ", НВК Саха
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/nashi-goroda.png" group-title="РЕГИОНАЛЬНЫЕ", Наши Города (Когалым)
+ttps://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/saxa.png" group-title="РЕГИОНАЛЬНЫЕ", НВК Саха
 https://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/ch5vnnTC/image-45.png" group-title="РЕГИОНАЛЬНЫЕ", Нижний Новгород 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/nn-24.png" group-title="РЕГИОНАЛЬНЫЕ", Нижний Новгород 24
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_NN24/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/NDnsnWK/image-46.png" group-title="РЕГИОНАЛЬНЫЕ", Ника ТВ (Калуга)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/nikatv.png" group-title="РЕГИОНАЛЬНЫЕ", Ника ТВ (Калуга)
 https://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KALUGA_NIKA/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/qFhR8DT8/image-47.png" group-title="РЕГИОНАЛЬНЫЕ",  ННТ Махачкала
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/nnt.png" group-title="РЕГИОНАЛЬНЫЕ",  ННТ Махачкала
 https://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R01_NNT/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/ksHPvfz3/image-49.png" group-title="РЕГИОНАЛЬНЫЕ", ННТВ (Нижний Новгород)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/nntv.png" group-title="РЕГИОНАЛЬНЫЕ", ННТВ (Нижний Новгород)
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Новгородское областное телевидение" tvg-logo="https://i.ibb.co/s9x3Xrsd/image-50.png" group-title="РЕГИОНАЛЬНЫЕ", Новгородское областное телевидение
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Новгородское областное телевидение" tvg-logo="https://epg.iptvx.one/picons/novgorodskoe-obl-tv.png" group-title="РЕГИОНАЛЬНЫЕ", Новгородское областное телевидение
 https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Новое время (Радужный)" tvg-logo="https://i.ibb.co/S4hhSDcr/image-51.png" group-title="РЕГИОНАЛЬНЫЕ", Новое время (Радужный)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Новое время (Радужный)" tvg-logo="https://epg.iptvx.one/picons/novoe-vremia.png" group-title="РЕГИОНАЛЬНЫЕ", Новое время (Радужный)
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Новое Телевидение Сарова" tvg-logo="https://i.ibb.co/T8Ztd41/image-99.png" group-title="РЕГИОНАЛЬНЫЕ", Новое Телевидение Сарова
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_NN_NTS/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/gM7H7vHK/image-52.png" group-title="РЕГИОНАЛЬНЫЕ", Новочеркасск ТВ
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/novocherkassk.png" group-title="РЕГИОНАЛЬНЫЕ", Новочеркасск ТВ
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_NOVOCHERKASSK/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/WNbdPhBC/image-53.png" group-title="РЕГИОНАЛЬНЫЕ", Новошахтинск ТВ
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/novoshahtinsk.png" group-title="РЕГИОНАЛЬНЫЕ", Новошахтинск ТВ
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_NOVOSHAHTINSK/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/S7KXbx4V/image-54.png" group-title="РЕГИОНАЛЬНЫЕ", Новый Век (Тамбов)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/53
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/novy-vek-tambov.png" group-title="РЕГИОНАЛЬНЫЕ", Новый Век (Тамбов)
 https://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/CpbxNp1W/image-55.png" group-title="РЕГИОНАЛЬНЫЕ", НСК 49
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/nsk49.png" group-title="РЕГИОНАЛЬНЫЕ", НСК 49
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_49CHANNEL/variant.m3u8
-#EXTINF:-1 tvg-name="НТК Нижнеудинск" tvg-logo="https://i.ibb.co/JwcpFmCL/image-56.png" group-title="РЕГИОНАЛЬНЫЕ", НТК Нижнеудинск
 
-http://171.22.212.250/NTK/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Z6JsdsZq/image-18.png" group-title="РЕГИОНАЛЬНЫЕ", НТМ (Мордовия)
-
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/ntm.png" group-title="РЕГИОНАЛЬНЫЕ", НТМ (Мордовия)
 https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/JwrcTQFY/image-19.png" group-title="РЕГИОНАЛЬНЫЕ", НТС Ирбит
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/nts-irbit.png" group-title="РЕГИОНАЛЬНЫЕ", НТС Ирбит
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Q3g9HtVp/image-20.png" group-title="РЕГИОНАЛЬНЫЕ", НТС Иркутск
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/nts-irkutsk.png" group-title="РЕГИОНАЛЬНЫЕ", НТС Иркутск
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_RENTVIRK/variant.m3u8
-#EXTINF:-1 tvg-name="Обком ТВ (Омск)" tvg-logo="https://i.ibb.co/NDtP8Dq/image-21.png" group-title="РЕГИОНАЛЬНЫЕ", Обком ТВ (Омск)
 
+#EXTINF:-1  tvg-logo="https://epg.iptvx.one/picons/obkom.png" group-title="РЕГИОНАЛЬНЫЕ", Обком ТВ (Омск)
 https://www.omsk-kprf.ru/hls/stream.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/6Rr4P43d/image-22.png" group-title="РЕГИОНАЛЬНЫЕ",Область 45 (Курган)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/oblast45.png" group-title="РЕГИОНАЛЬНЫЕ",Область 45 (Курган)
 http://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
-#EXTINF:-1 tvg-name="Овертайм ТВ" tvg-logo="https://i.ibb.co/KcTvjVbQ/image-23.png" group-title="РЕГИОНАЛЬНЫЕ", Овертайм ТВ
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-logo="https://i124.fastpic.org/big/2024/1001/04/0dfa11dc89b2cc76e3d7d717cc872604.png?md5=DXllmFgvvxCrdWoptQlK6g&expires=1771722000" group-title="РЕГИОНАЛЬНЫЕ", Овертайм (Ставрополь)
 https://live.overtime26.ru/app/potok/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Qsg5KpB/image-24.png" group-title="РЕГИОНАЛЬНЫЕ", Омск-ТВ
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i115.fastpic.org/big/2021/0927/60/1ba00e2e75b50349bfb16507b1c40a60.png?md5=o94rBugDQOftrRFmQ4jrSw&expires=1771722000" group-title="РЕГИОНАЛЬНЫЕ", Омск-ТВ
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OMSKTV/variant.m3u8
-#EXTINF:-1 tvg-name="ОТВ (Серпухов)" tvg-logo="https://i.ibb.co/5hmKj5w7/image-52.png" group-title="РЕГИОНАЛЬНЫЕ", Оплот
 
+#EXTINF:-1 tvg-logo="https://i120.fastpic.org/big/2022/0605/91/65b1b206abc966dd4410c1e14f299c91.png?md5=Anm_Crh7Mw4aTkBDJBA5lA&expires=1771722000" group-title="РЕГИОНАЛЬНЫЕ", Оплот
 http://91.214.48.158:4022/udp/224.2.2.4:10000
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/bcxpHbv/image-28.png" group-title="РЕГИОНАЛЬНЫЕ", ОРТ-Планета (Оренбург)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/zHRQyrxC/image-29.png" group-title="РЕГИОНАЛЬНЫЕ", Осетия-Ирыстон
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-https://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8
-#EXTINF:-1 tvg-name="ОТВ (Серпухов)" tvg-logo="https://i.ibb.co/VYZnYQnC/image-31.png" group-title="РЕГИОНАЛЬНЫЕ", ОТВ (Серпухов)
-
+#EXTINF:-1 tvg-name="ОТВ (Серпухов)" tvg-logo="https://zsv.ucoz.net/Logo2/serpuhov.png" group-title="РЕГИОНАЛЬНЫЕ", ОТВ (Серпухов)
 http://live-otvmedia.cdnvideo.ru/otvmedia/otvmedia/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/twRPHTvS/image-32.png" group-title="РЕГИОНАЛЬНЫЕ", ОТВ Екатеринбург
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/otv-eburg.png" group-title="РЕГИОНАЛЬНЫЕ", ОТВ Екатеринбург
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
-#EXTINF:-1 tvg-name="ОТВ Екатеринбург (Нижний Тагил)" tvg-logo="https://i.ibb.co/twRPHTvS/image-32.png" group-title="РЕГИОНАЛЬНЫЕ", ОТВ Екатеринбург (Нижний Тагил)
 
-http://46.48.96.88:81/udp/239.255.3.82:1234
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/twRPHTvS/image-32.png" group-title="РЕГИОНАЛЬНЫЕ", ОТВ Екатеринбург (Талица)
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_INKOMTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/3y9zM31p/image-33.png" group-title="РЕГИОНАЛЬНЫЕ", ОТВ Приморье
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/otv-primorie.png" group-title="РЕГИОНАЛЬНЫЕ", ОТВ Приморье
 http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/BK52grzM/image-34.png" group-title="РЕГИОНАЛЬНЫЕ", ОТВ Сахалин
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/otv-saxalin.png" group-title="РЕГИОНАЛЬНЫЕ", ОТВ Сахалин
 http://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Z1NwjSLD/image-35.png" group-title="РЕГИОНАЛЬНЫЕ", ОТВ Челябинск
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/otv-chelyabinsk.png" group-title="РЕГИОНАЛЬНЫЕ", ОТВ Челябинск
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="otv-primorie" tvg-name="ОТВ-Владивосток" tvg-logo="https://i.ibb.co/3y9zM31p/image-33.png" group-title="РЕГИОНАЛЬНЫЕ", ОТВ-Владивосток
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="otv-primorie" tvg-name="ОТВ-Владивосток" tvg-logo="https://epg.iptvx.one/picons/otv-primorie.png" group-title="РЕГИОНАЛЬНЫЕ", ОТВ-Владивосток
 https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ots" tvg-name="ОТС" tvg-logo="https://i.ibb.co/PZsj4SNK/image-36.png" group-title="РЕГИОНАЛЬНЫЕ", ОТС
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ots" tvg-name="ОТС" tvg-logo="https://epg.iptvx.one/picons/ots.png" group-title="РЕГИОНАЛЬНЫЕ", ОТС
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/wF1pPMQK/image-37.png" group-title="РЕГИОНАЛЬНЫЕ", Панорама ТВ (Тверь)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/panorama-tv-tver.png" group-title="РЕГИОНАЛЬНЫЕ", Панорама ТВ (Тверь)
 https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_PANORAMATV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Pv8SyZYM/image-38.png" group-title="РЕГИОНАЛЬНЫЕ", Первоуральск ТВ
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/pervouralsk-tv.png" group-title="РЕГИОНАЛЬНЫЕ", Первоуральск ТВ
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_PERVOURALSKTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/fTs8WZy/image-40.png" group-title="РЕГИОНАЛЬНЫЕ", Первый городской (Омск)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/pervy-gorodskoy-omsk.png" group-title="РЕГИОНАЛЬНЫЕ", Первый городской (Омск)
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_1GORODSKOY/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Z6SjzxW8/image-41.png" group-title="РЕГИОНАЛЬНЫЕ", Первый городской HD (Киров)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/pervy-gorodskoy-kirov.png" group-title="РЕГИОНАЛЬНЫЕ", Первый городской HD (Киров)
 https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R03_PERVYGORODSKOY/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ld1GqnDQ/image-44.png" group-title="РЕГИОНАЛЬНЫЕ", Первый Крымский
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-logo="https://zsv.ucoz.net/Logo2/1krym.png" group-title="РЕГИОНАЛЬНЫЕ", Первый Крымский
 http://live1.trkcrimea.ru/1tvcrimea.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/qLgB3sYJ/image-26.png" group-title="РЕГИОНАЛЬНЫЕ", Первый Молодежный
 
-
-https://autopilot.catcast.tv/content/48542/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/cBHJ7RZ/image-43.png" group-title="РЕГИОНАЛЬНЫЕ", Первый областной Орел
-
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/pervy-oblastnoy-orel.png" group-title="РЕГИОНАЛЬНЫЕ", Первый областной Орел
 https://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_ORL_PERVOBL/variant.m3u8
-#EXTINF:-1 tvg-name="Первый Псковский" tvg-logo="https://i.ibb.co/35SsDwd4/image-44.png" group-title="РЕГИОНАЛЬНЫЕ", Первый Псковский
 
+#EXTINF:-1 tvg-name="Первый Псковский" tvg-logo="https://epg.iptvx.one/picons/pervy-pskovsky.png" group-title="РЕГИОНАЛЬНЫЕ", Первый Псковский
 http://live-3.otcnet.ru/pskov/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/bjZJxQ7G/image-45.png" group-title="РЕГИОНАЛЬНЫЕ", Первый Ростовский
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/pervy-rostovsky.png" group-title="РЕГИОНАЛЬНЫЕ", Первый Ростовский
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R06_FIRST_ROSTOV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/k24p5042/image-53.png" group-title="РЕГИОНАЛЬНЫЕ", Первый Тульский
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/pervy-tulsky.png" group-title="РЕГИОНАЛЬНЫЕ", Первый Тульский
 https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_PERV_TUL/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/NdRk4qHr/image-29.png" group-title="РЕГИОНАЛЬНЫЕ", Первый Ярославский
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/pervy-yaroslavsky.png" group-title="РЕГИОНАЛЬНЫЕ", Первый Ярославский
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mrYdwB2Y/image-56.png" group-title="РЕГИОНАЛЬНЫЕ", Пинск ТВ
 
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pinsk-tv.png" group-title="РЕГИОНАЛЬНЫЕ", Пинск ТВ
 http://87.252.229.200:8083/pinsk
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vCgdz9LN/image-2025-07-10-T141801-325.png" group-title="РЕГИОНАЛЬНЫЕ", Прибой ТВ
 
-http://iptv46.mcx-ix.ru:8077/priboy_tv/index.m3u8
-#EXTINF:-1 tvg-name="Прим 24" tvg-logo="https://i.ibb.co/h17132Yc/image-52.png" group-title="РЕГИОНАЛЬНЫЕ", Прим 24
-
+#EXTINF:-1 tvg-name="Прим 24" tvg-logo="https://epg.iptvx.one/picons/prim24.png" group-title="РЕГИОНАЛЬНЫЕ", Прим 24
 http://flussonic2.podryad.net/prim24/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/ZRNGLW5b/image-51.png" group-title="РЕГИОНАЛЬНЫЕ", Прима
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/prima.png" group-title="РЕГИОНАЛЬНЫЕ", Прима
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/jP25dPKg/image-54.png" group-title="РЕГИОНАЛЬНЫЕ", Про жизнь (Прокопьевск)
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/pro-zhizn.png" group-title="РЕГИОНАЛЬНЫЕ", Про жизнь (Прокопьевск)
 https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_PROJIZN/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/C3fSzY4D/image-50.png" group-title="РЕГИОНАЛЬНЫЕ",  Продвижение (Астрахань)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/prodvijenie.png" group-title="РЕГИОНАЛЬНЫЕ",  Продвижение (Астрахань)
 https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R03_PRO_ASTRAKHAN/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/C3fSzY4D/image-50.png" group-title="РЕГИОНАЛЬНЫЕ", Продвижение (Ахтубинск)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/prodvijenie.png" group-title="РЕГИОНАЛЬНЫЕ", Продвижение (Ахтубинск)
 https://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R04_AKHTUBINSK/variant.m3u8
-#EXTINF:-1 tvg-id="Prodvizhenie.ru" tvg-name="Продвижение" tvg-logo="https://i.ibb.co/C3fSzY4D/image-50.png" group-title="РЕГИОНАЛЬНЫЕ", Продвижение (Асино)
 
+#EXTINF:-1 tvg-id="Prodvizhenie.ru" tvg-name="Продвижение" tvg-logo="https://zsv.ucoz.net/Logo2/prodvijenie.png" group-title="РЕГИОНАЛЬНЫЕ", Продвижение (Асино)
 https://dvhome.ru/hls/tv.m3u8
-#EXTINF:-1 tvg-id="Prodvizhenie.ru" tvg-name="Продвижение" tvg-logo="https://i.ibb.co/C3fSzY4D/image-50.png" group-title="РЕГИОНАЛЬНЫЕ", Продвижение (Колпашево)
 
+#EXTINF:-1 tvg-id="Prodvizhenie.ru" tvg-name="Продвижение" tvg-logo="https://zsv.ucoz.net/Logo2/prodvijenie.png" group-title="РЕГИОНАЛЬНЫЕ", Продвижение (Колпашево)
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Kolpashevo/hls/1024x576@1272/playlist.m3u8
-#EXTINF:-1 tvg-id="Prodvizhenie.ru" tvg-name="Продвижение" tvg-logo="https://i.ibb.co/C3fSzY4D/image-50.png" group-title="РЕГИОНАЛЬНЫЕ", Продвижение (Колпашево)
 
+#EXTINF:-1 tvg-id="Prodvizhenie.ru" tvg-name="Продвижение" tvg-logo="https://zsv.ucoz.net/Logo2/prodvijenie.png" group-title="РЕГИОНАЛЬНЫЕ", Продвижение (Колпашево)
 http://video2.tvkkolpashevo.ru:8060/playlist.m3u8
-#EXTINF:-1 tvg-id="Prodvizhenie.ru" tvg-name="Продвижение" tvg-logo="https://i.ibb.co/C3fSzY4D/image-50.png" group-title="РЕГИОНАЛЬНЫЕ", Продвижение (Ленинск-Кузнецкий)
 
-http://83.166.243.97:8081/ltv1TNT/1/chunks.m3u8
-#EXTINF:-1 tvg-id="Prodvizhenie.ru" tvg-name="Продвижение" tvg-logo="https://i.ibb.co/C3fSzY4D/image-50.png" group-title="РЕГИОНАЛЬНЫЕ", Продвижение (Ленинск-Кузнецкий)
-
-http://83.166.243.97:8081/ltv1TNT/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Prodvizhenie.ru" tvg-name="Продвижение" tvg-logo="https://i.ibb.co/C3fSzY4D/image-50.png" group-title="РЕГИОНАЛЬНЫЕ", Продвижение (Новокузнецк)
-
+#EXTINF:-1 tvg-id="Prodvizhenie.ru" tvg-name="Продвижение" tvg-logo="https://zsv.ucoz.net/Logo2/prodvijenie.png" group-title="РЕГИОНАЛЬНЫЕ", Продвижение (Новокузнецк)
 https://tvn-tv.ru:81/hls/stream.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/C3fSzY4D/image-50.png" group-title="РЕГИОНАЛЬНЫЕ", Продвижение (Тагил)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/prodvijenie.png" group-title="РЕГИОНАЛЬНЫЕ", Продвижение (Тагил)
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TAGILTV_URAL_TAG/variant.m3u8
-#EXTINF:-1 tvg-id="Prodvizhenie.ru" tvg-name="Продвижение" tvg-logo="https://i.ibb.co/C3fSzY4D/image-50.png" group-title="РЕГИОНАЛЬНЫЕ", Продвижение (Усть-Кут)
 
-http://95.215.124.191:5000/udp/225.1.2.3:1234
-#EXTINF:-1 tvg-id="Prodvizhenie.ru" tvg-name="Продвижение" tvg-logo="https://i.ibb.co/C3fSzY4D/image-50.png" group-title="РЕГИОНАЛЬНЫЕ", Продвижение (Южно-Сахалинск)
-
+#EXTINF:-1 tvg-id="Prodvizhenie.ru" tvg-name="Продвижение" tvg-logo="https://zsv.ucoz.net/Logo2/prodvijenie.png" group-title="РЕГИОНАЛЬНЫЕ", Продвижение (Южно-Сахалинск)
 http://188.113.190.13/25/video.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Xk40nDVN/image-49.png" group-title="РЕГИОНАЛЬНЫЕ", Пыть-Ях Информ
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_PYT-YAHINFORM/variant.m3u8
-#EXTINF:-1 tvg-name="Раменской ТВ" tvg-logo="https://i.ibb.co/mV5ZQp2g/image-48.png" group-title="РЕГИОНАЛЬНЫЕ", Раменское ТВ HD
-
+#EXTINF:-1 tvg-name="Раменской ТВ" tvg-logo="https://epg.iptvx.one/picons/ramenskoe-tv.png" group-title="РЕГИОНАЛЬНЫЕ", Раменское ТВ HD
 https://e10-ll.facecast.net/rtv/0.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/bRMgMcbt/image-47.png" group-title="РЕГИОНАЛЬНЫЕ", РБК ТВ (Геленджик)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_KRDAR_RBC-GEL/variant.m3u8
-#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="РБК" tvg-logo="https://i.ibb.co/bRMgMcbt/image-47.png" group-title="РЕГИОНАЛЬНЫЕ", РБК ТВ (Краснодар)
-
-http://online-video.rbc.ru/kuban/index.m3u8
-#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="РБК" tvg-logo="https://i.ibb.co/bRMgMcbt/image-47.png" group-title="РЕГИОНАЛЬНЫЕ", РБК ТВ (Пермь)
-
-https://www.rbc-perm.ru/hls/live/index.m3u8
-#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="РБК" tvg-logo="https://i.ibb.co/bRMgMcbt/image-47.png" group-title="РЕГИОНАЛЬНЫЕ", РБК ТВ (Санкт-Петербург)
-
-http://online-video.rbc.ru/spb/3/chunklist.m3u8
-#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="РБК" tvg-logo="https://i.ibb.co/bRMgMcbt/image-47.png" group-title="РЕГИОНАЛЬНЫЕ", РБК ТВ (Черноземье)
-
-http://online-video.rbc.ru/chr/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/yKJjw6C/image-46.png" group-title="РЕГИОНАЛЬНЫЕ", Регион 29 (Архангельск)
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/region29.png" group-title="РЕГИОНАЛЬНЫЕ", Регион 29 (Архангельск)
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
-#EXTINF:-1 tvg-name="Регион 67" tvg-logo="https://i.ibb.co/WpxTP1CJ/image-45.png" group-title="РЕГИОНАЛЬНЫЕ", Регион 67
 
+#EXTINF:-1 tvg-name="Регион 67" tvg-logo="https://epg.iptvx.one/picons/region67.png" group-title="РЕГИОНАЛЬНЫЕ", Регион 67
 http://212.3.155.126:8181/udp/233.67.67.177:5510
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/M5QDWHR6/image-32.png" group-title="РЕГИОНАЛЬНЫЕ", Рен ТВ (Сочи)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_SCH/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Rksdq7YS/image-30.png" group-title="РЕГИОНАЛЬНЫЕ",Репортер 73 (Ульяновск)
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/rep73.png" group-title="РЕГИОНАЛЬНЫЕ",Репортер 73 (Ульяновск)
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
-#EXTINF:-1 tvg-name="Рика ТВ" tvg-logo="https://i.ibb.co/vxpbSqWQ/image-44.png" group-title="РЕГИОНАЛЬНЫЕ", Рика ТВ
 
-https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Kp0HXcy6/image-43.png" group-title="РЕГИОНАЛЬНЫЕ", РИМ
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/rimtv.png" group-title="РЕГИОНАЛЬНЫЕ", РИМ
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RIM_URAL_KURAL/variant.m3u8
-#EXTINF:-1 tvg-id="rifey-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Рифей-ТВ" tvg-logo="https://i.ibb.co/v47YwL63/image-28.png" group-title="РЕГИОНАЛЬНЫЕ", Рифей-ТВ
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="rifey-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Рифей-ТВ" tvg-logo="https://zsv.ucoz.net/Logo2/rifey.png" group-title="РЕГИОНАЛЬНЫЕ", Рифей-ТВ
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/0VnpDB48/image-33.png" group-title="РЕГИОНАЛЬНЫЕ", Россия 1-ГТРК Сочи
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_ROSSIA1_SCH/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/TD8gqxn6/image-40.png" group-title="РЕГИОНАЛЬНЫЕ", РТК Забайкалье (Читинская область)
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/zabajkajkalje.png" group-title="РЕГИОНАЛЬНЫЕ", РТК Забайкалье (Читинская область)
 http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_CHITA_RTKZAB/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/BKNBrmTd/image-38.png" group-title="РЕГИОНАЛЬНЫЕ", РТС (Хакасия)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/rts.png" group-title="РЕГИОНАЛЬНЫЕ", РТС (Хакасия)
 http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/3Y7sSDbY/image-37.png" group-title="РЕГИОНАЛЬНЫЕ", Рубцовск ТВ (Алтайский край)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_RUBCOSKTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Русский Север" tvg-logo="https://i.ibb.co/jBVPbn6/image-36.png" group-title="РЕГИОНАЛЬНЫЕ", Русский Север
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Русский Север" tvg-logo="https://epg.iptvx.one/picons/russky-sever.png" group-title="РЕГИОНАЛЬНЫЕ", Русский Север
 https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/208h52BP/image-35.png" group-title="РЕГИОНАЛЬНЫЕ", Русь (Кострома)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/rusj.png" group-title="РЕГИОНАЛЬНЫЕ", Русь (Кострома)
 http://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KOSTROMA_RUS/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/wZvkkbBj/image-33.png" group-title="РЕГИОНАЛЬНЫЕ", Рыбинск-40
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/rybinsk40.png" group-title="РЕГИОНАЛЬНЫЕ", Рыбинск-40
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/qLtvCgZJ/image-32.png" group-title="РЕГИОНАЛЬНЫЕ", С1 Сургут
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/s1-surgut.png" group-title="РЕГИОНАЛЬНЫЕ", С1 Сургут
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/j983PShL/image-82.png" group-title="РЕГИОНАЛЬНЫЕ", Салехард ТВ
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i115.fastpic.org/big/2021/0926/29/2f6d07e9c87177018b9c70036fd0e529.png?md5=sdYMMV8NlDhP7hug8itnLg&expires=1771725600" group-title="РЕГИОНАЛЬНЫЕ", Салехард ТВ
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SALEHARD_ONLINE/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/zwJZrqZ/image-55.png" group-title="РЕГИОНАЛЬНЫЕ", Салям
 
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/690.png" group-title="РЕГИОНАЛЬНЫЕ", Санкт-Петербург
 
-https://s45177.cdn.ngenix.net/hls/CH_R02_SALYAM/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/mCwMwxSx/image-36.png" group-title="РЕГИОНАЛЬНЫЕ", Санкт-Петербург
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONAL/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/9mjJZzvT/image-31.png" group-title="РЕГИОНАЛЬНЫЕ", Самара 24
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/samara24.png" group-title="РЕГИОНАЛЬНЫЕ", Самара 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_SAMARA24/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/XZLXB5Wm/image-30.png" group-title="РЕГИОНАЛЬНЫЕ",Самара ГИС
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/gis-samara.png" group-title="РЕГИОНАЛЬНЫЕ",Самара ГИС
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/6RgY7Xmv/image-29.png" group-title="РЕГИОНАЛЬНЫЕ", Самотлор (Нижневартовск)
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/samotlor-nv.png" group-title="РЕГИОНАЛЬНЫЕ", Самотлор (Нижневартовск)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_SAMOTLOR/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/qFJrW1Cn/image-28.png" group-title="РЕГИОНАЛЬНЫЕ", Сампо ТВ
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/sampo-tv.png" group-title="РЕГИОНАЛЬНЫЕ", Сампо ТВ
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
 https://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/hRPmFNRx/image-27.png" group-title="РЕГИОНАЛЬНЫЕ", Саратов 24
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/saratov-24.png" group-title="РЕГИОНАЛЬНЫЕ", Саратов 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
-#EXTINF:-1 tvg-name="Саров 24" tvg-logo="https://i.ibb.co/j9cWH512/image-24.png" group-title="РЕГИОНАЛЬНЫЕ", Саров 24
+#EXTINF:-1 tvg-name="Саров 24" tvg-logo="https://zsv.ucoz.net/Logo2/sarov-24.png" group-title="РЕГИОНАЛЬНЫЕ", Саров 24
 
 http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/hxf49Fmq/image-23.png" group-title="РЕГИОНАЛЬНЫЕ", Своё ТВ (Пермский край г. Березники)
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/svoyo-tv-berezniki.png" group-title="РЕГИОНАЛЬНЫЕ", Своё ТВ (Пермский край г. Березники)
 http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SVOETV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/vxvmjPrD/image-22.png" group-title="РЕГИОНАЛЬНЫЕ", Свое ТВ (Ставрополь)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/svoyo-tv-stavropol.png" group-title="РЕГИОНАЛЬНЫЕ", Своё ТВ Ставрополь
 http://svoetv.mediacdn.ru/cdn/svoetv/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="РБК" tvg-logo="https://i.ibb.co/C35H2znM/image-21.png" group-title="РЕГИОНАЛЬНЫЕ", СГДФ 24
 
-https://cdnfs.teonvi.com/sgdf/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Сделано в Кузбассе" tvg-logo="https://i.ibb.co/H6f34v2/image-20.png" group-title="РЕГИОНАЛЬНЫЕ", Сделано в Кузбассе
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-http://arbiter.bolshoe.tv/?path=streaming/sdelanovsibiri/71/hd/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyNSA2OjUzOjQ2IEFNJmhhc2hfdmFsdWU9VUdFSEJrK0NmSmdEVnVwOXNLN3BpZz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/1JGRBjTC/image-19.png" group-title="РЕГИОНАЛЬНЫЕ", Север (Нарьян-Мар)
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/sever.png" group-title="РЕГИОНАЛЬНЫЕ", Север (Нарьян-Мар)
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_SEVER/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/5XfhHZM9/image-18.png" group-title="РЕГИОНАЛЬНЫЕ", Сейм (Курск)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/seym-kursk.png" group-title="РЕГИОНАЛЬНЫЕ", Сейм (Курск)
 http://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_SEIM/variant.m3u8
-#EXTINF:-1 tvg-name="СИ ТВ (Новый Уренгой)" tvg-logo="https://i.ibb.co/R3YGJM1/resize-2024-10-07-T173908-986.png" group-title="РЕГИОНАЛЬНЫЕ", СИ ТВ (Новый Уренгой)
 
+#EXTINF:-1  tvg-logo="https://zsv.ucoz.net/Logo2/sitv.png" group-title="РЕГИОНАЛЬНЫЕ", СИ ТВ (Новый Уренгой)
 https://lifecam.sigma-ktv.ru/ctv/tracks-v2a1/index.m3u8
-#EXTINF:-1 tvg-name="СИ ТВ (Новый Уренгой)" tvg-logo="https://i.ibb.co/R3YGJM1/resize-2024-10-07-T173908-986.png" group-title="РЕГИОНАЛЬНЫЕ", СИ ТВ Ещё (Новый Уренгой)
 
+#EXTINF:-1 tvg-logo="https://zsv.ucoz.net/Logo2/sitve.png" group-title="РЕГИОНАЛЬНЫЕ", СИ ТВ Ещё (Новый Уренгой)
 https://lifecam.sigma-ktv.ru/eshche/tracks-v1a1/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/p6sKdSvD/image-17.png" group-title="РЕГИОНАЛЬНЫЕ", Сибай ТВ
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/stv.png" group-title="РЕГИОНАЛЬНЫЕ", Сибай ТВ
 https://s45177.cdn.ngenix.net/hls/CH_R02_SIBAYTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/MkTgh36G/image-16.png" group-title="РЕГИОНАЛЬНЫЕ",Сибирь 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/sibir24.png" group-title="РЕГИОНАЛЬНЫЕ",Сибирь 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
-#EXTINF:-1 tvg-name="Сигма ТВ HD (Новый Уренгой)" tvg-logo="https://i.ibb.co/ywZVKBs/image-48.png" group-title="РЕГИОНАЛЬНЫЕ", Симферополь 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/simfer24.png" group-title="РЕГИОНАЛЬНЫЕ", Симферополь 24
 https://simf.1tvcrimea.ru/simferopol24sd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kjn6ZbmQ/image-57.png" group-title="РЕГИОНАЛЬНЫЕ", СкиФ (Витебск)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-http://95.46.208.8:24432/skif
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1tt6J0wD/image-47.png" group-title="РЕГИОНАЛЬНЫЕ", СОК
-
+#EXTINF:-1 tvg-logo="https://zsv.ucoz.net/Logo2/cok.png" group-title="РЕГИОНАЛЬНЫЕ", СОК
 http://sok.ath.cx:8080/941f070df772290824bdf3906afc01f9/video.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/1fp5WSZS/image-15.png" group-title="РЕГИОНАЛЬНЫЕ", Соль ТВ (Соликамск)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/sol.png" group-title="РЕГИОНАЛЬНЫЕ", Соль ТВ (Соликамск)
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SOLTV/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xt3c3KWD/image-11.png" group-title="РЕГИОНАЛЬНЫЕ",Сосновоборская ТРК (СТВ) 
 
-http://188.134.7.215:4022/udp/235.10.10.153:1234
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Jw5d8KqB/image-64.png" group-title="РЕГИОНАЛЬНЫЕ", Сочи 24
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/sochi24.png" group-title="РЕГИОНАЛЬНЫЕ", Сочи24
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/BkdS0Fj/image-63.png" group-title="РЕГИОНАЛЬНЫЕ", СОЮЗ ТВ (Чусовой)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R04_SOYUZ_URAL_CHUS/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/FLRY3bH5/image-62.png" group-title="РЕГИОНАЛЬНЫЕ", СТВ 24 (Северодвинск)
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/stv24.png" group-title="РЕГИОНАЛЬНЫЕ",СТВ 24
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_STV24/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Q79Qdp5B/image-60.png" group-title="РЕГИОНАЛЬНЫЕ", СТВ Бузулук
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/stv-buz.png" group-title="РЕГИОНАЛЬНЫЕ", СТВ Бузулук
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R04_STV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/NgsdZptf/image-40.png" group-title="РЕГИОНАЛЬНЫЕ", СТВ (Севастополь)
 
-
-http://dmitry-tv.ddns.net/hls/zabava/region/SMRPL/CH_STV_SVTPL.m3u8
-#EXTINF:-1 tvg-id="RBKTV.ru" tvg-logo="https://i.ibb.co/tThbynk3/image-51.png" group-title="РЕГИОНАЛЬНЫЕ", СТВ (Тулун)
-
-http://tvip.btk.teleos.ru:8081/chid463/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="СТРК Сочи" tvg-logo="https://i.ibb.co/fGxqvz3G/image-59.png" group-title="РЕГИОНАЛЬНЫЕ", СТРК Сочи
-
+#EXTINF:-1 tvg-name="СТРК Сочи" tvg-logo="https://zsv.ucoz.net/Logo2/strk.png" group-title="РЕГИОНАЛЬНЫЕ", СТРК Сочи
 http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="СТС Киселевск" tvg-logo="https://i.ibb.co/JjHTLKfS/image-58.png" group-title="РЕГИОНАЛЬНЫЕ", СТС Киселевск
 
-http://81.161.126.82/1230/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Qv1SLjT3/image-57.png" group-title="РЕГИОНАЛЬНЫЕ", Сургут 24
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/surgut-24.png" group-title="РЕГИОНАЛЬНЫЕ", Сургут 24
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/wrWC1gKw/image-56.png" group-title="РЕГИОНАЛЬНЫЕ", ТVоя Тюмень
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/tvoya-tumen.png" group-title="РЕГИОНАЛЬНЫЕ", TVоя Тюмень
 https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TVOYATUMEN/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LX6c2kk6/image-14.png" group-title="РЕГИОНАЛЬНЫЕ", Таврия ТВ
 
+#EXTINF:-1 tvg-logo="https://zsv.ucoz.net/Logo2/tavria.png" group-title="РЕГИОНАЛЬНЫЕ", Таврия ТВ
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/qLX6T3PY/image-55.png" group-title="РЕГИОНАЛЬНЫЕ", Таганрог 5 (Таганрог)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R06_TAGANROG5/variant.m3u8
-#EXTINF:-1 tvg-id="Тагил ТВ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Тагил ТВ" tvg-logo="https://i.ibb.co/3kbdVJS/image-2024-10-07-T175152-488.png" group-title="РЕГИОНАЛЬНЫЕ", Тагил ТВ
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"  tvg-logo="https://epg.iptvx.one/picons/tagil-tv-24.png" group-title="РЕГИОНАЛЬНЫЕ", Тагил-ТВ 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TAGILTV_URAL_TAG/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/KxHprv5T/image-56.png" group-title="РЕГИОНАЛЬНЫЕ", Такт 24 (Курск)
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/takt.png" group-title="РЕГИОНАЛЬНЫЕ", Такт 24 (Курск)
 https://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KURSK_TAKT/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/p5hQ68Q/image-57.png" group-title="РЕГИОНАЛЬНЫЕ", Тамыр
 
-
-https://s45177.cdn.ngenix.net/hls/CH_R03_TAMYRTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/HDD68NLC/image-54.png" group-title="РЕГИОНАЛЬНЫЕ", Татарстан 24
-
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/tatarstan24.png" group-title="РЕГИОНАЛЬНЫЕ", Татарстан 24
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R02_EFIR24/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/GQpSzVC6/image-35.png" group-title="РЕГИОНАЛЬНЫЕ", ТВ-21+
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/tv21plus.png" group-title="РЕГИОНАЛЬНЫЕ", ТВ-21+
 http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
-#EXTINF:-1 tvg-name="ТВ Студия Факт (Тазовский)" tvg-logo="https://i.ibb.co/HLyg8mN0/image-53.png" group-title="РЕГИОНАЛЬНЫЕ", ТВ Студия Факт (Тазовский)
 
-https://042auhsnh0x.a.trbcdn.net/livemaster/lezlkenzbx_TV_Studia_Fakt/tracks-v1a1/mono.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ТВ-ИН (Магнитогоск)" tvg-logo="https://i.ibb.co/qYpsTxGs/image-52.png" group-title="РЕГИОНАЛЬНЫЕ", ТВ-ИН Магнитогорск HD
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ТВ-ИН (Магнитогоск)" tvg-logo="https://zsv.ucoz.net/Logo2/tv-in.png" group-title="РЕГИОНАЛЬНЫЕ", ТВ-ИН Магнитогорск HD
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/JW2RmTzJ/image-85.png" group-title="РЕГИОНАЛЬНЫЕ", ТВ7 (Абакан)
 
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/tv7-abakan.png" group-title="РЕГИОНАЛЬНЫЕ", ТВ7 (Абакан)
 https://ctv7.ru/live/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/JW2RmTzJ/image-85.png" group-title="РЕГИОНАЛЬНЫЕ", ТВ7 (Саяногорск)
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ТВ7 (Абакан)" vg-logo="https://epg.iptvx.one/picons/tv7-abakan.png" group-title="РЕГИОНАЛЬНЫЕ", ТВ7 (Саяногорск)
 https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R02_TV7_SAYAN/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/V0M7130K/image-7.png" group-title="РЕГИОНАЛЬНЫЕ", ТДК 42
 
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/tdk-42.png" group-title="РЕГИОНАЛЬНЫЕ", ТДК 42
 https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/s9p7wGFP/image-17.png" group-title="РЕГИОНАЛЬНЫЕ", ТЕО-ТВ HD
-РЕГИОНАЛЬНЫЕ
 
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/6783.png" group-title="РЕГИОНАЛЬНЫЕ", ТЕО-ТВ HD
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/ccvXbJ6x/image-51.png" group-title="РЕГИОНАЛЬНЫЕ", ТВИН (Зеленогорск)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/tvin.png" group-title="РЕГИОНАЛЬНЫЕ", ТВИН (Зеленогорск)
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_NTK_ZEL/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/XZ1YSYZc/image-50.png" group-title="РЕГИОНАЛЬНЫЕ", Тверской проспект
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/tverskoy-prospekt.png" group-title="РЕГИОНАЛЬНЫЕ", Тверской проспект
 https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/YFdz4ZzM/image-49.png" group-title="РЕГИОНАЛЬНЫЕ", ТВК (Красноярск)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/tvk-krasnoyarsk.png" group-title="РЕГИОНАЛЬНЫЕ", ТВК (Красноярск)
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_TVK24/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/xKg5jBXR/image-4.png" group-title="РЕГИОНАЛЬНЫЕ",ТВ Харьков Z
 
-http://212.193.53.254/app/potok/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/JRk4hfTq/image-46.png" group-title="РЕГИОНАЛЬНЫЕ", ТВЧ (Черноморск)
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-http://live.tvchernomorsk.cdnvideo.ru/tvchernomorsk/tvchernomorsk.sdp/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/vC1tbSmv/image-48.png" group-title="РЕГИОНАЛЬНЫЕ",Телевидение Богдановича
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BOGDNCHTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/pv7wPNp8/image-84.png" group-title="РЕГИОНАЛЬНЫЕ", Телевидение Саранска
-
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/tvs-saransk.png" group-title="РЕГИОНАЛЬНЫЕ", Телевидение Саранска
 https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_TVSARANSK/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84D9YCpv/image-38.png" group-title="РЕГИОНАЛЬНЫЕ", Теледом
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2139.png" group-title="РЕГИОНАЛЬНЫЕ", Теледом
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/236QfBtq/image-47.png" group-title="РЕГИОНАЛЬНЫЕ", Телекон 24 HD (Екатеринбург)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/telekon24-nt.png" group-title="РЕГИОНАЛЬНЫЕ", Телекон 24 HD (Екатеринбург)
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TELEKON24_URAL_EKT/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/mCs5YMQs/image-46.png" group-title="РЕГИОНАЛЬНЫЕ", Телемикс (Уссурийск)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/telemiks.png" group-title="РЕГИОНАЛЬНЫЕ", Телемикс (Уссурийск)
 https://s91030.cdn.ngenix.net/hls/CH_R25_TMX/variant.m3u8
-#EXTINF:-1 tvg-name="ТЕЛЕОС 1" tvg-logo="https://i.ibb.co/kgr07cnx/image-44.png" group-title="РЕГИОНАЛЬНЫЕ", ТЕЛЕОС 1
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-http://91.194.191.241:8081/chid323/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ТИВИСИ HD" tvg-logo="https://i.ibb.co/9kPVKrwC/image-43.png" group-title="РЕГИОНАЛЬНЫЕ", ТИ ВИ СИ HD
-
+#EXTINF:-1 tvg-name="ТИВИСИ HD" tvg-logo="https://zsv.ucoz.net/Logo2/tivisi.png" group-title="РЕГИОНАЛЬНЫЕ", ТИ ВИ СИ HD
 https://zrnr369ssda.a.trbcdn.net/livemaster/rpwpuqsjap_tvstv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/kVYXzFMy/image-41.png" group-title="РЕГИОНАЛЬНЫЕ", Тивиком (Улан-Удэ)
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/tivikom.png" group-title="РЕГИОНАЛЬНЫЕ", Тивиком (Улан-Удэ)
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/zhZ28G4k/image-40.png" group-title="РЕГИОНАЛЬНЫЕ", ТКР Рязань
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/trk-ryazan.png" group-title="РЕГИОНАЛЬНЫЕ", ТКР Рязань
 https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/4wJ4Vgt5/image-38.png" group-title="РЕГИОНАЛЬНЫЕ", ТНВ-Планета
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/tnv.png" group-title="РЕГИОНАЛЬНЫЕ", ТНВ-Планета
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ТНВ-Татарстан" tvg-logo="https://i.ibb.co/k2vjJ7zL/image-36.png" group-title="РЕГИОНАЛЬНЫЕ", ТНВ-Татарстан
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ТНВ-Татарстан" tvg-logo="https://epg.iptvx.one/picons/tnv-tat.png" group-title="РЕГИОНАЛЬНЫЕ", ТНВ-Татарстан
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
-#EXTINF:-1 tvg-id="tmtv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="TMTV" tvg-logo="https://i.ibb.co/Psz3VbzZ/image-34.png" group-title="РЕГИОНАЛЬНЫЕ", ТНР 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 tvg-id="tmtv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="TMTV" tvg-logo="https://epg.iptvx.one/picons/tnr24-nv.png" group-title="РЕГИОНАЛЬНЫЕ", ТНР 24
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/ch53g2PJ/image-34.png" group-title="РЕГИОНАЛЬНЫЕ", ТНТ-Сочи
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_TNT_SCH/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/yFsTDFC3/image-33.png" group-title="РЕГИОНАЛЬНЫЕ", Тобольское время
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/tobolsk.png" group-title="РЕГИОНАЛЬНЫЕ", Тобольское время
 http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TOBOLSKOEVREMYA/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/CRJPppy/image-32.png" group-title="РЕГИОНАЛЬНЫЕ", Толк ТВ
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/tolk.png" group-title="РЕГИОНАЛЬНЫЕ", Толк ТВ
 https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_TOLK/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/BHgHZWrw/image-4.png" group-title="РЕГИОНАЛЬНЫЕ", Толпар ТВ
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-http://81.30.52.114/576/576.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/XZbHQ3yS/image-31.png" group-title="РЕГИОНАЛЬНЫЕ", Тольятти 24
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/tolyatti24.png" group-title="РЕГИОНАЛЬНЫЕ", Тольятти 24
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/9mvByGXy/image-30.png" group-title="РЕГИОНАЛЬНЫЕ", Томское Время
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/tomskoe-vremia.png" group-title="РЕГИОНАЛЬНЫЕ", Томское Время
 https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
-#EXTINF:-1 tvg-name="Тосно ТВ" tvg-logo="https://i.ibb.co/Mdzy1yF/image-29.png" group-title="РЕГИОНАЛЬНЫЕ", Тосно ТВ
 
-http://tosnotv.ru/hlsshare/video.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/QVkrMRh/image-43.png" group-title="РЕГИОНАЛЬНЫЕ", ТРК-555 (Алушта)
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TRK555HD/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/wGyC8xC/image-28.png" group-title="РЕГИОНАЛЬНЫЕ",ТРК Кириши (Ленинградская область)
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/kirishi.png" group-title="РЕГИОНАЛЬНЫЕ",ТРК Кириши (Ленинградская область)
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_KIRISHI/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/B2FtCCYm/image-27.png" group-title="РЕГИОНАЛЬНЫЕ", ТРК Юганск
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/trk-yugansk.png" group-title="РЕГИОНАЛЬНЫЕ", ТРК Юганск
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_YUGANSK/variant.m3u8
-#EXTINF:-1 tvg-name="Тротек ТВ (Троицк)" tvg-logo="https://i.ibb.co/TB43TNmS/image-26.png" group-title="РЕГИОНАЛЬНЫЕ", Тротек ТВ (Троицк)
 
-http://trotek.keenetic.pro/play.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/KcjgKf1N/image-24.png" group-title="РЕГИОНАЛЬНЫЕ", ТСТ (Черемхово)
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/tst-cheremchovo.png" group-title="РЕГИОНАЛЬНЫЕ", ТСТ (Черемхово)
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_TST/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/SXz7WM8b/image-22.png" group-title="РЕГИОНАЛЬНЫЕ", Туапсе 24
 
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo3/tuapse24.png" group-title="РЕГИОНАЛЬНЫЕ", Туапсе 24
 http://185.185.69.62:8084/hls/tuapse24.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/cck8d8Cq/image-21.png" group-title="РЕГИОНАЛЬНЫЕ", Тува 24 (Кызыл)
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/tuva24.png" group-title="РЕГИОНАЛЬНЫЕ", Тува 24 (Кызыл)
 https://s93498.cdn.ngenix.net/hls/CH_R01_TUVA24/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/YFGF13VP/image-19.png" group-title="РЕГИОНАЛЬНЫЕ", Туган Тел
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/tugan-tel.png" group-title="РЕГИОНАЛЬНЫЕ", Туган Тел
 https://s45177.cdn.ngenix.net/hls/CH_R01_TUGANTEL/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/5hZLD9TR/image-18.png" group-title="РЕГИОНАЛЬНЫЕ", Туринская телекомпания Вектор
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i115.fastpic.org/big/2021/0927/8a/2031dfd257e4e6500643dd09c10c818a.png?md5=0ye-wAjK14drjqbEP9LVmg&expires=1771758000" group-title="РЕГИОНАЛЬНЫЕ", Туринская телекомпания Вектор
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VEKTOR/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/67Dc0Mdj/image-17.png" group-title="РЕГИОНАЛЬНЫЕ", Тында ТВ
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-https://s84942.cdn.ngenix.net/hls/CH_R28_TYNDATV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/7dWVWwLC/image-16.png" group-title="РЕГИОНАЛЬНЫЕ", Тюменское время
-
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/tumenskoe-vremia.png" group-title="РЕГИОНАЛЬНЫЕ", Тюменское время
 https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/gLTZXLrG/image-15.png" group-title="РЕГИОНАЛЬНЫЕ", Удмуртия
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/udmurtia.png" group-title="РЕГИОНАЛЬНЫЕ", Удмуртия
 http://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/PssYB840/image-14.png" group-title="РЕГИОНАЛЬНЫЕ", УлПравда ТВ
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo3/ulianovskaya-pravda.png" group-title="РЕГИОНАЛЬНЫЕ", УлПравда ТВ
 https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/LD7b5bHF/image-12.png" group-title="РЕГИОНАЛЬНЫЕ", Урал 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo3/ural24.png" group-title="РЕГИОНАЛЬНЫЕ", Урал 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/67mnYspv/image-11.png" group-title="РЕГИОНАЛЬНЫЕ", Учалы ТВ
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo3/uchaly-tv.png" group-title="РЕГИОНАЛЬНЫЕ", Учалы ТВ
 http://s45177.cdn.ngenix.net/hls/CH_R02_UCHALYTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/ZnfXZXM/image-9.png" group-title="РЕГИОНАЛЬНЫЕ", Хамдан-Калмыкия 24
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/xamdan-kalm24.png" group-title="РЕГИОНАЛЬНЫЕ", Хамдан-Калмыкия 24
 http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/S1VXwwC/image-86.png" group-title="РЕГИОНАЛЬНЫЕ", Хузур ТВ
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+tvg-logo="https://epg.iptvx.one/picons/xuzur-tv.png" group-title="РЕГИОНАЛЬНЫЕ", Хузур ТВ
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R02_HUZUR/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/kswGwpFD/image-4.png" group-title="РЕГИОНАЛЬНЫЕ", Чаваш Ен
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/chavash-en.png" group-title="РЕГИОНАЛЬНЫЕ", Чаваш Ен
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/d4hDkg7Y/image-46.png" group-title="РЕГИОНАЛЬНЫЕ", Шахты ТВ
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo3/shakhty-tv.png" group-title="РЕГИОНАЛЬНЫЕ", Шахты ТВ
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_SHAHTY/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Hw7qHZQ/image-30.png" group-title="РЕГИОНАЛЬНЫЕ",Шаян ТВ
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
-https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/PzrFnjjb/image-45.png" group-title="РЕГИОНАЛЬНЫЕ", Щелковское ТВ
-
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo3/tv41.png" group-title="РЕГИОНАЛЬНЫЕ", Щелковское ТВ
 https://stream1.tv41.ru/hls/live.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/RGkJGJzr/image-44.png" group-title="РЕГИОНАЛЬНЫЕ", Экспресс
 
-
-https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6R85WFJZ/image-43.png" group-title="РЕГИОНАЛЬНЫЕ", Эрос ТВ (Волгоград)
-
-
-rtmp://erostv.cdnvideo.ru/erostv/erostv.sdp
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/sd8crKkp/image-41.png" group-title="РЕГИОНАЛЬНЫЕ", Эфир (Казань)
-
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/efir24-relax.png" group-title="РЕГИОНАЛЬНЫЕ", Эфир (Казань)
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/wht2gDJn/image-40.png" group-title="РЕГИОНАЛЬНЫЕ", Эхо ТВ 24 (Новоуральск)
 
-
-http://dmitry-tv.ddns.net/hls/region/CH_ECHOTV24_NURLSK.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/zVnRwW1g/image-28.png" group-title="РЕГИОНАЛЬНЫЕ", Эхо ТВ
-
-
-http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/PZvTJY5Q/image-38.png" group-title="РЕГИОНАЛЬНЫЕ", Югра
-
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/yugra.png" group-title="РЕГИОНАЛЬНЫЕ", Югра
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/rfyjXKp1/image-37.png" group-title="РЕГИОНАЛЬНЫЕ", Юрган
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/yurgan.png" group-title="РЕГИОНАЛЬНЫЕ", Юрган
 https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/xKggLrhm/image-36.png" group-title="РЕГИОНАЛЬНЫЕ", ЮТВ (Чебоксары)
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo3/utv-cheboxary.png" group-title="РЕГИОНАЛЬНЫЕ", ЮТВ (Чебоксары)
 https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_UTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/9HF9L521/image-35.png" group-title="РЕГИОНАЛЬНЫЕ", ЮУрГУ ТВ HD Челябинск
 
-
-http://dmitry-tv.ddns.net/hls/region/CH_YURGUTVHD720_CHEL.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/gFR181VV/image-34.png" group-title="РЕГИОНАЛЬНЫЕ", Якутия 24
-
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo3/yakutia24.png" group-title="РЕГИОНАЛЬНЫЕ", Якутия 24
 https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/vgGb5wg/image-31.png" group-title="РЕГИОНАЛЬНЫЕ", Ялта ТВ
 
-
-http://195.26.83.96:7029/play/a006
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Zp8qVvz4/image-33.png" group-title="РЕГИОНАЛЬНЫЕ", Ямал 1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa Safari/537.36 Edg/109.0.1518.69
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo3/yamal1.png" group-title="РЕГИОНАЛЬНЫЕ", Ямал 1
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/1fpjXFHW/image-32.png" group-title="РЕГИОНАЛЬНЫЕ", Ямал-Регион
 
-
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/yamal-region.png" group-title="РЕГИОНАЛЬНЫЕ", Ямал-Регион
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
 
 
