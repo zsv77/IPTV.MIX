@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz"
+#EXTM3U 
 
 
 
@@ -128,8 +128,6 @@ https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ" tvg-logo="http://ru.epg.one/img2/2761.png",Калейдоскоп ТВ
 http://tv.streams.baikal-telecom.net:8080/KaleidoskopTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo2/KultMedia.png",Культ Медиа
-http://213.108.175.226/telplushd/index.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ" tvg-logo="http://ru.epg.one/img2/2304.png",Телекафе
 http://188.225.31.197/bpk-tv/000000206/tve/index.m3u8
 
@@ -316,11 +314,7 @@ http://catchup.videoline.ru/asvtv/index.m3u8
 http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/2275.png",Мир Сериала
 http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://ru.epg.one/img2/3357.png",Мосфильм. Золотая коллекция HD
-http://5.8.11.96:8099/mosfilmhd/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://ru.epg.one/img2/3357.png",Мосфильм. Золотая коллекция HD
-http://85.198.71.82/mosfilm-hd/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://ru.epg.one/img2/3357.png",Мосфильм. Золотая коллекция
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://ru.epg.one/img2/3357.png",Мосфильм. Золотая коллекция (+2)
 http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://ru.epg.one/img2/834.png",Дом кино
 http://176.96.241.40/DomKino/index.m3u8
@@ -609,45 +603,45 @@ https://kino-stream.online/hls/DTRMUSIC1.m3u8
 http://cdn-01.bonus-tv.ru/tntmusic/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/FONMusic.png",FON MUSIC HD
 https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://ru.epg.one/img2/681.png",Europa Plus TV HD
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://ru.epg.one/img2/681.png" ,Europa Plus TV HD
 http://185.234.59.200:8080/europa_plus_tv_hd/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/TMF.png" tvg-id="no_epg_music",TMF RUS
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/TMF.png" tvg-id="no_epg_music" ,TMF RUS
 https://edge1-eu-west.picarto.tv/stream/hls/golive+TMFRUS/1_0/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/897.png"  ,Муз ТВ HD
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/897.png" ,Муз ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/Dance80.png" tvg-id="no_epg_music",DanceHits80
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/Dance80.png" tvg-id="no_epg_music" ,DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/TheVoice.png" tvg-id="no_epg_music",THE VOICE
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/TheVoice.png" tvg-id="no_epg_music" ,THE VOICE
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ"  tvg-logo="https://zsv.ucoz.net/Logo/KroneHit.png" tvg-id="no_epg_music",Kronehit TV
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ"  tvg-logo="https://zsv.ucoz.net/Logo/KroneHit.png" tvg-id="no_epg_music" ,Kronehit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/Deluxe.png",Deluxe Music
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/Deluxe.png" ,Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" audio-track="rus" tvg-logo="https://zsv.ucoz.net/Logo/DeluxeRap.png" tvg-id="no_epg_music",Deluxe Rap
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" audio-track="rus" tvg-logo="https://zsv.ucoz.net/Logo/DeluxeRap.png" tvg-id="no_epg_music" ,Deluxe Rap
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://ru.epg.one/img2/5369.png",Страна FM
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://ru.epg.one/img2/5369.png" ,Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MIXM.png" tvg-id="no_epg_music",MIXM TV
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MIXM.png" tvg-id="no_epg_music" ,MIXM TV
 http://89.179.247.144/hls/mixm.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://ru.epg.one/img2/4037.png",1HD Music
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://ru.epg.one/img2/4037.png" ,1HD Music
 http://91.247.68.229:8000/play/eee/index.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/4373.png",BRIDGE CLASSIC
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/4373.png" ,BRIDGE CLASSIC
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/ChdTV.png" tvg-id="no_epg_music",CHD-TV RU Rock HD
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/ChdTV.png" tvg-id="no_epg_music" ,CHD-TV RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/ChdTV.png" tvg-id="no_epg_music",CHD-TV Rock HD
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/ChdTV.png" tvg-id="no_epg_music" ,CHD-TV Rock HD
 http://194.26.229.213/chdtv_rock/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-id="no_epg_music",Rock TV BR
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-id="no_epg_music" ,Rock TV BR
 https://video03.logicahost.com.br/tvrockhd/tvrockhd/chunklist_w1624224756.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo2/RockTV2.png" tvg-id="no_epg_music",ROCK TV
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo2/RockTV2.png" tvg-id="no_epg_music" ,ROCK TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo2/RockTV2.png" tvg-id="no_epg_music",ROCK TV
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo2/RockTV2.png" tvg-id="no_epg_music" ,ROCK TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-id="no_epg_music",ROCK MUSIC
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-id="no_epg_music" ,ROCK MUSIC
 https://rpn3.bozztv.com/dvrfl07/ushba-m2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/2412.png",О2ТВ HD
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/2412.png" ,О2ТВ HD
 http://77.232.131.211/O2TV/index.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/2409.png",Russian MusicBox
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/2409.png" ,Russian MusicBox
 http://www.mitvpro.online:88/BcNOztZBZkc7vCE/vvsvmBOLrcEzKYX/567469
 
 
@@ -726,7 +720,7 @@ http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
 #EXTINF:0 group-title="СПОРТИВНЫЕ" tvg-logo="http://epg.one/img2/7239.png",Setanta Sports 2 HD
 http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
-#EXTINF:0 group-title="СПОРТИВНЫЕ" ,Trace Sport Stars HD
+#EXTINF:0 group-title="СПОРТИВНЫЕ" tvg-logo="https://epg.iptvx.one/picons/trace-sport-stars.png",Trace Sport Stars HD
 http://188.225.31.197/bpk-tv/000001122/tve/index.m3u8
 
 
@@ -1325,7 +1319,7 @@ https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_OTV/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ots" tvg-name="ОТС" tvg-logo="https://epg.iptvx.one/picons/ots.png" group-title="РЕГИОНАЛЬНЫЕ", ОТС
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/panorama-tv-tver.png" group-title="РЕГИОНАЛЬНЫЕ", Панорама ТВ (Тверь)
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo3/panoramatv.png" group-title="РЕГИОНАЛЬНЫЕ", Панорама ТВ (Тверь)
 https://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_PANORAMATV/variant.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/pervouralsk-tv.png" group-title="РЕГИОНАЛЬНЫЕ", Первоуральск ТВ
@@ -1355,16 +1349,16 @@ https://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_TULA_PERV_TUL/variant
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/pervy-yaroslavsky.png" group-title="РЕГИОНАЛЬНЫЕ", Первый Ярославский
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pinsk-tv.png" group-title="РЕГИОНАЛЬНЫЕ", Пинск ТВ
+#EXTINF:-1 tvg-logo="https://zsv.ucoz.net/Logo3/pinsktv.png" group-title="РЕГИОНАЛЬНЫЕ", Пинск ТВ
 http://87.252.229.200:8083/pinsk
 
-#EXTINF:-1 tvg-name="Прим 24" tvg-logo="https://epg.iptvx.one/picons/prim24.png" group-title="РЕГИОНАЛЬНЫЕ", Прим 24
+#EXTINF:-1 tvg-name="Прим 24" tvg-logo="https://zsv.ucoz.net/Logo3/prim24.png" group-title="РЕГИОНАЛЬНЫЕ", Прим 24
 http://flussonic2.podryad.net/prim24/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/prima.png" group-title="РЕГИОНАЛЬНЫЕ", Прима
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/pro-zhizn.png" group-title="РЕГИОНАЛЬНЫЕ", Про жизнь (Прокопьевск)
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo3/projizn.png" group-title="РЕГИОНАЛЬНЫЕ", Про жизнь (Прокопьевск)
 https://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_PROJIZN/variant.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/prodvijenie.png" group-title="РЕГИОНАЛЬНЫЕ",  Продвижение (Астрахань)
@@ -1409,7 +1403,7 @@ http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RIM_URAL_KURAL/variant.m
 #EXTINF:-1 tvg-id="rifey-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Рифей-ТВ" tvg-logo="https://zsv.ucoz.net/Logo2/rifey.png" group-title="РЕГИОНАЛЬНЫЕ", Рифей-ТВ
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/zabajkajkalje.png" group-title="РЕГИОНАЛЬНЫЕ", РТК Забайкалье (Читинская область)
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo3/3rtk.png" group-title="РЕГИОНАЛЬНЫЕ", РТК Забайкалье (Читинская область)
 http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_CHITA_RTKZAB/variant.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/rts.png" group-title="РЕГИОНАЛЬНЫЕ", РТС (Хакасия)
@@ -1421,14 +1415,11 @@ https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/rusj.png" group-title="РЕГИОНАЛЬНЫЕ", Русь (Кострома)
 http://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KOSTROMA_RUS/variant.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/rybinsk40.png" group-title="РЕГИОНАЛЬНЫЕ", Рыбинск-40
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo3/Rybinsk-40.png" group-title="РЕГИОНАЛЬНЫЕ", Рыбинск-40
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/s1-surgut.png" group-title="РЕГИОНАЛЬНЫЕ", С1 Сургут
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo3/s1-surgut.png" group-title="РЕГИОНАЛЬНЫЕ", С1 Сургут
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i115.fastpic.org/big/2021/0926/29/2f6d07e9c87177018b9c70036fd0e529.png?md5=sdYMMV8NlDhP7hug8itnLg&expires=1771725600" group-title="РЕГИОНАЛЬНЫЕ", Салехард ТВ
-https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SALEHARD_ONLINE/variant.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/690.png" group-title="РЕГИОНАЛЬНЫЕ", Санкт-Петербург
 
@@ -1439,7 +1430,7 @@ https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_SAMARA24/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/gis-samara.png" group-title="РЕГИОНАЛЬНЫЕ",Самара ГИС
 
 https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/samotlor-nv.png" group-title="РЕГИОНАЛЬНЫЕ", Самотлор (Нижневартовск)
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo3/samotlor.png" group-title="РЕГИОНАЛЬНЫЕ", Самотлор (Нижневартовск)
 
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_SAMOTLOR/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/sampo-tv.png" group-title="РЕГИОНАЛЬНЫЕ", Сампо ТВ
@@ -1451,7 +1442,7 @@ https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
 #EXTINF:-1 tvg-name="Саров 24" tvg-logo="https://zsv.ucoz.net/Logo2/sarov-24.png" group-title="РЕГИОНАЛЬНЫЕ", Саров 24
 
 http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://epg.iptvx.one/picons/svoyo-tv-berezniki.png" group-title="РЕГИОНАЛЬНЫЕ", Своё ТВ (Пермский край г. Березники)
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo3/svoetv.png" group-title="РЕГИОНАЛЬНЫЕ", Своё ТВ (Пермский край г. Березники)
 http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SVOETV/variant.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://zsv.ucoz.net/Logo2/svoyo-tv-stavropol.png" group-title="РЕГИОНАЛЬНЫЕ", Своё ТВ Ставрополь
@@ -2149,7 +2140,7 @@ http://cdn.adultiptv.net/pornstar.m3u8
 http://cdn.adultiptv.net/lesbian.m3u8
 #EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" tvg-id="no_epg_xxx" tvg-logo="http://epg.one/img2/3157.png",Cuckold
 http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" ,Candyman
+#EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" tvg-logo="https://zsv.ucoz.net/Logo3/Candyman.png",Candyman
 http://46.53.208.4:80/live/5026.m3u8
 #EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" tvg-logo="http://epg.one/img2/7079.png",Red Lips
 http://46.53.208.4:80/live/907.m3u8
