@@ -27,7 +27,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ",ТНТ HD
 https://livetv-app.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ",ТНТ HD
-http://155.212.208.236/THTHD/index.m3u8
+http://2.56.240.238/THTHD/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ",ТНТ (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ",ТНТ
@@ -37,7 +37,7 @@ https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1649.png" tvg-name="ТНТ4",ТНТ4 HD
 https://livetv-app.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1649.png" tvg-name="ТНТ4",ТНТ4 HD
-http://155.212.208.236/THT4HD/index.m3u8
+http://2.56.240.238/THT4HD/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/1649.png" tvg-name="ТНТ4",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/79.png" tvg-name="СТС",СТС (Смоленск)
@@ -87,7 +87,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ"  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/898.png" tvg-name="Ю ТВ",Ю ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/1003.png" tvg-name="Пятница!",Пятница! HD
-http://155.212.208.236/friday/index.m3u8
+http://2.56.240.238/friday/index.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/1003.png" tvg-name="Пятница!",Пятница! (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"  tvg-logo="http://epg.one/img2/1003.png" tvg-name="Пятница!",Пятница!
@@ -182,9 +182,9 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b516000
 
 
 
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/1371.png",Аmedia 1 HD
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/1371.png",Amedia 1
 http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://ru.epg.one/img2/2492.png",Аmedia 2
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://ru.epg.one/img2/2492.png",Amedia 2
 http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://ru.epg.one/img2/2007.png",Amedia Hit HD
 http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
@@ -331,11 +331,9 @@ http://88.135.128.20:8090/domkinopremium/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/53.png",Русский иллюзион
 http://188.225.31.197/bpk-tv/000004207/tve/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/401.png",Русский роман HD
-http://155.212.208.236/RussiaRoman/index.m3u8
+http://2.56.240.238/RussiaRoman/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/401.png",Русский роман
 http://vod.tuva.ru/rusroman/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/2829.png",Про любовь
-http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/novellatv.png",Novella TV
 http://46.53.208.4:80/live/1205.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/novellatv.png",Novella TV
@@ -348,14 +346,20 @@ https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/TehLetTv.png",ТЕХ ЛЕТ ТВ
 http://46.53.208.4:80/live/9489.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/TehLetTv.png",ТЕХ ЛЕТ ТВ
+http://minsk-cache07t.voka.tv/live/9489-req_5k_v5.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/gosfilmofond.png" ,Госфильмофонд. Машина времени
 http://178.163.2.151:4022/udp/234.0.0.190:2000
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/CinemaKosmos.png",Cinema Космос ТВ
 http://46.53.208.4:80/live/3870.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/CinemaKosmos.png",Cinema Космос ТВ
+http://minsk-cache07t.voka.tv/live/3870-req_5k_v5.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/sovkino.png" tvg-id="sovkino",Советское кино
 http://46.53.208.4:80/live/3018.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/sovkino.png" tvg-id="sovkino",Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/9002.png",Советская Киноклассика
+https://tinyurl.com/45x3xrpm/chid276/mpegts
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/muvitv.png",Муви ТВ
 http://46.53.208.4:80/live/5007.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/klassika-kino.png" ,Классика кино
@@ -368,7 +372,8 @@ https://tinyurl.com/45x3xrpm/chid413/mpegts
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/pro100.png",Pro100
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://ru.epg.one/img2/2229.png",Epic Drama
+http://195.189.60.253/118/index.m3u8
 
 
 
@@ -420,11 +425,11 @@ https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/sfo.png" tvg-id="no_epg_cinema",СФО
 rtmp://vkvsd231.okcdn.ru/playback/11366163884923?stkn=FrNqhsD2sdVGCssyNiEHAipeGf8KUKJzCvbBuMrj-ijH_EEreJ_RxGxx1pLHM5sZajXkfxCW67Bv&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/kinowalk.png" tvg-id="no_epg_cinema",Kino Walk
-http://155.212.208.236/kinowalk/index.m3u8
+http://2.56.240.238/kinowalk/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/kinowalk.png" tvg-id="no_epg_cinema",Kino Walk
 http://kinowalk.hopto.org/kinowalk_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/scripach.png" tvg-id="no_epg_cinema",Scripach TV
-http://155.212.208.236/scripachtv/index.m3u8
+http://2.56.240.238/scripachtv/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/scripach.png" tvg-id="no_epg_cinema",Scripach TV
 http://kinowalk.hopto.org/scripachtv_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/scripach.png" tvg-id="no_epg_cinema",Scripach TV
@@ -442,7 +447,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Malder.png" tvg-id="no_epg_cinema",MALDER ВСЁ ТВ
 https://s.catcast.tv/content/43064/index.m3u8?token=8452dbea7d79d00d06b0f718e68b73fd
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/LegionTV.png"tvg-id="no_epg_cinema" ,LEGION TV
-http://155.212.208.236/vhdvtv/index.m3u8
+http://2.56.240.238/vhdvtv/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/LegionTV.png" tvg-id="no_epg_cinema" ,LEGION TV
 http://kinowalk.hopto.org/legion-tv_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/zsmedia.png" tvg-id="no_epg_cinema" ,ZS MEDIA
@@ -461,7 +466,7 @@ http://kinowalk.hopto.org/serial4u_live
 http://kinowalk.hopto.org/misha.sdyt_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/nekino.png" tvg-id="no_epg_cinema" ,неКИНО
 http://kinowalk.hopto.org/notnotes_live
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/apricus.png" tvg-id="no_epg_cinema" ,APICUS Life
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Apricus.png" tvg-id="no_epg_cinema" ,APRICUS Life
 http://kinowalk.hopto.org/apricus_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/vagkino.png" tvg-id="no_epg_cinema" ,VAG KINO 164
 http://kinowalk.hopto.org/vagner164_live
@@ -509,6 +514,10 @@ http://kinowalk.hopto.org/video_channel_live
 http://kinowalk.hopto.org/videoserial_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Aisman.png" tvg-id="no_epg_cinema" ,Aisman
 http://kinowalk.hopto.org/aisman_live
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/u_kraja_bezdny.png" tvg-id="no_epg_cinema" ,У КРАЯ БЕЗДНЫ
+http://kinowalk.hopto.org/ddator_live
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/InMuNa.png" tvg-id="no_epg_cinema" ,InMuNa
+http://kinowalk.hopto.org/inmuna_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/ZubFilm.png" tvg-id="no_epg_cinema" ,Zubrilom Film
 http://kinowalk.hopto.org/zubrilomfilm_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/ZubFran.png" tvg-id="no_epg_cinema" ,Zubrilom Franchise
@@ -596,11 +605,11 @@ http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Wihail.png" tvg-id="no_epg_cinema",Wihail FHD
 http://kinowalk.hopto.org/wihail_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/VKkino1.png" tvg-id="no_epg_cinema",КИНО ВК
-http://155.212.208.236/kinovk/index.m3u8
+http://2.56.240.238/kinovk/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/VKkino2.png" tvg-id="no_epg_cinema",КИНО ВК 2
-http://155.212.208.236/kinovk2/index.m3u8
+http://2.56.240.238/kinovk2/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/KinoOnline.png" tvg-id="no_epg_cinema",Kino.Online
-http://155.212.208.236/kino.online/index.m3u8
+http://2.56.240.238/kino.online/index.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Kinolaffka.png" tvg-id="no_epg_cinema",Кинолаффка
 http://188.208.197.173/kinolafka/video.m3u8?token=tvon
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Kinojelezo.png" tvg-id="no_epg_cinema",Киножелезо
@@ -657,20 +666,41 @@ https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
 
 
 
-#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://zsv.ucoz.net/Logo/Futurama.png" tvg-id="no_epg_mult",FUTURAMA
+
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="http://epg.one/img2/323.png" tvg-name="2x2",2x2 HD
+https://bl.rutube.ru/livestream/3d049e88a9b8dc64f4654d712e252d2c/index.m3u8?s=ZmMu7SsiGmnpBtU7Gcu2Jw&e=2066519756&scheme=https
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="http://epg.one/img2/323.png" tvg-name="2x2",2x2 HD
+http://2.56.240.238/2x2hd/index.m3u8
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="http://epg.one/img2/323.png" tvg-name="2x2",2x2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/3x3.png" ,3x3
+https://st01.kino-stream.online/hls/3x3.m3u8
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/one.png" tvg-id="NO EPG мультфильмы" ,one
+https://kinostreammedia.hopto.org/ONE/index.m3u8
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/mult247.png" tvg-id="no_epg_cinema" ,Мультфильмы 24 на 7
+http://kinowalk.hopto.org/mezontrop_live
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo/Futurama.png" tvg-id="NO EPG мультфильмы",FUTURAMA
 rtmp://vkvsd80.okcdn.ru/playback/9231228939170?stkn=uFv9-KNKZdHPR_25KX-aJxQWzQScl0lMDt7lIp3XdMBfKiZ_ef4ux87TNStrYusKJOqLIMnt3_w&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://zsv.ucoz.net/Logo2/SouthPark.png" tvg-id="no_epg_mult",Южный Парк
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo2/SouthPark.png" tvg-id="NO EPG мультфильмы",Южный Парк
 rtmp://vkvsd8.okcdn.ru/playback/8993430186980?stkn=GGhSqZR-fwCnth4Qgp6V-8FWRYYkNgobKIyP4bDf_-mgfVTkXTdS41qOtuNnVfkvBf_6a3g29ec&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://zsv.ucoz.net/Logo3/kigHill.png" tvg-id="no_epg_mult",Царь Горы
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/kigHill.png" tvg-id="NO EPG мультфильмы",Царь Горы
 rtmp://vkvsd69.okcdn.ru/playback/11828892871504?stkn=QaxFtWVGIo88g9cyFMIow9iC5J32EiGkXnk_6rKiPnrJEB93tLRBCL31cVjawyYr_Er3tetwVeKz&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://zsv.ucoz.net/Logo3/bob2.png" tvg-id="no_epg_mult",Губка Боб
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/bob2.png" tvg-id="NO EPG мультфильмы",Губка Боб
 rtmp://vkvsd45.okcdn.ru/playback/12110904437604?stkn=iq_1pa-sFBs2nuwy1I4DVY1Qt0wCgtleSlq2Gz8-IWZBfZ8Myq_xKU2FvshKwhg34dgQWwPMlBMs&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://zsv.ucoz.net/Logo2/familyGuy.png" tvg-id="no_epg_mult",ГРИФФИНЫ
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo2/familyGuy.png" tvg-id="NO EPG мультфильмы",ГРИФФИНЫ
 rtmp://vkvsd230.okcdn.ru/playback/8134416411520?stkn=2NGXWooIibYkQMyZvKLVJizfC-RjA4Q9-KGsN4Dzkm8wTkCZ5Z3J329VaVSBrsTpqctjj27WPNU&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://zsv.ucoz.net/Logo2/RickAndMorty.png" tvg-id="no_epg_mult",РИК И МОРТИ
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo2/RickAndMorty.png" tvg-id="NO EPG мультфильмы",РИК И МОРТИ
 rtmp://vkvsd228.okcdn.ru/playback/10137229994917?stkn=uF-qcmEstFzJRTk2k_pZQ1gq2MmP1WidLMkrmdavGcLp34x9bzBxhFHTQgs1Xg12RcMkQlS8LY4&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://zsv.ucoz.net/Logo3/AmerDad.png" tvg-id="no_epg_mult",Американский папаша
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/AmerDad.png" tvg-id="NO EPG мультфильмы",Американский папаша
 rtmp://vkvsd231.okcdn.ru/playback/11465359305707?stkn=PIUE3dny2C4QQdgvRp723G_f32wBapMamWluh88g4eznQpqC_odKQvtAaQfbyQGzH5ahLjWN68yQ&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/mr.bean.png" tvg-id="NO EPG мультфильмы",Mr.Bean Cartoon HD
+https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=x2-KvlIlDO7JTvW9rPHDVA&e=2066519767&scheme=https
+
+
+
+
+
+
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://zsv.ucoz.net/Logo2/niknik.png" tvg-id="no_epg_mult",NikNik-TV
 rtmp://vkvsd51.okcdn.ru/playback/9747990391627?stkn=F8e6nFzL9oOzipSsxvG4GPfqzYEqKSUg8JFhCLunA6R6JbHG9P92oZiAZkgVnVmWQm_xueQU9pk&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://zsv.ucoz.net/Logo3/multy.png" tvg-id="no_epg_mult",Мультфильмы нашего детства
@@ -693,12 +723,6 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://zsv.ucoz.net/Logo/NuPogodi.png" tvg-id="no_epg_mult" ,Ну погоди!
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/323.png" tvg-name="2x2",2x2 HD
-https://bl.rutube.ru/livestream/3d049e88a9b8dc64f4654d712e252d2c/index.m3u8?s=ZmMu7SsiGmnpBtU7Gcu2Jw&e=2066519756&scheme=https
-#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/323.png" tvg-name="2x2",2x2 HD
-http://155.212.208.236/2x2hd/index.m3u8
-#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/323.png" tvg-name="2x2",2x2
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ"  tvg-logo="http://epg.one/img2/740.png" tvg-name="Карусель",Карусель (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/494.png",JimJam
@@ -731,6 +755,8 @@ http://185.234.59.200:8080/kinomult/video.m3u8?token=5uGLTS1oibSIu0
 http://minsk-cache07t.voka.tv/live/157-req_5k_v5.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/410.png",Da Vinci
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ" tvg-logo="http://ru.epg.one/img2/2027.png",В гостях у сказки
+http://188.225.31.197/bpk-tv/000002762/tve/index.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/1111.png",Советские мультфильмы
 http://46.53.208.4:80/live/3007.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/1111.png",Советские мультфильмы
@@ -749,8 +775,8 @@ http://t8nlftib.russtv.net/iptv/QYUYWWB6GEC9F9Z5TSDEWH95/15092/index.m3u8
 http://t8nlftib.russtv.net/iptv/QYUYWWB6GEC9F9Z5TSDEWH95/15093/index.m3u8
 #EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://zsv.ucoz.net/Logo3/mmussrmult.png" ,MM USSR Мультфильм
 https://tinyurl.com/aleks-u-romki-47/13020/index.m3u8
-#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="https://zsv.ucoz.net/Logo3/mr.bean.png" ,Mr.Bean Cartoon HD
-https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=x2-KvlIlDO7JTvW9rPHDVA&e=2066519767&scheme=https
+#EXTINF:0 group-title="ДЕТСКИЕ" tvg-logo="http://ru.epg.one/img2/7852.png",Cartoon Network
+http://188.225.31.197/bpk-tv/000000015/tve/index.m3u8
 
 
 
@@ -759,9 +785,9 @@ https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=x2
 
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://ru.epg.one/img2/2379.png",4EVER MUSIC
 http://iptv.prosto.tv:7000/ch132/video.m3u8?secret=xws6dla3
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/15Plus.png" tvg-id="no_epg_music",15+ MUSIC
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/15Plus.png" tvg-id="NO EPG музыка" ,15+ MUSIC
 https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/NMMusic.png" tvg-id="no_epg_music",NM TELEVISION
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/NMMusic.png" tvg-id="NO EPG музыка" ,NM TELEVISION
 https://tv.a21network.ru/stream/40650/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/DTRMusic1.png" ,DTR MUSIC 1
 https://kino-stream.online/hls/DTRMUSIC1.m3u8
@@ -773,42 +799,44 @@ https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 https://livetv.mylifeisgood.net.ru/channels/tntmusicru.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://ru.epg.one/img2/681.png" ,Europa Plus TV HD
 http://185.234.59.200:8080/europa_plus_tv_hd/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/TMF.png" tvg-id="no_epg_music" ,TMF RUS
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/TMF.png" tvg-id="NO EPG музыка"  ,TMF RUS
 https://edge1-eu-west.picarto.tv/stream/hls/golive+TMFRUS/1_0/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/897.png" ,Муз ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/Dance80.png" tvg-id="no_epg_music" ,DanceHits80
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/Dance80.png" tvg-id="NO EPG музыка№" ,DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/TheVoice.png" tvg-id="no_epg_music" ,THE VOICE
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/TheVoice.png" tvg-id="NO EPG музыка" ,THE VOICE
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ"  tvg-logo="https://zsv.ucoz.net/Logo/KroneHit.png" tvg-id="no_epg_music" ,Kronehit TV
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ"  tvg-logo="https://zsv.ucoz.net/Logo/KroneHit.png" tvg-id="NO EPG музыка" ,Kronehit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/Deluxe.png" ,Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" audio-track="rus" tvg-logo="https://zsv.ucoz.net/Logo/DeluxeRap.png" tvg-id="no_epg_music" ,Deluxe Rap
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" audio-track="rus" tvg-logo="https://zsv.ucoz.net/Logo/DeluxeRap.png" tvg-id="NO EPG музыка" ,Deluxe Rap
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://ru.epg.one/img2/5369.png" ,Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MIXM.png" tvg-id="no_epg_music" ,MIXM TV
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/MIXM.png" ,MIXM TV
 http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://ru.epg.one/img2/4037.png" ,1HD Music
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/4373.png" ,BRIDGE CLASSIC
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/ChdTV.png" tvg-id="no_epg_music" ,CHD-TV RU Rock HD
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/ChdTV.png" tvg-id="NO EPG музыка" ,CHD-TV RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/ChdTV.png" tvg-id="no_epg_music" ,CHD-TV Rock HD
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/ChdTV.png" tvg-id="NO EPG музыка" ,CHD-TV Rock HD
 http://194.26.229.213/chdtv_rock/index.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-id="no_epg_music" ,Rock TV BR
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-id="NO EPG музыка" ,Rock TV BR
 https://video03.logicahost.com.br/tvrockhd/tvrockhd/chunklist_w1624224756.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo2/RockTV2.png" tvg-id="no_epg_music" ,Rock TV RO
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo2/RockTV2.png" ,Rock TV RO
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo2/RockTV2.png" tvg-id="no_epg_music" ,Rock TV RO
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo2/RockTV2.png" ,Rock TV RO
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-id="no_epg_music" ,ROCK MUSIC
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://rockcrysoul.ucoz.ru/img/Rockit.png" tvg-id="NO EPG музыка" ,ROCK MUSIC
 https://rpn3.bozztv.com/dvrfl07/ushba-m2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/2412.png" ,О2ТВ HD
 http://77.232.131.211/O2TV/index.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/5597.png" ,Trace Urban HD
+http://188.225.31.197/bpk-tv/000001661/tve/index.m3u8
 
 
 
@@ -873,6 +901,23 @@ http://45.11.139.43:8555/doctor/index.m3u8
 http://live-3.otcnet.ru/nashatema/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="https://epg.iptvx.one/picons/oxota-i-rybalka.png",Охота и рыбалка
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/2627.png",Диалоги о Рыбалке
+http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/7623.png",Big Planet
+http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/365.png",Animal Planet HD
+http://188.225.31.197/bpk-tv/000008052/tve/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://ru.epg.one/img2/7863.png",History HD
+http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://ru.epg.one/img2/4475.png",Nat Geo Wild HD
+http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://ru.epg.one/img2/102.png",National Geographic HD
+http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://ru.epg.one/img2/102.png",Вопросы и ответы
+http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
+#EXTINF:0 group-title="ПОЗНАВАТЕЛЬНЫЕ" tvg-logo="http://epg.one/img2/325.png",Discovery Channel HD
+http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
+
 
 
 
@@ -910,6 +955,11 @@ https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?
 #EXTINF:0 group-title="СПОРТИВНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo3/StartTriumf.png",Старт Триумф HD
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
+#EXTINF:0 group-title="СПОРТИВНЫЕ" tvg-logo="http://epg.one/img2/5883.png",Eurosport 1 HD
+http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
+#EXTINF:0 group-title="СПОРТИВНЫЕ" tvg-logo="http://epg.one/img2/8052.png",Eurosport 2 HD
+http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
+
 
 
 
@@ -2375,1735 +2425,3 @@ https://s3.ebacdn.net/videos_ssd1/pornhub/67ee54a190b8d/pornhub_67ee54a190b8d.mp
 #EXTINF:-1 group-title="ВЗРОСЛЫЕ 18+" tvg-logo="https://zsv.ucoz.net/Logo/phub.png",PornHub  24
 https://s4.ebacdn.net/videos_ssd1/pornhub/680f40a25819a/pornhub_680f40a25819a.mp4
 
-
-
-
-
-#EXTINF:-1 tvg-id="3315" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1/(315).png",Первый канал
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3315
-#EXTINF:-1 tvg-id="3278" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/153/1.1",Первый HD
-#EXTGRP:LAMRO
-#EXTINF:-1 tvg-id="3151" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/154/1.1",Россия 1 HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3151
-#EXTINF:-1 tvg-id="3234" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/64/1.1",РТР Планета
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3234
-#EXTINF:-1 tvg-id="3194" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/7/1.1",Россия К
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3194
-#EXTINF:-1 tvg-id="5223" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1069/1.1",ТНТ HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5223
-#EXTINF:-1 tvg-id="4997" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/702/1.1",СТС HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4997
-#EXTINF:-1 tvg-id="3141" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/2/2.jpeg",НТВ
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3141
-#EXTINF:-1 tvg-id="3314" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/387/387.jpeg",НТВ HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3314
-#EXTINF:-1 tvg-id="5093" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/843/1.1",НТВ Хит
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5093
-#EXTINF:-1 tvg-id="3343" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/478/1.1",НТВ Мир
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3343
-#EXTINF:-1 tvg-id="4934" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/609/1.1",НТВ Стиль
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4934
-#EXTINF:-1 tvg-id="4933" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/608/1.1",НТВ Право
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4933
-#EXTINF:-1 tvg-id="4930" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/589/1.1",НТВ Сериал HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4930
-#EXTINF:-1 tvg-id="3221" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/17/1.1",Че
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3221
-#EXTINF:-1 tvg-id="3197" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/13/1.1",ТВЦ HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3197
-#EXTINF:-1 tvg-id="4861" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/504/1.1",RTVI
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4861
-#EXTINF:-1 tvg-id="3248" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/56/1.1",Ю ТВ
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3248
-#EXTINF:-1 tvg-id="5016" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/712/1.1",Перец
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5016
-#EXTINF:-1 tvg-id="5230" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1041/1.1",Большая Азия HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5230
-#EXTINF:-1 tvg-id="3291" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/215/2.2",СТС Love
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3291
-#EXTINF:-1 tvg-id="3289" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/11/1.1",5 Канал
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3289
-#EXTINF:-1 tvg-id="4998" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/903/1.1",ТВ3 HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4998
-#EXTINF:-1 tvg-id="4743" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/33/1.1",Рен ТВ HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4743
-#EXTINF:-1 tvg-id="4976" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/327/1.1",Мир HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4976
-#EXTINF:-1 tvg-id="3202" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/74/1.1",Звезда HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3202
-#EXTINF:-1 tvg-id="4126" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/296/1.1",Оружие
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4126
-#EXTINF:-1 tvg-id="5100" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/906/1.1",Арсенал
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5100
-#EXTINF:-1 tvg-id="3299" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/55/1.1",Пятница HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3299
-#EXTINF:-1 tvg-id="3189" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/231/1.1",Сарафан
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3189
-#EXTINF:-1 tvg-id="5106" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/817/1.1",Домашний HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5106
-#EXTINF:-1 tvg-id="4121" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/210/1.1",Русский Экстрим HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4121
-#EXTINF:-1 tvg-id="4879" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/524/1.1",AlJazeera
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4879
-#EXTINF:-1 tvg-id="4583" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/217/1.1",Russia Today HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4583
-#EXTINF:-1 tvg-id="4943" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/614/1.1",Кавказ 24
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4943
-#EXTINF:-1 tvg-id="3190" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/8/1.1",Россия 24
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3190
-#EXTINF:-1 tvg-id="3196" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/32/1.1",РБК HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3196
-#EXTINF:-1 tvg-id="4978" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/677/1.1",Известия HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4978
-#EXTINF:-1 tvg-id="4852" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/498/1.1",Москва 24
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4852
-#EXTINF:-1 tvg-id="4977" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/529/1.1",360 Новости
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4977
-#EXTINF:-1 tvg-id="3211" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/252/1.1",Драйв
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3211
-#EXTINF:-1 tvg-id="3721" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/226/1.1",Авто 24
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3721
-#EXTINF:-1 tvg-id="3205" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/89/1.1",Авто Плюс
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3205
-#EXTINF:-1 tvg-id="5091" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/914/1.1",Мужской HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5091
-#EXTINF:-1 tvg-id="5065" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/787/1.1",Fashion TV HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5065
-#EXTINF:-1 tvg-id="3798" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/170/1.1",МИР 24
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3798
-#EXTINF:-1 tvg-id="4867" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/600/600.jpeg",Salsabil ТВ
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4867
-#EXTINF:-1 tvg-id="4958" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/644/1.1",Savage Crossfit
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4958
-#EXTINF:-1 tvg-id="4870" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/599/599.jpeg",Г1алг1ай ТВ
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4870
-#EXTINF:-1 tvg-id="3144" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/413/1.1",Дагестан
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3144
-#EXTINF:-1 tvg-id="4999" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/588/1.1",Atv
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4999
-#EXTINF:-1 tvg-id="4940" tvg-logo="http://smarty.lamro.tv/tvmiddleware/media/img/logo/default/huzurtv.png",Huzur TV
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4940
-#EXTINF:-1 tvg-id="4855" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/509/1.1",IMEDI TV
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4855
-#EXTINF:-1 tvg-id="4936" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/507/1.1",GE 1 TV
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4936
-#EXTINF:-1 tvg-id="4648" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/45/1.1",2+2
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4648
-#EXTINF:-1 tvg-id="4995" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/705/1.1",Mtavari TV
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4995
-#EXTINF:-1 tvg-id="3193" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/88/1.1",Матч! Боец
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3193
-#EXTINF:-1 tvg-id="5002" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/88/1.1",Матч! Боец HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5002
-#EXTINF:-1 tvg-id="4935" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1071/1071.jpeg",UFC 24/7
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4935
-#EXTINF:-1 tvg-id="5071" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/831/1.1",MMA-TV
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5071
-#EXTINF:-1 tvg-id="4996" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/706/1.1",UDAR HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4996
-#EXTINF:-1 tvg-id="3337" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/349/1.1",Бокс ТВ
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3337
-#EXTINF:-1 tvg-id="4955" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/10/1.1",Матч! ТВ HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4955
-#EXTINF:-1 tvg-id="3739" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/141/1.1",Матч! Арена HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3739
-#EXTINF:-1 tvg-id="4878" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1072/1072.jpeg",viju+ Sport HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4878
-#EXTINF:-1 tvg-id="4657" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/144/1.1",Матч! Игра HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4657
-#EXTINF:-1 tvg-id="3737" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/275/1.1",Матч! Премьер HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3737
-#EXTINF:-1 tvg-id="3236" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/122/1.1",Матч! Страна
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3236
-#EXTINF:-1 tvg-id="3717" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/707/1.1",Матч! Планета
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3717
-#EXTINF:-1 tvg-id="4992" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/901/1.1",TV2 Sport Premium HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4992
-#EXTINF:-1 tvg-id="4993" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/902/1.1",TV2 Sport Premium 2 HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4993
-#EXTINF:-1 tvg-id="5084" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/807/1.1",Trace Sport Stars HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5084
-#EXTINF:-1 tvg-id="3257" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/393/1.1",КХЛ
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3257
-#EXTINF:-1 tvg-id="4871" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/126/1.1",КХЛ ТВ HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4871
-#EXTINF:-1 tvg-id="4926" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/586/1.1",Setanta Sport HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4926
-#EXTINF:-1 tvg-id="4931" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/605/1.1",Setanta sport 1 HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4931
-#EXTINF:-1 tvg-id="4932" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/968/1.1",Setanta sport 2 HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4932
-#EXTINF:-1 tvg-id="5227" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1034/1.1",Setanta Sports 1 HD PREMIUM+
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5227
-#EXTINF:-1 tvg-id="5228" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1035/1.1",Setanta Sports 2 HD PREMIUM+
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5228
-#EXTINF:-1 tvg-id="5192" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1037/1.1",Setanta Qazaqstan HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5192
-#EXTINF:-1 tvg-id="5225" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1030/1.1",Setanta Lietuva HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5225
-#EXTINF:-1 tvg-id="5226" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1033/1.1",Setanta Sports HD PREMIUM+
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5226
-#EXTINF:-1 tvg-id="5238" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1062/1.1",Окко Спорт HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5238
-#EXTINF:-1 tvg-id="5025" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1005/1.1",TNT Sport 1 HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5025
-#EXTINF:-1 tvg-id="5026" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1006/1.1",TNT Sport 2 HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5026
-#EXTINF:-1 tvg-id="5027" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1007/1.1",TNT Sport 3 HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5027
-#EXTINF:-1 tvg-id="5028" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1009/1.1",TNT Sport 4 HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5028
-#EXTINF:-1 tvg-id="4741" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/146/1.1",Матч! Футбол 1 HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4741
-#EXTINF:-1 tvg-id="3728" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/372/1.1",Матч! футбол 2 HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3728
-#EXTINF:-1 tvg-id="4742" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/373/1.1",Матч! Футбол 3 HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4742
-#EXTINF:-1 tvg-id="4114" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/51/1.1",Eurosport HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4114
-#EXTINF:-1 tvg-id="3261" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/72/1.1",Eurosport 2 HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3261
-#EXTINF:-1 tvg-id="5063" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/913/2.2",Extreme Sports HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5063
-#EXTINF:-1 tvg-id="4987" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/12/1.1",ОТР
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4987
-#EXTINF:-1 tvg-id="4952" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/638/1.1",Ювелирочка
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4952
-#EXTINF:-1 tvg-id="3275" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/98/1.1",Кухня
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3275
-#EXTINF:-1 tvg-id="4944" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/150/1.1",Еда HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4944
-#EXTINF:-1 tvg-id="3724" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/420/1.1",Food Network HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3724
-#EXTINF:-1 tvg-id="3272" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/105/1.1",ТелеКафе
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3272
-#EXTINF:-1 tvg-id="5094" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/844/1.1",О!Кино
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5094
-#EXTINF:-1 tvg-id="3715" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/284/1.1",Мама
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3715
-#EXTINF:-1 tvg-id="3284" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/277/1.1",Здоровое ТВ
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3284
-#EXTINF:-1 tvg-id="5122" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/820/1.1",Жар птица
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5122
-#EXTINF:-1 tvg-id="4910" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/907/1.1",English Club TV
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4910
-#EXTINF:-1 tvg-id="4986" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/904/1.1",Учим француский
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4986
-#EXTINF:-1 tvg-id="3157" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/250/1.1",Da Vinci
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3157
-#EXTINF:-1 tvg-id="5104" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1058/1.1",Доктор HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5104
-#EXTINF:-1 tvg-id="5112" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/840/1.1",Ключ HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5112
-#EXTINF:-1 tvg-id="5117" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/846/1.1",Радость моя
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5117
-#EXTINF:-1 tvg-id="5113" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/897/1.1",Мир увлечений
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5113
-#EXTINF:-1 tvg-id="5097" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/841/1.1",TV BricsTV
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5097
-#EXTINF:-1 tvg-id="5098" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/808/1.1",TVMChannel
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5098
-#EXTINF:-1 tvg-id="5083" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/806/1.1",TERRA
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5083
-#EXTINF:-1 tvg-id="5070" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/792/1.1",Luxury HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5070
-#EXTINF:-1 tvg-id="5107" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/893/1.1",Дорама HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5107
-#EXTINF:-1 tvg-id="5108" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1063/1.1",Жара! HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5108
-#EXTINF:-1 tvg-id="3271" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/212/1.1",Живи!
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3271
-#EXTINF:-1 tvg-id="3340" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/116/1.1",THT-Comedy
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3340
-#EXTINF:-1 tvg-id="3288" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/94/1.1",TOP SECRET
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3288
-#EXTINF:-1 tvg-id="3279" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/442/1.1",Бобёр
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3279
-#EXTINF:-1 tvg-id="5115" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/896/2.2",Наука HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5115
-#EXTINF:-1 tvg-id="3333" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/383/1.1",24 ДОК
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3333
-#EXTINF:-1 tvg-id="3345" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/282/1.1",Загородная жизнь
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3345
-#EXTINF:-1 tvg-id="5056" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/781/1.1",CGTN Русский HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5056
-#EXTINF:-1 tvg-id="3716" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/155/1.1",История
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3716
-#EXTINF:-1 tvg-id="4985" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/686/1.1",HGTV HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4985
-#EXTINF:-1 tvg-id="3735" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/392/1.1",History HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3735
-#EXTINF:-1 tvg-id="4982" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/683/1.1",History 2 HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4982
-#EXTINF:-1 tvg-id="3319" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/25/1.1",Discovery
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3319
-#EXTINF:-1 tvg-id="3200" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/124/1.1",Discovery HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3200
-#EXTINF:-1 tvg-id="4893" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/555/1.1",Глазами туриста HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4893
-#EXTINF:-1 tvg-id="4885" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/547/1.1",HDL HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4885
-#EXTINF:-1 tvg-id="3336" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/20/1.1",National Geographic
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3336
-#EXTINF:-1 tvg-id="3232" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/258/1.1",National Geographic HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3232
-#EXTINF:-1 tvg-id="5102" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/813/1.1",Дикая охота HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5102
-#EXTINF:-1 tvg-id="5103" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/814/1.1",Дикая рыбалка HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5103
-#EXTINF:-1 tvg-id="5109" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1064/1.1",Живая природа HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5109
-#EXTINF:-1 tvg-id="5110" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/822/1.1",Живи Активно HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5110
-#EXTINF:-1 tvg-id="5111" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/824/1.1",Зоо ТВ
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5111
-#EXTINF:-1 tvg-id="5105" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1059/1.1",Домашние животные
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5105
-#EXTINF:-1 tvg-id="4891" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/553/1.1",Galaxy
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4891
-#EXTINF:-1 tvg-id="4984" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/685/1.1",Океан HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4984
-#EXTINF:-1 tvg-id="4123" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/473/1.1",Живая планета
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4123
-#EXTINF:-1 tvg-id="3733" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/699/1.1",Nat Geo Wild HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3733
-#EXTINF:-1 tvg-id="4591" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/489/1.1",DocuBox HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4591
-#EXTINF:-1 tvg-id="5001" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/708/1.1",Первый Космический HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5001
-#EXTINF:-1 tvg-id="5120" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/850/1.1",Тайны Галактики HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5120
-#EXTINF:-1 tvg-id="3220" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/490/1.1",Приключения HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3220
-#EXTINF:-1 tvg-id="4960" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/673/1.1",Телепутешествия
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4960
-#EXTINF:-1 tvg-id="3249" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/388/1.1",Travel Channel
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3249
-#EXTINF:-1 tvg-id="4110" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/388/1.1",Travel Channel HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4110
-#EXTINF:-1 tvg-id="3217" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/117/1.1",Animal Planet
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3217
-#EXTINF:-1 tvg-id="3738" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/701/1.1",Animal Planet HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3738
-#EXTINF:-1 tvg-id="4862" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/900/1.1",Travel+Adventure HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4862
-#EXTINF:-1 tvg-id="4590" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/297/1.1",В мире животных HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4590
-#EXTINF:-1 tvg-id="3245" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/133/1.1",TLC HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3245
-#EXTINF:-1 tvg-id="3283" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/128/1.1",ID Xtra
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3283
-#EXTINF:-1 tvg-id="5099" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1056/1.1",Zooпарк
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5099
-#EXTINF:-1 tvg-id="3212" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/129/1.1",viju Nature
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3212
-#EXTINF:-1 tvg-id="3206" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/67/1.1",viju History
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3206
-#EXTINF:-1 tvg-id="3213" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/259/1.1",viju Explore
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3213
-#EXTINF:-1 tvg-id="3147" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/76/1.1",Охота и рыбалка
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3147
-#EXTINF:-1 tvg-id="5229" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1039/1.1",Дикий
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5229
-#EXTINF:-1 tvg-id="5101" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1057/1.1",Диалоги о рыбалке HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5101
-#EXTINF:-1 tvg-id="3325" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/209/1.1",RTG TV
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3325
-#EXTINF:-1 tvg-id="3729" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/328/2.2",RTG HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3729
-#EXTINF:-1 tvg-id="5114" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/899/1.1",Моя Планета HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5114
-#EXTINF:-1 tvg-id="5116" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/845/1.1",Первый вегетарианский HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5116
-#EXTINF:-1 tvg-id="3148" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/123/1.1",TiJi
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3148
-#EXTINF:-1 tvg-id="5166" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/945/1.1",BCU Мультсериал HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5166
-#EXTINF:-1 tvg-id="5186" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/964/1.1",BCU Little HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5186
-#EXTINF:-1 tvg-id="5187" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/965/1.1",BCU Kids HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5187
-#EXTINF:-1 tvg-id="5188" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/966/1.1",BCU Kids+ HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5188
-#EXTINF:-1 tvg-id="5189" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/967/1.1",BCU Kids 4K
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5189
-#EXTINF:-1 tvg-id="4887" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/549/1.1",SAT7 Kids
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4887
-#EXTINF:-1 tvg-id="5121" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/851/1.1",ТипТоп
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5121
-#EXTINF:-1 tvg-id="4889" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/551/1.1",Baby TV
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4889
-#EXTINF:-1 tvg-id="3269" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/216/1.1",Мульт HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3269
-#EXTINF:-1 tvg-id="5060" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/894/1.1",ducktv HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5060
-#EXTINF:-1 tvg-id="4894" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/556/1.1",Малыш ТВ
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4894
-#EXTINF:-1 tvg-id="3339" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/62/2.2",Солнце
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3339
-#EXTINF:-1 tvg-id="3270" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/58/1.1",Cartoon Network
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3270
-#EXTINF:-1 tvg-id="4882" tvg-logo="http://smarty.lamro.tv/tvmiddleware/media/img/logo/default/skazki.png",В гостях у сказки
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4882
-#EXTINF:-1 tvg-id="4745" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/469/1.1",Капитан Фантастика HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4745
-#EXTINF:-1 tvg-id="4876" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/468/1.1",О!
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4876
-#EXTINF:-1 tvg-id="4865" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/521/1.1",ani
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4865
-#EXTINF:-1 tvg-id="3265" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/304/1.1",Nick Jr.
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3265
-#EXTINF:-1 tvg-id="3267" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/113/1.1",JimJam
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3267
-#EXTINF:-1 tvg-id="3266" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/293/1.1",Gulli Girl
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3266
-#EXTINF:-1 tvg-id="5095" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/839/1.1",Лева HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5095
-#EXTINF:-1 tvg-id="3210" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/5/1.1",Карусель
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3210
-#EXTINF:-1 tvg-id="3215" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/54/1.1",Nickelodeon
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3215
-#EXTINF:-1 tvg-id="3742" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/395/1.1",Nickelodeon HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3742
-#EXTINF:-1 tvg-id="5118" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/848/1.1",Смайлик ТВ HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5118
-#EXTINF:-1 tvg-id="3199" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/93/1.1",2x2
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3199
-#EXTINF:-1 tvg-id="3176" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/361/1.1",Детский Мир
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3176
-#EXTINF:-1 tvg-id="3268" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/180/1.1",Мультимания
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3268
-#EXTINF:-1 tvg-id="4937" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/610/1.1",Любимое HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4937
-#EXTINF:-1 tvg-id="4853" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/505/1.1",Индия
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4853
-#EXTINF:-1 tvg-id="4730" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/487/1.1",Bollywood HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4730
-#EXTINF:-1 tvg-id="3209" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/83/2.2",Индийское кино
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3209
-#EXTINF:-1 tvg-id="3301" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/127/2.2",Киномикс
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3301
-#EXTINF:-1 tvg-id="4883" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/530/1.1",Киносерия
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4883
-#EXTINF:-1 tvg-id="5089" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/829/2.2",Кинохит HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5089
-#EXTINF:-1 tvg-id="3208" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/394/2.2",Родное кино
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3208
-#EXTINF:-1 tvg-id="4966" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/659/2.2",Киноужас HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4966
-#EXTINF:-1 tvg-id="5088" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/49/1.1",Киносемья HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5088
-#EXTINF:-1 tvg-id="5090" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/84/2.2",Кинокомедия HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5090
-#EXTINF:-1 tvg-id="5087" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/47/2.2",Киносвидание HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5087
-#EXTINF:-1 tvg-id="3374" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/99/2.2",Мужское Кино HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3374
-#EXTINF:-1 tvg-id="3791" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/121/2.2",Кинопремьера HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3791
-#EXTINF:-1 tvg-id="3794" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/391/1.1",НСТ
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3794
-#EXTINF:-1 tvg-id="4920" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/580/1.1",A1 HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4920
-#EXTINF:-1 tvg-id="4927" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/587/1.1",A2 HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4927
-#EXTINF:-1 tvg-id="3186" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/243/1.1",viju TV1000
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3186
-#EXTINF:-1 tvg-id="3720" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/91/1.1",Иллюзион+
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3720
-#EXTINF:-1 tvg-id="4053" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/110/1.1",Кинопоказ
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4053
-#EXTINF:-1 tvg-id="5057" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/640/2.2",Cinema HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5057
-#EXTINF:-1 tvg-id="3207" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/278/1.1",viju TV1000 action
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3207
-#EXTINF:-1 tvg-id="5092" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/833/2.2",Мир сериала HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5092
-#EXTINF:-1 tvg-id="4923" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/77/1.1",viju TV1000 русское
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4923
-#EXTINF:-1 tvg-id="4921" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/581/1.1",Hit HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4921
-#EXTINF:-1 tvg-id="4892" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/554/1.1",FOX HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4892
-#EXTINF:-1 tvg-id="4116" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/118/1.1",ЕвроКино
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4116
-#EXTINF:-1 tvg-id="3188" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/15/1.1",Дом Кино
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3188
-#EXTINF:-1 tvg-id="3718" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/142/1.1",Premium HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3718
-#EXTINF:-1 tvg-id="4962" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/651/1.1",viju+ Serial HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4962
-#EXTINF:-1 tvg-id="4051" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/436/1.1",viju+ Megahit
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4051
-#EXTINF:-1 tvg-id="4111" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/583/1.1",viju+ Comedy
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4111
-#EXTINF:-1 tvg-id="4117" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/437/1.1",viju+ Premiere HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4117
-#EXTINF:-1 tvg-id="4922" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/582/1.1",Comedy Central
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4922
-#EXTINF:-1 tvg-id="4969" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/667/1.1",Победа
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4969
-#EXTINF:-1 tvg-id="4968" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/661/1.1",Мосфильм
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4968
-#EXTINF:-1 tvg-id="4941" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/613/1.1",Fox Life HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4941
-#EXTINF:-1 tvg-id="4965" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/657/1.1",Камеди HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4965
-#EXTINF:-1 tvg-id="4917" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/576/1.1",Кино ТВ HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4917
-#EXTINF:-1 tvg-id="4589" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/575/1.1",Hollywood HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4589
-#EXTINF:-1 tvg-id="4963" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/653/1.1",Блокбастер HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4963
-#EXTINF:-1 tvg-id="4860" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/573/1.1",Комедийное HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4860
-#EXTINF:-1 tvg-id="4961" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/649/1.1",Шокирующее HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4961
-#EXTINF:-1 tvg-id="4748" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/266/1.1",Остросюжетное HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4748
-#EXTINF:-1 tvg-id="4970" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/276/1.1",Наше HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4970
-#EXTINF:-1 tvg-id="4122" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/486/1.1",Наш Детектив
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4122
-#EXTINF:-1 tvg-id="3792" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/78/1.1",Наше новое кино
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3792
-#EXTINF:-1 tvg-id="4971" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/665/1.1",Наше Мужское HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4971
-#EXTINF:-1 tvg-id="4967" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/663/1.1",Наш Кинопоказ HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4967
-#EXTINF:-1 tvg-id="4729" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/480/1.1",Наш Кинороман HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4729
-#EXTINF:-1 tvg-id="4612" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/158/1.1",Русский роман HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4612
-#EXTINF:-1 tvg-id="3184" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/68/1.1",Русский Иллюзион
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=3184
-#EXTINF:-1 tvg-id="4115" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/152/1.1",Русский бестселлер
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4115
-#EXTINF:-1 tvg-id="4964" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/655/1.1",Дом кино премиум HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4964
-#EXTINF:-1 tvg-id="4972" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/671/1.1",Хит HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4972
-#EXTINF:-1 tvg-id="4918" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/911/1.1",.red HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4918
-#EXTINF:-1 tvg-id="5055" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/892/1.1",.black HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5055
-#EXTINF:-1 tvg-id="5017" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/711/1.1",Plan B HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5017
-#EXTINF:-1 tvg-id="5119" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/849/1.1",Суббота HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5119
-#EXTINF:-1 tvg-id="5066" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/788/1.1",Flix Snip HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5066
-#EXTINF:-1 tvg-id="5067" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/789/1.1",KinoJam 1 HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5067
-#EXTINF:-1 tvg-id="5068" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/790/1.1",KinoJam 2 HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5068
-#EXTINF:-1 tvg-id="4973" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/669/1.1",Про Любовь HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4973
-#EXTINF:-1 tvg-id="4988" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/688/1.1",Премиальное HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=4988
-#EXTINF:-1 tvg-id="5078" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/801/1.1",Shot TV
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5078
-#EXTINF:-1 tvg-id="5064" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/786/1.1",FAN HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5064
-#EXTINF:-1 tvg-id="5081" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/804/1.1",Start Air
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5081
-#EXTINF:-1 tvg-id="5073" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/910/1.1",.sci-fi HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5073
-#EXTINF:-1 tvg-id="5086" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/826/1.1",Киноман
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5086
-#EXTINF:-1 tvg-id="5085" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/825/1.1",Кинеко HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5085
-#EXTINF:-1 tvg-id="5074" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/795/1.1",Scream HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5074
-#EXTINF:-1 tvg-id="5082" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/805/1.1",Start World
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5082
-#EXTINF:-1 tvg-id="5080" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/803/1.1",Star Family HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5080
-#EXTINF:-1 tvg-id="5079" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/574/1.1",Star Cinema HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5079
-#EXTINF:-1 tvg-id="5162" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/942/1.1",BCU Premiere 1 HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5162
-#EXTINF:-1 tvg-id="5163" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/943/1.1",BCU Premiere 2 HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5163
-#EXTINF:-1 tvg-id="5165" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/944/1.1",BCU Premiere 3 HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5165
-#EXTINF:-1 tvg-id="5167" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/946/1.1",BCU CCCP HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5167
-#EXTINF:-1 tvg-id="5168" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/947/1.1",BCU Action HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5168
-#EXTINF:-1 tvg-id="5169" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/948/1.1",BCU Catastrophe HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5169
-#EXTINF:-1 tvg-id="5171" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/950/1.1",BCU Fantastic HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5171
-#EXTINF:-1 tvg-id="5172" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/951/1.1",BCU FilMystic HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5172
-#EXTINF:-1 tvg-id="5173" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/952/1.1",BCU History HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5173
-#EXTINF:-1 tvg-id="5175" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/953/1.1",BCU Premiere HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5175
-#EXTINF:-1 tvg-id="5177" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/955/1.1",BCU Stars HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5177
-#EXTINF:-1 tvg-id="5180" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/958/1.1",BCU RUSERIAL HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5180
-#EXTINF:-1 tvg-id="5181" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/959/1.1",BCU Сваты HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5181
-#EXTINF:-1 tvg-id="5182" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/960/1.1",BCU Criminal HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5182
-#EXTINF:-1 tvg-id="5183" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/961/1.1",BCU Cinema HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5183
-#EXTINF:-1 tvg-id="5184" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/962/1.1",BCU Kinorating HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5184
-#EXTINF:-1 tvg-id="5237" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1055/1.1",BCU Cosmo HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5237
-#EXTINF:-1 tvg-id="5224" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1029/1.1",DIZI
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5224
-#EXTINF:-1 tvg-id="5232" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1045/1.1",Сапфир HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5232
-#EXTINF:-1 tvg-id="5231" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1043/1.1",Душевное HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5231
-#EXTINF:-1 tvg-id="5233" tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/1047/1.1",Романтичное HD
-#EXTGRP:LAMRO
-http://tv.lamro.workers.dev/?ID=5233
-
-
-
-#EXTINF:-1  tvg-id="vf-filmy-sssr"  ,VF Фильмы СССР
-#EXTGRP: TEST
-https://tinyurl.com/aleks-u-romki-47/10085/index.m3u8
-#EXTINF:-1  tvg-id="vf-pobeda"  ,VF Наша победа
-#EXTGRP: TEST
-https://tinyurl.com/aleks-u-romki-47/10083/index.m3u8
-#EXTINF:-1  tvg-id="vf-taynsled"  ,VF Тайны следствия
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/1443d724/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-voronins"  ,VF Воронины
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n239d9f09/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-sashatania"  ,VF СашаТаня
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/1ad1dc5b/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-schastlivy-vmeste"  ,VF Счастливы Вместе
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n7accaef4/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-western"  ,VF Вестерн HD
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n528273d6/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-snovymgodom"  ,VF С новым годом!
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/174fc91b/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-nowogodni" ,VF Новогодний
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/d65b946/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-elki" ,VF ЁЛКИ
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/19a06d1c/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-vysocki" ,VF Владимир Высоцкий
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/1c358a0e/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-2ipol" ,VF Два с половиной человека
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n61eb0115/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-garipoter" ,VF Гарри Поттер
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/75b2c293/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-newyear" ,VF New Year
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/753b1d01/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-sexcity" ,VF Секс в большом городе
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/3981b951/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-disney-movie" ,VF Disney Movie
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n156c5598/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-tbbt" ,VF Теория большого взрыва
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/63fad5f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-kartochnydomik" ,VF Карточный домик
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n36d4b5a6/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-adventure" ,VF Adventure
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n7b2b1a94/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-cartoon" ,VF Cartoon
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/74dfb4ca/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-anime" ,VF Anime
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n1c340330/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-comedy" ,VF Comedy
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n66d2e643/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-pobeda" ,VF Наша победа
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n30e8cca0/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-family" ,VF Family
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n62799578/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-fantasy" ,VF FANTASY
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/1359d482/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-mystic" ,VF Mystic
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n553291f5/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-melodrama" ,VF Melodrama
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n2090b378/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-uzhasy" ,VF Ужасы
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/1c49ef83/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-vhs" ,VF VHS
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/357166f9/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-uzhasy-vhs" ,VF Ужасы VHS
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/nffb23c/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-premiere" ,VF Premiere
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n25c46863/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-klassika" ,VF Классика
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/6197a3c3/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-classic" ,VF Classic
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n794af212/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="zal-12-tricolor" ,VF Комедии
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/63bea0ca/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-katastrofy" ,VF Катастрофы
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n39976b52/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-marvel" ,VF Marvel
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n5685335d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-voennye" ,VF Военные
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n43d216d1/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-mosfilm" ,VF Мосфильм
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n12cab184/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-kriminal" ,VF Криминал
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/777315be/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-filmy-sssr" ,VF Фильмы СССР
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n6aabccf9/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-multfilmy-sssr" ,VF Мультфильмы СССР
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/dd63185/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-boevik" ,VF Боевик
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/4eaf9130/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-kino4k" ,VF Кино 4K
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/5983ec54/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-serial4k" ,VF Сериал 4K
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n52012c64/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-top-series" ,VF Top series
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/313bb8e6/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-arthouse" ,VF Art house
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/5343ad7f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-detective" ,VF Detective
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/3f1bb9b1/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-oskar" ,VF Оскар
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/1c089d83/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-fantastic" ,VF Fantastic
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n5bc949a9/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-swty" ,VF Сваты
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/1c2bef24/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="zal-05-tricolor" ,VF Солдаты
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n2a045a21/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-univer" ,VF Универ
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/6d5a11a3/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="zal-02-tricolor" ,VF След
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/19aef85d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-series" ,VF Series
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n4c0ff265/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="serial-tviksel" ,VF Сериал
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/69835d3b/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-mylnoper" ,VF Мыльные оперы
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/5fcebda2/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-thrilr"  ,VF Thriller
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/7eba127c/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-indiya" ,VF Индия
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/1bb22982/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-istorya" ,VF История
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n967a72/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-comics" ,VF Comics
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n66d2d764/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-klinika" ,VF Клиника
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/5e6b6b04/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-luidefunes" ,VF Луи де Фюнес
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/d84cd4/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-chernobyl" ,VF Чернобыль
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/30f28c5a/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Сверхественное
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n59fe43e1/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Секретные материалы
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n5e77a0b1/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Гайдай
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n378da818/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-bania" ,VF Баня
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/19a78a35/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF На кухне
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/1bd1532a/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-uralskie-pelmeni" ,VF Уральские пельмени
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/124864a5/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-yumor18" ,VF Юмор 18+
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n3604f928/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF КВН КЛУБ
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n5a02bc9f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-koncerty" ,VF Концерты
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/16ba75c5/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-kalambur" ,VF Каламбур
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/2d867841/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-maski" ,VF Маски шоу
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n7caae0c/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Орёл и Решка
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/2f3d9d6d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-strojka" ,VF Стройка
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n22e5d5b4/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Рыбалка
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n494a299d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Путешествия
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/74270aa0/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Домашний повар
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n7af86f45/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-oxota" ,VF Охота
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/1c0a8021/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Авто
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/19a71de2/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-skubidu" ,VF Скуби-Ду
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/2350f52f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-nowogodmult" ,VF Новогодние мультфильмы
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/292969e0/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Мультуб
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n29f01acc/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-malysh" ,VF Малыш
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/1be4bb40/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-soyuzmultfilm" ,VF Союзмультфильм
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n2d6853a9/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-disney-cartoon" ,VF Disney Cartoon
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/6b3d5ca6/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Русский рок
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/718b3db0/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Хит парад
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n44c8e20f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Rap
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n5a116483/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Metal
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n1b8ed89d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Мультсоюз
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n2a2d868e/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Шансончик
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/752d9a6f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Караоке
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/4c1105ef/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Rock
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/17e50789/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Music
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n1b87957f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-musyka" , VF Музыка
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/61bc9c55/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Бритни Спирс
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/58c7ef7/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Модерн Токинг
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n309c3147/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Музыкальный Новый Год
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/4f5a2cf4/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Легенды ретро
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n64eef067/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Король и Шут
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n4439966a/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,нво
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n5a118def/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Майкл Джексон
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n68a02a6a/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-netflx" ,VF Netflix
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n3e529712/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Белфильм
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n29c744b4/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-sverdlovskkinostudia" ,VF Свердловская киностудия
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/2ca97b95/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-rigakinostudia" ,VF Рижская киностудия
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n2782a1ca/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Киностудия имени горького
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/19d8650/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-lenfilm" ,VF Ленфильм
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n5d975628/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-odesskayakinostudia" ,VF Одесская киностудия
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/17ce964a/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-gorodok" ,VF Городок
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/ne5087fd/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Comedy Women
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/8c9433f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-igraprestolov" ,VF Игра престолов
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/3a3c06b5/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-bezcenzury" ,VF Без цензуры
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/207a9134/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-housemd" ,VF Доктор Хаус
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n4b454c4f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-realnyepacany" ,VF Реальные пацаны
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/3c4b5f0a/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-walkingdead" ,VF Ходячие мертвецы
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n55c845c9/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-univernew" ,VF Универ новая общага
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n6d1e893c/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Рязанов
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/2392d973/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF 90е
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/9b95461/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-dzhekichan" ,VF Джеки Чан
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/4a8e1aa1/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-nasharasha" ,VF Наша Раша
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n4a29b367/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-friends" ,VF Друзья
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/53f0bc87/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,Американские ужасы
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n1b025ffc/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 ,VF Музыкальный ресторан
-#EXTGRP: TEST
-https://rpn3.bozztv.com/dvrfl07/ushba57/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="vf-serialy-turcii" ,VF Сериалы Турции
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/1a838d17/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-besstyzhye" ,VF Бесстыжие
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n50f17f9e/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-premiera" ,VF Премьера
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/79c36785/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-eralash" ,VF Ералаш
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/559cfdb2/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-vhs-cartoon" ,VF VHS Cartoon
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n2661f275/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="vf-odnazhdyvr" ,VF Однажды в России
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n1e05434/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="bcu-sssr" ,BCU СССР HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_USSR_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-premiere" ,BCU Premiere HDR
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_Premiere_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-kinozal-prem-1"  ,BCU Premiere 1 HDR
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_Kinozal_Premiere_1_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-kinozal-prem-2" ,BCU Premiere 2 HDR
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_Kinozal_Premiere_2_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-kinozal-prem-3" ,BCU Premiere 3 HDR
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_Kinozal_Premiere_3_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-action" ,BCU Action HDR
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_Action_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-fantastic" ,BCU Fantastic HDR
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_Fantastic_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-comedy"  ,BCU Comedy HDR
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_Comedy_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-filmystic" ,BCU Filmystic HDR
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_FilMystic_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-catastrophe" ,BCU Catastrophe HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_Catastrophe_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-cinema" ,BCU Cinema HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_Cinema_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-cinemaplus" ,BCU Cinema+ HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_Cinema_Plus_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-criminal" ,BCU Criminal HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_Criminal_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-history" ,BCU History HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_History_HD/video.m3u8?token=5uGLTS1oibSIu
-#EXTINF:-1  tvg-id="bcu-cosmo"  ,BCU Cosmo HD
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n1bd83275/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="bcu-romantic" ,BCU Romantic HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_Romantic_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-kinorating" ,BCU Kinorating HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_Kinorating_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-stars" ,BCU Stars HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_Stars_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-vhs" ,BCU VHS HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_VHS_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-russia90s" ,BCU Russia 90s HD
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n30e1bc93/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="bcu-russian" ,BCU Russian HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_Russian_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-ruserial" ,BCU Ruserial HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_RUSERIAL_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-svaty" ,BCU СВАТЫ HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_Svaty_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-marvel" ,BCU Marvel HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_Marvel_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-multserial" ,BCU Мультсериал HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_Multserial_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-kids" ,BCU Kids HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_Kids_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-kids-plus" ,BCU Kids+ HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_Kids_Plus_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-kids-4k" ,BCU Kids 4K
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/11d70f8c/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="bcu-ultra4k" ,BCU Ultra 4K
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCU_Ultra_4K/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="bcu-survival"  ,BCU Survival HD
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n794d8763/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="bcu-trumotion" ,BCU TruMotion HD
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/3dada88d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1  tvg-id="bcu-reality" ,BCU Reality HD
-#EXTGRP: TEST
-http://185.234.59.200:9090/channel/n613379be/index.m3u8?q=406925e0657258d990e0f9948bac4f
-#EXTINF:-1  tvg-id="box-remast-4k" ,BOX Remast 4K
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Remast_4K/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-remast-plus-4k" ,BOX Remast+ 4K
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Remast_Plus_4K/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-premiere-plus-4k" ,BOX Premiere+ 4K HDR
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Premiere_4K/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-cyber" ,BOX Cyber HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Cyber_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-western" ,BOX Western HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Western_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-zombie" ,BOX Zombie HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Zombie_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-ghost" ,BOX Ghost HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Ghost_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-stories" ,BOX Stories HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Stories_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-fantasy" ,BOX Fantasy HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Fantasy_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-serial" ,BOX Serial HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Serial_4K/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-apocalipse" ,BOX Apocalypse HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Apocalypse_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-franchise" ,BOX Franchise HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Franchise_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-hybrid" ,BOX Hybrid HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Hybrid_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-sitcom" ,BOX Sitcom HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Sitcom_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-game" ,BOX Game HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Game_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-spy" ,BOX Spy HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Spy_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-oscar" ,BOX Oscar HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Oscar_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-gangster" ,BOX Gangster HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Gangster_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-anime" ,BOX Anime HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Anime_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-m-serial" ,BOX M.Serial HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_MSerial_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-serial" ,BOX Serial HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Serial_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-travel-premiere" ,BOX Travel Premiere HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Travel_Premiere_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-travel" ,BOX Travel HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Travel_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-docu"  ,BOX Docu. HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BCUMEDIA_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-memory" ,BOX Memory HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Memory_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-auttrend" ,BOX AutoTrend HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Autotrend_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-gurman" ,BOX Gurman HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Gurman_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="no_epg_music" ,BOX RU.RAP HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_RuRap_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-metall" ,BOX Metall HD
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Metall_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-music-4k" ,BOX Music 4K
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Music_4K/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-id="box-relax" ,BOX Relax 4K
-#EXTGRP: TEST
-http://185.234.59.200:8080/BOX_Relax_4K/video.m3u8?token=5uGLTS1oibSIu0
-
-#EXTINF:-1 , SKY HIGH  SKY HIGH Bunny
-#EXTGRP: TEST
-http://185.234.59.200:8080/BUNNYHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Nature
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_NATURE_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Mydoc
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_DOC_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Brain
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKYHIGHBRAINFHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Firezone
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_FIREZONE_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Strike
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_STRIKE_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Brick
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_BRICK_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Dusts
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_DUST_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Jetix
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_JETIX_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH GunRush
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_GUNRUSH_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Fear
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_FEAR_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Bat
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_BAT_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Танос
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_TANOS_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH quants
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_QUANT_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Future
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_FUTURE_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Neon
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_NEON_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Toon
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_TOON_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Nick
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_NICK_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Civil
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_CIVIL_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Boom
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_BOOM_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Teen
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_TEEN_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Junior
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_JUNIOR_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Archive
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_ARCHIVE_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1  tvg-logo="https://i.imgur.com/FabFP5A.png" ,Trace
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_TRACE_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Votum
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_VOTUM_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Case
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_CASE_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH ZIPPY
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_ZIPPY_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Heart
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_HEART_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Joke
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_JOKE_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Medy
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_MEDY_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Romix
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_ROMIX_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Red s
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_RED_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Wizz s
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_WIZZ_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Woonder
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_WOONDER_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Dragon
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_DRAGON_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Space
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_SPACE_4K_HDR/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Horror
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_HORROR_4K_HDR/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Lofi
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_LO_FIHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH Beyond
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_BEYOND_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 , SKY HIGH SKY HIGH Scream
-#EXTGRP: TEST
-http://185.234.59.200:8080/SKY_HIGH_SCREAM_FHD/video.m3u8?token=5uGLTS1oibSIu0
-
-#EXTINF:-1 group-title="TEST",BCU Кинозал Premiere 1 HD
-http://tv.woobl.ru/BCU_Kinozal_Premiere_1_HD/video.m3u8
-#EXTINF:-1 group-title="TEST",BCU Кинозал Premiere 2 HD
-http://tv.woobl.ru/BCU_Kinozal_Premiere_2_HD/video.m3u8
-#EXTINF:-1 group-title="TEST",BCU Кинозал Premiere 3 HD
-http://tv.woobl.ru/BCU_Kinozal_Premiere_3_HD/video.m3u8
-#EXTINF:-1 group-title="TEST",BCU Action HD
-http://tv.woobl.ru/BCU_Action_HD/video.m3u8
-#EXTINF:-1 group-title="TEST",BCU Catastrophe HD
-http://tv.woobl.ru/BCU_Catastrophe_HD/video.m3u8
-#EXTINF:-1 group-title="TEST",BCU Cinema HD
-http://tv.woobl.ru/BCU_Cinema_HD/video.m3u8
-#EXTINF:-1 group-title="TEST",BCU Cinema+ HD
-http://tv.woobl.ru/BCU_Cinema_Plus_HD/video.m3u8
-#EXTINF:-1 group-title="TEST",BCU Criminal HD
-http://tv.woobl.ru/BCU_Criminal_HD/video.m3u8
-#EXTINF:-1 group-title="TEST",BCU Fantastic HD
-http://tv.woobl.ru/BCU_Fantastic_HD/video.m3u8
-#EXTINF:-1 group-title="TEST",BCU Filmystic HD
-http://tv.woobl.ru/BCU_FilMystic_HD/video.m3u8
-#EXTINF:-1 group-title="TEST",BCU History HD
-http://tv.woobl.ru/BCU_History_HD/video.m3u8
-#EXTINF:-1 group-title="TEST",BCU Comedy HD
-http://tv.woobl.ru/BCU_Comedy_HD/video.m3u8
-#EXTINF:-1 group-title="TEST",BCU Romantic HD
-http://tv.woobl.ru/BCU_Romantic_HD/video.m3u8
-#EXTINF:-1 group-title="TEST",BCU Kinorating HD
-http://tv.woobl.ru/BCU_Kinorating_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-id="bcu-marvel",BCU Marvel HD
-http://tv.woobl.ru/BCU_Marvel_HD/video.m3u8
-#EXTINF:-1 group-title="TEST",BCU Premiere HD
-http://tv.woobl.ru/BCU_Premiere_HD/video.m3u8
-#EXTINF:-1 group-title="TEST",BCU Stars HD
-http://tv.woobl.ru/BCU_Stars_HD/video.m3u8
-#EXTINF:-1 group-title="TEST",BCU Reality HD
-#EXTINF:-1 group-title="TEST",BCU Ultra 4K
-http://tv.woobl.ru/BCU_Ultra_4K/video.m3u8
-#EXTINF:-1 group-title="TEST",BCU VHS HD
-http://tv.woobl.ru/BCU_VHS_HD/video.m3u8
-#EXTINF:-1 group-title="TEST",BCU Сваты HD
-http://tv.woobl.ru/BCU_Svaty_HD/video.m3u8
-#EXTINF:-1 group-title="TEST",BCU СССР HD
-http://tv.woobl.ru/BCU_USSR_HD/video.m3u8
-#EXTINF:-1 group-title="TEST",BCU Russian HD
-http://tv.woobl.ru/BCU_Russian_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-id="bcu-ruserial",BCU RUSerial HD
-http://tv.woobl.ru/BCU_RUSERIAL_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BCU Kids HD" tvg-id="bcu-kids",BCU Kids HD
-http://tv.woobl.ru/BCU_Kids_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BCU Kids+ HD" tvg-id="bcu-kids-plus",BCU Kids+ HD
-http://tv.woobl.ru/BCU_Kids_Plus_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-id="bcu-kinozakaz-premiere-4k",BCU Media HD
-http://tv.woobl.ru/BCUMEDIA_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-id="bcu-multserial",BCU Мультсериал HD
-http://tv.woobl.ru/BCU_Multserial_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Franchise HD",BOX Franchise HD
-http://tv.woobl.ru/BOX_Franchise_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Hybrid HD",BOX Hybrid HD
-http://tv.woobl.ru/BOX_Hybrid_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Gangster HD",BOX Gangster HD
-http://tv.woobl.ru/BOX_Gangster_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Anime HD",BOX Anime HD
-http://tv.woobl.ru/BOX_Anime_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Memory HD",BOX Memory HD
-http://tv.woobl.ru/BOX_Memory_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX MSerial HD",BOX M.Serial HD
-http://tv.woobl.ru/BOX_MSerial_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Serial HD",BOX Serial HD
-http://tv.woobl.ru/BOX_Serial_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Music 4K",BOX Music 4K
-http://tv.woobl.ru/BOX_Music_4K/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Relax 4K",BOX Relax 4K
-http://tv.woobl.ru/BOX_Relax_4K/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Spy HD",BOX Spy HD
-http://tv.woobl.ru/BOX_Spy_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Game HD",BOX Game HD
-http://tv.woobl.ru/BOX_Game_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Travel HD",BOX Travel HD
-http://tv.woobl.ru/BOX_Travel_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Western HD",BOX Western HD
-http://tv.woobl.ru/BOX_Western_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Zombie HD",BOX Zombie HD
-http://tv.woobl.ru/BOX_Zombie_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Cyber HD",BOX Cyber HD
-http://tv.woobl.ru/BOX_Cyber_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX BeOnEdge HD Live 1",BOX Be ON Edge 1 Live HD
-http://tv.woobl.ru/BOX_BeOnEdge_HD_Live_1/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX BeOnEdge HD Live 2",BOX Be ON Edge 2 Live HD
-http://tv.woobl.ru/BOX_BeOnEdge_HD_Live_2/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX BeOnEdge HD Live 3",BOX Be ON Edge 3 Live HD
-http://tv.woobl.ru/BOX_BeOnEdge_HD_Live_3/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Docu HD",BOX Docu HD
-http://tv.woobl.ru/BOX_Docu_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX BeOnEdge HD",BOX Be ON Edge HD
-http://tv.woobl.ru/BOX_BeOnEdge_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Ghost HD",BOX Ghost HD
-http://tv.woobl.ru/BOX_Ghost_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Stories HD",BOX Stories HD
-http://tv.woobl.ru/BOX_Stories_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Fantasy HD",BOX Fantasy HD
-http://tv.woobl.ru/BOX_Fantasy_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Premiere 4K",BOX Premiere 4K
-http://woobl.ru/op/Y1hkbGNuUjVkV2wxYW1oNWNtVjNkM05tWjBCbmJXRnBiQzVqYjIwPQ/1738.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Serial 4K",BOX Serial 4K
-http://tv.woobl.ru/BOX_Serial_4K/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Remast 4K",BOX Remast 4K
-http://tv.woobl.ru/BOX_Remast_4K/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Remast Plus 4K",BOX Remast+ 4K
-http://tv.woobl.ru/BOX_Remast_Plus_4K/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX SportCast 1 Live",BOX SportCast Live 1 HD
-http://tv.woobl.ru/BOX_SportCast_1_Live/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX SportCast 2 Live",BOX SportCast Live 2 HD
-http://tv.woobl.ru/BOX_SportCast_2_Live/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX SportCast 3 Live",BOX SportCast Live 3 HD
-http://tv.woobl.ru/BOX_SportCast_3_Live/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX SportCast 4 Live",BOX SportCast Live 4 HD
-http://tv.woobl.ru/BOX_SportCast_4_Live/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX SportCast 5 Live",BOX SportCast Live 5 HD
-http://tv.woobl.ru/BOX_SportCast_5_Live/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX SportCast 6 Live",BOX SportCast Live 6 HD
-http://tv.woobl.ru/BOX_SportCast_6_Live/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX SportCast 7 Live",BOX SportCast Live 7 HD
-http://tv.woobl.ru/BOX_SportCast_7_Live/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX SportCast 8 Live",BOX SportCast Live 8 HD
-http://tv.woobl.ru/BOX_SportCast_8_Live/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX SportCast 9 Live",BOX SportCast Live 9 HD
-http://tv.woobl.ru/BOX_SportCast_9_Live/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX RuRap HD",BOX RU.RAP HD
-http://tv.woobl.ru/BOX_RuRap_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Metall HD",BOX Metall HD
-http://tv.woobl.ru/BOX_Metall_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Sportcast HD",BOX Sportcast HD
-http://tv.woobl.ru/BOX_Sportcast_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Travel Premiere HD",BOX Travel Premiere HD
-http://tv.woobl.ru/BOX_Travel_Premiere_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Gurman HD",BOX Gurman HD
-http://tv.woobl.ru/BOX_Gurman_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Autotrend HD",BOX Autotrend HD
-http://tv.woobl.ru/BOX_Autotrend_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Apocalypse HD",BOX Apocalypse HD
-http://tv.woobl.ru/BOX_Apocalypse_HD/video.m3u8
-#EXTINF:-1 group-title="TEST" tvg-name="BOX Sitcom HD",BOX Sitcom HD
-http://tv.woobl.ru/BOX_Sitcom_HD/video.m3u8
