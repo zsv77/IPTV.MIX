@@ -431,7 +431,15 @@ https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8z
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/paranormal.png" tvg-id="no_epg_cinema",Паранормальный Архив
 http://kinowalk.hopto.org/paranormal404_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/paranormal.png" tvg-id="no_epg_cinema",Киномульт HD
-https://zsv.ucoz.net/Logo3/avatar-1-.jpg
+http://kinowalk.hopto.org/kinomult_hd_live
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/avatar-2-.jpg" tvg-id="no_epg_cinema",Кинотеатр без билетов
+http://kinowalk.hopto.org/x-x-vanes-x-x_live
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/avatar-2-.png" tvg-id="no_epg_cinema",Брaт Белaруский
+http://kinowalk.hopto.org/bratbelarus_live
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/6387.png" tvg-id="no_epg_cinema",Хоттабыч_show
+http://kinowalk.hopto.org/hottabych_live
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/avatar-4-.jpg" tvg-id="no_epg_cinema",KinoБайт-Лучшие фильмы
+http://kinowalk.hopto.org/moviebytes_live
 #EXTINF:0 group-title="КИНОЗАЛЫ"  tvg-logo="https://zsv.ucoz.net/Logo2/VideoArsenal.png" tvg-id="no_epg_cinema",Video Arsenal
 http://kinowalk.hopto.org/videoarsenal_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Kinozal.png" tvg-id="no_epg_cinema",Кинозал
