@@ -402,7 +402,7 @@ http://kinowalk.hopto.org/baragozz_tv_live
 http://kinowalk.hopto.org/miiz90x_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Prodigy_Movie.png" tvg-id="no_epg_cinema" , Prodigy Movie
 http://kinowalk.hopto.org/roman_prodigy_live
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/kasseta.png" tvg-id="no_epg_cinema" ,Кассета
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/kasseta.png" tvg-id="no_epg_cinema" ,Кассета
 http://kinowalk.hopto.org/kasseta_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/pervyj_rjad.png" tvg-id="no_epg_cinema" ,Первый ряд
 http://kinowalk.hopto.org/perviryad_live%20
