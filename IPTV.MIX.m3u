@@ -420,9 +420,9 @@ http://kinowalk.hopto.org/lampotv_live
 http://kinowalk.hopto.org/profeccor_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/KinoBar.png" tvg-id="no_epg_cinema",Кинобар
 rtmp://vkvsd267.okcdn.ru/playback/11865043512184?stkn=p0OaO5TQj0hmPh-enAH6jwik4eAW-hSWqeUavrF42cOWe1NwiqXtzfBm7xzkYNBMGpm9hvJiH37E&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/KinoMix.png" tvg-id="no_epg_cinema",KinoMix
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/KinoMix.png" tvg-id="no_epg_cinema",KinoMix
 http://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/KinoMix.png" tvg-id="no_epg_cinema",CherTV Заруба + KinoMix
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/chertv_zaruba_kinomix.png" tvg-id="no_epg_cinema",CherTV Заруба + KinoMix
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.kOLvChA3aUIE.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/muvitv.png" tvg-id="no_epg_cinema",Муви ТВ
 http://93.84.115.174:10181/muvitv
@@ -430,7 +430,7 @@ http://93.84.115.174:10181/muvitv
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8zEp8CoHlUujIbs_ac3I5g&e=2070281160&scheme=https
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/paranormal.png" tvg-id="no_epg_cinema",Паранормальный Архив
 http://kinowalk.hopto.org/paranormal404_live
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/paranormal.png" tvg-id="no_epg_cinema",Киномульт HD
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/kinomult_hd.png" tvg-id="no_epg_cinema",Киномульт_HD
 http://kinowalk.hopto.org/kinomult_hd_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/avatar-2-.jpg" tvg-id="no_epg_cinema",Кинотеатр без билетов
 http://kinowalk.hopto.org/x-x-vanes-x-x_live
