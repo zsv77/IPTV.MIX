@@ -424,6 +424,8 @@ rtmp://vkvsd267.okcdn.ru/playback/11865043512184?stkn=p0OaO5TQj0hmPh-enAH6jwik4e
 http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/chertv_zaruba_kinomix.png" tvg-id="no_epg_cinema",CherTV Заруба + KinoMix
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.kOLvChA3aUIE.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/NEZABUDKA.png" tvg-id="no_epg_cinema",NEZABUDKA
+http://kinowalk.hopto.org/nezabudka_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/muvitv.png" tvg-id="no_epg_cinema",Муви ТВ
 http://93.84.115.174:10181/muvitv
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/kino-i-zhizn.png" tvg-id="no_epg_cinema",Кино и Жизнь
@@ -452,8 +454,18 @@ https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m
 https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/detectiv.png" tvg-id="no_epg_cinema",Детективы КД
 https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-id="no_epg_cinema",Провинция
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/provincija.png" tvg-id="no_epg_cinema",Провинция
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.rmtRK2FPYHmD.m3u8
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/FRXNKL1N.png" tvg-id="no_epg_cinema",FRXNKL1N
+http://kinowalk.hopto.org/frxnkl1n_live
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/kladovaja_filmov.png" tvg-id="no_epg_cinema",Кладовая Фильмов
+http://kinowalk.hopto.org/skladfilm_live
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/NeoVision_TV.png" tvg-id="no_epg_cinema",NeoVision TV
+http://kinowalk.hopto.org/neovisiontv_live
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/ljuska_vedma.png" tvg-id="no_epg_cinema",Люська Ведьма
+http://kinowalk.hopto.org/lucyvedminaaaa_live
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/MetalAlex.png" tvg-id="no_epg_cinema",MetalAlex
+http://kinowalk.hopto.org/metalalex_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/VKKinoSer.png" tvg-id="no_epg_cinema",VK Кино и Сериалы
 rtmp://vkvsd163.okcdn.ru/playback/12955145284352?stkn=6ch0LLXwWD0t6QW_q7NmQy3fxPoTdQt7CB_dXr_LEFueWUH8_kDzjDtZ9KMbMuhVr1UElvIN76k&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Kinolampa.png" tvg-id="no_epg_cinema",Kinolampa FHD
