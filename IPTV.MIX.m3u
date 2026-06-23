@@ -382,6 +382,8 @@ http://kinowalk.hopto.org/mychennal12345_live
 http://kinowalk.hopto.org/ambergate_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Milash.png" tvg-id="no_epg_cinema" ,МилаШ
 http://kinowalk.hopto.org/milah_live
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/vb_vsjo_v_odnom.png" tvg-id="no_epg_cinema" ,VB Всё в одном
+rtmp://vkvsd211.okcdn.ru/playback/10851904072503?stkn=vuFWuALgx71Me_ImIyokT79ubnoxRPa5tX13N_kAoYvrXqqzlbVswhiDCtHEigaPYfKql22Cb_Ze&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/dom_z.png" tvg-id="no_epg_cinema" ,ДОМ Z
 http://kinowalk.hopto.org/raznoekino_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/kino05.png" tvg-id="no_epg_cinema" ,КИНО05
@@ -404,6 +406,10 @@ http://kinowalk.hopto.org/miiz90x_live
 http://kinowalk.hopto.org/roman_prodigy_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/kasseta.png" tvg-id="no_epg_cinema" ,Кассета
 http://kinowalk.hopto.org/kasseta_live
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/LifeZ.png"tvg-id="no_epg_cinema" ,LifeZ
+http://kinowalk.hopto.org/zhekos_live
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Jon_Ricci.png"tvg-id="no_epg_cinema" ,Jon Ricci
+http://kinowalk.hopto.org/jonricci_live
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/pervyj_rjad.png" tvg-id="no_epg_cinema" ,Первый ряд
 http://kinowalk.hopto.org/perviryad_live%20
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/tokha_strim.png"tvg-id="no_epg_cinema" ,Тоха Стрим
