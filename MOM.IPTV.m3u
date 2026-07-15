@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/304.png" tvg-name="Домашний" ,Домашний 
+https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/401.png",Русский роман
+http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="https://epg.iptvx.one/picons/sapfir.png" tvg-name="Сапфир" ,Сапфир 
+http://46.32.176.50/foxlife/index.m3u8
