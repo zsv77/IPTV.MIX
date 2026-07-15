@@ -22,7 +22,7 @@ https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ",ТНТ HD
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=JTwJq1Qt3nhrVHiVIUvzgA&e=2069285049&scheme=https
-#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ",ТНТ HD
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ (+4)",ТНТ HD (+4)
 https://bl.rutube.ru/livestream/f02b63bc8f0ed4dba04bbfce4a1119c5/index.m3u8?s=Ksmj0r7a74fBupCV1zhgxQ&e=2066519751&scheme=https
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/353.png" tvg-name="ТНТ",ТНТ (Смоленск)
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
@@ -139,8 +139,6 @@ https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 https://simf.1tvcrimea.ru/simferopol24.m3u8
 #EXTINF:0 group-title="НОВОСТИ" tvg-logo="https://epg.iptvx.one/picons/legendarny24.png",Легендарный 24
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
-#EXTINF:-1 group-title="НОВОСТИ" tvg-logo="https://epg.iptvx.one/picons/ewpatorya24.png", Евпатория 24
-http://195.26.83.96:7029/play/a009
 #EXTINF:0 group-title="НОВОСТИ"  tvg-logo="http://epg.one/img2/743.png" tvg-name="РБК HD",РБК HD
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:0  group-title="НОВОСТИ" tvg-logo="https://zsv.ucoz.net/Logo2/OSN.png",Общественная служба новостей
@@ -693,8 +691,14 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,BRIDGE
 http://tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/4373.png" ,BRIDGE CLASSIC
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/4373.png" ,BRIDGE Classic
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ"  ,BRIDGE Шлягер
+http://193.25.8.59:8000/mtv
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ"  ,BRIDGE Hits
+http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ"  ,BRIDGE Русский Хит
+http://193.25.8.59:8000/rusong
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/ChdTV.png" tvg-id="NO EPG музыка" ,CHD-TV RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/ChdTV.png" tvg-id="NO EPG музыка" ,CHD-TV Rock HD
