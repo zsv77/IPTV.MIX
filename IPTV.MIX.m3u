@@ -171,12 +171,12 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b516000
 
 
 
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" aspect-ratio=16:9 tvg-logo="http://epg.one/img2/125.png",Viju TV1000 Action
-http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/125.png", viju TV1000 Action
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/8880.png" ,Viasat Kino Comedy HD
 http://ukr2.ukrainske.tv/493/video.m3u8
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://ru.epg.one/img2/2229.png",Viasat Epic Drama
+http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/2493.png",КИНОУЖАС
 http://kinowalk.hopto.org/kinouzhas_live
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/644.png",КИНОМИКС
@@ -189,28 +189,21 @@ https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/68/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" , Amedia Hit
 http://stream.mcquack.net/162/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" , ЕВРОКИНО
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/352.png",Еврокино
 http://stream.mcquack.net/385/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Cineman_HD_AM.png",Cineman HD AM
-http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/2754.png",Cinema HD
-http://176.96.241.40/Cinema/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/2754.png",Cinema
-http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/352.png",Еврокино
 http://vod.tuva.ru/eurokino/index.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Cineman_HD_AM.png",Cineman HD AM
+http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/2754.png",Cinema
+http://catchup.videoline.ru/cinema/playlist.m3u8
+
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/518.png",НСТ
 http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/1037.png",КИНО ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/2402.png",РЕТРО
 http://176.118.197.101/Retro/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/11469.png",Патриот
-http://185.46.48.18:80/asvtv/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/11469.png",Патриот
-http://catchup.videoline.ru/asvtv/index.m3u8
-#EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://ru.epg.one/img2/834.png",Дом кино
-http://176.96.241.40/DomKino/index.m3u8
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/401.png",Русский роман
 http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" , Русский бестселлер
@@ -231,24 +224,8 @@ https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" , Мосфильм. Золотая коллекция
 http://31.222.235.15/mosfilm/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/9002.png",Советская Киноклассика
-https://tinyurl.com/45x3xrpm/chid276/mpegts
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo/kinosezon2.png",Киносезон
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/kino24.png",Kino 24
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/pro100.png",Pro100
-https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://ru.epg.one/img2/2229.png",Epic Drama
-http://195.189.60.253/118/index.m3u8
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Детское кино Int.
-https://v2.catcast.tv/content/38720/index.m3u8
-
-
-
-
-
-
 
 
 
