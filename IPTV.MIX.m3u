@@ -173,6 +173,10 @@ https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 
+#EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/1003.png" tvg-id=" Пятница! Int.", Пятница! Int.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://158.101.222.193:88/georgia_play.php?id=friday
+
 #EXTINF:0 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/2288.png" ,Суббота! HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://stream.mcquack.net/269/index.m3u8
@@ -248,6 +252,14 @@ http://178.124.179.122:8080/KVN-TV/index.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" ,Сарафан
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://stream.mcquack.net/81/index.m3u8
+
+#EXTINF:0 group-title="ЭФИРНЫЕ" ,Калейдоскоп ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
+
+#EXTINF:0 group-title="ЭФИРНЫЕ" , Перец Int.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://158.101.222.193:88/georgia_play.php?id=perec
 
 #EXTINF:-1 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/614.png" tvg-id="kuxnia-tv"   tvg-rec="7" timeshift="7" ,Кухня ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -375,6 +387,10 @@ http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://stream.mcquack.net/126/index.m3u8
 
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-id="kinoxit"  ,КИНОХИТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://158.101.222.193:88/georgia_play.php?id=kinohit
+
 #EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-id="kinomiks"   tvg-rec="7" timeshift="7",КИНОМИКС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://stream.mcquack.net/133/index.m3u8
@@ -394,6 +410,10 @@ http://stream.mcquack.net/104/index.m3u8
 #EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-id="muzhskoe-kino"   tvg-rec="7" timeshift="7",МУЖСКОЕ КИНО
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://stream.mcquack.net/107/index.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-id="muzhskoe-kino"  ,МУЖСКОЕ КИНО
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 
 #EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-id="kinouzhas"   tvg-rec="7" timeshift="7",КИНОУЖАС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -439,6 +459,14 @@ http://stream.mcquack.net/151/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://stream.mcquack.net/117/index.m3u8
 
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-id="amedia1"  ,Amedia 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://158.101.222.193:88/georgia_play.php?id=amedia
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-id="amedia1"  ,Amedia 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://158.101.222.193:88/georgia_play.php?id=amedia2
+
 #EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-id="amedia-hit"   tvg-rec="7" timeshift="7",Amedia Hit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://stream.mcquack.net/162/index.m3u8
@@ -446,6 +474,10 @@ http://stream.mcquack.net/162/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-rec="7" timeshift="7" ,Amedia Hit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://stream.mcquack.net/162/index.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ"  ,.black
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://158.101.222.193:88/georgia_play.php?id=black
 
 #EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ"   tvg-rec="7" timeshift="7",.black
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -463,7 +495,7 @@ http://stream.mcquack.net/180/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://stream.mcquack.net/237/index.m3u8
 
-#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-id="nashesd"   tvg-rec="7" timeshift="7",Наше
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-id="nashesd"   tvg-rec="7" timeshift="7",Наше HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://stream.mcquack.net/217/index.m3u8
 
@@ -475,7 +507,7 @@ http://stream.mcquack.net/213/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://stream.mcquack.net/75/index.m3u8
 
-#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-id="khit"   tvg-rec="7" timeshift="7",Хит
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-id="khit"   tvg-rec="7" timeshift="7",Хит HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://stream.mcquack.net/363/index.m3u8
 
@@ -531,7 +563,7 @@ http://stream.mcquack.net/421/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://ukr2.ukrainske.tv/493/video.m3u8
 
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://ru.epg.one/img2/2229.png",Viasat Epic Drama
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://ru.epg.one/img2/2229.png",Epic Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://195.189.60.253/118/index.m3u8
 
@@ -615,17 +647,25 @@ https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8z
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://stream.mcquack.net/445/index.m3u8
 
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-id="kinowood"   tvg-rec="7" timeshift="7",Kinowood
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-rec="7" timeshift="7",Kinowood HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://stream.mcquack.net/446/index.m3u8
 
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-id="kinosweet"   tvg-rec="7" timeshift="7",Kinosweet
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-rec="7" timeshift="7",Kinosweet HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://stream.mcquack.net/447/index.m3u8
 
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-rec="7" timeshift="7",Наше любимое кино
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-rec="7" timeshift="7",Наше любимое HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://stream.mcquack.net/456/index.m3u8
+
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Феникс плюс Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
+
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,Индия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://158.101.222.193:88/georgia_play.php?id=zeetv
 
 
 
