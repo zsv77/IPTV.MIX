@@ -78,7 +78,7 @@ https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 
-#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/649.png" tvg-id="ТВЦ" tvg-name="ТВЦ",ТВЦ (Смоленск)
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/649.png" tvg-id="ТВ Центр" ,ТВЦ (Смоленск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 
