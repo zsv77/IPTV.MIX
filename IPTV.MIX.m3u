@@ -359,7 +359,7 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
 
-#EXTINF:0 group-title="НОВОСТИ" tvg-id="Первый информационный", HHQ
+#EXTINF:0 group-title="НОВОСТИ" ,HHQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=oK_3ut_zlDkP3J7p2hPAZA&e=2066519769&scheme=https
 
@@ -367,6 +367,9 @@ https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=oK
 
 
 
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ"  ,BCU Premiere 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://7.team.ga:80/ch782/mono.m3u8?token=alex_hartwich.vnFOyIj8OT2boQVSNO7RIKPudYU25EYBB_eoc5fmsM-56XhLIz88j6sTfpMKotAW
 
 #EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-id="kinokomedia"   tvg-rec="7" timeshift="7",КИНОКОМЕДИЯ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
