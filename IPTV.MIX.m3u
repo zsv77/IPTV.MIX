@@ -690,6 +690,10 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/VBRS.png" ,VB Российские Сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/russerials_live
+
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/kino_tv_vhs.png" ,КІНО TV VHS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
@@ -1601,8 +1605,25 @@ rtmp://vkvsd181.okcdn.ru/playback/9095387753249?stkn=9QYompqh6WaegO7paI2Zrflo1MY
 
 
 
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/VBMTV.png",VB MTV Old Russia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/vovanb_iptv_live
 
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/VBRDH90.png",VB Russian Dance Hits of 90s
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/vbrusdancepops80_live
 
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/VBGH.png",VB Greatest Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/gh_and_randb_live
+
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/VBEH90s.png",VB Eurodance Hits 90s
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/vb_edh90sanddh90s_live
+
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/OldClip.png",OldClip TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/oldclip_live
 
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://ru.epg.one/img2/2379.png",4EVER MUSIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
