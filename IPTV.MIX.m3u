@@ -158,6 +158,14 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONAL/variant.m3u8
 
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/690.png" tvg-id="Продвижение",Продвижение
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=E2RfWrb4j1Vl6Ej5EL6yCA&e=2069285065&scheme=https
+
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/690.png" tvg-id="Продвижение",Продвижение HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=IBzoayhf0EhnnlzfDnDidg&e=2066519813&scheme=https
+
 #EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1598.png" tvg-id="Че!" tvg-name="Че!",Че! (Смоленск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
