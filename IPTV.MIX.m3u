@@ -66,6 +66,14 @@ https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1649.png" tvg-id="ТНТ4",ТНТ4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=ASTxN-Kvwh5VgZzRYvkbcQ&e=2069285049&scheme=https
+
+#EXTINF:0 group-title="ЭФИРНЫЕ" tvg-logo="http://epg.one/img2/1649.png" tvg-id="ТНТ4",ТНТ4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=33h8x0WD4pYRIQ77h5Wg_Q&e=2066519752&scheme=https
+
 #EXTINF:0 group-title="ЭФИРНЫЕ" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/1649.png" tvg-id="ТНТ4",ТНТ4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
@@ -202,7 +210,7 @@ https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 
-#EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/1003.png" tvg-name=" Пятница!", Пятница! Int.
+#EXTINF:-1 group-title="ЭФИРНЫЕ"  tvg-logo="http://epg.one/img2/1003.png" tvg-name=" Пятница! (+4)", Пятница! HD (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://158.101.222.193:88/georgia_play.php?id=friday
 
@@ -273,6 +281,14 @@ https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:0 group-title="ЭФИРНЫЕ" ,Союзный
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
+
+#EXTINF:0 group-title="ЭФИРНЫЕ" ,Союзный
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=W2K7RQTtQkNmwAC_Yc0NsQ&e=2069285057&scheme=https
+
+#EXTINF:0 group-title="ЭФИРНЫЕ" ,Союзный
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=VHiYqSicSMcfMQP30ve9QA&e=2066519782&scheme=https
 
 #EXTINF:0 group-title="ЭФИРНЫЕ" ,КВН ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -1922,7 +1938,13 @@ http://stitch.teletarget.ru/vintera/hochuvseznat/index.m3u8
 
 
 
+#EXTINF:0 group-title="СПОРТИВНЫЕ" tvg-logo="http://epg.one/img2/2051.png" tvg-id="Матч!",Матч! HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=W76dQnw6UUOMTcTX-QSm8A&e=2069285079&scheme=https
 
+#EXTINF:0 group-title="СПОРТИВНЫЕ" tvg-logo="http://epg.one/img2/2051.png" tvg-id="Матч!",Матч! HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=X4W1ipNuOnqSHZIawEq4RA&e=2066519928&scheme=https
 
 #EXTINF:-1 group-title="СПОРТИВНЫЕ" tvg-logo="http://epg.one/img2/2051.png" tvg-id="Матч!" ,Матч! (Смоленск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -1964,7 +1986,13 @@ https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
 
+#EXTINF:0 group-title="СПОРТИВНЫЕ" tvg-logo="http://i124.fastpic.org/big/2024/1112/4b/6fab7d3d94df9003a1b9500a9e43844b.png",Волейбол
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=3-VRJTEZ7wjL3RgR7Rg5xg&e=2069285087&scheme=https
 
+#EXTINF:0 group-title="СПОРТИВНЫЕ" tvg-logo="http://i124.fastpic.org/big/2024/1112/4b/6fab7d3d94df9003a1b9500a9e43844b.png",Волейбол HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=62YA56HThqaPRiNQeIIuFA&e=2066519932&scheme=https
 
 
 
