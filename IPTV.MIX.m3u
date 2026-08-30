@@ -3653,363 +3653,363 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8
 
 
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/146.png" ,ПЕРВЫЙ КАНАЛ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/146.png" ,ПЕРВЫЙ КАНАЛ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a009/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/711.png" ,РОССИЯ 1
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/711.png" ,РОССИЯ 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a014/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/162.png" ,НТВ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/162.png" ,НТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a00e/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/2051.png" ,МАТЧ!
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/2051.png" ,МАТЧ!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a02c/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/187.png" ,РОССИЯ-КУЛЬТУРА
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/187.png" ,РОССИЯ-КУЛЬТУРА
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a016/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/79.png" ,СТС
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/79.png" ,СТС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a00a/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/18.png" ,РЕН ТВ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/18.png" ,РЕН ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a011/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/353.png" ,ТНТ 
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/353.png" ,ТНТ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a00f/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/1003.png" ,ПЯТНИЦА!
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/1003.png" ,ПЯТНИЦА!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a013/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/649.png" ,ТВЦ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/649.png" ,ТВЦ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a003/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/405.png" ,ЗВЕЗДА
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/405.png" ,ЗВЕЗДА
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a00i/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/4661.png" ,ЗВЕЗДА ПЛЮС
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/4661.png" ,ЗВЕЗДА ПЛЮС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a025/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/427.png" ,ПЯТЫЙ КАНАЛ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/427.png" ,ПЯТЫЙ КАНАЛ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a012/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/698.png" ,ТВ3
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/698.png" ,ТВ3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a018/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/1598.png" ,ЧЕ!
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/1598.png" ,ЧЕ!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a00c/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/898.png" ,Ю ТВ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/898.png" ,Ю ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a00h/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/1683.png" ,РОССИЯ 24
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/1683.png" ,РОССИЯ 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a017/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/743.png" ,РБК
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/743.png" ,РБК
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a00l/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/2271.png",ИЗВЕСТИЯ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/2271.png",ИЗВЕСТИЯ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a02o/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img/1037.png",КИНО ТВ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img/1037.png",КИНО ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a02l/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/2078.png",МИР 24
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/2078.png",МИР 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a00u/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/2170.png" ,БЕЛАРУСЬ 24
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/2170.png" ,БЕЛАРУСЬ 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a02n/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/2294.png" ,БЕЛРОС
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/2294.png" ,БЕЛРОС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01n/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/783.png" ,НОСТАЛЬГИЯ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/783.png" ,НОСТАЛЬГИЯ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a00z/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/2447.png" ,ПОБЕДА
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/2447.png" ,ПОБЕДА
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a00b/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/323.png" ,2X2
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/323.png" ,2X2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a005/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/740.png" ,КАРУСЕЛЬ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/740.png" ,КАРУСЕЛЬ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a00x/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/1332.png" ,МУЛЬТ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/1332.png" ,МУЛЬТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a00q/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/2757.png" ,МУЛЬТИЛАНДИЯ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/2757.png" ,МУЛЬТИЛАНДИЯ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a00r/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/284.png" ,МУЛЬТИМУЗЫКА
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/284.png" ,МУЛЬТИМУЗЫКА
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01s/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/9024.png" ,КИНОМУЛЬТ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/9024.png" ,КИНОМУЛЬТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a00k/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/555.png" ,TIJI TV
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/555.png" ,TIJI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a006/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://ru.epg.one/img2/9183.png" ,CARTOON CLASSICS
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://ru.epg.one/img2/9183.png" ,CARTOON CLASSICS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a00p/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/2007.png" ,AMEDIA HIT
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/2007.png" ,AMEDIA HIT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a022/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/304.png" ,ДОМАШНИЙ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/304.png" ,ДОМАШНИЙ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a00d/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/434.png" ,УСАДЬБА
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/434.png" ,УСАДЬБА
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a020/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/614.png" ,КУХНЯ ТВ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/614.png" ,КУХНЯ ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01e/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/1000.png",ОТР
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/1000.png",ОТР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a02k/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/726.png",МИР
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/726.png",МИР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a02i/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/153.png" ,АВТО ПЛЮС
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/153.png" ,АВТО ПЛЮС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01f/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/1038.png",KHL PRIME
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/1038.png",KHL PRIME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a02g/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/2627.png",ДИАЛОГИ О РЫБАЛКЕ HD
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/2627.png",ДИАЛОГИ О РЫБАЛКЕ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a008/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/2430.png",ОРУЖИЕ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/2430.png",ОРУЖИЕ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a02e/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/2419.png" ,ОХОТА И РЫБАЛКА
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/2419.png" ,ОХОТА И РЫБАЛКА
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a02f/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/520.png" ,ДОМАШНИЕ ЖИВОТНЫЕ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/520.png" ,ДОМАШНИЕ ЖИВОТНЫЕ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a021/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/798.png" ,ИНДИЙСКОЕ КИНО
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/798.png" ,ИНДИЙСКОЕ КИНО
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01b/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/821.png" ,КИНОКОМЕДИЯ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/821.png" ,КИНОКОМЕДИЯ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01a/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/12.png" ,РОДНОЕ КИНО
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/12.png" ,РОДНОЕ КИНО
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01d/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/3357.png" ,МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/3357.png" ,МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a00y/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://ru.epg.one/img2/401.png" ,РУССКИЙ РОМАН
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://ru.epg.one/img2/401.png" ,РУССКИЙ РОМАН
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a029/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="https://epg.iptvx.one/picons/star-cinema.png" ,STAR CINEMA
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="https://epg.iptvx.one/picons/star-cinema.png" ,STAR CINEMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a004/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/834.png" ,ДОМ КИНО
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/834.png" ,ДОМ КИНО
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a010/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/2048.png" ,KHL PRIME HD
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/2048.png" ,KHL PRIME HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a02d/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/352.png",ЕВРОКИНО
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/352.png",ЕВРОКИНО
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01o/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/518.png" ,НСТ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/518.png" ,НСТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a015/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/1011.png" ,VIJU+ COMEDY
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/1011.png" ,VIJU+ COMEDY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a026/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/1012.png" ,VIJU+ MEGAHIT
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/1012.png" ,VIJU+ MEGAHIT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a028/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/1013.png" ,VIJU+ PREMIERE
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/1013.png" ,VIJU+ PREMIERE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a001/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/799.png" ,КИНОСЕРИЯ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/799.png" ,КИНОСЕРИЯ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01c/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/987.png" ,КИНОСЕМЬЯ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/987.png" ,КИНОСЕМЬЯ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01h/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/644.png" ,КИНОМИКС
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/644.png" ,КИНОМИКС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01i/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/542.png" ,КИНОХИТ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/542.png" ,КИНОХИТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01g/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/566.png" ,КИНОПРЕМЬЕРА
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/566.png" ,КИНОПРЕМЬЕРА
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a02b/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/267.png" ,VIJU TV1000 РУССКОЕ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/267.png" ,VIJU TV1000 РУССКОЕ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01v/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/16031.png" ,VIJU TV1000 ACTION
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/16031.png" ,VIJU TV1000 ACTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01u/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/127.png" ,VIJU TV1000
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/127.png" ,VIJU TV1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01t/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://ru.epg.one/img2/431.png" ,SHOT TV
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://ru.epg.one/img2/431.png" ,SHOT TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a00t/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/151.png" ,BRIDGE
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/151.png" ,BRIDGE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a007/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/353.png" ,ТНТ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/353.png" ,ТНТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a00w/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/2277.png" ,RU.TV
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/2277.png" ,RU.TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01l/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/681.png" ,EUROPA PLUS TV
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/681.png" ,EUROPA PLUS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a019/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/897.png" ,МУЗ-ТВ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/897.png" ,МУЗ-ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a00j/index.m3u
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://ru.epg.one/img2/66.png" ,УНИКУМ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://ru.epg.one/img2/66.png" ,УНИКУМ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01k/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://ru.epg.one/img2/7903.png" ,КИОН ХИТ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://ru.epg.one/img2/7903.png" ,КИОН ХИТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01j/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="https://epg.iptvx.one/picons/galaxy-tv.png" ,GALAXY TV
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="https://epg.iptvx.one/picons/galaxy-tv.png" ,GALAXY TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01m/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/7632.png" ,TERRA
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/7632.png" ,TERRA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a00v/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://ru.epg.one/img2/2492.png" ,AMEDIA 2
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://ru.epg.one/img2/2492.png" ,AMEDIA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a024/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/765.png" ,VIJU NATURE
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/765.png" ,VIJU NATURE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01y/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/521.png" ,VIJU EXPLORE
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/521.png" ,VIJU EXPLORE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01w/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/277.png" ,VIJU HISTORY
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/277.png" ,VIJU HISTORY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01x/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/1371.png",AMEDIA 1
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/1371.png",AMEDIA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01z/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="https://epg.iptvx.one/picons/doktor.png" ,ДОКТОР
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="https://epg.iptvx.one/picons/doktor.png" ,ДОКТОР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a00s/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/2054.png" ,МАТЧ! БОЕЦ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/2054.png" ,МАТЧ! БОЕЦ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a00g/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/2053.png" ,EXTREME SPORTS
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/2053.png" ,EXTREME SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a023/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/2250.png",МАТЧ! ПРЕМЬЕР
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/2250.png",МАТЧ! ПРЕМЬЕР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/80/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/2044.png" ,МАТЧ! ФУТБОЛ 1
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/2044.png" ,МАТЧ! ФУТБОЛ 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01r/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/1042.png" ,МАТЧ! ФУТБОЛ 2
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/1042.png" ,МАТЧ! ФУТБОЛ 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01q/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/2005.png" ,МАТЧ! ФУТБОЛ 3
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/2005.png" ,МАТЧ! ФУТБОЛ 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a01p/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/1700.png" ,КВН ТВ
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/1700.png" ,КВН ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a027/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/2012.png" ,VIJU+ PLANET
+#EXTINF:-1 group-title="НЕТКОМ ТВ (САФОНОВО)" tvg-logo="http://epg.one/img2/2012.png" ,VIJU+ PLANET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a02a/index.m3u8
 
