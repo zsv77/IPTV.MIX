@@ -1389,67 +1389,67 @@ http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Smotrim.png", Смотрим 100% Детское
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Smotrim.png",СМОТРИМ 100% ДЕТСКОЕ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089.m3u8
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Smotrim.png", Смотрим 100% Классика
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Smotrim.png",СМОТРИМ 100% КЛАССИКА
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338.m3u8
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Smotrim.png", Смотрим 100% Праздник
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Smotrim.png",СМОТРИМ 100% ПРАЗДНИК
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564.m3u8
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Smotrim.png", Смотрим 100% Мужское
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Smotrim.png",СМОТРИМ 100% МУЖСКОЕ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Smotrim.png", Смотрим 100% Факты
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Smotrim.png",СМОТРИМ 100% ФАКТЫ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f.m3u8
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Smotrim.png", Смотрим 100% Любовь
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Smotrim.png",СМОТРИМ 100% ЛЮБОВЬ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248.m3u8
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Detektiv.png", Смотрим Честный детектив
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Detektiv.png",СМОТРИМ ЧЕСТНЫЙ ДЕТЕКТИВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Nevskiy.png" tvg-id="no_epg_cinema",НТВ. Невский
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Nevskiy.png" tvg-id="no_epg_cinema",НТВ. НЕВСКИЙ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/1otdel.png" tvg-id="no_epg_cinema",НТВ. Первый Отдел
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/1otdel.png" tvg-id="no_epg_cinema",НТВ. ПЕРВЫЙ ОТДЕЛ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Pes.png" tvg-id="no_epg_cinema",НТВ. Пес
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Pes.png" tvg-id="no_epg_cinema",НТВ. ПЕС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Skoraya.png" tvg-id="no_epg_cinema",НТВ. Скорая Помощь
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Skoraya.png" tvg-id="no_epg_cinema",НТВ. СКОРАЯ ПОМОЩЬ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Shef.png" tvg-id="no_epg_cinema",НТВ. Шеф
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Shef.png" tvg-id="no_epg_cinema",НТВ. ШЕФ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Balabol.png" tvg-id="no_epg_cinema",НТВ. Балабол
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Balabol.png" tvg-id="no_epg_cinema",НТВ. БАЛАБОЛ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/5minut.png" tvg-id="no_epg_cinema",НТВ. Пять минут тишины
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/5minut.png" tvg-id="no_epg_cinema",НТВ. ПЯТЬ МИНУТ ТИШИНЫ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Sledstvie.png" tvg-id="no_epg_cinema",НТВ. Следствие вели...
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Sledstvie.png" tvg-id="no_epg_cinema",НТВ. СЛЕДСТВИЕ ВЕЛИ...
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/SvoyaIgra.png" tvg-id="no_epg_cinema",НТВ. Своя игра
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/SvoyaIgra.png" tvg-id="no_epg_cinema",НТВ. СВОЯ ИГРА
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
 
@@ -1477,35 +1477,35 @@ https://bl.rutube.ru/livestream/3d049e88a9b8dc64f4654d712e252d2c/index.m3u8?s=Zm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8?version=2
 
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Cartoon_Head_TV1.png" tvg-id="no_epg_mult", Cartoon Head TV 1
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Cartoon_Head_TV1.png" tvg-id="no_epg_mult", CARTOON HEAD TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 rtmp://vkvsd199.okcdn.ru/playback/13508853902259?stkn=sCzWr7_00CelDfuiAhev9Uqe8WKfnXTOzDQ8Lgj6ARgwc6phRiz-pt6i-Yq1NpX8dGGiG28Nd3AA&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Cartoon_Head_TV2.png" tvg-id="no_epg_mult", Cartoon Head TV 2
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Cartoon_Head_TV2.png" tvg-id="no_epg_mult", CARTOON HEAD TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 rtmp://vkvsd60.okcdn.ru/playback/14060848557054?stkn=dPIS_1oqnIEuzshSCF2n-I2rHMWJtuaV8ynjujqQMHN_46y8TxiDA_05tyxY8AemFYcGW7XPvCBu&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Cartoon_Head_TV3.png" tvg-id="no_epg_mult", Cartoon Head TV 3
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Cartoon_Head_TV3.png" tvg-id="no_epg_mult", CARTOON HEAD TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 rtmp://vkvsd273.okcdn.ru/playback/14089189272383?stkn=FierR1aDJ6pcyhqVXA4WKVG_BqWJxBtMjpC3mM3sm9OwX5xhiGISnr92bFW_SHVWflKj1-UnZbEG&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Cartoon_Head_TV4.png" tvg-id="no_epg_mult", Cartoon Head TV 4
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Cartoon_Head_TV4.png" tvg-id="no_epg_mult", CARTOON HEAD TV 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 rtmp://vkvsd278.okcdn.ru/playback/13474169039795?stkn=teYFrlCUVUJIuLZBKQ1ImcQWv_fDnIhMXd5HG4rWpAxwu6JoihJenTZ1DOmwOyyp9gA3ALXtyP7K&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Cartoon_Head_TV5.png" tvg-id="no_epg_mult", Cartoon Head TV 5
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Cartoon_Head_TV5.png" tvg-id="no_epg_mult",CARTOON HEAD TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 rtmp://vkvsd254.okcdn.ru/playback/13579930184561?stkn=ZNzANBd1DgzBAnlORAm2BoUCCTtMVMrjyruaxwiXSoeOvZXk9ciYjkgomnoAjIshsv2j7U6rfJhC&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Cartoon_Head_TV4.png" tvg-id="no_epg_mult", Cartoon Head TV 6
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Cartoon_Head_TV4.png" tvg-id="no_epg_mult", CARTOON HEAD TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 rtmp://vkvsd216.okcdn.ru/playback/14643073526732?stkn=8Z3zoYCi6eAwQHIui4O0TiR_yaQkdAjULmZMEFci0oIV9mntNdEiR7RXE2XOnt6T7KgUysDCWLAZ&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Cartoon_Head_TV4.png" tvg-id="no_epg_mult", Cartoon Head TV 7
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Cartoon_Head_TV4.png" tvg-id="no_epg_mult", CARTOON HEAD TV 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 rtmp://vkvsd244.okcdn.ru/playback/14261855857452?stkn=bd-7IN0MylhlmR7LPl1fHpOLGnPG-eb7wSGWlrGFRNPd7sfZxbM3Xu_5Zo_aqk12XVDSMj3AQief&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Cartoon_Head_TV3.png" tvg-id="no_epg_mult", Cartoon Head TV Полнометражки!
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Cartoon_Head_TV3.png" tvg-id="no_epg_mult", CARTOON HEAD TV ПОЛНОМЕТРАЖКИ!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 rtmp://vkvsd62.okcdn.ru/playback/15605286185795?stkn=0BfhzaS79rBPIuIp3ITDJ69MiJyoRjR4EFbewyaQ3Mgc8XQQP1HrUXEHAegtQLK3Wqxjdr4ma7JT&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
@@ -1517,27 +1517,27 @@ rtmp://vkvsd80.okcdn.ru/playback/9231228939170?stkn=uFv9-KNKZdHPR_25KX-aJxQWzQSc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 rtmp://vkvsd228.okcdn.ru/playback/14810719791920?stkn=zmg8IM7DH34QQsCtWepAuwLP1eEFD8YIVV6Y5ix4GLTbtFZeYbJ9xR04037PyGIZci_ZkLqob-f-&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Play_4_Fun.png" tvg-id="no_epg_mult",Play 4 Fun
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Play_4_Fun.png" tvg-id="no_epg_mult",PLAY 4 FUN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/play4fun_live
 
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/grislytoe.png" tvg-id="no_epg_mult",grislytoe
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/grislytoe.png" tvg-id="no_epg_mult",GRISLYTOE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/grislytoe_live
 
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Kycman.png" tvg-id="no_epg_cinema" ,Kycman
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Kycman.png" tvg-id="no_epg_cinema" ,KYCMAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/kycman_live
 
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo2/SouthPark.png" tvg-id="no_epg_mult",Южный Парк
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo2/SouthPark.png" tvg-id="no_epg_mult",ЮЖНЫЙ ПАРК
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 rtmp://vkvsd8.okcdn.ru/playback/8993430186980?stkn=GGhSqZR-fwCnth4Qgp6V-8FWRYYkNgobKIyP4bDf_-mgfVTkXTdS41qOtuNnVfkvBf_6a3g29ec&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/kigHill.png" tvg-id="no_epg_mult",Царь Горы
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/kigHill.png" tvg-id="no_epg_mult",ЦАРЬ ГОРЫ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 rtmp://vkvsd69.okcdn.ru/playback/11828892871504?stkn=QaxFtWVGIo88g9cyFMIow9iC5J32EiGkXnk_6rKiPnrJEB93tLRBCL31cVjawyYr_Er3tetwVeKz&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/bob2.png" tvg-id="no_epg_mult",Губка Боб
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/bob2.png" tvg-id="no_epg_mult",ГУБКА БОБ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 rtmp://vkvsd45.okcdn.ru/playback/12110904437604?stkn=iq_1pa-sFBs2nuwy1I4DVY1Qt0wCgtleSlq2Gz8-IWZBfZ8Myq_xKU2FvshKwhg34dgQWwPMlBMs&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
@@ -1549,23 +1549,23 @@ rtmp://vkvsd230.okcdn.ru/playback/8134416411520?stkn=2NGXWooIibYkQMyZvKLVJizfC-R
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 rtmp://vkvsd228.okcdn.ru/playback/10137229994917?stkn=uF-qcmEstFzJRTk2k_pZQ1gq2MmP1WidLMkrmdavGcLp34x9bzBxhFHTQgs1Xg12RcMkQlS8LY4&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/AmerDad.png" tvg-id="no_epg_mult",Американский папаша
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/AmerDad.png" tvg-id="no_epg_mult",АМЕРИКАНСКИЙ ПАПАША
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 rtmp://vkvsd231.okcdn.ru/playback/11465359305707?stkn=PIUE3dny2C4QQdgvRp723G_f32wBapMamWluh88g4eznQpqC_odKQvtAaQfbyQGzH5ahLjWN68yQ&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/mult247.png" tvg-id="no_epg_mult" ,Мультфильмы 24 на 7
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/mult247.png" tvg-id="no_epg_mult" ,МУЛЬТФИЛЬМЫ 24 НА 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/mezontrop_live
 
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/mr.bean.png" tvg-id="no_epg_mult",Mr.Bean Cartoon HD
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/mr.bean.png" tvg-id="no_epg_mult",Mr.Bean CARTOON HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=x2-KvlIlDO7JTvW9rPHDVA&e=2066519767&scheme=https
 
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/mr.bean.png" tvg-id="no_epg_mult",Mr.Bean Cartoon
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/mr.bean.png" tvg-id="no_epg_mult",MR.BEAN CARTOON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=dOtjvWnzxfeawsMHtWPrZA&e=2069285055&scheme=https
 
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Big_Bug_Bunny.png" tvg-id="no_epg_mult",Big Bug Bunny
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Big_Bug_Bunny.png" tvg-id="no_epg_mult",BIG BUG BUNNY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://video1.getstreamhosting.com:1936/8006/8006/playlist.m3u8
 
