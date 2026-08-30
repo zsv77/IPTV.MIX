@@ -1461,19 +1461,19 @@ https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
 
 
 
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="http://epg.one/img2/323.png" tvg-id="2x2",2x2
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="http://epg.one/img2/323.png" tvg-id="2x2",2X2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="http://epg.one/img2/323.png" tvg-id="2x2 (+4)",2x2 (+4)
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="http://epg.one/img2/323.png" tvg-id="2x2 (+4)",2X2 (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8?version=2
 
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="http://epg.one/img2/323.png" tvg-id="2x2 (+4)",2x2 HD (+4)
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="http://epg.one/img2/323.png" tvg-id="2x2 (+4)",2X2 HD (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/3d049e88a9b8dc64f4654d712e252d2c/index.m3u8?s=ZmMu7SsiGmnpBtU7Gcu2Jw&e=2066519756&scheme=https
 
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="http://epg.one/img2/323.png" tvg-id="2x2 (+7)",2x2 (+7)
+#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="http://epg.one/img2/323.png" tvg-id="2x2 (+7)",2X2 (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8?version=2
 
@@ -3260,7 +3260,7 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://v4.proofix.ru:80/8tv-europe/index.m3u8
 
-#EXTINF:-1 group-title="РАЗНОЕ" tvg-logo="http://epg.one/img2/9078.png",Конгресс ТВ
+#EXTINF:-1 group-title="РАЗНОЕ" tvg-logo="http://epg.one/img2/9078.png",КОНГРЕСС ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://stitch.teletarget.ru/api/v1/hls/504/135/index.m3u8
 
@@ -3730,7 +3730,7 @@ http://iptv.netcome.ru:8000/play/a00z/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a00b/index.m3u8
 
-#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/323.png" ,2x2
+#EXTINF:-1 group-title="НЕТКОМ ТВ (Сафоново)" tvg-logo="http://epg.one/img2/323.png" ,2X2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://iptv.netcome.ru:8000/play/a005/index.m3u8
 
