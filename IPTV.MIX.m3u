@@ -949,19 +949,19 @@ http://kinowalk.hopto.org/maximum_live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/bossfilm_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/maksim.png" tvg-id="no_epg_cinema" , Maksim Films
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/maksim.png" tvg-id="no_epg_cinema" ,MAKSIM FILMS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/mmaxim0vich_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/vhsforever.png" tvg-id="no_epg_cinema" ,VHS Forever
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/vhsforever.png" tvg-id="no_epg_cinema" ,VHS FOREVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/vhs-forever_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/romeo.png" tvg-id="no_epg_cinema" ,Romeo Video
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/romeo.png" tvg-id="no_epg_cinema" ,ROMEO VIDEO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/romantic_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/ehkvilibrium.png" tvg-id="no_epg_cinema" ,Эквилибриум
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/ehkvilibrium.png" tvg-id="no_epg_cinema" ,ЭКВИЛИБРИУМ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/equilibrium_live
 
@@ -969,59 +969,59 @@ http://kinowalk.hopto.org/equilibrium_live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/cmexye4ku_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/reanimator_vhs.png" tvg-id="no_epg_cinema" ,Реаниматор VHS
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/reanimator_vhs.png" tvg-id="no_epg_cinema" ,РЕАНИМАТОР VHS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/reanimator_vhs_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Serial_Productions.png" tvg-id="no_epg_cinema" ,Serial Productions
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Serial_Productions.png" tvg-id="no_epg_cinema" ,SERIAL PRODUCTIONS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/swat2k_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/sevanz.png" tvg-id="no_epg_cinema" , SеVаNz
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/sevanz.png" tvg-id="no_epg_cinema" ,SЕVАNZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/sevanz_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/modern2.png" tvg-id="no_epg_cinema" , Осторожно Модерн 2
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/modern2.png" tvg-id="no_epg_cinema" ,ОСТОРОЖНО МОДЕРН 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/ostorozhnomodern2_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/SnBo.png" tvg-id="no_epg_cinema" , Snoochies Boochies
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/SnBo.png" tvg-id="no_epg_cinema" ,SNOOCHIES BOOCHIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/sinema_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Epic_Media.png" tvg-id="no_epg_cinema" , Epic Media
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Epic_Media.png" tvg-id="no_epg_cinema" ,EPIC MEDIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 rtmp://vkvsd173.okcdn.ru/playback/14311402711915?stkn=K_hqumA4lgtOZKnuZP3fAn3e8cK0AH1eErnKrpXHUv7ixFcyPDVbm-bX6mZhZ_buE6WcRQ9FaVQ8&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Epic_Media_Love.png" tvg-id="no_epg_cinema" , Epic Media Love
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Epic_Media_Love.png" tvg-id="no_epg_cinema" ,EPIC MEDIA Love
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=O0w-BwhM6MLYtEKXW31qEw&e=2083267933&scheme=https
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Epic_Media_Plus.png" tvg-id="no_epg_cinema" , Epic Media Plus
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Epic_Media_Plus.png" tvg-id="no_epg_cinema" ,EPIC MEDIA PLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=ejq9WptLi-xHQUsbK9tDXg&e=2081697927&scheme=https
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/smotrim_zanovo.png" tvg-id="no_epg_cinema" ,Смотрим заново 
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/smotrim_zanovo.png" tvg-id="no_epg_cinema" ,СМОТРИМ ЗАНОВО 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://lbgo.bozztv.com/07/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/ZumiBox.png" tvg-id="no_epg_cinema" ,   ZumiBox
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/ZumiBox.png" tvg-id="no_epg_cinema" ,ZUMIBOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/zumibox_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/videochan.png" tvg-id="no_epg_cinema" ,Video Channel
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/videochan.png" tvg-id="no_epg_cinema" ,VIDEO CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/video_channel_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/videoserial.png" tvg-id="no_epg_cinema" ,Video Serial
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/videoserial.png" tvg-id="no_epg_cinema" ,VIDEO SERIAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/videoserial_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/mirkino.png" tvg-id="no_epg_cinema" ,Фильмы НОВИНКИ Live
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/mirkino.png" tvg-id="no_epg_cinema" ,ФИЛЬМЫ НОВИНКИ LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/mir.kinoxi_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Aisman.png" tvg-id="no_epg_cinema" ,Aisman
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Aisman.png" tvg-id="no_epg_cinema" ,AISMAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/aisman_live
 
@@ -1029,7 +1029,7 @@ http://kinowalk.hopto.org/aisman_live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/ddator_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/InMuNa.png" tvg-id="no_epg_cinema" ,InMuNa
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/InMuNa.png" tvg-id="no_epg_cinema" ,INMUNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/inmuna_live
 
@@ -1037,15 +1037,15 @@ http://kinowalk.hopto.org/inmuna_live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/films_serials_24_7_live_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/ZubFilm.png" tvg-id="no_epg_cinema" ,Zubrilom Film
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/ZubFilm.png" tvg-id="no_epg_cinema" ,ZUBRILOM FILM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/zubrilomfilm_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/ZubFran.png" tvg-id="no_epg_cinema" ,Zubrilom Franchise
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/ZubFran.png" tvg-id="no_epg_cinema" ,ZUBRILOM FRANCHISE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/zubrilommusic.ru_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/filmomanija.png" tvg-id="no_epg_cinema" ,Фильмомания
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/filmomanija.png" tvg-id="no_epg_cinema" ,ФИЛЬМОМАНИЯ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/filmomania_live
 
@@ -1053,63 +1053,63 @@ http://kinowalk.hopto.org/filmomania_live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/kinopro_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/kinononstop.png" tvg-id="no_epg_cinema" ,КиноНонСтоп
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/kinononstop.png" tvg-id="no_epg_cinema" ,КИНОНОНСТОП
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/nonestopmovie_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/dimitron_film.png" tvg-id="no_epg_cinema" ,Димитрон фильм
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/dimitron_film.png" tvg-id="no_epg_cinema" ,ДИМИТРОН ФИЛЬМ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/dondimitron_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/PrizraK_PlaY.png" tvg-id="no_epg_cinema" ,PrizraK PlaY
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/PrizraK_PlaY.png" tvg-id="no_epg_cinema" ,PRIZRAK PLAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/vampiro1965_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/amigo.png" tvg-id="no_epg_cinema" ,ChowAmigo
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/amigo.png" tvg-id="no_epg_cinema" ,CHOWAMIGO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/chowamigo_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/TopMoment.png" tvg-id="no_epg_cinema" ,TopMoment
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/TopMoment.png" tvg-id="no_epg_cinema" ,TOPMOMENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/topmomentlive_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/KrotFa.png" tvg-id="no_epg_cinema" ,KrotFa
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/KrotFa.png" tvg-id="no_epg_cinema" ,KROTFA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/krotfa_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/PartizaNka.png" tvg-id="no_epg_cinema" ,PartizaNka tv
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/PartizaNka.png" tvg-id="no_epg_cinema" ,PARTIZANKA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/partizanka_tv_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/filmvibes.png" tvg-id="no_epg_cinema" ,FilmVibes
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/filmvibes.png" tvg-id="no_epg_cinema" ,FILMVIBES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/filmvibes_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/HyBteX.png" tvg-id="no_epg_cinema" ,HyBteX
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/HyBteX.png" tvg-id="no_epg_cinema" ,HYBTEX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/hybtex_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/LysOFF.png" tvg-id="no_epg_cinema" ,LysOFF
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/LysOFF.png" tvg-id="no_epg_cinema" ,LYSOFF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/lysoff_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/pikabu.png" tvg-id="no_epg_cinema" ,ПикаБУ!
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/pikabu.png" tvg-id="no_epg_cinema" ,ПИКАБУ!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/pipa39_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/DiTi.png" tvg-id="no_epg_cinema" ,ДиТи
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/DiTi.png" tvg-id="no_epg_cinema" ,ДИТИ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/mychennal12345_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Amber.png" tvg-id="no_epg_cinema" ,Амбергейт
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Amber.png" tvg-id="no_epg_cinema" ,АМБЕРГЕЙТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/ambergate_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Milash.png" tvg-id="no_epg_cinema" ,МилаШ
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Milash.png" tvg-id="no_epg_cinema" ,МИЛАШ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/milah_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/vb_vsjo_v_odnom.png" tvg-id="no_epg_cinema" ,VB Всё в одном
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/vb_vsjo_v_odnom.png" tvg-id="no_epg_cinema" ,VB ВСЁ В ОДНОМ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 rtmp://vkvsd211.okcdn.ru/playback/10851904072503?stkn=vuFWuALgx71Me_ImIyokT79ubnoxRPa5tX13N_kAoYvrXqqzlbVswhiDCtHEigaPYfKql22Cb_Ze&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
@@ -1125,55 +1125,55 @@ http://kinowalk.hopto.org/kino05_live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/boh_music_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/ehra_vhs.png" tvg-id="no_epg_cinema" ,Эра VHS
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/ehra_vhs.png" tvg-id="no_epg_cinema" ,ЭРА VHS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/era_vhs_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/vhskino.png" tvg-id="no_epg_cinema" ,VHS Кино
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/vhskino.png" tvg-id="no_epg_cinema" ,VHS КИНО
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/and7610_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/kinoteka.png" tvg-id="no_epg_cinema" ,Кинотека
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/kinoteka.png" tvg-id="no_epg_cinema" ,КИНОТЕКА
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/kinoteka_full_hd_top_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/akudji.png" tvg-id="no_epg_cinema" ,Akudji
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/akudji.png" tvg-id="no_epg_cinema" ,AKUDJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/akudjitv_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Baragozz_TV.png" tvg-id="no_epg_cinema" ,Baragozz_TV
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Baragozz_TV.png" tvg-id="no_epg_cinema" ,BARAGOZZ_TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/baragozz_tv_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/myiz90.png" tvg-id="no_epg_cinema" ,Мы из 90-х
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/myiz90.png" tvg-id="no_epg_cinema" ,МЫ ИЗ 90-Х
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/miiz90x_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Prodigy_Movie.png" tvg-id="no_epg_cinema" , Prodigy Movie
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Prodigy_Movie.png" tvg-id="no_epg_cinema" ,PRODIGY MOVIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/roman_prodigy_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/kasseta.png" tvg-id="no_epg_cinema" ,Кассета
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/kasseta.png" tvg-id="no_epg_cinema" ,КАССЕТА
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/kasseta_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/LifeZ.png"tvg-id="no_epg_cinema" ,LifeZ
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/LifeZ.png"tvg-id="no_epg_cinema" ,LIFEZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/zhekos_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Jon_Ricci.png"tvg-id="no_epg_cinema" ,Jon Ricci
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Jon_Ricci.png"tvg-id="no_epg_cinema" ,JON RICCI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/jonricci_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/pervyj_rjad.png" tvg-id="no_epg_cinema" ,Первый ряд
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/pervyj_rjad.png" tvg-id="no_epg_cinema" ,ПЕРВЫЙ РЯД
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/perviryad_live%20
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/tokha_strim.png"tvg-id="no_epg_cinema" ,Тоха Стрим
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/tokha_strim.png"tvg-id="no_epg_cinema" ,ТОХА СТРИМ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/toxa_stream_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/tohakino.png"tvg-id="no_epg_cinema" ,Тоха Киноман
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/tohakino.png"tvg-id="no_epg_cinema" ,ТОХА КИНОМАН
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/kinomania_stream_live
 
@@ -1181,43 +1181,43 @@ http://kinowalk.hopto.org/kinomania_stream_live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/4khits_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Alexis_Assa.png"tvg-id="no_epg_cinema" ,Alexis Assa
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Alexis_Assa.png"tvg-id="no_epg_cinema" ,ALEXIS ASSA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/alexisassa_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/filmoskop.png" tvg-id="no_epg_cinema" ,Фильмоскоп
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/filmoskop.png" tvg-id="no_epg_cinema" ,ФИЛЬМОСКОП
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/filmscope_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Horror_TV.png" tvg-id="no_epg_cinema" ,Horror TV
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Horror_TV.png" tvg-id="no_epg_cinema" ,HORROR TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/htv_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/FilmsSerialsEveryDay.png" tvg-id="no_epg_cinema" ,FilmsSerialsEveryDay
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/FilmsSerialsEveryDay.png" tvg-id="no_epg_cinema" ,FILMSSERIALSEVERYDAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/filmsserialseveryday_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/547.jpg" tvg-id="no_epg_cinema" ,1st_witch
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/547.jpg" tvg-id="no_epg_cinema" ,1ST_WITCH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://kinowalk.hopto.org/witch_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/lampo.png" tvg-id="no_epg_cinema" ,lampoTV
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/lampo.png" tvg-id="no_epg_cinema" ,LAMPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/lampotv_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Profeccor..png" tvg-id="no_epg_cinema" ,Profeccor.
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Profeccor..png" tvg-id="no_epg_cinema" ,PROFECCOR.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/profeccor_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/KinoBar.png" tvg-id="no_epg_cinema",Кинобар
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/KinoBar.png" tvg-id="no_epg_cinema",КИНОБАР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 rtmp://vkvsd267.okcdn.ru/playback/11865043512184?stkn=p0OaO5TQj0hmPh-enAH6jwik4eAW-hSWqeUavrF42cOWe1NwiqXtzfBm7xzkYNBMGpm9hvJiH37E&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/KinoMix.png" tvg-id="no_epg_cinema",KinoMix
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/KinoMix.png" tvg-id="no_epg_cinema",KINOMIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/yurich_kinomix_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/chertv_zaruba_kinomix.png" tvg-id="no_epg_cinema",CherTV Заруба + KinoMix
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/chertv_zaruba_kinomix.png" tvg-id="no_epg_cinema",CHERTV ЗАРУБА + KINOMIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.kOLvChA3aUIE.m3u8
 
@@ -1225,35 +1225,35 @@ https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-centra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/nezabudka_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/kinomult_hd.png" tvg-id="no_epg_cinema",Киномульт_HD
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/kinomult_hd.png" tvg-id="no_epg_cinema",КИНОМУЛЬТ_HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/kinomult_hd_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/avatar-2-.jpg" tvg-id="no_epg_cinema",Кинотеатр без билетов
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/avatar-2-.jpg" tvg-id="no_epg_cinema",КИНОТЕАТР БЕЗ БИЛЕТОВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/x-x-vanes-x-x_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/filmy_sssr.png" tvg-id="no_epg_cinema",Фильмы СССР
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/filmy_sssr.png" tvg-id="no_epg_cinema",ФИЛЬМЫ СССР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://fl1003.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/avatar-2-.png" tvg-id="no_epg_cinema",Брaт Белaруский
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/avatar-2-.png" tvg-id="no_epg_cinema",БРAТ БЕЛAРУСКИЙ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/bratbelarus_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/6387.png" tvg-id="no_epg_cinema",Хоттабыч_show
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/6387.png" tvg-id="no_epg_cinema",ХОТТАБЫЧ_SHOW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/hottabych_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/avatar-4-.jpg" tvg-id="no_epg_cinema",KinoБайт-Лучшие фильмы
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/avatar-4-.jpg" tvg-id="no_epg_cinema",KINOБАЙТ-ЛУЧШИЕ ФИЛЬМЫ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/moviebytes_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ"  tvg-logo="https://zsv.ucoz.net/Logo2/VideoArsenal.png" tvg-id="no_epg_cinema",Video Arsenal
+#EXTINF:0 group-title="КИНОЗАЛЫ"  tvg-logo="https://zsv.ucoz.net/Logo2/VideoArsenal.png" tvg-id="no_epg_cinema",VIDEO ARSENAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/videoarsenal_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Kinozal.png" tvg-id="no_epg_cinema",Кинозал
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Kinozal.png" tvg-id="no_epg_cinema",КИНОЗАЛ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://185.57.68.33/237/mpegts
 
@@ -1261,7 +1261,7 @@ http://185.57.68.33/237/mpegts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u8
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/ZOVBlack.png" tvg-id="no_epg_cinema",ЗОВ ТВ Black
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/ZOVBlack.png" tvg-id="no_epg_cinema",ЗОВ ТВ BLACK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m3u8
 
@@ -1269,7 +1269,7 @@ https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/provincija.png" tvg-id="no_epg_cinema",Провинция
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/provincija.png" tvg-id="no_epg_cinema",ПРОВИНЦИЯ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.rmtRK2FPYHmD.m3u8
 
@@ -1277,43 +1277,43 @@ https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-centra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/frxnkl1n_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/kladovaja_filmov.png" tvg-id="no_epg_cinema",Кладовая Фильмов
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/kladovaja_filmov.png" tvg-id="no_epg_cinema",КЛАДОВАЯ ФИЛЬМОВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/skladfilm_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/NeoVision_TV.png" tvg-id="no_epg_cinema",NeoVision TV
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/NeoVision_TV.png" tvg-id="no_epg_cinema",NEOVISION TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/neovisiontv_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/ljuska_vedma.png" tvg-id="no_epg_cinema",Люська Ведьма
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/ljuska_vedma.png" tvg-id="no_epg_cinema",ЛЮСЬКА ВЕДЬМА
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/lucyvedminaaaa_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/MetalAlex.png" tvg-id="no_epg_cinema",MetalAlex
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/MetalAlex.png" tvg-id="no_epg_cinema",METALALEX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/metalalex_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/VKKinoSer.png" tvg-id="no_epg_cinema",VK Кино и Сериалы
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/VKKinoSer.png" tvg-id="no_epg_cinema",VK КИНО И СЕРИАЛЫ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 rtmp://vkvsd163.okcdn.ru/playback/12955145284352?stkn=6ch0LLXwWD0t6QW_q7NmQy3fxPoTdQt7CB_dXr_LEFueWUH8_kDzjDtZ9KMbMuhVr1UElvIN76k&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Kinolampa.png" tvg-id="no_epg_cinema",Kinolampa FHD
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Kinolampa.png" tvg-id="no_epg_cinema",KINOLAMPA FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/kinolampa_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/VideoProkat.png" tvg-id="no_epg_cinema",Video Prokat FHD
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/VideoProkat.png" tvg-id="no_epg_cinema",VIDEO PROKAT FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/video_prokat_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Wihail.png" tvg-id="no_epg_cinema",Wihail FHD
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/Wihail.png" tvg-id="no_epg_cinema",WIHAIL FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/wihail_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Movify_kino.png" tvg-id="no_epg_cinema",Movify Kino
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Movify_kino.png" tvg-id="no_epg_cinema",MOVIFY KINO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Arpinet.png" tvg-id="no_epg_cinema",Arpinet
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Arpinet.png" tvg-id="no_epg_cinema",ARPINET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://timeshift.arpinet.am/237/index.m3u8
 
@@ -1329,39 +1329,39 @@ http://kinowalk.hopto.org/xutmahtv_live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/durkalive_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/kinobajt.jpg" tvg-id="no_epg_cinema",KinoБайт-Лучшие фильмы
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/kinobajt.jpg" tvg-id="no_epg_cinema",KINOБАЙТ-ЛУЧШИЕ фильмы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/moviebytes_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-id="no_epg_cinema" tvg-logo="https://zsv.ucoz.net/kinozhelezo.png",Киножелезо
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-id="no_epg_cinema" tvg-logo="https://zsv.ucoz.net/kinozhelezo.png",КИНОЖЕЛЕЗО
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=09cuASII_HOaxki8OsQxgA&e=2069285053&scheme=https
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-id="no_epg_cinema" tvg-logo="https://zsv.ucoz.net/kinozhelezo.png",Киножелезо HD
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-id="no_epg_cinema" tvg-logo="https://zsv.ucoz.net/kinozhelezo.png",КИНОЖЕЛЕЗО HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=k-NjGhi6zbRbggtmHIUL8Q&e=2065265031&scheme=https
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-id="no_epg_cinema" tvg-logo="https://zsv.ucoz.net/kinozhelezo.png",Киножелезо HD
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-id="no_epg_cinema" tvg-logo="https://zsv.ucoz.net/kinozhelezo.png",КИНОЖЕЛЕЗО HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=k-NjGhi6zbRbggtmHIUL8Q&e=2065265031&scheme=https
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-id="no_epg_cinema" tvg-logo="https://zsv.ucoz.net/kinolaffka.png",Кинолаффка
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-id="no_epg_cinema" tvg-logo="https://zsv.ucoz.net/kinolaffka.png",КИНОЛАФФКА
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=9gx24jro7_w9qatCH3oJFQ&e=2069285053&scheme=https
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-id="no_epg_cinema" tvg-logo="https://zsv.ucoz.net/kinolaffka.png",Кинолаффка HD
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-id="no_epg_cinema" tvg-logo="https://zsv.ucoz.net/kinolaffka.png",КИНОЛАФФКА HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=3-8K19N5xjsPY74KF2TfUg&e=2065265032&scheme=https
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-id="no_epg_cinema" tvg-logo="https://zsv.ucoz.net/kinolaffka.png",Кинолаффка HD
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-id="no_epg_cinema" tvg-logo="https://zsv.ucoz.net/kinolaffka.png",КИНОЛАФФКА HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=EitE3dIQuvlRYwy1O3-YuA&e=2066519766&scheme=https
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/5347.jpg" tvg-id="no_epg_cinema",Фильмы сериалы трансляции
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo3/5347.jpg" tvg-id="no_epg_cinema",ФИЛЬМЫ СЕРИАЛЫ ТРАНСЛЯЦИИ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/dfsfsdg_live
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/iptvplay.png" tvg-id="no_epg_cinema",IPTVPLAY Великая Отечественная HD
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/iptvplay.png" tvg-id="no_epg_cinema",IPTVPLAY ВЕЛИКАЯ ОТЕЧЕСТВЕННАЯ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 
@@ -1373,7 +1373,7 @@ http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
 
-#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/iptvplay.png" tvg-id="no_epg_cinema",IPTVPLAY МультСказки HD
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/Logo2/iptvplay.png" tvg-id="no_epg_cinema",IPTVPLAY МУЛЬТСКАЗКИ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 
@@ -1476,22 +1476,6 @@ https://bl.rutube.ru/livestream/3d049e88a9b8dc64f4654d712e252d2c/index.m3u8?s=Zm
 #EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="http://epg.one/img2/323.png" tvg-id="2x2 (+7)",2x2 (+7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8?version=2
-
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/one.png" tvg-id="no_epg_mult" ,one
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://fl.ralsei.site:8888/one/index.m3u8
-
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/one.png" tvg-id="no_epg_mult" ,one (+2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://fl.ralsei.site:8888/one2/index.m3u8
-
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/one.png" tvg-id="no_epg_mult" ,one (+4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://fl.ralsei.site:8888/one4/index.m3u8
-
-#EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/one.png" tvg-id="no_epg_mult" ,one (+7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://fl.ralsei.site:8888/one7/index.m3u8
 
 #EXTINF:0 group-title="НЕ ДЕТСКИЕ МУЛЬТЫ" tvg-logo="https://zsv.ucoz.net/Logo3/Cartoon_Head_TV1.png" tvg-id="no_epg_mult", Cartoon Head TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
