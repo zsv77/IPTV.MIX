@@ -480,7 +480,7 @@ http://stream.mcquack.net/201/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://stream.mcquack.net/311/index.m3u8
 
-#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-rec="7" timeshift="7",КОМЕДИЙНОЕ (+3)
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-rec="7" timeshift="3",КОМЕДИЙНОЕ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://stream.mcquack.net/74/index.m3u8
 
