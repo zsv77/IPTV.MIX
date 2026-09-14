@@ -2172,151 +2172,285 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,ОККО ФУТБОЛ UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/19430/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,EUROSPORT 1 UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/19432/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,EUROSPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/228/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,EUROSPORT 2 UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/19431/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,EUROSPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/234/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,ОККО СПОРТ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/20138/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,ОККО ПРАЙМ СПОРТ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/20135/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,KHL PRIME HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/9003/index.m3u8
 
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,МАТЧ! ИГРА HD 50 ORIG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/9032/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,МАТЧ! ИГРА HD ORIG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/9034/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,СТАРТ ТРИУМФ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/16034/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,МИР БАСКЕТБОЛА HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/20004/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,EXTREME SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/20028/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,МАТЧ ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/212/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,МАТЧ ТВ FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/2413/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,МАТЧ! ПРЕМЬЕР HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/220/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,МАТЧ! ПРЕМЬЕР FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/2414/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,МАТЧ! ФУТБОЛ 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/222/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,МАТЧ! ФУТБОЛ 1 HD 50 ORIG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/5072/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,МАТЧ! ФУТБОЛ 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/2407/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,МАТЧ! ФУТБОЛ 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/211/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,МАТЧ! ФУТБОЛ 2 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/2420/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,МАТЧ! ФУТБОЛ 2 HD ORIG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/290/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,МАТЧ! ФУТБОЛ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.vivamax.pro/MatchFutbol3/index.m3u8?token=9148c0f6c0f1
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,МАТЧ! ФУТБОЛ 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/206/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,МАТЧ! ФУТБОЛ 3 HD 50 ORIG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/5071/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,МАТЧ! ФУТБОЛ 3 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/2408/index.m3u8
+
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,TRING SPORT 1 HD AL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31563/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,TRING SPORT 2 HD AL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31564/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,TRING SPORT 3 HD AL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31565/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,SPORT 1 HD HU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31568/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,SPORT 2 HD HU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31569/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,NOVA SPORT 3 HD CZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31570/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,NOVA SPORT 4 HD CZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31571/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,CYTAVISION SPORTS 1 GR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31572/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,CYTAVISION SPORTS 2 GR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31573/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,CYTAVISION SPORTS 3 GR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31574/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,CYTAVISION SPORTS 5 GR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31575/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,CYTAVISION SPORTS 6 GR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31576/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,CYTAVISION SPORTS 7 GR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31577/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,COSMOTE SPORT 1 HD GR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31578/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,COSMOTE SPORT 2 HD GR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31579/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,COSMOTE SPORT 3 HD GR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31581/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,COSMOTE SPORT 4 HD GR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31582/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,COSMOTE SPORT 5 HD GR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31583/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,COSMOTE SPORT 6 HD GR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31584/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,COSMOTE SPORT 7 HD GR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31585/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,COSMOTE SPORT 8 HD GR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31586/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,COSMOTE SPORT 9 HD GR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31587/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,COSMOTE SPORT HIGHLIGHTS HD GR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31588/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,SPORT TV+ HD PT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31590/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,CANAL 11 HD PT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31592/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,SPORT EXTRA HD RO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31595/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,LIVERPOOL FC TV UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31596/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA ESPORT HD RS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31597/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA FIGHT HD RS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31598/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA PREMIUM 1 HD RS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31599/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA PREMIUM 2 HD RS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31600/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA PREMIUM 3 HD RS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31601/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA SPORT 1 HD RS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31602/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA SPORT 3 HD RS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31603/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA SPORT 4 HD RS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31605/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA SPORT 5 HD RS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31606/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA SPORT 6 HD RS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31607/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA SPORT 7 HD RS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31608/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA SPORT 8 HD RS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31609/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA SPORT 9 HD RS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31610/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA SPORT 1X2 HD RS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31611/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,SETANTA SPORTS 1 HD KZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/16026/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,SETANTA SPORTS 2 HD KZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/16025/index.m3u8
+
 
 
 
