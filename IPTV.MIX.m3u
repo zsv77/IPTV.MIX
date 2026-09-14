@@ -2171,6 +2171,154 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,ОККО ФУТБОЛ UHD
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/19430/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,EUROSPORT 1 UHD
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/19432/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,EUROSPORT 1 HD
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/228/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,EUROSPORT 2 UHD
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/19431/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,EUROSPORT 2 HD
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/234/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,ОККО СПОРТ HD
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/20138/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,ОККО ПРАЙМ СПОРТ HD
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/20135/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,KHL PRIME HD
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/9003/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,TRING SPORT 1 HD AL
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31563/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,TRING SPORT 2 HD AL
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31564/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,TRING SPORT 3 HD AL
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31565/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,SPORT 1 HD HU
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31568/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,SPORT 2 HD HU
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31569/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,NOVA SPORT 3 HD CZ
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31570/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,NOVA SPORT 4 HD CZ
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31571/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,CYTAVISION SPORTS 1 GR
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31572/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,CYTAVISION SPORTS 2 GR
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31573/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,CYTAVISION SPORTS 3 GR
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31574/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,CYTAVISION SPORTS 5 GR
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31575/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,CYTAVISION SPORTS 6 GR
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31576/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,CYTAVISION SPORTS 7 GR
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31577/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,COSMOTE SPORT 1 HD GR
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31578/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,COSMOTE SPORT 2 HD GR
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31579/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,COSMOTE SPORT 3 HD GR
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31581/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,COSMOTE SPORT 4 HD GR
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31582/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,COSMOTE SPORT 5 HD GR
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31583/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,COSMOTE SPORT 6 HD GR
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31584/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,COSMOTE SPORT 7 HD GR
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31585/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,COSMOTE SPORT 8 HD GR
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31586/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,COSMOTE SPORT 9 HD GR
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31587/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,COSMOTE SPORT HIGHLIGHTS HD GR
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31588/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,SPORT TV+ HD PT
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31590/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,CANAL 11 HD PT
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31592/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,SPORT EXTRA HD RO
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31595/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,LIVERPOOL FC TV UK
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31596/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA ESPORT HD RS
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31597/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA FIGHT HD RS
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31598/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA PREMIUM 1 HD RS
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31599/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA PREMIUM 2 HD RS
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31600/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA PREMIUM 3 HD RS
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31601/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA SPORT 1 HD RS
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31602/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA SPORT 3 HD RS
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31603/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA SPORT 4 HD RS
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31605/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA SPORT 5 HD RS
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31606/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA SPORT 6 HD RS
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31607/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA SPORT 7 HD RS
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31608/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA SPORT 8 HD RS
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31609/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA SPORT 9 HD RS
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31610/index.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,ARENA SPORT 1X2 HD RS
+http://92ab73da.rossteleccom.net/iptv/49PFYMAEQPZEG5/31611/index.m3u8
+
+
 
 
 
