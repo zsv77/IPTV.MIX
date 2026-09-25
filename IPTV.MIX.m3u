@@ -432,6 +432,10 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 group-title="НОВОСТИ И ПОЛИТИКА" ,ДУМА ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://185.23.80.23:8080/DumaTV/index.m3u8
+
 #EXTINF:-1 group-title="НОВОСТИ И ПОЛИТИКА" tvg-logo="https://zsv.ucoz.net/kharkov_z.png",ХАРЬКОВ Z
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://live.kharkov-z.ru/app/potok/playlist.m3u8
@@ -442,6 +446,10 @@ https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
 
 
 
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ"  ,КИНОПРЕМЬЕРА
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
 
 #EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-id="kinokomedia"   tvg-rec="7" timeshift="5",КИНОКОМЕДИЯ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -538,6 +546,10 @@ http://stream.mcquack.net/311/index.m3u8
 #EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-rec="7" timeshift="3",КОМЕДИЙНОЕ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://stream.mcquack.net/74/index.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КОМЕДИЙНОЕ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://str2.iptvhd.ru:8080/Kinopokaz_HD2/index.m3u8
 
 #EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ"  tvg-rec="7" timeshift="7",AMEDIA PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -739,6 +751,10 @@ https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,ИНДИЯ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
+
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/2041.png",НТВ ХИТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
@@ -802,6 +818,10 @@ http://62.32.84.50:18000/play/a0l0/index.m3u8
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/6240.png" ,START WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://str2.iptvhd.ru:8080/START_World_HD/index.m3u8
+
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,ДОРАМА
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
 
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,КИНОМЕНЮ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -1515,6 +1535,21 @@ http://kinowalk.hopto.org/ncd_live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/durkalive_live
 
+#EXTINF:0 group-title="КИНОЗАЛЫ"  ,СИТИ ЭДЕМ - КИНОДЕТЕКТИВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://cityeden.catcast.tv/content/41327/index.m3u8
+
+#EXTINF:0 group-title="КИНОЗАЛЫ"  ,СИТИ ЭДЕМ - КИНОМИСТИКА
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://cityeden.catcast.tv/content/40783/index.m3u8
+
+#EXTINF:0 group-title="КИНОЗАЛЫ" ,СИТИ ЭДЕМ - КИНОФАНТАСТИКА
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://cityeden.catcast.tv/content/45268/index.m3u8
+
+#EXTINF:0 group-title="КИНОЗАЛЫ" ,СИТИ ЭДЕМ - КИНОЭКШЕН
+http://cityeden.catcast.tv/content/41333/index.m3u8
+
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/kinobajt.jpg" tvg-id="no_epg_cinema",KINOБАЙТ-ЛУЧШИЕ фильмы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/moviebytes_live
@@ -1900,6 +1935,10 @@ http://46.8.46.14/Cartoon_Network/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://stream.mcquack.net/144/index.m3u8
 
+#EXTINF:-1 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/2438.png" ,КАПИТАН ФАНТАСТИКА
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://str2.iptvhd.ru:8080/Ginger_HD/index.m3u8
+
 #EXTINF:-1 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/2287.png" ,РАДОСТЬ МОЯ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
@@ -1935,6 +1974,9 @@ http://85.192.10.131/hls/MamonRu/playlist.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ" tvg-logo="http://epg.one/img2/2027.png" ,ПИНГВИН
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://85.192.10.131/hls/pingvinru/playlist.m3u8
+
+
+
 
 
 
@@ -2049,9 +2091,17 @@ http://89.179.247.144/hls/mixm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,BRIDGE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/318/index.m3u8
+
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/4373.png" ,BRIDGE CLASSIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="http://epg.one/img2/4373.png" ,BRIDGE CLASSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/272/index.m3u8
 
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ"  ,BRIDGE ШЛЯГЕР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -2061,9 +2111,21 @@ http://193.25.8.59:8000/mtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ"  ,BRIDGE HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/320/index.m3u8
+
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ"  ,BRIDGE РУССКИЙ ХИТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://193.25.8.59:8000/rusong
+
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ"  ,BRIDGE ФРЭШ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://str2.iptvhd.ru:8080/Bridge_TV_HD/index.m3u8
+
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ"  ,BRIDGE DELUXE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/92/index.m3u8
 
 #EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" tvg-logo="https://zsv.ucoz.net/Logo/ChdTV.png" tvg-id="NO EPG музыка" ,CHD-TV RU ROCK HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -2157,6 +2219,17 @@ http://stream.mcquack.net/153/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://46.32.176.50/muztv/index.m3u8
 
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,MCM TOP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://46.32.176.50/mcmtop/index.m3u8
+
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,MEZZO LIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/276/index.m3u8
+
+#EXTINF:0 group-title="МУЗЫКАЛЬНЫЕ" ,CLASSIC MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/312/index.m3u8
 
 
 
@@ -2301,6 +2374,14 @@ https://fs.uplink.kz/ohota_i_ribalka/mono.m3u8?token=onlinetv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://stream.mcquack.net/155/index.m3u8
 
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" ,ДИКАЯ ОХОТА
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/274/index.m3u8
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" ,ДИКАЯ РЫБАЛКА
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/275/index.m3u8
+
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" ,ПЕРВЫЙ КОСМИЧЕСКИЙ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://str2.iptvhd.ru:8080/Eureka_HD/index.m3u8
@@ -2325,7 +2406,17 @@ http://str2.iptvhd.ru:8080/Muzhskoy/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://stream.mcquack.net/141/index.m3u8
 
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" ,BIG PLANET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
 
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" ,АВТО24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/78/index.m3u8
+
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" ,365 ДНЕЙ ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/70/index.m3u8
 
 
 
@@ -2342,6 +2433,10 @@ https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=W7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=X4W1ipNuOnqSHZIawEq4RA&e=2066519928&scheme=https
 
+#EXTINF:0 group-title="СПОРТИВНЫЕ" tvg-logo="http://epg.one/img2/2051.png" tvg-id="Матч!",МАТЧ! HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://str2.iptvhd.ru:8080/Match_TV_HD/index.m3u8
+
 #EXTINF:-1 group-title="СПОРТИВНЫЕ" tvg-logo="http://epg.one/img2/2051.png" tvg-id="Матч!" ,МАТЧ! (СМОЛЕНСК)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
@@ -2349,6 +2444,10 @@ https://rt-ct-smol-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
 #EXTINF:0 group-title="СПОРТИВНЫЕ" tvg-logo="http://epg.one/img2/2051.png" ,МАТЧ!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+
+#EXTINF:0 group-title="СПОРТИВНЫЕ" ,МАТЧ! ИГРА
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://str2.iptvhd.ru:8080/Match_Igra_HD/index.m3u8
 
 #EXTINF:0 group-title="СПОРТИВНЫЕ" aspect-ratio=16:9 tvg-logo="http://epg.one/img2/2005.png",МАТЧ! ФУТБОЛ 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -3971,6 +4070,10 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 
+#EXTINF:0 group-title="РЕЛИГИЯ" ,ТБВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDI6NDk6MzYgUE0maGFzaF92YWx1ZT12Q1hScElvWmtORUJNNU91R1k1alNnPT0mdmFsaWRtaW51dGVzPTQ4MA==
+
 
 
 
@@ -4026,6 +4129,14 @@ https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
 #EXTINF:-1 group-title="РАЗНОЕ" tvg-logo="http://tvpro-online.ru/images/logo.png",TV PRO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+
+#EXTINF:-1 group-title="РАЗНОЕ" ,FASHION&LIFESTYLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/119/index.m3u8
+
+#EXTINF:-1 group-title="РАЗНОЕ" ,FASHIONTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 
 
 
@@ -8137,3 +8248,12 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 
 #EXTINF:-1 group-title="СМОТРИ FM" tvg-logo="https://zsv.ucoz.net/radio_mir_belarus.png",РАДИО МИР БЕЛАРУСЬ
 https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="СМОТРИ FM" tvg-logo="https://zsv.ucoz.net/radio_sputnik.png",РАДИО СПУТНИК
+https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+
+#EXTINF:-1 group-title="СМОТРИ FM" tvg-logo="https://zsv.ucoz.net/novoe_radio.png",НОВОЕ РАДИО
+http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="СМОТРИ FM" tvg-logo="https://zsv.ucoz.net/radio_krasnodar.png",РАДИО КРАСНОДАР
+http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar2/tvkrasnodarradio/playlist.m3u8
