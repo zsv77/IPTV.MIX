@@ -8126,14 +8126,14 @@ https://s4.ebacdn.net/videos_ssd1/pornhub/680f40a25819a/pornhub_680f40a25819a.mp
 
 
 
-#EXTINF:-1 group-title="СМОТРИ РАДИО" tvg-logo="https://zsv.ucoz.net/radio_rossii.png",РАДИО РОССИИ
+#EXTINF:-1 group-title="СМОТРИ FM" tvg-logo="https://zsv.ucoz.net/radio_rossii.png",РАДИО РОССИИ
 https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 
-#EXTINF:-1 group-title="СМОТРИ РАДИО" tvg-logo="https://zsv.ucoz.net/vesti_fm.png",ВЕСТИ ФМ
+#EXTINF:-1 group-title="СМОТРИ FM" tvg-logo="https://zsv.ucoz.net/vesti_fm.png",ВЕСТИ ФМ
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 
-#EXTINF:-1 group-title="СМОТРИ РАДИО" tvg-logo="https://zsv.ucoz.net/radio_shanson.png",РАДИО ШАНСОН
+#EXTINF:-1 group-title="СМОТРИ FM" tvg-logo="https://zsv.ucoz.net/radio_shanson.png",РАДИО ШАНСОН
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 
-#EXTINF:-1 group-title="СМОТРИ РАДИО" tvg-logo="https://zsv.ucoz.net/radio_mir_belarus.png",РАДИО МИР БЕЛАРУСЬ
+#EXTINF:-1 group-title="СМОТРИ FM" tvg-logo="https://zsv.ucoz.net/radio_mir_belarus.png",РАДИО МИР БЕЛАРУСЬ
 https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
