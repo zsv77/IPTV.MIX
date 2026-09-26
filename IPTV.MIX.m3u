@@ -8275,3 +8275,18 @@ http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="СМОТРИ FM" tvg-logo="https://zsv.ucoz.net/radio_krasnodar.png",РАДИО КРАСНОДАР
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar2/tvkrasnodarradio/playlist.m3u8
+
+#EXTINF:-1 group-title="СМОТРИ FM" tvg-logo="https://zsv.ucoz.net/radio_krym.png",РАДИО КРЫМ
+https://cdn.1tvcrimea.ru/radio.m3u8
+
+#EXTINF:-1 group-title="СМОТРИ FM" tvg-logo="https://zsv.ucoz.net/centr_fm.png",ЦЕНТР FM
+https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="СМОТРИ FM" tvg-logo="https://zsv.ucoz.net/radio_msm.png",РАДИО МСМ
+http://tv.streams.baikal-telecom.net/MCM/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="СМОТРИ FM" tvg-logo="https://zsv.ucoz.net/RADIO_LOVE_FM.png",RADIO LOVE FM
+https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="СМОТРИ FM" tvg-logo="https://zsv.ucoz.net/smotri_radio-orsk.png",СМОТРИ РАДИО (ОРСК)
+https://bl.rutube.ru/livestream/18eda61a347b781dd765b410133ef33a/index.m3u8?s=Lyt4kEikD8cHDamdFGVVQg&e=2069285075&scheme=https
