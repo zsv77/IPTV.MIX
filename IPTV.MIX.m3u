@@ -7888,5 +7888,5 @@ http://tv.streams.baikal-telecom.net/MCM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="СМОТРИ FM" tvg-logo="https://zsv.ucoz.net/RADIO_LOVE_FM.png",RADIO LOVE FM
 https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="СМОТРИ FM" tvg-logo="https://zsv.ucoz.net/smotri_radio-orsk.png",СМОТРИ РАДИО (ОРСК)
+#EXTINF:-1 group-title="СМОТРИ FM" tvg-logo="https://zsv.ucoz.net/smotri_radio-khit-orsk.png",СМОТРИ РАДИО. ХИТ (ОРСК)
 https://bl.rutube.ru/livestream/18eda61a347b781dd765b410133ef33a/index.m3u8?s=Lyt4kEikD8cHDamdFGVVQg&e=2069285075&scheme=https
