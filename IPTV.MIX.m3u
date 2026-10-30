@@ -423,6 +423,114 @@ https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
 
 
 
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FRESH THRILLER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/434/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FRESH ROMANTIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/433/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FRESH ADVENTURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/432/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FRESH HORROR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/431/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FRESH SERIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/430/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FRESH FANTASTIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/429/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FRESH VHS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/428/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FRESH FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/427/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FRESH COMEDY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/426/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FRESH KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/425/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FRESH PREMIERE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/424/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FRESH CINEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/423/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,FRESH RATING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/422/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,CINEMAN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/349/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,CINEMAN PREMIUM HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/470/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,CINEMAN КАТАСТРОФЫ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/471/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,CINEMAN TOP HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/350/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,CINEMAN МЕЛОДРАМА HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/472/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,CINEMAN ACTION HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/351/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,CINEMAN THRILLER HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,CINEMAN MARVEL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/354/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,CINEMAN УЖАСЫ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/355/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,CINEMAN КОМЕДИЯ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/356/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,CINEMAN VHS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/474/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,4EVER DRAMA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/260/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,4EVER THEATER HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/259/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,4EVER CINEMA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://stream.mcquack.net/258/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1  group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/566.png" ,КИНОПРЕМЬЕРА
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
@@ -691,6 +799,10 @@ http://stream.mcquack.net/208/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://stream.mcquack.net/204/index.m3u8
 
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-rec="7" timeshift="7" ,РУССКИЙ ДЕТЕКТИВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
+
 #EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" , САПФИР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://77.232.131.211/Sapfir/manifest.m3u8
@@ -763,9 +875,7 @@ https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
 
-#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,ТЕАТР
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.26.83.96:7005/play/16/index.m3u8
+
 
 
 
