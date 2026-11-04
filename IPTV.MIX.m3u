@@ -909,6 +909,18 @@ https://bl.rutube.ru/livestream/54de765aeea96a73d23a24b4e2cab07d/index.m3u8?s=uh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/1786622e52a6864eb3fd66b83733fef5/index.m3u8?s=myQrAgKiGTDGhOF0qvWI-w&e=2093635375&scheme=https
 
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/DR_COO.jpg" ,DR_COO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/dr_coo_live
+
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/ZOOOM_TV.jpg" ,ZOOOM_TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/zooom_tv_live
+
+#EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/PianoBlack_Play.png" ,PIANOBLACK PLAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/pianoblackplay_live
+
 #EXTINF:0 group-title="КИНОЗАЛЫ" tvg-logo="https://zsv.ucoz.net/kinolenta_live.png" ,КИНОЛЕНТА LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/kinolenta_live
