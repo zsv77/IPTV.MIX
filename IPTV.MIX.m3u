@@ -466,6 +466,22 @@ http://195.64.140.147:10077/77
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
 
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,РУССКИЙ ДЕТЕКТИВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.64.140.147:10077/77
+
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,РУССКИЙ ДЕТЕКТИВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://tv.ttk.mx:9051
+
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,ВРЕМЯ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://fs.uplink.kz/vremya/mono.m3u8?token=onlinetv2
+
+#EXTINF:0 group-title="ФИЛЬМЫ И СЕРИАЛЫ" ,ВРЕМЯ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://195.64.140.147:10166/166
+
 #EXTINF:-1 group-title="ФИЛЬМЫ И СЕРИАЛЫ" tvg-logo="http://epg.one/img2/3357.png" ,МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://195.64.140.147:10078/78
